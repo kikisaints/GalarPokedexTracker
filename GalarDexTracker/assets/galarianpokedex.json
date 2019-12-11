@@ -1,0 +1,3602 @@
+[
+  {
+    "Number": 1,
+    "Pokemon": "Grookey",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 810,
+    "Type": "Grass",
+    "SubType": ""
+  },
+  {
+    "Number": 2,
+    "Pokemon": "Thwackey",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 811,
+    "Type": "Grass",
+    "SubType": ""
+  },
+  {
+    "Number": 3,
+    "Pokemon": "Rillaboom",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 812,
+    "Type": "Grass",
+    "SubType": ""
+  },
+  {
+    "Number": 4,
+    "Pokemon": "Scorbunny",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 813,
+    "Type": "Fire",
+    "SubType": ""
+  },
+  {
+    "Number": 5,
+    "Pokemon": "Raboot",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 814,
+    "Type": "Fire",
+    "SubType": ""
+  },
+  {
+    "Number": 6,
+    "Pokemon": "Cinderace",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 815,
+    "Type": "Fire",
+    "SubType": ""
+  },
+  {
+    "Number": 7,
+    "Pokemon": "Sobble",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 816,
+    "Type": "Water",
+    "SubType": ""
+  },
+  {
+    "Number": 8,
+    "Pokemon": "Drizzile",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 817,
+    "Type": "Water",
+    "SubType": ""
+  },
+  {
+    "Number": 9,
+    "Pokemon": "Inteleon",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 818,
+    "Type": "Water",
+    "SubType": ""
+  },
+  {
+    "Number": 10,
+    "Pokemon": "Blipbug",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 824,
+    "Type": "Bug",
+    "SubType": ""
+  },
+  {
+    "Number": 11,
+    "Pokemon": "Dottler",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 825,
+    "Type": "Bug",
+    "SubType": "Psychic"
+  },
+  {
+    "Number": 12,
+    "Pokemon": "Orbeetle",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 826,
+    "Type": "Bug",
+    "SubType": "Psychic"
+  },
+  {
+    "Number": 13,
+    "Pokemon": "Caterpie",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 10,
+    "Type": "Bug",
+    "SubType": ""
+  },
+  {
+    "Number": 14,
+    "Pokemon": "Metapod",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 11,
+    "Type": "Bug",
+    "SubType": ""
+  },
+  {
+    "Number": 15,
+    "Pokemon": "Butterfree",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 12,
+    "Type": "Bug",
+    "SubType": "Flying"
+  },
+  {
+    "Number": 16,
+    "Pokemon": "Grubbin",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 736,
+    "Type": "Bug",
+    "SubType": ""
+  },
+  {
+    "Number": 17,
+    "Pokemon": "Charjabug",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 737,
+    "Type": "Bug",
+    "SubType": "Electric"
+  },
+  {
+    "Number": 18,
+    "Pokemon": "Vikavolt",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 738,
+    "Type": "Bug",
+    "SubType": "Electric"
+  },
+  {
+    "Number": 19,
+    "Pokemon": "Hoothoot",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 163,
+    "Type": "Normal",
+    "SubType": "Flying"
+  },
+  {
+    "Number": 20,
+    "Pokemon": "Noctowl",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 164,
+    "Type": "Normal",
+    "SubType": "Flying"
+  },
+  {
+    "Number": 21,
+    "Pokemon": "Rookidee",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 821,
+    "Type": "Flying",
+    "SubType": ""
+  },
+  {
+    "Number": 22,
+    "Pokemon": "Corvisquire",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 822,
+    "Type": "Flying",
+    "SubType": ""
+  },
+  {
+    "Number": 23,
+    "Pokemon": "Corviknight",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 823,
+    "Type": "Flying",
+    "SubType": "Steel"
+  },
+  {
+    "Number": 24,
+    "Pokemon": "Skwovet",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 819,
+    "Type": "Normal",
+    "SubType": ""
+  },
+  {
+    "Number": 25,
+    "Pokemon": "Greedunt",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 820,
+    "Type": "Normal",
+    "SubType": ""
+  },
+  {
+    "Number": 26,
+    "Pokemon": "Pidove",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 519,
+    "Type": "Normal",
+    "SubType": "Flying"
+  },
+  {
+    "Number": 27,
+    "Pokemon": "Tranquill",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 520,
+    "Type": "Normal",
+    "SubType": "Flying"
+  },
+  {
+    "Number": 28,
+    "Pokemon": "Unfezant",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 521,
+    "Type": "Normal",
+    "SubType": "Flying"
+  },
+  {
+    "Number": 29,
+    "Pokemon": "Nickit",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 827,
+    "Type": "Dark",
+    "SubType": ""
+  },
+  {
+    "Number": 30,
+    "Pokemon": "Thievul",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 828,
+    "Type": "Dark",
+    "SubType": ""
+  },
+  {
+    "Number": 31,
+    "Pokemon": "Zigzagoon",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 263,
+    "Type": "Dark",
+    "SubType": "Normal"
+  },
+  {
+    "Number": 32,
+    "Pokemon": "Linoone",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 264,
+    "Type": "Dark",
+    "SubType": "Normal"
+  },
+  {
+    "Number": 33,
+    "Pokemon": "Obstagoon",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 862,
+    "Type": "Dark",
+    "SubType": "Normal"
+  },
+  {
+    "Number": 34,
+    "Pokemon": "Wooloo",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 831,
+    "Type": "Normal",
+    "SubType": ""
+  },
+  {
+    "Number": 35,
+    "Pokemon": "Dubwool",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 832,
+    "Type": "Normal",
+    "SubType": ""
+  },
+  {
+    "Number": 36,
+    "Pokemon": "Lotad",
+    "Sword": "",
+    "Shield": "Shield",
+    "NationalDexNumber": 270,
+    "Type": "Water",
+    "SubType": "Grass"
+  },
+  {
+    "Number": 37,
+    "Pokemon": "Lombre",
+    "Sword": "",
+    "Shield": "Shield",
+    "NationalDexNumber": 271,
+    "Type": "Water",
+    "SubType": "Grass"
+  },
+  {
+    "Number": 38,
+    "Pokemon": "Ludicolo",
+    "Sword": "",
+    "Shield": "Shield",
+    "NationalDexNumber": 272,
+    "Type": "Water",
+    "SubType": "Grass"
+  },
+  {
+    "Number": 39,
+    "Pokemon": "Seedot",
+    "Sword": "Yes",
+    "Shield": "",
+    "NationalDexNumber": 273,
+    "Type": "Grass",
+    "SubType": ""
+  },
+  {
+    "Number": 40,
+    "Pokemon": "Nuzleaf",
+    "Sword": "Yes",
+    "Shield": "",
+    "NationalDexNumber": 274,
+    "Type": "Grass",
+    "SubType": "Dark"
+  },
+  {
+    "Number": 41,
+    "Pokemon": "Shiftry",
+    "Sword": "Yes",
+    "Shield": "",
+    "NationalDexNumber": 275,
+    "Type": "Grass",
+    "SubType": "Dark"
+  },
+  {
+    "Number": 42,
+    "Pokemon": "Chewtle",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 833,
+    "Type": "Water",
+    "SubType": ""
+  },
+  {
+    "Number": 43,
+    "Pokemon": "Drednaw",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 834,
+    "Type": "Water",
+    "SubType": "Rock"
+  },
+  {
+    "Number": 44,
+    "Pokemon": "Purrloin",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 509,
+    "Type": "Dark",
+    "SubType": ""
+  },
+  {
+    "Number": 45,
+    "Pokemon": "Liepard",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 510,
+    "Type": "Dark",
+    "SubType": ""
+  },
+  {
+    "Number": 46,
+    "Pokemon": "Yamper",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 835,
+    "Type": "Electric",
+    "SubType": ""
+  },
+  {
+    "Number": 47,
+    "Pokemon": "Boltund",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 836,
+    "Type": "Electric",
+    "SubType": ""
+  },
+  {
+    "Number": 48,
+    "Pokemon": "Bunnelby",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 659,
+    "Type": "Normal",
+    "SubType": ""
+  },
+  {
+    "Number": 49,
+    "Pokemon": "Diggersby",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 660,
+    "Type": "Normal",
+    "SubType": "Ground"
+  },
+  {
+    "Number": 50,
+    "Pokemon": "Minccino",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 572,
+    "Type": "Normal",
+    "SubType": ""
+  },
+  {
+    "Number": 51,
+    "Pokemon": "Cinccino",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 573,
+    "Type": "Normal",
+    "SubType": ""
+  },
+  {
+    "Number": 52,
+    "Pokemon": "Bounsweet",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 761,
+    "Type": "Grass",
+    "SubType": ""
+  },
+  {
+    "Number": 53,
+    "Pokemon": "Steenee",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 762,
+    "Type": "Grass",
+    "SubType": ""
+  },
+  {
+    "Number": 54,
+    "Pokemon": "Tsareena",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 763,
+    "Type": "Grass",
+    "SubType": ""
+  },
+  {
+    "Number": 55,
+    "Pokemon": "Oddish",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 43,
+    "Type": "Grass",
+    "SubType": "Poison"
+  },
+  {
+    "Number": 56,
+    "Pokemon": "Gloom",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 44,
+    "Type": "Grass",
+    "SubType": "Poison"
+  },
+  {
+    "Number": 57,
+    "Pokemon": "Vileplume",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 45,
+    "Type": "Grass",
+    "SubType": "Poison"
+  },
+  {
+    "Number": 58,
+    "Pokemon": "Bellossom",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 182,
+    "Type": "Grass",
+    "SubType": ""
+  },
+  {
+    "Number": 59,
+    "Pokemon": "Budew",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 406,
+    "Type": "Grass",
+    "SubType": "Poison"
+  },
+  {
+    "Number": 60,
+    "Pokemon": "Roselia",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 315,
+    "Type": "Grass",
+    "SubType": "Poison"
+  },
+  {
+    "Number": 61,
+    "Pokemon": "Roserade",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 407,
+    "Type": "Grass",
+    "SubType": "Poison"
+  },
+  {
+    "Number": 62,
+    "Pokemon": "Wingull",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 278,
+    "Type": "Water",
+    "SubType": "Flying"
+  },
+  {
+    "Number": 63,
+    "Pokemon": "Pelipper",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 279,
+    "Type": "Water",
+    "SubType": "Flying"
+  },
+  {
+    "Number": 64,
+    "Pokemon": "Joltik",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 595,
+    "Type": "Bug",
+    "SubType": "Electric"
+  },
+  {
+    "Number": 65,
+    "Pokemon": "Galvantula",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 596,
+    "Type": "Bug",
+    "SubType": "Electric"
+  },
+  {
+    "Number": 66,
+    "Pokemon": "Electrike",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 309,
+    "Type": "Electric",
+    "SubType": ""
+  },
+  {
+    "Number": 67,
+    "Pokemon": "Manectric",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 310,
+    "Type": "Electric",
+    "SubType": ""
+  },
+  {
+    "Number": 68,
+    "Pokemon": "Vulpix",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 37,
+    "Type": "Fire",
+    "SubType": ""
+  },
+  {
+    "Number": 69,
+    "Pokemon": "Ninetales",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 38,
+    "Type": "Fire",
+    "SubType": ""
+  },
+  {
+    "Number": 70,
+    "Pokemon": "Growlithe",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 58,
+    "Type": "Fire",
+    "SubType": ""
+  },
+  {
+    "Number": 71,
+    "Pokemon": "Arcanine",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 59,
+    "Type": "Fire",
+    "SubType": ""
+  },
+  {
+    "Number": 72,
+    "Pokemon": "Vanillite",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 582,
+    "Type": "Ice",
+    "SubType": ""
+  },
+  {
+    "Number": 73,
+    "Pokemon": "Vanillish",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 583,
+    "Type": "Ice",
+    "SubType": ""
+  },
+  {
+    "Number": 74,
+    "Pokemon": "Vanilluxe",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 584,
+    "Type": "Ice",
+    "SubType": ""
+  },
+  {
+    "Number": 75,
+    "Pokemon": "Swinub",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 220,
+    "Type": "Ice",
+    "SubType": "Ground"
+  },
+  {
+    "Number": 76,
+    "Pokemon": "Piloswine",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 221,
+    "Type": "Ice",
+    "SubType": "Ground"
+  },
+  {
+    "Number": 77,
+    "Pokemon": "Mamoswine",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 473,
+    "Type": "Ice",
+    "SubType": "Ground"
+  },
+  {
+    "Number": 78,
+    "Pokemon": "Delibird",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 225,
+    "Type": "Ice",
+    "SubType": "Flying"
+  },
+  {
+    "Number": 79,
+    "Pokemon": "Snorunt",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 361,
+    "Type": "Ice",
+    "SubType": ""
+  },
+  {
+    "Number": 80,
+    "Pokemon": "Glalie",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 362,
+    "Type": "Ice",
+    "SubType": ""
+  },
+  {
+    "Number": 81,
+    "Pokemon": "Froslass",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 478,
+    "Type": "Ice",
+    "SubType": "Ghost"
+  },
+  {
+    "Number": 82,
+    "Pokemon": "Baltoy",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 343,
+    "Type": "Ground",
+    "SubType": "Psychic"
+  },
+  {
+    "Number": 83,
+    "Pokemon": "Claydol",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 344,
+    "Type": "Ground",
+    "SubType": "Psychic"
+  },
+  {
+    "Number": 84,
+    "Pokemon": "Mudbray",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 749,
+    "Type": "Ground",
+    "SubType": ""
+  },
+  {
+    "Number": 85,
+    "Pokemon": "Mudsdale",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 750,
+    "Type": "Ground",
+    "SubType": ""
+  },
+  {
+    "Number": 86,
+    "Pokemon": "Dwebble",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 557,
+    "Type": "Bug",
+    "SubType": "Rock"
+  },
+  {
+    "Number": 87,
+    "Pokemon": "Crustle",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 558,
+    "Type": "Bug",
+    "SubType": "Rock"
+  },
+  {
+    "Number": 88,
+    "Pokemon": "Golett",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 622,
+    "Type": "Ground",
+    "SubType": "Ghost"
+  },
+  {
+    "Number": 89,
+    "Pokemon": "Golurk",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 623,
+    "Type": "Ground",
+    "SubType": "Ghost"
+  },
+  {
+    "Number": 90,
+    "Pokemon": "Munna",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 517,
+    "Type": "Psychic",
+    "SubType": ""
+  },
+  {
+    "Number": 91,
+    "Pokemon": "Musharna",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 518,
+    "Type": "Psychic",
+    "SubType": ""
+  },
+  {
+    "Number": 92,
+    "Pokemon": "Natu",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 177,
+    "Type": "Psychic",
+    "SubType": "Flying"
+  },
+  {
+    "Number": 93,
+    "Pokemon": "Xatu",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 178,
+    "Type": "Psychic",
+    "SubType": "Flying"
+  },
+  {
+    "Number": 94,
+    "Pokemon": "Stufful",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 759,
+    "Type": "Normal",
+    "SubType": "Fighting"
+  },
+  {
+    "Number": 95,
+    "Pokemon": "Bewear",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 760,
+    "Type": "Normal",
+    "SubType": "Fighting"
+  },
+  {
+    "Number": 96,
+    "Pokemon": "Snover",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 459,
+    "Type": "Grass",
+    "SubType": "Ice"
+  },
+  {
+    "Number": 97,
+    "Pokemon": "Abomasnow",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 460,
+    "Type": "Grass",
+    "SubType": "Ice"
+  },
+  {
+    "Number": 98,
+    "Pokemon": "Krabby",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 98,
+    "Type": "Water",
+    "SubType": ""
+  },
+  {
+    "Number": 99,
+    "Pokemon": "Kingler",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 99,
+    "Type": "Water",
+    "SubType": ""
+  },
+  {
+    "Number": 100,
+    "Pokemon": "Wooper",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 194,
+    "Type": "Water",
+    "SubType": "Ground"
+  },
+  {
+    "Number": 101,
+    "Pokemon": "Quagsire",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 195,
+    "Type": "Water",
+    "SubType": "Ground"
+  },
+  {
+    "Number": 102,
+    "Pokemon": "Corphish",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 341,
+    "Type": "Water",
+    "SubType": ""
+  },
+  {
+    "Number": 103,
+    "Pokemon": "Crawdaunt",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 342,
+    "Type": "Water",
+    "SubType": "Dark"
+  },
+  {
+    "Number": 104,
+    "Pokemon": "Nincada",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 290,
+    "Type": "Bug",
+    "SubType": "Ground"
+  },
+  {
+    "Number": 105,
+    "Pokemon": "Ninjask",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 291,
+    "Type": "Bug",
+    "SubType": "Flying"
+  },
+  {
+    "Number": 106,
+    "Pokemon": "Shedinja",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 292,
+    "Type": "Bug",
+    "SubType": "Ghost"
+  },
+  {
+    "Number": 107,
+    "Pokemon": "Tyrogue",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 236,
+    "Type": "Fighting",
+    "SubType": ""
+  },
+  {
+    "Number": 108,
+    "Pokemon": "Hitmonlee",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 106,
+    "Type": "Fighting",
+    "SubType": ""
+  },
+  {
+    "Number": 109,
+    "Pokemon": "Hitmonchan",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 107,
+    "Type": "Fighting",
+    "SubType": ""
+  },
+  {
+    "Number": 110,
+    "Pokemon": "Hitmontop",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 237,
+    "Type": "Fighting",
+    "SubType": ""
+  },
+  {
+    "Number": 111,
+    "Pokemon": "Pancham",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 674,
+    "Type": "Fighting",
+    "SubType": ""
+  },
+  {
+    "Number": 112,
+    "Pokemon": "Pangoro",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 675,
+    "Type": "Fighting",
+    "SubType": "Dark"
+  },
+  {
+    "Number": 113,
+    "Pokemon": "Klink",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 599,
+    "Type": "Steel",
+    "SubType": ""
+  },
+  {
+    "Number": 114,
+    "Pokemon": "Klang",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 600,
+    "Type": "Steel",
+    "SubType": ""
+  },
+  {
+    "Number": 115,
+    "Pokemon": "Klinklang",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 601,
+    "Type": "Steel",
+    "SubType": ""
+  },
+  {
+    "Number": 116,
+    "Pokemon": "Combee",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 415,
+    "Type": "Bug",
+    "SubType": "Flying"
+  },
+  {
+    "Number": 117,
+    "Pokemon": "Vespiquen",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 416,
+    "Type": "Bug",
+    "SubType": "Flying"
+  },
+  {
+    "Number": 118,
+    "Pokemon": "Bronzor",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 436,
+    "Type": "Steel",
+    "SubType": "Psychic"
+  },
+  {
+    "Number": 119,
+    "Pokemon": "Bronzong",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 437,
+    "Type": "Steel",
+    "SubType": "Psychic"
+  },
+  {
+    "Number": 120,
+    "Pokemon": "Ralts",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 280,
+    "Type": "Psychic",
+    "SubType": "Fairy"
+  },
+  {
+    "Number": 121,
+    "Pokemon": "Kirlia",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 281,
+    "Type": "Psychic",
+    "SubType": "Fairy"
+  },
+  {
+    "Number": 122,
+    "Pokemon": "Gardevoir",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 282,
+    "Type": "Psychic",
+    "SubType": "Fairy"
+  },
+  {
+    "Number": 123,
+    "Pokemon": "Gallade",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 475,
+    "Type": "Psychic",
+    "SubType": "Fighting"
+  },
+  {
+    "Number": 124,
+    "Pokemon": "Drifloon",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 425,
+    "Type": "Ghost",
+    "SubType": "Flying"
+  },
+  {
+    "Number": 125,
+    "Pokemon": "Drifblim",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 426,
+    "Type": "Ghost",
+    "SubType": "Flying"
+  },
+  {
+    "Number": 126,
+    "Pokemon": "Gossifleur",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 829,
+    "Type": "Grass",
+    "SubType": ""
+  },
+  {
+    "Number": 127,
+    "Pokemon": "Eldegoss",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 830,
+    "Type": "Grass",
+    "SubType": ""
+  },
+  {
+    "Number": 128,
+    "Pokemon": "Cherubi",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 420,
+    "Type": "Grass",
+    "SubType": ""
+  },
+  {
+    "Number": 129,
+    "Pokemon": "Cherrim",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 421,
+    "Type": "Grass",
+    "SubType": ""
+  },
+  {
+    "Number": 130,
+    "Pokemon": "Stunky",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 434,
+    "Type": "Poison",
+    "SubType": "Dark"
+  },
+  {
+    "Number": 131,
+    "Pokemon": "Skuntank",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 435,
+    "Type": "Poison",
+    "SubType": "Dark"
+  },
+  {
+    "Number": 132,
+    "Pokemon": "Tympole",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 535,
+    "Type": "Water",
+    "SubType": ""
+  },
+  {
+    "Number": 133,
+    "Pokemon": "Palpitoad",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 536,
+    "Type": "Water",
+    "SubType": "Ground"
+  },
+  {
+    "Number": 134,
+    "Pokemon": "Seismitoiad",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 537,
+    "Type": "Water",
+    "SubType": "Ground"
+  },
+  {
+    "Number": 135,
+    "Pokemon": "Duskull",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 355,
+    "Type": "Ghost",
+    "SubType": ""
+  },
+  {
+    "Number": 136,
+    "Pokemon": "Dusclops",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 356,
+    "Type": "Ghost",
+    "SubType": ""
+  },
+  {
+    "Number": 137,
+    "Pokemon": "Dusknoir",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 477,
+    "Type": "Ghost",
+    "SubType": ""
+  },
+  {
+    "Number": 138,
+    "Pokemon": "Machop",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 66,
+    "Type": "Fighting",
+    "SubType": ""
+  },
+  {
+    "Number": 139,
+    "Pokemon": "Machoke",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 67,
+    "Type": "Fighting",
+    "SubType": ""
+  },
+  {
+    "Number": 140,
+    "Pokemon": "Machamp",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 68,
+    "Type": "Fighting",
+    "SubType": ""
+  },
+  {
+    "Number": 141,
+    "Pokemon": "Gastly",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 92,
+    "Type": "Ghost",
+    "SubType": "Poison"
+  },
+  {
+    "Number": 142,
+    "Pokemon": "Haunter",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 93,
+    "Type": "Ghost",
+    "SubType": "Poison"
+  },
+  {
+    "Number": 143,
+    "Pokemon": "Gengar",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 94,
+    "Type": "Ghost",
+    "SubType": "Poison"
+  },
+  {
+    "Number": 144,
+    "Pokemon": "Magikarp",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 129,
+    "Type": "Water",
+    "SubType": ""
+  },
+  {
+    "Number": 145,
+    "Pokemon": "Gyarados",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 130,
+    "Type": "Water",
+    "SubType": "Flying"
+  },
+  {
+    "Number": 146,
+    "Pokemon": "Goldeen",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 118,
+    "Type": "Water",
+    "SubType": ""
+  },
+  {
+    "Number": 147,
+    "Pokemon": "Seaking",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 119,
+    "Type": "Water",
+    "SubType": ""
+  },
+  {
+    "Number": 148,
+    "Pokemon": "Remoraid",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 223,
+    "Type": "Water",
+    "SubType": ""
+  },
+  {
+    "Number": 149,
+    "Pokemon": "Octillery",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 224,
+    "Type": "Water",
+    "SubType": ""
+  },
+  {
+    "Number": 150,
+    "Pokemon": "Shellder",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 90,
+    "Type": "Water",
+    "SubType": ""
+  },
+  {
+    "Number": 151,
+    "Pokemon": "Cloyster",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 91,
+    "Type": "Water",
+    "SubType": "Ice"
+  },
+  {
+    "Number": 152,
+    "Pokemon": "Feebas",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 349,
+    "Type": "Water",
+    "SubType": ""
+  },
+  {
+    "Number": 153,
+    "Pokemon": "Milotic",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 350,
+    "Type": "Water",
+    "SubType": ""
+  },
+  {
+    "Number": 154,
+    "Pokemon": "Basculin",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 550,
+    "Type": "Water",
+    "SubType": ""
+  },
+  {
+    "Number": 155,
+    "Pokemon": "Wishiwashi",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 746,
+    "Type": "Water",
+    "SubType": ""
+  },
+  {
+    "Number": 156,
+    "Pokemon": "Pyukumuku",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 771,
+    "Type": "Water",
+    "SubType": ""
+  },
+  {
+    "Number": 157,
+    "Pokemon": "Trubbish",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 568,
+    "Type": "Poison",
+    "SubType": ""
+  },
+  {
+    "Number": 158,
+    "Pokemon": "Garbodor",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 569,
+    "Type": "Poison",
+    "SubType": ""
+  },
+  {
+    "Number": 159,
+    "Pokemon": "Sizzlipede",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 850,
+    "Type": "Fire",
+    "SubType": "Bug"
+  },
+  {
+    "Number": 160,
+    "Pokemon": "Centiskorch",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 851,
+    "Type": "Fire",
+    "SubType": "Bug"
+  },
+  {
+    "Number": 161,
+    "Pokemon": "Rolycoly",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 837,
+    "Type": "Rock",
+    "SubType": ""
+  },
+  {
+    "Number": 162,
+    "Pokemon": "Carkol",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 838,
+    "Type": "Rock",
+    "SubType": "Fire"
+  },
+  {
+    "Number": 163,
+    "Pokemon": "Coalossal",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 839,
+    "Type": "Rock",
+    "SubType": "Fire"
+  },
+  {
+    "Number": 164,
+    "Pokemon": "Diglett",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 50,
+    "Type": "Ground",
+    "SubType": ""
+  },
+  {
+    "Number": 165,
+    "Pokemon": "Dugtrio",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 51,
+    "Type": "Ground",
+    "SubType": ""
+  },
+  {
+    "Number": 166,
+    "Pokemon": "Drilbur",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 529,
+    "Type": "Ground",
+    "SubType": ""
+  },
+  {
+    "Number": 167,
+    "Pokemon": "Excadrill",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 530,
+    "Type": "Ground",
+    "SubType": "Steel"
+  },
+  {
+    "Number": 168,
+    "Pokemon": "Roggenrola",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 524,
+    "Type": "Rock",
+    "SubType": ""
+  },
+  {
+    "Number": 169,
+    "Pokemon": "Boldore",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 525,
+    "Type": "Rock",
+    "SubType": ""
+  },
+  {
+    "Number": 170,
+    "Pokemon": "Gigalith",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 526,
+    "Type": "Rock",
+    "SubType": ""
+  },
+  {
+    "Number": 171,
+    "Pokemon": "Timburr",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 532,
+    "Type": "Fighting",
+    "SubType": ""
+  },
+  {
+    "Number": 172,
+    "Pokemon": "Gurdurr",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 533,
+    "Type": "Fighting",
+    "SubType": ""
+  },
+  {
+    "Number": 173,
+    "Pokemon": "Conkeldurr",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 534,
+    "Type": "Fighting",
+    "SubType": ""
+  },
+  {
+    "Number": 174,
+    "Pokemon": "Woobat",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 527,
+    "Type": "Psychic",
+    "SubType": "Flying"
+  },
+  {
+    "Number": 175,
+    "Pokemon": "Swoobat",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 528,
+    "Type": "Psychic",
+    "SubType": "Flying"
+  },
+  {
+    "Number": 176,
+    "Pokemon": "Noibat",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 714,
+    "Type": "Flying",
+    "SubType": "Dragon"
+  },
+  {
+    "Number": 177,
+    "Pokemon": "Noivern",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 715,
+    "Type": "Flying",
+    "SubType": "Dragon"
+  },
+  {
+    "Number": 178,
+    "Pokemon": "Onix",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 95,
+    "Type": "Rock",
+    "SubType": "Ground"
+  },
+  {
+    "Number": 179,
+    "Pokemon": "Steelix",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 208,
+    "Type": "Steel",
+    "SubType": "Ground"
+  },
+  {
+    "Number": 180,
+    "Pokemon": "Arrokuda",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 846,
+    "Type": "Water",
+    "SubType": ""
+  },
+  {
+    "Number": 181,
+    "Pokemon": "Barraskewda",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 847,
+    "Type": "Water",
+    "SubType": ""
+  },
+  {
+    "Number": 182,
+    "Pokemon": "Meowth",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 52,
+    "Type": "Steel",
+    "SubType": ""
+  },
+  {
+    "Number": 183,
+    "Pokemon": "Perrserker",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 863,
+    "Type": "Steel",
+    "SubType": ""
+  },
+  {
+    "Number": 184,
+    "Pokemon": "Persian",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 53,
+    "Type": "Normal",
+    "SubType": ""
+  },
+  {
+    "Number": 185,
+    "Pokemon": "Milcery",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 868,
+    "Type": "Fairy",
+    "SubType": ""
+  },
+  {
+    "Number": 186,
+    "Pokemon": "Alcremie",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 869,
+    "Type": "Fairy",
+    "SubType": ""
+  },
+  {
+    "Number": 187,
+    "Pokemon": "Cutiefly",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 742,
+    "Type": "Bug",
+    "SubType": "Fairy"
+  },
+  {
+    "Number": 188,
+    "Pokemon": "Ribombee",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 743,
+    "Type": "Bug",
+    "SubType": "Fairy"
+  },
+  {
+    "Number": 189,
+    "Pokemon": "Ferroseed",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 597,
+    "Type": "Grass",
+    "SubType": "Steel"
+  },
+  {
+    "Number": 190,
+    "Pokemon": "Ferrothorn",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 598,
+    "Type": "Grass",
+    "SubType": "Steel"
+  },
+  {
+    "Number": 191,
+    "Pokemon": "Pumpkaboo",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 710,
+    "Type": "Ghost",
+    "SubType": "Grass"
+  },
+  {
+    "Number": 192,
+    "Pokemon": "Gourgeist",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 711,
+    "Type": "Ghost",
+    "SubType": "Grass"
+  },
+  {
+    "Number": 193,
+    "Pokemon": "Pichu",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 172,
+    "Type": "Electric",
+    "SubType": ""
+  },
+  {
+    "Number": 194,
+    "Pokemon": "Pikachu",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 25,
+    "Type": "Electric",
+    "SubType": ""
+  },
+  {
+    "Number": 195,
+    "Pokemon": "Raichu",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 26,
+    "Type": "Electric",
+    "SubType": ""
+  },
+  {
+    "Number": 196,
+    "Pokemon": "Eevee",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 133,
+    "Type": "Normal",
+    "SubType": ""
+  },
+  {
+    "Number": 197,
+    "Pokemon": "Vaporeon",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 134,
+    "Type": "Water",
+    "SubType": ""
+  },
+  {
+    "Number": 198,
+    "Pokemon": "Jolteon",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 135,
+    "Type": "Electric",
+    "SubType": ""
+  },
+  {
+    "Number": 199,
+    "Pokemon": "Flareon",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 136,
+    "Type": "Fire",
+    "SubType": ""
+  },
+  {
+    "Number": 200,
+    "Pokemon": "Espeon",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 196,
+    "Type": "Psychic",
+    "SubType": ""
+  },
+  {
+    "Number": 201,
+    "Pokemon": "Umbreon",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 197,
+    "Type": "Dark",
+    "SubType": ""
+  },
+  {
+    "Number": 202,
+    "Pokemon": "Leafeon",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 470,
+    "Type": "Grass",
+    "SubType": ""
+  },
+  {
+    "Number": 203,
+    "Pokemon": "Glaceon",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 471,
+    "Type": "Ice",
+    "SubType": ""
+  },
+  {
+    "Number": 204,
+    "Pokemon": "Sylveon",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 700,
+    "Type": "Fairy",
+    "SubType": ""
+  },
+  {
+    "Number": 205,
+    "Pokemon": "Applin",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 840,
+    "Type": "Grass",
+    "SubType": "Poison"
+  },
+  {
+    "Number": 206,
+    "Pokemon": "Flapple",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 841,
+    "Type": "Grass",
+    "SubType": "Poison"
+  },
+  {
+    "Number": 207,
+    "Pokemon": "Appletun",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 842,
+    "Type": "Grass",
+    "SubType": "Poison"
+  },
+  {
+    "Number": 208,
+    "Pokemon": "Espurr",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 677,
+    "Type": "Psychic",
+    "SubType": ""
+  },
+  {
+    "Number": 209,
+    "Pokemon": "Meowstic",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 678,
+    "Type": "Psychic",
+    "SubType": ""
+  },
+  {
+    "Number": 210,
+    "Pokemon": "Swirlix",
+    "Sword": "Sword",
+    "Shield": "",
+    "NationalDexNumber": 684,
+    "Type": "Fairy",
+    "SubType": ""
+  },
+  {
+    "Number": 211,
+    "Pokemon": "Slurpuff",
+    "Sword": "Sword",
+    "Shield": "",
+    "NationalDexNumber": 685,
+    "Type": "Fairy",
+    "SubType": ""
+  },
+  {
+    "Number": 212,
+    "Pokemon": "Spritzee",
+    "Sword": "",
+    "Shield": "Shield",
+    "NationalDexNumber": 682,
+    "Type": "Fairy",
+    "SubType": ""
+  },
+  {
+    "Number": 213,
+    "Pokemon": "Aromatisse",
+    "Sword": "",
+    "Shield": "Shield",
+    "NationalDexNumber": 683,
+    "Type": "Fairy",
+    "SubType": ""
+  },
+  {
+    "Number": 214,
+    "Pokemon": "Dewpider",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 751,
+    "Type": "Water",
+    "SubType": "Bug"
+  },
+  {
+    "Number": 215,
+    "Pokemon": "Araquanid",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 752,
+    "Type": "Water",
+    "SubType": "Bug"
+  },
+  {
+    "Number": 216,
+    "Pokemon": "Wynaut",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 360,
+    "Type": "Psychic",
+    "SubType": ""
+  },
+  {
+    "Number": 217,
+    "Pokemon": "Wobbuffet",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 202,
+    "Type": "Psychic",
+    "SubType": ""
+  },
+  {
+    "Number": 218,
+    "Pokemon": "Farfetch’d",
+    "Sword": "Sword",
+    "Shield": "",
+    "NationalDexNumber": 83,
+    "Type": "Fighting",
+    "SubType": ""
+  },
+  {
+    "Number": 219,
+    "Pokemon": "Sirfetch’d",
+    "Sword": "Sword",
+    "Shield": "",
+    "NationalDexNumber": 865,
+    "Type": "Fighting",
+    "SubType": ""
+  },
+  {
+    "Number": 220,
+    "Pokemon": "Chinchou",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 170,
+    "Type": "Water",
+    "SubType": "Electric"
+  },
+  {
+    "Number": 221,
+    "Pokemon": "Lanturn",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 171,
+    "Type": "Water",
+    "SubType": "Electric"
+  },
+  {
+    "Number": 222,
+    "Pokemon": "Croagunk",
+    "Sword": "",
+    "Shield": "Shield",
+    "NationalDexNumber": 453,
+    "Type": "Poison",
+    "SubType": "Fighting"
+  },
+  {
+    "Number": 223,
+    "Pokemon": "Toxicroak",
+    "Sword": "",
+    "Shield": "Shield",
+    "NationalDexNumber": 454,
+    "Type": "Poison",
+    "SubType": "Fighting"
+  },
+  {
+    "Number": 224,
+    "Pokemon": "Scraggy",
+    "Sword": "Sword",
+    "Shield": "",
+    "NationalDexNumber": 559,
+    "Type": "Dark",
+    "SubType": "Fighting"
+  },
+  {
+    "Number": 225,
+    "Pokemon": "Scrafty",
+    "Sword": "Sword",
+    "Shield": "",
+    "NationalDexNumber": 560,
+    "Type": "Dark",
+    "SubType": "Fighting"
+  },
+  {
+    "Number": 226,
+    "Pokemon": "Stunfisk",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 618,
+    "Type": "Ground",
+    "SubType": "Steel"
+  },
+  {
+    "Number": 227,
+    "Pokemon": "Shuckle",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 213,
+    "Type": "Bug",
+    "SubType": "Rock"
+  },
+  {
+    "Number": 228,
+    "Pokemon": "Barboach",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 339,
+    "Type": "Water",
+    "SubType": "Ground"
+  },
+  {
+    "Number": 229,
+    "Pokemon": "Whiscash",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 340,
+    "Type": "Water",
+    "SubType": "Ground"
+  },
+  {
+    "Number": 230,
+    "Pokemon": "Shellos",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 422,
+    "Type": "Water",
+    "SubType": ""
+  },
+  {
+    "Number": 231,
+    "Pokemon": "Gastrodon",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 423,
+    "Type": "Water",
+    "SubType": "Ground"
+  },
+  {
+    "Number": 232,
+    "Pokemon": "Wimpod",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 767,
+    "Type": "Bug",
+    "SubType": "Water"
+  },
+  {
+    "Number": 233,
+    "Pokemon": "Golisopod",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 768,
+    "Type": "Bug",
+    "SubType": "Water"
+  },
+  {
+    "Number": 234,
+    "Pokemon": "Binacle",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 688,
+    "Type": "Rock",
+    "SubType": "Water"
+  },
+  {
+    "Number": 235,
+    "Pokemon": "Barbaracle",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 689,
+    "Type": "Rock",
+    "SubType": "Water"
+  },
+  {
+    "Number": 236,
+    "Pokemon": "Corsola",
+    "Sword": "",
+    "Shield": "Shield",
+    "NationalDexNumber": 222,
+    "Type": "Ghost",
+    "SubType": ""
+  },
+  {
+    "Number": 237,
+    "Pokemon": "Cursola",
+    "Sword": "",
+    "Shield": "Shield",
+    "NationalDexNumber": 864,
+    "Type": "Ghost",
+    "SubType": ""
+  },
+  {
+    "Number": 238,
+    "Pokemon": "Impidimp",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 859,
+    "Type": "Dark",
+    "SubType": "Fairy"
+  },
+  {
+    "Number": 239,
+    "Pokemon": "Morgrem",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 860,
+    "Type": "Dark",
+    "SubType": "Fairy"
+  },
+  {
+    "Number": 240,
+    "Pokemon": "Grimmsnarl",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 861,
+    "Type": "Dark",
+    "SubType": "Fairy"
+  },
+  {
+    "Number": 241,
+    "Pokemon": "Hatenna",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 856,
+    "Type": "Psychic",
+    "SubType": ""
+  },
+  {
+    "Number": 242,
+    "Pokemon": "Hattrem",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 857,
+    "Type": "Psychic",
+    "SubType": ""
+  },
+  {
+    "Number": 243,
+    "Pokemon": "Hatterene",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 858,
+    "Type": "Psychic",
+    "SubType": ""
+  },
+  {
+    "Number": 244,
+    "Pokemon": "Salandit",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 757,
+    "Type": "Poison",
+    "SubType": "Fire"
+  },
+  {
+    "Number": 245,
+    "Pokemon": "Salazzle",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 758,
+    "Type": "Poison",
+    "SubType": "Fire"
+  },
+  {
+    "Number": 246,
+    "Pokemon": "Pawniard",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 624,
+    "Type": "Dark",
+    "SubType": "Steel"
+  },
+  {
+    "Number": 247,
+    "Pokemon": "Bisharp",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 625,
+    "Type": "Dark",
+    "SubType": "Steel"
+  },
+  {
+    "Number": 248,
+    "Pokemon": "Throh",
+    "Sword": "",
+    "Shield": "Shield",
+    "NationalDexNumber": 538,
+    "Type": "Fighting",
+    "SubType": ""
+  },
+  {
+    "Number": 249,
+    "Pokemon": "Sawk",
+    "Sword": "Sword",
+    "Shield": "",
+    "NationalDexNumber": 539,
+    "Type": "Fighting",
+    "SubType": ""
+  },
+  {
+    "Number": 250,
+    "Pokemon": "Koffing",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 109,
+    "Type": "Poison",
+    "SubType": ""
+  },
+  {
+    "Number": 251,
+    "Pokemon": "Weezing",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 110,
+    "Type": "Poison",
+    "SubType": "Fairy"
+  },
+  {
+    "Number": 252,
+    "Pokemon": "Bonsly",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 438,
+    "Type": "Rock",
+    "SubType": ""
+  },
+  {
+    "Number": 253,
+    "Pokemon": "Sudowoodo",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 185,
+    "Type": "Rock",
+    "SubType": ""
+  },
+  {
+    "Number": 254,
+    "Pokemon": "Cleffa",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 173,
+    "Type": "Fairy",
+    "SubType": ""
+  },
+  {
+    "Number": 255,
+    "Pokemon": "Clefairy",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 35,
+    "Type": "Fairy",
+    "SubType": ""
+  },
+  {
+    "Number": 256,
+    "Pokemon": "Clefable",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 36,
+    "Type": "Fairy",
+    "SubType": ""
+  },
+  {
+    "Number": 257,
+    "Pokemon": "Togepi",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 175,
+    "Type": "Fairy",
+    "SubType": ""
+  },
+  {
+    "Number": 258,
+    "Pokemon": "Togetic",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 176,
+    "Type": "Fairy",
+    "SubType": "Flying"
+  },
+  {
+    "Number": 259,
+    "Pokemon": "Togekiss",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 468,
+    "Type": "Fairy",
+    "SubType": "Flying"
+  },
+  {
+    "Number": 260,
+    "Pokemon": "Munchlax",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 446,
+    "Type": "Normal",
+    "SubType": ""
+  },
+  {
+    "Number": 261,
+    "Pokemon": "Snorlax",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 143,
+    "Type": "Normal",
+    "SubType": ""
+  },
+  {
+    "Number": 262,
+    "Pokemon": "Cottonee",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 546,
+    "Type": "Grass",
+    "SubType": "Fairy"
+  },
+  {
+    "Number": 263,
+    "Pokemon": "Whimsicott",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 547,
+    "Type": "Grass",
+    "SubType": "Fairy"
+  },
+  {
+    "Number": 264,
+    "Pokemon": "Rhyhorn",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 111,
+    "Type": "Ground",
+    "SubType": "Rock"
+  },
+  {
+    "Number": 265,
+    "Pokemon": "Rhydon",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 112,
+    "Type": "Ground",
+    "SubType": "Rock"
+  },
+  {
+    "Number": 266,
+    "Pokemon": "Rhyperior",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 464,
+    "Type": "Ground",
+    "SubType": "Rock"
+  },
+  {
+    "Number": 267,
+    "Pokemon": "Gothita",
+    "Sword": "Sword",
+    "Shield": "",
+    "NationalDexNumber": 574,
+    "Type": "Psychic",
+    "SubType": ""
+  },
+  {
+    "Number": 268,
+    "Pokemon": "Gothorita",
+    "Sword": "Sword",
+    "Shield": "",
+    "NationalDexNumber": 575,
+    "Type": "Psychic",
+    "SubType": ""
+  },
+  {
+    "Number": 269,
+    "Pokemon": "Gothitelle",
+    "Sword": "Sword",
+    "Shield": "",
+    "NationalDexNumber": 576,
+    "Type": "Psychic",
+    "SubType": ""
+  },
+  {
+    "Number": 270,
+    "Pokemon": "Solosis",
+    "Sword": "",
+    "Shield": "Shield",
+    "NationalDexNumber": 577,
+    "Type": "Psychic",
+    "SubType": ""
+  },
+  {
+    "Number": 271,
+    "Pokemon": "Duosion",
+    "Sword": "",
+    "Shield": "Shield",
+    "NationalDexNumber": 578,
+    "Type": "Psychic",
+    "SubType": ""
+  },
+  {
+    "Number": 272,
+    "Pokemon": "Reuniclus",
+    "Sword": "",
+    "Shield": "Shield",
+    "NationalDexNumber": 579,
+    "Type": "Psychic",
+    "SubType": ""
+  },
+  {
+    "Number": 273,
+    "Pokemon": "Karrablast",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 588,
+    "Type": "Bug",
+    "SubType": ""
+  },
+  {
+    "Number": 274,
+    "Pokemon": "Escavalier",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 589,
+    "Type": "Bug",
+    "SubType": "Steel"
+  },
+  {
+    "Number": 275,
+    "Pokemon": "Shelmet",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 616,
+    "Type": "Bug",
+    "SubType": ""
+  },
+  {
+    "Number": 276,
+    "Pokemon": "Accelgor",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 617,
+    "Type": "Bug",
+    "SubType": ""
+  },
+  {
+    "Number": 277,
+    "Pokemon": "Elgyem",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 605,
+    "Type": "Psychic",
+    "SubType": ""
+  },
+  {
+    "Number": 278,
+    "Pokemon": "Beheeyem",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 606,
+    "Type": "Psychic",
+    "SubType": ""
+  },
+  {
+    "Number": 279,
+    "Pokemon": "Cubchoo",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 613,
+    "Type": "Ice",
+    "SubType": ""
+  },
+  {
+    "Number": 280,
+    "Pokemon": "Beartic",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 614,
+    "Type": "Ice",
+    "SubType": ""
+  },
+  {
+    "Number": 281,
+    "Pokemon": "Rufflet",
+    "Sword": "Sword",
+    "Shield": "",
+    "NationalDexNumber": 627,
+    "Type": "Normal",
+    "SubType": "Flying"
+  },
+  {
+    "Number": 282,
+    "Pokemon": "Braviary",
+    "Sword": "Sword",
+    "Shield": "",
+    "NationalDexNumber": 628,
+    "Type": "Normal",
+    "SubType": "Flying"
+  },
+  {
+    "Number": 283,
+    "Pokemon": "Vullaby",
+    "Sword": "",
+    "Shield": "Shield",
+    "NationalDexNumber": 629,
+    "Type": "Dark",
+    "SubType": "Flying"
+  },
+  {
+    "Number": 284,
+    "Pokemon": "Mandibuzz",
+    "Sword": "",
+    "Shield": "Shield",
+    "NationalDexNumber": 630,
+    "Type": "Dark",
+    "SubType": "Flying"
+  },
+  {
+    "Number": 285,
+    "Pokemon": "Skorupi",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 451,
+    "Type": "Poison",
+    "SubType": "Bug"
+  },
+  {
+    "Number": 286,
+    "Pokemon": "Drapion",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 452,
+    "Type": "Poison",
+    "SubType": "Dark"
+  },
+  {
+    "Number": 287,
+    "Pokemon": "Litwick",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 607,
+    "Type": "Ghost",
+    "SubType": "Fire"
+  },
+  {
+    "Number": 288,
+    "Pokemon": "Lampent",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 608,
+    "Type": "Ghost",
+    "SubType": "Fire"
+  },
+  {
+    "Number": 289,
+    "Pokemon": "Chandelure",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 609,
+    "Type": "Ghost",
+    "SubType": "Fire"
+  },
+  {
+    "Number": 290,
+    "Pokemon": "Inkay",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 686,
+    "Type": "Dark",
+    "SubType": "Psychic"
+  },
+  {
+    "Number": 291,
+    "Pokemon": "Malamar",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 687,
+    "Type": "Dark",
+    "SubType": "Psychic"
+  },
+  {
+    "Number": 292,
+    "Pokemon": "Sneasel",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 215,
+    "Type": "Dark",
+    "SubType": "Ice"
+  },
+  {
+    "Number": 293,
+    "Pokemon": "Weavile",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 461,
+    "Type": "Dark",
+    "SubType": "Ice"
+  },
+  {
+    "Number": 294,
+    "Pokemon": "Sableye",
+    "Sword": "",
+    "Shield": "Shield",
+    "NationalDexNumber": 302,
+    "Type": "Dark",
+    "SubType": "Ghost"
+  },
+  {
+    "Number": 295,
+    "Pokemon": "Mawile",
+    "Sword": "Sword",
+    "Shield": "",
+    "NationalDexNumber": 303,
+    "Type": "Steel",
+    "SubType": "Fairy"
+  },
+  {
+    "Number": 296,
+    "Pokemon": "Maractus",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 556,
+    "Type": "Grass",
+    "SubType": ""
+  },
+  {
+    "Number": 297,
+    "Pokemon": "Sigilyph",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 561,
+    "Type": "Psychic",
+    "SubType": "Flying"
+  },
+  {
+    "Number": 298,
+    "Pokemon": "Riolu",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 447,
+    "Type": "Fighting",
+    "SubType": ""
+  },
+  {
+    "Number": 299,
+    "Pokemon": "Lucario",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 448,
+    "Type": "Fighting",
+    "SubType": "Steel"
+  },
+  {
+    "Number": 300,
+    "Pokemon": "Torkoal",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 324,
+    "Type": "Fire",
+    "SubType": ""
+  },
+  {
+    "Number": 301,
+    "Pokemon": "Mimikyu",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 778,
+    "Type": "Ghost",
+    "SubType": "Fairy"
+  },
+  {
+    "Number": 302,
+    "Pokemon": "Cufant",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 878,
+    "Type": "Steel",
+    "SubType": ""
+  },
+  {
+    "Number": 303,
+    "Pokemon": "Copperajah",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 879,
+    "Type": "Steel",
+    "SubType": ""
+  },
+  {
+    "Number": 304,
+    "Pokemon": "Qwilfish",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 211,
+    "Type": "Water",
+    "SubType": "Poison"
+  },
+  {
+    "Number": 305,
+    "Pokemon": "Frillish",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 592,
+    "Type": "Water",
+    "SubType": "Ghost"
+  },
+  {
+    "Number": 306,
+    "Pokemon": "Jellicent",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 593,
+    "Type": "Water",
+    "SubType": "Ghost"
+  },
+  {
+    "Number": 307,
+    "Pokemon": "Mareanie",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 747,
+    "Type": "Poison",
+    "SubType": "Water"
+  },
+  {
+    "Number": 308,
+    "Pokemon": "Toxapex",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 748,
+    "Type": "Poison",
+    "SubType": "Water"
+  },
+  {
+    "Number": 309,
+    "Pokemon": "Cramorant",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 845,
+    "Type": "Flying",
+    "SubType": "Water"
+  },
+  {
+    "Number": 310,
+    "Pokemon": "Toxel",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 848,
+    "Type": "Electric",
+    "SubType": "Poison"
+  },
+  {
+    "Number": 311,
+    "Pokemon": "Toxtricity",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 849,
+    "Type": "Electric",
+    "SubType": "Poison"
+  },
+  {
+    "Number": 312,
+    "Pokemon": "Silicobra",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 843,
+    "Type": "Ground",
+    "SubType": ""
+  },
+  {
+    "Number": 313,
+    "Pokemon": "Sandaconda",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 844,
+    "Type": "Ground",
+    "SubType": ""
+  },
+  {
+    "Number": 314,
+    "Pokemon": "Hippopotas",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 449,
+    "Type": "Ground",
+    "SubType": ""
+  },
+  {
+    "Number": 315,
+    "Pokemon": "Hippowdon",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 450,
+    "Type": "Ground",
+    "SubType": ""
+  },
+  {
+    "Number": 316,
+    "Pokemon": "Durant",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 632,
+    "Type": "Bug",
+    "SubType": "Steel"
+  },
+  {
+    "Number": 317,
+    "Pokemon": "Heatmor",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 631,
+    "Type": "Fire",
+    "SubType": ""
+  },
+  {
+    "Number": 318,
+    "Pokemon": "Helioptile",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 694,
+    "Type": "Electric",
+    "SubType": "Normal"
+  },
+  {
+    "Number": 319,
+    "Pokemon": "Heliolisk",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 695,
+    "Type": "Electric",
+    "SubType": "Normal"
+  },
+  {
+    "Number": 320,
+    "Pokemon": "Hawlucha",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 701,
+    "Type": "Fighting",
+    "SubType": "Flying"
+  },
+  {
+    "Number": 321,
+    "Pokemon": "Trapinch",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 328,
+    "Type": "Ground",
+    "SubType": ""
+  },
+  {
+    "Number": 322,
+    "Pokemon": "Vibrava",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 329,
+    "Type": "Ground",
+    "SubType": "Dragon"
+  },
+  {
+    "Number": 323,
+    "Pokemon": "Flygon",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 330,
+    "Type": "Ground",
+    "SubType": "Dragon"
+  },
+  {
+    "Number": 324,
+    "Pokemon": "Axew",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 610,
+    "Type": "Dragon",
+    "SubType": ""
+  },
+  {
+    "Number": 325,
+    "Pokemon": "Fraxure",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 611,
+    "Type": "Dragon",
+    "SubType": ""
+  },
+  {
+    "Number": 326,
+    "Pokemon": "Haxorus",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 612,
+    "Type": "Dragon",
+    "SubType": ""
+  },
+  {
+    "Number": 327,
+    "Pokemon": "Yamask",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 562,
+    "Type": "Ground",
+    "SubType": "Ghost"
+  },
+  {
+    "Number": 328,
+    "Pokemon": "Runerigus",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 867,
+    "Type": "Ground",
+    "SubType": "Ghost"
+  },
+  {
+    "Number": 329,
+    "Pokemon": "Cofagrigus",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 563,
+    "Type": "Ghost",
+    "SubType": ""
+  },
+  {
+    "Number": 330,
+    "Pokemon": "Honedge",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 679,
+    "Type": "Steel",
+    "SubType": "Ghost"
+  },
+  {
+    "Number": 331,
+    "Pokemon": "Doublade",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 680,
+    "Type": "Steel",
+    "SubType": "Ghost"
+  },
+  {
+    "Number": 332,
+    "Pokemon": "Aegislash",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 681,
+    "Type": "Steel",
+    "SubType": "Ghost"
+  },
+  {
+    "Number": 333,
+    "Pokemon": "Ponyta",
+    "Sword": "",
+    "Shield": "Shield",
+    "NationalDexNumber": 77,
+    "Type": "Psychic",
+    "SubType": ""
+  },
+  {
+    "Number": 334,
+    "Pokemon": "Rapidash",
+    "Sword": "",
+    "Shield": "Shield",
+    "NationalDexNumber": 78,
+    "Type": "Psychic",
+    "SubType": "Fair"
+  },
+  {
+    "Number": 335,
+    "Pokemon": "Sinistea",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 854,
+    "Type": "Ghost",
+    "SubType": ""
+  },
+  {
+    "Number": 336,
+    "Pokemon": "Polteageist",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 855,
+    "Type": "Ghost",
+    "SubType": ""
+  },
+  {
+    "Number": 337,
+    "Pokemon": "Indeedee",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 876,
+    "Type": "Psychic",
+    "SubType": "Normal"
+  },
+  {
+    "Number": 338,
+    "Pokemon": "Phantump",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 708,
+    "Type": "Ghost",
+    "SubType": "Grass"
+  },
+  {
+    "Number": 339,
+    "Pokemon": "Trevenant",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 709,
+    "Type": "Ghost",
+    "SubType": "Grass"
+  },
+  {
+    "Number": 340,
+    "Pokemon": "Morelull",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 755,
+    "Type": "Grass",
+    "SubType": "Fairy"
+  },
+  {
+    "Number": 341,
+    "Pokemon": "Shiinotic",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 756,
+    "Type": "Grass",
+    "SubType": "Fairy"
+  },
+  {
+    "Number": 342,
+    "Pokemon": "Oranguru",
+    "Sword": "",
+    "Shield": "Shield",
+    "NationalDexNumber": 765,
+    "Type": "Normal",
+    "SubType": "Psychic"
+  },
+  {
+    "Number": 343,
+    "Pokemon": "Passimian",
+    "Sword": "Sword",
+    "Shield": "",
+    "NationalDexNumber": 766,
+    "Type": "Fighting",
+    "SubType": ""
+  },
+  {
+    "Number": 344,
+    "Pokemon": "Morpeko",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 877,
+    "Type": "Electric",
+    "SubType": "Dark"
+  },
+  {
+    "Number": 345,
+    "Pokemon": "Falinks",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 870,
+    "Type": "Fighting",
+    "SubType": ""
+  },
+  {
+    "Number": 346,
+    "Pokemon": "Drampa",
+    "Sword": "",
+    "Shield": "Shield",
+    "NationalDexNumber": 780,
+    "Type": "Normal",
+    "SubType": "Dragon"
+  },
+  {
+    "Number": 347,
+    "Pokemon": "Turtonator",
+    "Sword": "Sword",
+    "Shield": "",
+    "NationalDexNumber": 776,
+    "Type": "Fire",
+    "SubType": "Dragon"
+  },
+  {
+    "Number": 348,
+    "Pokemon": "Togedemaru",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 777,
+    "Type": "Electric",
+    "SubType": "Steel"
+  },
+  {
+    "Number": 349,
+    "Pokemon": "Snom",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 872,
+    "Type": "Ice",
+    "SubType": "Bug"
+  },
+  {
+    "Number": 350,
+    "Pokemon": "Frosmoth",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 873,
+    "Type": "Ice",
+    "SubType": "Bug"
+  },
+  {
+    "Number": 351,
+    "Pokemon": "Clobbopus",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 852,
+    "Type": "Fighting",
+    "SubType": ""
+  },
+  {
+    "Number": 352,
+    "Pokemon": "Grapploct",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 853,
+    "Type": "Fighting",
+    "SubType": ""
+  },
+  {
+    "Number": 353,
+    "Pokemon": "Pincurchin",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 871,
+    "Type": "Electric",
+    "SubType": ""
+  },
+  {
+    "Number": 354,
+    "Pokemon": "Mantyke",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 458,
+    "Type": "Water",
+    "SubType": "Flying"
+  },
+  {
+    "Number": 355,
+    "Pokemon": "Mantine",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 226,
+    "Type": "Water",
+    "SubType": "Flying"
+  },
+  {
+    "Number": 356,
+    "Pokemon": "Wailmer",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 320,
+    "Type": "Water",
+    "SubType": ""
+  },
+  {
+    "Number": 357,
+    "Pokemon": "Wailord",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 321,
+    "Type": "Water",
+    "SubType": ""
+  },
+  {
+    "Number": 358,
+    "Pokemon": "Bergmite",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 712,
+    "Type": "Ice",
+    "SubType": ""
+  },
+  {
+    "Number": 359,
+    "Pokemon": "Avalugg",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 713,
+    "Type": "Ice",
+    "SubType": ""
+  },
+  {
+    "Number": 360,
+    "Pokemon": "Dhelmise",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 781,
+    "Type": "Ghost",
+    "SubType": "Grass"
+  },
+  {
+    "Number": 361,
+    "Pokemon": "Lapras",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 131,
+    "Type": "Water",
+    "SubType": "Ice"
+  },
+  {
+    "Number": 362,
+    "Pokemon": "Lunatone",
+    "Sword": "",
+    "Shield": "Shield",
+    "NationalDexNumber": 337,
+    "Type": "Rock",
+    "SubType": "Psychic"
+  },
+  {
+    "Number": 363,
+    "Pokemon": "Solrock",
+    "Sword": "Sword",
+    "Shield": "",
+    "NationalDexNumber": 338,
+    "Type": "Rock",
+    "SubType": "Psychic"
+  },
+  {
+    "Number": 364,
+    "Pokemon": "Mime Jr",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 439,
+    "Type": "Psychic",
+    "SubType": "Fairy"
+  },
+  {
+    "Number": 365,
+    "Pokemon": "Mr. Mime",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 122,
+    "Type": "Ice",
+    "SubType": "Psychic"
+  },
+  {
+    "Number": 366,
+    "Pokemon": "Mr. Rime",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 866,
+    "Type": "Ice",
+    "SubType": "Psychic"
+  },
+  {
+    "Number": 367,
+    "Pokemon": "Darumaka",
+    "Sword": "Sword",
+    "Shield": "",
+    "NationalDexNumber": 554,
+    "Type": "Ice",
+    "SubType": ""
+  },
+  {
+    "Number": 368,
+    "Pokemon": "Darmanitan",
+    "Sword": "Sword",
+    "Shield": "",
+    "NationalDexNumber": 555,
+    "Type": "Ice",
+    "SubType": ""
+  },
+  {
+    "Number": 369,
+    "Pokemon": "Stonjourner",
+    "Sword": "Sword",
+    "Shield": "",
+    "NationalDexNumber": 874,
+    "Type": "Rock",
+    "SubType": ""
+  },
+  {
+    "Number": 370,
+    "Pokemon": "Eiscue",
+    "Sword": "",
+    "Shield": "Shield",
+    "NationalDexNumber": 875,
+    "Type": "Ice",
+    "SubType": ""
+  },
+  {
+    "Number": 371,
+    "Pokemon": "Duraludon",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 884,
+    "Type": "Steel",
+    "SubType": "Dragon"
+  },
+  {
+    "Number": 372,
+    "Pokemon": "Rotom",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 479,
+    "Type": "Electric",
+    "SubType": "Ghost"
+  },
+  {
+    "Number": 373,
+    "Pokemon": "Ditto",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 132,
+    "Type": "Normal",
+    "SubType": ""
+  },
+  {
+    "Number": 374,
+    "Pokemon": "Dracozolt",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 880,
+    "Type": "Electric",
+    "SubType": "Dragon"
+  },
+  {
+    "Number": 375,
+    "Pokemon": "Arctozolt",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 881,
+    "Type": "Electric",
+    "SubType": "Ice"
+  },
+  {
+    "Number": 376,
+    "Pokemon": "Dracovish",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 882,
+    "Type": "Water",
+    "SubType": "Dragon"
+  },
+  {
+    "Number": 377,
+    "Pokemon": "Arctovish",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 883,
+    "Type": "Water",
+    "SubType": "Ice"
+  },
+  {
+    "Number": 378,
+    "Pokemon": "Charmander",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 4,
+    "Type": "Fire",
+    "SubType": ""
+  },
+  {
+    "Number": 379,
+    "Pokemon": "Charmeleon",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 5,
+    "Type": "Fire",
+    "SubType": ""
+  },
+  {
+    "Number": 380,
+    "Pokemon": "Charizard",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 6,
+    "Type": "Fire",
+    "SubType": ""
+  },
+  {
+    "Number": 381,
+    "Pokemon": "Type: Null",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 772,
+    "Type": "Normal",
+    "SubType": ""
+  },
+  {
+    "Number": 382,
+    "Pokemon": "Silvally",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 773,
+    "Type": "Normal",
+    "SubType": ""
+  },
+  {
+    "Number": 383,
+    "Pokemon": "Larvitar",
+    "Sword": "",
+    "Shield": "Shield",
+    "NationalDexNumber": 246,
+    "Type": "Rock",
+    "SubType": "Ground"
+  },
+  {
+    "Number": 384,
+    "Pokemon": "Pupitar",
+    "Sword": "",
+    "Shield": "Shield",
+    "NationalDexNumber": 247,
+    "Type": "Rock",
+    "SubType": "Ground"
+  },
+  {
+    "Number": 385,
+    "Pokemon": "Tyranitar",
+    "Sword": "",
+    "Shield": "Shield",
+    "NationalDexNumber": 248,
+    "Type": "Rock",
+    "SubType": "Dark"
+  },
+  {
+    "Number": 386,
+    "Pokemon": "Deino",
+    "Sword": "Sword",
+    "Shield": "",
+    "NationalDexNumber": 633,
+    "Type": "Dark",
+    "SubType": "Dragon"
+  },
+  {
+    "Number": 387,
+    "Pokemon": "Zweilous",
+    "Sword": "Sword",
+    "Shield": "",
+    "NationalDexNumber": 634,
+    "Type": "Dark",
+    "SubType": "Dragon"
+  },
+  {
+    "Number": 388,
+    "Pokemon": "Hydreigon",
+    "Sword": "Sword",
+    "Shield": "",
+    "NationalDexNumber": 635,
+    "Type": "Dark",
+    "SubType": "Dragon"
+  },
+  {
+    "Number": 389,
+    "Pokemon": "Goomy",
+    "Sword": "",
+    "Shield": "Shield",
+    "NationalDexNumber": 704,
+    "Type": "Dragon",
+    "SubType": ""
+  },
+  {
+    "Number": 390,
+    "Pokemon": "Sliggoo",
+    "Sword": "",
+    "Shield": "Shield",
+    "NationalDexNumber": 705,
+    "Type": "Dragon",
+    "SubType": ""
+  },
+  {
+    "Number": 391,
+    "Pokemon": "Goodra",
+    "Sword": "",
+    "Shield": "Shield",
+    "NationalDexNumber": 706,
+    "Type": "Dragon",
+    "SubType": ""
+  },
+  {
+    "Number": 392,
+    "Pokemon": "Jangmo-o",
+    "Sword": "Sword",
+    "Shield": "",
+    "NationalDexNumber": 782,
+    "Type": "Dragon",
+    "SubType": ""
+  },
+  {
+    "Number": 393,
+    "Pokemon": "Hakamo-o",
+    "Sword": "Sword",
+    "Shield": "",
+    "NationalDexNumber": 783,
+    "Type": "Dragon",
+    "SubType": "Fighting"
+  },
+  {
+    "Number": 394,
+    "Pokemon": "Kommo-o",
+    "Sword": "Sword",
+    "Shield": "",
+    "NationalDexNumber": 784,
+    "Type": "Dragon",
+    "SubType": "Fighting"
+  },
+  {
+    "Number": 395,
+    "Pokemon": "Dreepy",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 885,
+    "Type": "Dragon",
+    "SubType": "Ghost"
+  },
+  {
+    "Number": 396,
+    "Pokemon": "Drakloak",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 886,
+    "Type": "Dragon",
+    "SubType": "Ghost"
+  },
+  {
+    "Number": 397,
+    "Pokemon": "Dragapult",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 887,
+    "Type": "Dragon",
+    "SubType": "Ghost"
+  },
+  {
+    "Number": 398,
+    "Pokemon": "Zacian",
+    "Sword": "Sword",
+    "Shield": "",
+    "NationalDexNumber": 888,
+    "Type": "Fairy",
+    "SubType": ""
+  },
+  {
+    "Number": 399,
+    "Pokemon": "Zamazenta",
+    "Sword": "",
+    "Shield": "Shield",
+    "NationalDexNumber": 889,
+    "Type": "Fighting",
+    "SubType": ""
+  },
+  {
+    "Number": 400,
+    "Pokemon": "Eternatus",
+    "Sword": "",
+    "Shield": "",
+    "NationalDexNumber": 890,
+    "Type": "Poison",
+    "SubType": "Dragon"
+  }
+]
