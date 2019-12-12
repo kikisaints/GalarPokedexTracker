@@ -348,15 +348,12 @@ export default class MainPage extends Component {
         return itemData.indexOf(textData) > -1;
       });
 
-      console.log(newData.length);
-
       var caughtPokemon = [];
       for (var key in newData)
       {
         if (newData.hasOwnProperty(key))
         {
           let shinyStatus = await AsyncStorage.getItem(newData[key].Pokemon + 'ShinyStatus');
-          console.log(shinyStatus);
 
           if(shinyStatus === 'true')
           {
