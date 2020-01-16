@@ -6,7 +6,9 @@
     "Shield": "",
     "NationalDexNumber": 810,
     "Type": "Grass",
-    "SubType": ""
+    "SubType": "",
+    "Evolution": "Chosen as starter or traded from another game.",
+    "Found": "Chosen as starter or traded from another game."
   },
   {
     "Number": 2,
@@ -15,7 +17,9 @@
     "Shield": "",
     "NationalDexNumber": 811,
     "Type": "Grass",
-    "SubType": ""
+    "SubType": "",
+    "Evolution": "Evolve Grookey, lvl 16+",
+    "Found": "Chosen as starter or traded from another game."
   },
   {
     "Number": 3,
@@ -24,7 +28,9 @@
     "Shield": "",
     "NationalDexNumber": 812,
     "Type": "Grass",
-    "SubType": ""
+    "SubType": "",
+    "Evolution": "Evolve Thwackey, lvl 35+",
+    "Found": "Chosen as starter or traded from another game."
   },
   {
     "Number": 4,
@@ -33,7 +39,9 @@
     "Shield": "",
     "NationalDexNumber": 813,
     "Type": "Fire",
-    "SubType": ""
+    "SubType": "",
+    "Evolution": "Chosen as starter or traded from another game.",
+    "Found": "Chosen as starter or traded from another game."
   },
   {
     "Number": 5,
@@ -42,7 +50,9 @@
     "Shield": "",
     "NationalDexNumber": 814,
     "Type": "Fire",
-    "SubType": ""
+    "SubType": "",
+    "Evolution": "Evolve Scorbunny, lvl 16+",
+    "Found": "Chosen as starter or traded from another game."
   },
   {
     "Number": 6,
@@ -51,7 +61,9 @@
     "Shield": "",
     "NationalDexNumber": 815,
     "Type": "Fire",
-    "SubType": ""
+    "SubType": "",
+    "Evolution": "Evolve Raboot, lvl 35+",
+    "Found": "Chosen as starter or traded from another game."
   },
   {
     "Number": 7,
@@ -60,7 +72,9 @@
     "Shield": "",
     "NationalDexNumber": 816,
     "Type": "Water",
-    "SubType": ""
+    "SubType": "",
+    "Evolution": "Chosen as starter or traded from another game.",
+    "Found": "Chosen as starter or traded from another game."
   },
   {
     "Number": 8,
@@ -69,7 +83,9 @@
     "Shield": "",
     "NationalDexNumber": 817,
     "Type": "Water",
-    "SubType": ""
+    "SubType": "",
+    "Evolution": "Evolve Sobble, lvl 16+",
+    "Found": "Chosen as starter or traded from another game."
   },
   {
     "Number": 9,
@@ -78,7 +94,9 @@
     "Shield": "",
     "NationalDexNumber": 818,
     "Type": "Water",
-    "SubType": ""
+    "SubType": "",
+    "Evolution": "Evolve Drizzile, lvl 35+",
+    "Found": "Chosen as starter or traded from another game."
   },
   {
     "Number": 10,
@@ -87,7 +105,9 @@
     "Shield": "",
     "NationalDexNumber": 824,
     "Type": "Bug",
-    "SubType": ""
+    "SubType": "",
+    "Evolution": "None",
+    "Found": "Route 1, Route 2, Giant's Cap, Slumbering Weald"
   },
   {
     "Number": 11,
@@ -96,7 +116,9 @@
     "Shield": "",
     "NationalDexNumber": 825,
     "Type": "Bug",
-    "SubType": "Psychic"
+    "SubType": "Psychic",
+    "Evolution": "Evolve Blipbug, lvl 10+",
+    "Found": ""
   },
   {
     "Number": 12,
@@ -105,7 +127,9 @@
     "Shield": "",
     "NationalDexNumber": 826,
     "Type": "Bug",
-    "SubType": "Psychic"
+    "SubType": "Psychic",
+    "Evolution": "Evolve Dottler, Lvl 30+",
+    "Found": ""
   },
   {
     "Number": 13,
@@ -114,7 +138,9 @@
     "Shield": "",
     "NationalDexNumber": 10,
     "Type": "Bug",
-    "SubType": ""
+    "SubType": "",
+    "Evolution": "None",
+    "Found": "Route 1\n"
   },
   {
     "Number": 14,
@@ -123,7 +149,9 @@
     "Shield": "",
     "NationalDexNumber": 11,
     "Type": "Bug",
-    "SubType": ""
+    "SubType": "",
+    "Evolution": "Evolve Caterpie, lvl 7+",
+    "Found": "Rolling Fields"
   },
   {
     "Number": 15,
@@ -132,7 +160,9 @@
     "Shield": "",
     "NationalDexNumber": 12,
     "Type": "Bug",
-    "SubType": "Flying"
+    "SubType": "Flying",
+    "Evolution": "Evolve Metapod, lvl 10+",
+    "Found": "East Lake Axewell, Giant's Mirror, Rolling Fields, Slumbering Weald"
   },
   {
     "Number": 16,
@@ -141,7 +171,9 @@
     "Shield": "",
     "NationalDexNumber": 736,
     "Type": "Bug",
-    "SubType": ""
+    "SubType": "",
+    "Evolution": "None",
+    "Found": "Route 1, Dappled Grove, East Lake Axewell, North Lake Miloch, Slumbering Weald, Watchtower Ruins"
   },
   {
     "Number": 17,
@@ -150,7 +182,9 @@
     "Shield": "",
     "NationalDexNumber": 737,
     "Type": "Bug",
-    "SubType": "Electric"
+    "SubType": "Electric",
+    "Evolution": "Evolve Grubbin, lvl 20+",
+    "Found": "Axew's Eye, Dusty Bowl, Hammerlocke Hills"
   },
   {
     "Number": 18,
@@ -159,7 +193,9 @@
     "Shield": "",
     "NationalDexNumber": 738,
     "Type": "Bug",
-    "SubType": "Electric"
+    "SubType": "Electric",
+    "Evolution": "Evolve Charjabug, Thunder Stone",
+    "Found": "Giant's Mirror, Giant's Seat"
   },
   {
     "Number": 19,
@@ -168,7 +204,9 @@
     "Shield": "",
     "NationalDexNumber": 163,
     "Type": "Normal",
-    "SubType": "Flying"
+    "SubType": "Flying",
+    "Evolution": "None",
+    "Found": "Route 1, Route 2, Dappled Grove, Giant's Cap, Slumbering Weald"
   },
   {
     "Number": 20,
@@ -177,7 +215,9 @@
     "Shield": "",
     "NationalDexNumber": 164,
     "Type": "Normal",
-    "SubType": "Flying"
+    "SubType": "Flying",
+    "Evolution": "Evolve Hoothoot, lvl 20+",
+    "Found": "Bridge Field, Giant's Cap, Motostoke Outskirts, Motostoke Riverbank"
   },
   {
     "Number": 21,
@@ -186,7 +226,9 @@
     "Shield": "",
     "NationalDexNumber": 821,
     "Type": "Flying",
-    "SubType": ""
+    "SubType": "",
+    "Evolution": "None",
+    "Found": "Route 1, Route 2, Route 3, Motostoke Riverbank, Slumbering Weald"
   },
   {
     "Number": 22,
@@ -195,7 +237,9 @@
     "Shield": "",
     "NationalDexNumber": 822,
     "Type": "Flying",
-    "SubType": ""
+    "SubType": "",
+    "Evolution": "Evolve Rookidee, lvl 18+",
+    "Found": "Route 3, Giant's Mirror, Hammerlocke Hills, Motostoke Riverbank"
   },
   {
     "Number": 23,
@@ -204,7 +248,9 @@
     "Shield": "",
     "NationalDexNumber": 823,
     "Type": "Flying",
-    "SubType": "Steel"
+    "SubType": "Steel",
+    "Evolution": "Evolve Corvisquire, lvl 38+",
+    "Found": "Route 7, Dusty Bowl, Giant's Cap, Hammerlocke Hills, Lake of Outrage, Motostoke Riverbank, North Lake Miloch, Slumbering Weald, Watchtower Ruins"
   },
   {
     "Number": 24,
@@ -213,16 +259,20 @@
     "Shield": "",
     "NationalDexNumber": 819,
     "Type": "Normal",
-    "SubType": ""
+    "SubType": "",
+    "Evolution": "None",
+    "Found": "Route 1, Route 2, Route 3, Route 4, Route 5, Dappled Grove, Motostoke Riverbank, North Lake Miloch, Rolling Fields, Slumbering Weald, Watchtower Ruins"
   },
   {
     "Number": 25,
-    "Pokemon": "Greedunt",
+    "Pokemon": "Greedent",
     "Sword": "",
     "Shield": "",
     "NationalDexNumber": 820,
     "Type": "Normal",
-    "SubType": ""
+    "SubType": "",
+    "Evolution": "Evolve Skwovet, lvl 24+",
+    "Found": "Route 6, Route 7, Route 9, Axew's Eye, Bridge Field, Giant's Cap, Giant's Mirror, Giant's Seat, Hammerlocke Hills, Lake of Outrage, Motostoke Riverbank"
   },
   {
     "Number": 26,
@@ -231,7 +281,9 @@
     "Shield": "",
     "NationalDexNumber": 519,
     "Type": "Normal",
-    "SubType": "Flying"
+    "SubType": "Flying",
+    "Evolution": "None",
+    "Found": "East Lake Axewell, North Lake Miloch, Rolling Fields, Watchtower Ruins"
   },
   {
     "Number": 27,
@@ -240,7 +292,9 @@
     "Shield": "",
     "NationalDexNumber": 520,
     "Type": "Normal",
-    "SubType": "Flying"
+    "SubType": "Flying",
+    "Evolution": "Evolve Pidove, lvl 21+",
+    "Found": "Bridge Field, Giant's Mirror, Giant's Seat, Stony Wilderness"
   },
   {
     "Number": 28,
@@ -249,7 +303,9 @@
     "Shield": "",
     "NationalDexNumber": 521,
     "Type": "Normal",
-    "SubType": "Flying"
+    "SubType": "Flying",
+    "Evolution": "Evolve Tranquill, lvl 32+",
+    "Found": "Axew's Eye, Giant's Mirror, Hammerlocke Hills, Stony Wilderness"
   },
   {
     "Number": 29,
@@ -258,7 +314,9 @@
     "Shield": "",
     "NationalDexNumber": 827,
     "Type": "Dark",
-    "SubType": ""
+    "SubType": "",
+    "Evolution": "None",
+    "Found": "Route 1, Route 2, Dusty Bowl, Giant's Mirror, Stony Wilderness"
   },
   {
     "Number": 30,
@@ -267,7 +325,9 @@
     "Shield": "",
     "NationalDexNumber": 828,
     "Type": "Dark",
-    "SubType": ""
+    "SubType": "",
+    "Evolution": "Evolve Nickit, lvl 18+",
+    "Found": "Route 7, Route 9, Bridge Field, Hammerlocke Hills, South Lake Miloch, Stony Wilderness"
   },
   {
     "Number": 31,
@@ -276,7 +336,9 @@
     "Shield": "",
     "NationalDexNumber": 263,
     "Type": "Dark",
-    "SubType": "Normal"
+    "SubType": "Normal",
+    "Evolution": "None",
+    "Found": "Route 2, Route 3, Bridge Field, Giant's Cap, Stony Wilderness"
   },
   {
     "Number": 32,
@@ -285,7 +347,9 @@
     "Shield": "",
     "NationalDexNumber": 264,
     "Type": "Dark",
-    "SubType": "Normal"
+    "SubType": "Normal",
+    "Evolution": "Evolve Zigzagoon, lvl 20+",
+    "Found": "Bridge Field, Giant's Cap"
   },
   {
     "Number": 33,
@@ -294,7 +358,9 @@
     "Shield": "",
     "NationalDexNumber": 862,
     "Type": "Dark",
-    "SubType": "Normal"
+    "SubType": "Normal",
+    "Evolution": "Evolve Obstagoon, lvl 35+ at Night (20:00+)",
+    "Found": "Route 2, Lake of Outrage"
   },
   {
     "Number": 34,
@@ -303,7 +369,9 @@
     "Shield": "",
     "NationalDexNumber": 831,
     "Type": "Normal",
-    "SubType": ""
+    "SubType": "",
+    "Evolution": "None",
+    "Found": "Route 1, Route 4, Motostoke Riverbank"
   },
   {
     "Number": 35,
@@ -312,7 +380,9 @@
     "Shield": "",
     "NationalDexNumber": 832,
     "Type": "Normal",
-    "SubType": ""
+    "SubType": "",
+    "Evolution": "Evolve Wooloo, lvl 24+",
+    "Found": "Dusty Bowl, Hammerlocke Hills, Motostoke Riverbank"
   },
   {
     "Number": 36,
@@ -321,7 +391,9 @@
     "Shield": "Shield",
     "NationalDexNumber": 270,
     "Type": "Water",
-    "SubType": "Grass"
+    "SubType": "Grass",
+    "Evolution": "None",
+    "Found": "Route 2, Dappled Grove, Rolling Fields, West Lake Axewell"
   },
   {
     "Number": 37,
@@ -330,7 +402,9 @@
     "Shield": "Shield",
     "NationalDexNumber": 271,
     "Type": "Water",
-    "SubType": "Grass"
+    "SubType": "Grass",
+    "Evolution": "Evolve from Lotad, lvl 14+",
+    "Found": "Route 5, Dappled Grove, Giant's Cap, Giant's Seat, South Lake Miloch"
   },
   {
     "Number": 38,
@@ -339,34 +413,42 @@
     "Shield": "Shield",
     "NationalDexNumber": 272,
     "Type": "Water",
-    "SubType": "Grass"
+    "SubType": "Grass",
+    "Evolution": "Evolve from Lombre, Water Stone",
+    "Found": "Dappled Grove"
   },
   {
     "Number": 39,
     "Pokemon": "Seedot",
-    "Sword": "Yes",
+    "Sword": "Sword",
     "Shield": "",
     "NationalDexNumber": 273,
     "Type": "Grass",
-    "SubType": ""
+    "SubType": "",
+    "Evolution": "None",
+    "Found": "Route 2, Dappled Grove, West Lake Axewell"
   },
   {
     "Number": 40,
     "Pokemon": "Nuzleaf",
-    "Sword": "Yes",
+    "Sword": "Sword",
     "Shield": "",
     "NationalDexNumber": 274,
     "Type": "Grass",
-    "SubType": "Dark"
+    "SubType": "Dark",
+    "Evolution": "Evolve from Seedot, lvl 14+",
+    "Found": "Route 5, Dappled Grove, Giant's Cap, Giant's Seat, Rolling Fields, South Lake Miloch"
   },
   {
     "Number": 41,
     "Pokemon": "Shiftry",
-    "Sword": "Yes",
+    "Sword": "Sword",
     "Shield": "",
     "NationalDexNumber": 275,
     "Type": "Grass",
-    "SubType": "Dark"
+    "SubType": "Dark",
+    "Evolution": "Evolve from Nuzleaf, Leaf Stone",
+    "Found": "Dappled Grove"
   },
   {
     "Number": 42,
@@ -375,7 +457,9 @@
     "Shield": "",
     "NationalDexNumber": 833,
     "Type": "Water",
-    "SubType": ""
+    "SubType": "",
+    "Evolution": "None",
+    "Found": "Route 2, Route 4, Route 5, Galar Mine No. 2, Giant's Cap, Giant's Mirror, Hulbury, Motostoke, Motostoke Outskirts, Motostoke Riverbank"
   },
   {
     "Number": 43,
@@ -384,7 +468,9 @@
     "Shield": "",
     "NationalDexNumber": 834,
     "Type": "Water",
-    "SubType": "Rock"
+    "SubType": "Rock",
+    "Evolution": "Evolve from Chewtle, lvl 22+",
+    "Found": "Route 2, Route 6, Bridge Field, Dusty Bowl, Galar Mine No. 2, Giant's Cap, Giant's Mirror, Lake of Outrage, West Lake Axewell"
   },
   {
     "Number": 44,
@@ -393,7 +479,9 @@
     "Shield": "",
     "NationalDexNumber": 509,
     "Type": "Dark",
-    "SubType": ""
+    "SubType": "",
+    "Evolution": "None",
+    "Found": "Route 2, Dappled Grove, East Lake Axewell, Motostoke Riverbank, North Lake Miloch, Watchtower Ruins, West Lake Axewell"
   },
   {
     "Number": 45,
@@ -402,7 +490,9 @@
     "Shield": "",
     "NationalDexNumber": 510,
     "Type": "Dark",
-    "SubType": ""
+    "SubType": "",
+    "Evolution": "Evolve from Purrloin, lvl 20+",
+    "Found": "Route 7, Route 9, Axew's Eye, Bridge Field, Giant's Cap, Giant's Seat, North Lake Miloch"
   },
   {
     "Number": 46,
@@ -411,7 +501,9 @@
     "Shield": "",
     "NationalDexNumber": 835,
     "Type": "Electric",
-    "SubType": ""
+    "SubType": "",
+    "Evolution": "None",
+    "Found": "Route 2, Route 4, Giant's Mirror, Motostoke Riverbank, Stony Wilderness"
   },
   {
     "Number": 47,
@@ -420,7 +512,9 @@
     "Shield": "",
     "NationalDexNumber": 836,
     "Type": "Electric",
-    "SubType": ""
+    "SubType": "",
+    "Evolution": "Evolve from Yamper, lvl 25+",
+    "Found": "Dusty Bowl, Lake of Outrage, Motostoke Riverbank, North Lake Miloch"
   },
   {
     "Number": 48,
@@ -429,7 +523,9 @@
     "Shield": "",
     "NationalDexNumber": 659,
     "Type": "Normal",
-    "SubType": ""
+    "SubType": "",
+    "Evolution": "None",
+    "Found": "Dappled Grove, East Lake Axewell, Giant's Cap, North Lake Miloch, Rolling Fields, West Lake Axewell"
   },
   {
     "Number": 49,
@@ -438,7 +534,9 @@
     "Shield": "",
     "NationalDexNumber": 660,
     "Type": "Normal",
-    "SubType": "Ground"
+    "SubType": "Ground",
+    "Evolution": "Evolve from Bunnelby, lvl 20+",
+    "Found": "Axew's Eye, Bridge Field, Giant's Cap, Giant's Mirror, Giant's Seat, North Lake Miloch, Rolling Fields"
   },
   {
     "Number": 50,
@@ -447,7 +545,9 @@
     "Shield": "",
     "NationalDexNumber": 572,
     "Type": "Normal",
-    "SubType": ""
+    "SubType": "",
+    "Evolution": "None",
+    "Found": "Route 5, East Lake Axewell, Giant's Cap, Rolling Fields"
   },
   {
     "Number": 51,
@@ -456,7 +556,9 @@
     "Shield": "",
     "NationalDexNumber": 573,
     "Type": "Normal",
-    "SubType": ""
+    "SubType": "",
+    "Evolution": "Evolve from Minccino, Shiny Stone",
+    "Found": "Giant's Cap"
   },
   {
     "Number": 52,
@@ -465,7 +567,9 @@
     "Shield": "",
     "NationalDexNumber": 761,
     "Type": "Grass",
-    "SubType": ""
+    "SubType": "",
+    "Evolution": "None",
+    "Found": "Dappled Grove, East Lake Axewell, Rolling Fields, Stony Wilderness, Watchtower Ruins, West Lake Axewell"
   },
   {
     "Number": 53,
@@ -474,7 +578,9 @@
     "Shield": "",
     "NationalDexNumber": 762,
     "Type": "Grass",
-    "SubType": ""
+    "SubType": "",
+    "Evolution": "Evolve from Bounsweet, lvl 18+",
+    "Found": "Axew's Eye"
   },
   {
     "Number": 54,
@@ -483,7 +589,9 @@
     "Shield": "",
     "NationalDexNumber": 763,
     "Type": "Grass",
-    "SubType": ""
+    "SubType": "",
+    "Evolution": "Evolve from Steenee while knowing Stomp",
+    "Found": "Stony Wilderness"
   },
   {
     "Number": 55,
@@ -492,7 +600,9 @@
     "Shield": "",
     "NationalDexNumber": 43,
     "Type": "Grass",
-    "SubType": "Poison"
+    "SubType": "Poison",
+    "Evolution": "None",
+    "Found": "Dappled Grove, East Lake Axewell, Rolling Fields, Watchtower Ruins"
   },
   {
     "Number": 56,
@@ -501,7 +611,9 @@
     "Shield": "",
     "NationalDexNumber": 44,
     "Type": "Grass",
-    "SubType": "Poison"
+    "SubType": "Poison",
+    "Evolution": "Evolve Oddish, lvl 21+",
+    "Found": "Axew's Eye, Giant's Cap, Giant's Mirror, North Lake Miloch"
   },
   {
     "Number": 57,
@@ -510,7 +622,9 @@
     "Shield": "",
     "NationalDexNumber": 45,
     "Type": "Grass",
-    "SubType": "Poison"
+    "SubType": "Poison",
+    "Evolution": "Evolve Gloom, Leaf Stone",
+    "Found": "Dappled Grove, Giant's Mirror, Hammerlocke Hills"
   },
   {
     "Number": 58,
@@ -519,7 +633,9 @@
     "Shield": "",
     "NationalDexNumber": 182,
     "Type": "Grass",
-    "SubType": ""
+    "SubType": "",
+    "Evolution": "Evolve Gloom, Sun Stone",
+    "Found": "Giant's Mirror"
   },
   {
     "Number": 59,
@@ -528,7 +644,9 @@
     "Shield": "",
     "NationalDexNumber": 406,
     "Type": "Grass",
-    "SubType": "Poison"
+    "SubType": "Poison",
+    "Evolution": "None",
+    "Found": "Route 4, Dappled Grove, East Lake Axewell, Giant's Mirror, Rolling Fields, West Lake Axewell"
   },
   {
     "Number": 60,
@@ -537,7 +655,9 @@
     "Shield": "",
     "NationalDexNumber": 315,
     "Type": "Grass",
-    "SubType": "Poison"
+    "SubType": "Poison",
+    "Evolution": "Evolve Budew, during the day at 220 happiness",
+    "Found": "Axew's Eye, Dusty Bowl, Giant's Mirror, Rolling Fields, South Lake Miloch"
   },
   {
     "Number": 61,
@@ -546,7 +666,9 @@
     "Shield": "",
     "NationalDexNumber": 407,
     "Type": "Grass",
-    "SubType": "Poison"
+    "SubType": "Poison",
+    "Evolution": "Evolve Roselia, Shiny Stone",
+    "Found": "Hammerlocke Hills"
   },
   {
     "Number": 62,
@@ -555,7 +677,9 @@
     "Shield": "",
     "NationalDexNumber": 278,
     "Type": "Water",
-    "SubType": "Flying"
+    "SubType": "Flying",
+    "Evolution": "None",
+    "Found": "East Lake Axewell, North Lake Miloch, Rolling Fields, South Lake Miloch, Watchtower Ruins, West Lake Axewell"
   },
   {
     "Number": 63,
@@ -564,7 +688,9 @@
     "Shield": "",
     "NationalDexNumber": 279,
     "Type": "Water",
-    "SubType": "Flying"
+    "SubType": "Flying",
+    "Evolution": "Evolve Wingull, lvl 25+",
+    "Found": "Route 9, Axew's Eye, Bridge Field, Dusty Bowl, Hammerlocke Hills, Lake of Outrage, North Lake Miloch, Rolling Fields"
   },
   {
     "Number": 64,
@@ -573,7 +699,9 @@
     "Shield": "",
     "NationalDexNumber": 595,
     "Type": "Bug",
-    "SubType": "Electric"
+    "SubType": "Electric",
+    "Evolution": "None",
+    "Found": "Route 4, Dappled Grove, East Lake Axewell, Giant's Cap, Giant's Mirror, North Lake Miloch, Rolling Fields, South Lake Miloch, West Lake Axewell"
   },
   {
     "Number": 65,
@@ -582,7 +710,9 @@
     "Shield": "",
     "NationalDexNumber": 596,
     "Type": "Bug",
-    "SubType": "Electric"
+    "SubType": "Electric",
+    "Evolution": "Evolve Joltik, lvl 36+",
+    "Found": "Route 7, Giant's Cap, Giant's Seat, Lake of Outrage, South Lake Miloch"
   },
   {
     "Number": 66,
@@ -591,7 +721,9 @@
     "Shield": "",
     "NationalDexNumber": 309,
     "Type": "Electric",
-    "SubType": ""
+    "SubType": "",
+    "Evolution": "None",
+    "Found": "Route 4, Dappled Grove, Dusty Bowl, East Lake Axewell, Giant's Seat, Rolling Fields, South Lake Miloch, Watchtower Ruins, West Lake Axewell"
   },
   {
     "Number": 67,
@@ -600,7 +732,9 @@
     "Shield": "",
     "NationalDexNumber": 310,
     "Type": "Electric",
-    "SubType": ""
+    "SubType": "",
+    "Evolution": "Evolve Electrike, lvl 26+",
+    "Found": "Axew's Eye, Giant's Cap, Giant's Seat, Rolling Fields"
   },
   {
     "Number": 68,
@@ -609,7 +743,9 @@
     "Shield": "",
     "NationalDexNumber": 37,
     "Type": "Fire",
-    "SubType": ""
+    "SubType": "",
+    "Evolution": "None",
+    "Found": "Sword: Route 3, Axew's Eye, Dappled Grove, East Lake Axewell, Giant's Seat, Motostoke, North Lake Miloch, Rolling Fields, South Lake Miloch, Watchtower Ruins, West Lake Axewell\nShield: Dusty Bowl, Hammerlocke Hills, Motostoke"
   },
   {
     "Number": 69,
@@ -618,7 +754,9 @@
     "Shield": "",
     "NationalDexNumber": 38,
     "Type": "Fire",
-    "SubType": ""
+    "SubType": "",
+    "Evolution": "Evolve Vulpix, Fire Stone",
+    "Found": "Sword: Lake of Outrage\nShield: Giant's Cap Max Raid Battle"
   },
   {
     "Number": 70,
@@ -627,7 +765,9 @@
     "Shield": "",
     "NationalDexNumber": 58,
     "Type": "Fire",
-    "SubType": ""
+    "SubType": "",
+    "Evolution": "None",
+    "Found": "Sword: Dusty Bowl, Giant's Mirror, Hammerlocke Hills\nShield: Route 3, Axew's Eye, Dappled Grove, East Lake Axewell, Giant's Seat, North Lake Miloch, Rolling Fields, South Lake Miloch, Watchtower Ruins, West Lake Axewell"
   },
   {
     "Number": 71,
@@ -636,7 +776,9 @@
     "Shield": "",
     "NationalDexNumber": 59,
     "Type": "Fire",
-    "SubType": ""
+    "SubType": "",
+    "Evolution": "Evolve Growlithe, Fire Stone",
+    "Found": "Sword: Gian'ts Cap\nShield: Lake of Outrage"
   },
   {
     "Number": 72,
@@ -645,7 +787,9 @@
     "Shield": "",
     "NationalDexNumber": 582,
     "Type": "Ice",
-    "SubType": ""
+    "SubType": "",
+    "Evolution": "None",
+    "Found": "Bridge Field, Dappled Grove, East Lake Axewell, Giant's Cap, Giant's Mirror, Hammerlocke Hills, Lake of Outrage, Motostoke Riverbank, North Lake Miloch, Rolling Fields, South Lake Miloch, West Lake Axewell"
   },
   {
     "Number": 73,
@@ -654,7 +798,9 @@
     "Shield": "",
     "NationalDexNumber": 583,
     "Type": "Ice",
-    "SubType": ""
+    "SubType": "",
+    "Evolution": "Evolve Vanillite, lvl 35+",
+    "Found": "Route 8, Route 10, Axew's Eye, Dappled Grove, Dusty Bowl"
   },
   {
     "Number": 74,
@@ -663,7 +809,9 @@
     "Shield": "",
     "NationalDexNumber": 584,
     "Type": "Ice",
-    "SubType": ""
+    "SubType": "",
+    "Evolution": "Evolve Vanillish, lvl 47+",
+    "Found": "Route 10, Bridge Field, Lake of Outrage, South Lake Miloch"
   },
   {
     "Number": 75,
@@ -672,7 +820,9 @@
     "Shield": "",
     "NationalDexNumber": 220,
     "Type": "Ice",
-    "SubType": "Ground"
+    "SubType": "Ground",
+    "Evolution": "None",
+    "Found": "Giant's Mirror, Giant's Seat, Hammerlocke Hills, Rolling Fields"
   },
   {
     "Number": 76,
@@ -681,7 +831,9 @@
     "Shield": "",
     "NationalDexNumber": 221,
     "Type": "Ice",
-    "SubType": "Ground"
+    "SubType": "Ground",
+    "Evolution": "Evolve Swinub, lvl 33+",
+    "Found": "Dusty Bowl, East Lake Axewell, Lake of Outrage, Rolling Fields"
   },
   {
     "Number": 77,
@@ -690,7 +842,9 @@
     "Shield": "",
     "NationalDexNumber": 473,
     "Type": "Ice",
-    "SubType": "Ground"
+    "SubType": "Ground",
+    "Evolution": "Evolve Piloswine, lvl up while knowing Ancient Power",
+    "Found": "Stony Wilderness Max Raid Battle"
   },
   {
     "Number": 78,
@@ -699,7 +853,9 @@
     "Shield": "",
     "NationalDexNumber": 225,
     "Type": "Ice",
-    "SubType": "Flying"
+    "SubType": "Flying",
+    "Evolution": "None",
+    "Found": "Route 8, Axew's Eye, Dappled Grove, Dusty Bowl, Giant's Cap, Giant's Mirror, Giant's Seat, Hammerlocke Hills, North Lake Miloch, Rolling Fields, South Lake Miloch, Watchtower Ruins, West Lake Axewell"
   },
   {
     "Number": 79,
@@ -708,7 +864,9 @@
     "Shield": "",
     "NationalDexNumber": 361,
     "Type": "Ice",
-    "SubType": ""
+    "SubType": "",
+    "Evolution": "None",
+    "Found": "Route 8, Dappled Grove, East Lake Axewell, Giant's Cap, Giant's Seat, Hammerlocke Hills, North Lake Miloch, Rolling Fields, South Lake Miloch, Watchtower Ruins, West Lake Axewell"
   },
   {
     "Number": 80,
@@ -717,7 +875,9 @@
     "Shield": "",
     "NationalDexNumber": 362,
     "Type": "Ice",
-    "SubType": ""
+    "SubType": "",
+    "Evolution": "Evolve Snorunt, lvl 42+",
+    "Found": "Route 9, Route 10, Giant's Cap, Giant's Seat, Lake of Outrage, Watchtower Ruins"
   },
   {
     "Number": 81,
@@ -726,7 +886,9 @@
     "Shield": "",
     "NationalDexNumber": 478,
     "Type": "Ice",
-    "SubType": "Ghost"
+    "SubType": "Ghost",
+    "Evolution": "Evolve Female Snorunt, Dawn Stone",
+    "Found": "Giant's Cap, Hammerlocke Hills Max Raid Battles"
   },
   {
     "Number": 82,
@@ -735,7 +897,9 @@
     "Shield": "",
     "NationalDexNumber": 343,
     "Type": "Ground",
-    "SubType": "Psychic"
+    "SubType": "Psychic",
+    "Evolution": "None",
+    "Found": "Axew's Eye, Bridge Field, Dappled Grove, East Lake Axewell, Giant's Cap, Hammerlocke Hills, North Lake Miloch, Rolling Fields, South Lake Miloch, Stony Wilderness, West Lake Axewell"
   },
   {
     "Number": 83,
@@ -744,7 +908,9 @@
     "Shield": "",
     "NationalDexNumber": 344,
     "Type": "Ground",
-    "SubType": "Psychic"
+    "SubType": "Psychic",
+    "Evolution": "Evolve Baltoy, lvl 36+",
+    "Found": "Axew's Eye, Bridge Field, Dappled Grove, Dusty Bowl, Lake of Outrage, Stony Wilderness"
   },
   {
     "Number": 84,
@@ -753,7 +919,9 @@
     "Shield": "",
     "NationalDexNumber": 749,
     "Type": "Ground",
-    "SubType": ""
+    "SubType": "",
+    "Evolution": "None",
+    "Found": "Route 3, Dappled Grove, East Lake Axewell, Giant's Cap, Giant's Seat, North Lake Miloch, Rolling Fields, South Lake Miloch, West Lake Axewell"
   },
   {
     "Number": 85,
@@ -762,7 +930,9 @@
     "Shield": "",
     "NationalDexNumber": 750,
     "Type": "Ground",
-    "SubType": ""
+    "SubType": "",
+    "Evolution": "Evolve Mudbray, lvl 30+",
+    "Found": "Axew's Eye, Dusty Bowl, East Lake Axewell, Giant's Seat, Rolling Fields"
   },
   {
     "Number": 86,
@@ -771,7 +941,9 @@
     "Shield": "",
     "NationalDexNumber": 557,
     "Type": "Bug",
-    "SubType": "Rock"
+    "SubType": "Rock",
+    "Evolution": "None",
+    "Found": "East Lake Axewell, Giant's Seat, Hammerlocke Hills, North Lake Miloch, Rolling Fields, South Lake Miloch, Stony Wilderness, Watchtower Ruins, West Lake Axewell"
   },
   {
     "Number": 87,
@@ -780,7 +952,9 @@
     "Shield": "",
     "NationalDexNumber": 558,
     "Type": "Bug",
-    "SubType": "Rock"
+    "SubType": "Rock",
+    "Evolution": "Evolve Dwebble, lvl 34+",
+    "Found": "Route 8, Axew's Eye, Rolling Fields, South Lake Miloch, Stony Wilderness"
   },
   {
     "Number": 88,
@@ -789,7 +963,9 @@
     "Shield": "",
     "NationalDexNumber": 622,
     "Type": "Ground",
-    "SubType": "Ghost"
+    "SubType": "Ghost",
+    "Evolution": "None",
+    "Found": "Route 8, Dappled Grove, Giant's Cap, Giant's Seat, North Lake Miloch, Rolling Fields, Stony Wilderness, Watchtower Ruins"
   },
   {
     "Number": 89,
@@ -798,7 +974,9 @@
     "Shield": "",
     "NationalDexNumber": 623,
     "Type": "Ground",
-    "SubType": "Ghost"
+    "SubType": "Ghost",
+    "Evolution": "Evolve Golett, lvl 43+",
+    "Found": "Dusty Bowl, Giant's Seat, Lake of Outrage, Stony Wilderness, Watchtower Ruins"
   },
   {
     "Number": 90,
@@ -807,7 +985,9 @@
     "Shield": "",
     "NationalDexNumber": 517,
     "Type": "Psychic",
-    "SubType": ""
+    "SubType": "",
+    "Evolution": "None",
+    "Found": "Axew's Eye, Bridge Field, East Lake Axewell, Giant's Cap, Giant's Seat, Rolling Fields, Slumbering Weald, Stony Wilderness"
   },
   {
     "Number": 91,
@@ -816,7 +996,9 @@
     "Shield": "",
     "NationalDexNumber": 518,
     "Type": "Psychic",
-    "SubType": ""
+    "SubType": "",
+    "Evolution": "Evolve Munna, Moon Stone",
+    "Found": "Bridge Field, Giant's Seat"
   },
   {
     "Number": 92,
@@ -825,7 +1007,9 @@
     "Shield": "",
     "NationalDexNumber": 177,
     "Type": "Psychic",
-    "SubType": "Flying"
+    "SubType": "Flying",
+    "Evolution": "None",
+    "Found": "Giant's Mirror, Giant's Seat, North Lake Miloch, Rolling Fields, South Lake Miloch, West Lake Axewell"
   },
   {
     "Number": 93,
@@ -834,7 +1018,9 @@
     "Shield": "",
     "NationalDexNumber": 178,
     "Type": "Psychic",
-    "SubType": "Flying"
+    "SubType": "Flying",
+    "Evolution": "Evolve Natu, lvl 25+",
+    "Found": "East Lake Axewell, Giant's Mirror, Giant's Seat, North Lake Miloch"
   },
   {
     "Number": 94,
@@ -843,7 +1029,9 @@
     "Shield": "",
     "NationalDexNumber": 759,
     "Type": "Normal",
-    "SubType": "Fighting"
+    "SubType": "Fighting",
+    "Evolution": "None",
+    "Found": "Route 5, Bridge Field, Dappled Grove, East Lake Axewell, Giant's Seat, Hammerlocke Hills, North Lake Miloch"
   },
   {
     "Number": 95,
@@ -852,7 +1040,9 @@
     "Shield": "",
     "NationalDexNumber": 760,
     "Type": "Normal",
-    "SubType": "Fighting"
+    "SubType": "Fighting",
+    "Evolution": "Evolve Stufful, lvl 27+",
+    "Found": "Axew's Eye, Bridge Field, Dappled Grove, Giant's Seat, Lake of Outrage, West Lake Axewell"
   },
   {
     "Number": 96,
@@ -861,7 +1051,9 @@
     "Shield": "",
     "NationalDexNumber": 459,
     "Type": "Grass",
-    "SubType": "Ice"
+    "SubType": "Ice",
+    "Evolution": "None",
+    "Found": "Route 8, Route 10, Axew's Eye, Dappled Grove, Dusty Bowl, East Lake Axewell, Giant's Cap, Giant's Mirror, Giant's Seat, North Lake Miloch, South Lake Miloch, Watchtower Ruins"
   },
   {
     "Number": 97,
@@ -870,7 +1062,9 @@
     "Shield": "",
     "NationalDexNumber": 460,
     "Type": "Grass",
-    "SubType": "Ice"
+    "SubType": "Ice",
+    "Evolution": "Evolve Snover, lvl 40+",
+    "Found": "Route 10, Axew's Eye, Dusty Bowl, Giant's Mirror, Giant's Seat, Hammerlocke Hills, Lake of Outrage"
   },
   {
     "Number": 98,
@@ -879,7 +1073,9 @@
     "Shield": "",
     "NationalDexNumber": 98,
     "Type": "Water",
-    "SubType": ""
+    "SubType": "",
+    "Evolution": "None",
+    "Found": "Giant's Cap, South Lake Miloch, West Lake Axewell"
   },
   {
     "Number": 99,
@@ -888,7 +1084,9 @@
     "Shield": "",
     "NationalDexNumber": 99,
     "Type": "Water",
-    "SubType": ""
+    "SubType": "",
+    "Evolution": "Evolve Krabby, lvl 28+",
+    "Found": "Route 9, Axew's Eye, South Lake Miloch, West Lake Axewell"
   },
   {
     "Number": 100,
@@ -897,7 +1095,9 @@
     "Shield": "",
     "NationalDexNumber": 194,
     "Type": "Water",
-    "SubType": "Ground"
+    "SubType": "Ground",
+    "Evolution": "None",
+    "Found": "Giant's Cap, Giant's Seat, South Lake Miloch, West Lake Axewell"
   },
   {
     "Number": 101,
@@ -906,7 +1106,9 @@
     "Shield": "",
     "NationalDexNumber": 195,
     "Type": "Water",
-    "SubType": "Ground"
+    "SubType": "Ground",
+    "Evolution": "Evolve Wooper, lvl 20+",
+    "Found": "Giant's Cap, Giant's Seat, Lake of Outrage, West Lake Axewell"
   },
   {
     "Number": 102,
@@ -915,7 +1117,9 @@
     "Shield": "",
     "NationalDexNumber": 341,
     "Type": "Water",
-    "SubType": ""
+    "SubType": "",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 103,
@@ -924,7 +1128,9 @@
     "Shield": "",
     "NationalDexNumber": 342,
     "Type": "Water",
-    "SubType": "Dark"
+    "SubType": "Dark",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 104,
@@ -933,7 +1139,9 @@
     "Shield": "",
     "NationalDexNumber": 290,
     "Type": "Bug",
-    "SubType": "Ground"
+    "SubType": "Ground",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 105,
@@ -942,7 +1150,9 @@
     "Shield": "",
     "NationalDexNumber": 291,
     "Type": "Bug",
-    "SubType": "Flying"
+    "SubType": "Flying",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 106,
@@ -951,7 +1161,9 @@
     "Shield": "",
     "NationalDexNumber": 292,
     "Type": "Bug",
-    "SubType": "Ghost"
+    "SubType": "Ghost",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 107,
@@ -960,7 +1172,9 @@
     "Shield": "",
     "NationalDexNumber": 236,
     "Type": "Fighting",
-    "SubType": ""
+    "SubType": "",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 108,
@@ -969,7 +1183,9 @@
     "Shield": "",
     "NationalDexNumber": 106,
     "Type": "Fighting",
-    "SubType": ""
+    "SubType": "",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 109,
@@ -978,7 +1194,9 @@
     "Shield": "",
     "NationalDexNumber": 107,
     "Type": "Fighting",
-    "SubType": ""
+    "SubType": "",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 110,
@@ -987,7 +1205,9 @@
     "Shield": "",
     "NationalDexNumber": 237,
     "Type": "Fighting",
-    "SubType": ""
+    "SubType": "",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 111,
@@ -996,7 +1216,9 @@
     "Shield": "",
     "NationalDexNumber": 674,
     "Type": "Fighting",
-    "SubType": ""
+    "SubType": "",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 112,
@@ -1005,7 +1227,9 @@
     "Shield": "",
     "NationalDexNumber": 675,
     "Type": "Fighting",
-    "SubType": "Dark"
+    "SubType": "Dark",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 113,
@@ -1014,7 +1238,9 @@
     "Shield": "",
     "NationalDexNumber": 599,
     "Type": "Steel",
-    "SubType": ""
+    "SubType": "",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 114,
@@ -1023,7 +1249,9 @@
     "Shield": "",
     "NationalDexNumber": 600,
     "Type": "Steel",
-    "SubType": ""
+    "SubType": "",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 115,
@@ -1032,7 +1260,9 @@
     "Shield": "",
     "NationalDexNumber": 601,
     "Type": "Steel",
-    "SubType": ""
+    "SubType": "",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 116,
@@ -1041,7 +1271,9 @@
     "Shield": "",
     "NationalDexNumber": 415,
     "Type": "Bug",
-    "SubType": "Flying"
+    "SubType": "Flying",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 117,
@@ -1050,7 +1282,9 @@
     "Shield": "",
     "NationalDexNumber": 416,
     "Type": "Bug",
-    "SubType": "Flying"
+    "SubType": "Flying",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 118,
@@ -1059,7 +1293,9 @@
     "Shield": "",
     "NationalDexNumber": 436,
     "Type": "Steel",
-    "SubType": "Psychic"
+    "SubType": "Psychic",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 119,
@@ -1068,7 +1304,9 @@
     "Shield": "",
     "NationalDexNumber": 437,
     "Type": "Steel",
-    "SubType": "Psychic"
+    "SubType": "Psychic",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 120,
@@ -1077,7 +1315,9 @@
     "Shield": "",
     "NationalDexNumber": 280,
     "Type": "Psychic",
-    "SubType": "Fairy"
+    "SubType": "Fairy",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 121,
@@ -1086,7 +1326,9 @@
     "Shield": "",
     "NationalDexNumber": 281,
     "Type": "Psychic",
-    "SubType": "Fairy"
+    "SubType": "Fairy",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 122,
@@ -1095,7 +1337,9 @@
     "Shield": "",
     "NationalDexNumber": 282,
     "Type": "Psychic",
-    "SubType": "Fairy"
+    "SubType": "Fairy",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 123,
@@ -1104,7 +1348,9 @@
     "Shield": "",
     "NationalDexNumber": 475,
     "Type": "Psychic",
-    "SubType": "Fighting"
+    "SubType": "Fighting",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 124,
@@ -1113,7 +1359,9 @@
     "Shield": "",
     "NationalDexNumber": 425,
     "Type": "Ghost",
-    "SubType": "Flying"
+    "SubType": "Flying",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 125,
@@ -1122,7 +1370,9 @@
     "Shield": "",
     "NationalDexNumber": 426,
     "Type": "Ghost",
-    "SubType": "Flying"
+    "SubType": "Flying",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 126,
@@ -1131,7 +1381,9 @@
     "Shield": "",
     "NationalDexNumber": 829,
     "Type": "Grass",
-    "SubType": ""
+    "SubType": "",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 127,
@@ -1140,7 +1392,9 @@
     "Shield": "",
     "NationalDexNumber": 830,
     "Type": "Grass",
-    "SubType": ""
+    "SubType": "",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 128,
@@ -1149,7 +1403,9 @@
     "Shield": "",
     "NationalDexNumber": 420,
     "Type": "Grass",
-    "SubType": ""
+    "SubType": "",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 129,
@@ -1158,7 +1414,9 @@
     "Shield": "",
     "NationalDexNumber": 421,
     "Type": "Grass",
-    "SubType": ""
+    "SubType": "",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 130,
@@ -1167,7 +1425,9 @@
     "Shield": "",
     "NationalDexNumber": 434,
     "Type": "Poison",
-    "SubType": "Dark"
+    "SubType": "Dark",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 131,
@@ -1176,7 +1436,9 @@
     "Shield": "",
     "NationalDexNumber": 435,
     "Type": "Poison",
-    "SubType": "Dark"
+    "SubType": "Dark",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 132,
@@ -1185,7 +1447,9 @@
     "Shield": "",
     "NationalDexNumber": 535,
     "Type": "Water",
-    "SubType": ""
+    "SubType": "",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 133,
@@ -1194,7 +1458,9 @@
     "Shield": "",
     "NationalDexNumber": 536,
     "Type": "Water",
-    "SubType": "Ground"
+    "SubType": "Ground",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 134,
@@ -1203,7 +1469,9 @@
     "Shield": "",
     "NationalDexNumber": 537,
     "Type": "Water",
-    "SubType": "Ground"
+    "SubType": "Ground",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 135,
@@ -1212,7 +1480,9 @@
     "Shield": "",
     "NationalDexNumber": 355,
     "Type": "Ghost",
-    "SubType": ""
+    "SubType": "",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 136,
@@ -1221,7 +1491,9 @@
     "Shield": "",
     "NationalDexNumber": 356,
     "Type": "Ghost",
-    "SubType": ""
+    "SubType": "",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 137,
@@ -1230,7 +1502,9 @@
     "Shield": "",
     "NationalDexNumber": 477,
     "Type": "Ghost",
-    "SubType": ""
+    "SubType": "",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 138,
@@ -1239,7 +1513,9 @@
     "Shield": "",
     "NationalDexNumber": 66,
     "Type": "Fighting",
-    "SubType": ""
+    "SubType": "",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 139,
@@ -1248,7 +1524,9 @@
     "Shield": "",
     "NationalDexNumber": 67,
     "Type": "Fighting",
-    "SubType": ""
+    "SubType": "",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 140,
@@ -1257,7 +1535,9 @@
     "Shield": "",
     "NationalDexNumber": 68,
     "Type": "Fighting",
-    "SubType": ""
+    "SubType": "",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 141,
@@ -1266,7 +1546,9 @@
     "Shield": "",
     "NationalDexNumber": 92,
     "Type": "Ghost",
-    "SubType": "Poison"
+    "SubType": "Poison",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 142,
@@ -1275,7 +1557,9 @@
     "Shield": "",
     "NationalDexNumber": 93,
     "Type": "Ghost",
-    "SubType": "Poison"
+    "SubType": "Poison",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 143,
@@ -1284,7 +1568,9 @@
     "Shield": "",
     "NationalDexNumber": 94,
     "Type": "Ghost",
-    "SubType": "Poison"
+    "SubType": "Poison",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 144,
@@ -1293,7 +1579,9 @@
     "Shield": "",
     "NationalDexNumber": 129,
     "Type": "Water",
-    "SubType": ""
+    "SubType": "",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 145,
@@ -1302,7 +1590,9 @@
     "Shield": "",
     "NationalDexNumber": 130,
     "Type": "Water",
-    "SubType": "Flying"
+    "SubType": "Flying",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 146,
@@ -1311,7 +1601,9 @@
     "Shield": "",
     "NationalDexNumber": 118,
     "Type": "Water",
-    "SubType": ""
+    "SubType": "",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 147,
@@ -1320,7 +1612,9 @@
     "Shield": "",
     "NationalDexNumber": 119,
     "Type": "Water",
-    "SubType": ""
+    "SubType": "",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 148,
@@ -1329,7 +1623,9 @@
     "Shield": "",
     "NationalDexNumber": 223,
     "Type": "Water",
-    "SubType": ""
+    "SubType": "",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 149,
@@ -1338,7 +1634,9 @@
     "Shield": "",
     "NationalDexNumber": 224,
     "Type": "Water",
-    "SubType": ""
+    "SubType": "",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 150,
@@ -1347,7 +1645,9 @@
     "Shield": "",
     "NationalDexNumber": 90,
     "Type": "Water",
-    "SubType": ""
+    "SubType": "",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 151,
@@ -1356,7 +1656,9 @@
     "Shield": "",
     "NationalDexNumber": 91,
     "Type": "Water",
-    "SubType": "Ice"
+    "SubType": "Ice",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 152,
@@ -1365,7 +1667,9 @@
     "Shield": "",
     "NationalDexNumber": 349,
     "Type": "Water",
-    "SubType": ""
+    "SubType": "",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 153,
@@ -1374,7 +1678,9 @@
     "Shield": "",
     "NationalDexNumber": 350,
     "Type": "Water",
-    "SubType": ""
+    "SubType": "",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 154,
@@ -1383,7 +1689,9 @@
     "Shield": "",
     "NationalDexNumber": 550,
     "Type": "Water",
-    "SubType": ""
+    "SubType": "",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 155,
@@ -1392,7 +1700,9 @@
     "Shield": "",
     "NationalDexNumber": 746,
     "Type": "Water",
-    "SubType": ""
+    "SubType": "",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 156,
@@ -1401,7 +1711,9 @@
     "Shield": "",
     "NationalDexNumber": 771,
     "Type": "Water",
-    "SubType": ""
+    "SubType": "",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 157,
@@ -1410,7 +1722,9 @@
     "Shield": "",
     "NationalDexNumber": 568,
     "Type": "Poison",
-    "SubType": ""
+    "SubType": "",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 158,
@@ -1419,7 +1733,9 @@
     "Shield": "",
     "NationalDexNumber": 569,
     "Type": "Poison",
-    "SubType": ""
+    "SubType": "",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 159,
@@ -1428,7 +1744,9 @@
     "Shield": "",
     "NationalDexNumber": 850,
     "Type": "Fire",
-    "SubType": "Bug"
+    "SubType": "Bug",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 160,
@@ -1437,7 +1755,9 @@
     "Shield": "",
     "NationalDexNumber": 851,
     "Type": "Fire",
-    "SubType": "Bug"
+    "SubType": "Bug",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 161,
@@ -1446,7 +1766,9 @@
     "Shield": "",
     "NationalDexNumber": 837,
     "Type": "Rock",
-    "SubType": ""
+    "SubType": "",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 162,
@@ -1455,7 +1777,9 @@
     "Shield": "",
     "NationalDexNumber": 838,
     "Type": "Rock",
-    "SubType": "Fire"
+    "SubType": "Fire",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 163,
@@ -1464,7 +1788,9 @@
     "Shield": "",
     "NationalDexNumber": 839,
     "Type": "Rock",
-    "SubType": "Fire"
+    "SubType": "Fire",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 164,
@@ -1473,7 +1799,9 @@
     "Shield": "",
     "NationalDexNumber": 50,
     "Type": "Ground",
-    "SubType": ""
+    "SubType": "",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 165,
@@ -1482,7 +1810,9 @@
     "Shield": "",
     "NationalDexNumber": 51,
     "Type": "Ground",
-    "SubType": ""
+    "SubType": "",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 166,
@@ -1491,7 +1821,9 @@
     "Shield": "",
     "NationalDexNumber": 529,
     "Type": "Ground",
-    "SubType": ""
+    "SubType": "",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 167,
@@ -1500,7 +1832,9 @@
     "Shield": "",
     "NationalDexNumber": 530,
     "Type": "Ground",
-    "SubType": "Steel"
+    "SubType": "Steel",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 168,
@@ -1509,7 +1843,9 @@
     "Shield": "",
     "NationalDexNumber": 524,
     "Type": "Rock",
-    "SubType": ""
+    "SubType": "",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 169,
@@ -1518,7 +1854,9 @@
     "Shield": "",
     "NationalDexNumber": 525,
     "Type": "Rock",
-    "SubType": ""
+    "SubType": "",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 170,
@@ -1527,7 +1865,9 @@
     "Shield": "",
     "NationalDexNumber": 526,
     "Type": "Rock",
-    "SubType": ""
+    "SubType": "",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 171,
@@ -1536,7 +1876,9 @@
     "Shield": "",
     "NationalDexNumber": 532,
     "Type": "Fighting",
-    "SubType": ""
+    "SubType": "",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 172,
@@ -1545,7 +1887,9 @@
     "Shield": "",
     "NationalDexNumber": 533,
     "Type": "Fighting",
-    "SubType": ""
+    "SubType": "",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 173,
@@ -1554,7 +1898,9 @@
     "Shield": "",
     "NationalDexNumber": 534,
     "Type": "Fighting",
-    "SubType": ""
+    "SubType": "",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 174,
@@ -1563,7 +1909,9 @@
     "Shield": "",
     "NationalDexNumber": 527,
     "Type": "Psychic",
-    "SubType": "Flying"
+    "SubType": "Flying",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 175,
@@ -1572,7 +1920,9 @@
     "Shield": "",
     "NationalDexNumber": 528,
     "Type": "Psychic",
-    "SubType": "Flying"
+    "SubType": "Flying",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 176,
@@ -1581,7 +1931,9 @@
     "Shield": "",
     "NationalDexNumber": 714,
     "Type": "Flying",
-    "SubType": "Dragon"
+    "SubType": "Dragon",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 177,
@@ -1590,7 +1942,9 @@
     "Shield": "",
     "NationalDexNumber": 715,
     "Type": "Flying",
-    "SubType": "Dragon"
+    "SubType": "Dragon",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 178,
@@ -1599,7 +1953,9 @@
     "Shield": "",
     "NationalDexNumber": 95,
     "Type": "Rock",
-    "SubType": "Ground"
+    "SubType": "Ground",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 179,
@@ -1608,7 +1964,9 @@
     "Shield": "",
     "NationalDexNumber": 208,
     "Type": "Steel",
-    "SubType": "Ground"
+    "SubType": "Ground",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 180,
@@ -1617,7 +1975,9 @@
     "Shield": "",
     "NationalDexNumber": 846,
     "Type": "Water",
-    "SubType": ""
+    "SubType": "",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 181,
@@ -1626,7 +1986,9 @@
     "Shield": "",
     "NationalDexNumber": 847,
     "Type": "Water",
-    "SubType": ""
+    "SubType": "",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 182,
@@ -1635,7 +1997,9 @@
     "Shield": "",
     "NationalDexNumber": 52,
     "Type": "Steel",
-    "SubType": ""
+    "SubType": "",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 183,
@@ -1644,7 +2008,9 @@
     "Shield": "",
     "NationalDexNumber": 863,
     "Type": "Steel",
-    "SubType": ""
+    "SubType": "",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 184,
@@ -1653,7 +2019,9 @@
     "Shield": "",
     "NationalDexNumber": 53,
     "Type": "Normal",
-    "SubType": ""
+    "SubType": "",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 185,
@@ -1662,7 +2030,9 @@
     "Shield": "",
     "NationalDexNumber": 868,
     "Type": "Fairy",
-    "SubType": ""
+    "SubType": "",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 186,
@@ -1671,7 +2041,9 @@
     "Shield": "",
     "NationalDexNumber": 869,
     "Type": "Fairy",
-    "SubType": ""
+    "SubType": "",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 187,
@@ -1680,7 +2052,9 @@
     "Shield": "",
     "NationalDexNumber": 742,
     "Type": "Bug",
-    "SubType": "Fairy"
+    "SubType": "Fairy",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 188,
@@ -1689,7 +2063,9 @@
     "Shield": "",
     "NationalDexNumber": 743,
     "Type": "Bug",
-    "SubType": "Fairy"
+    "SubType": "Fairy",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 189,
@@ -1698,7 +2074,9 @@
     "Shield": "",
     "NationalDexNumber": 597,
     "Type": "Grass",
-    "SubType": "Steel"
+    "SubType": "Steel",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 190,
@@ -1707,7 +2085,9 @@
     "Shield": "",
     "NationalDexNumber": 598,
     "Type": "Grass",
-    "SubType": "Steel"
+    "SubType": "Steel",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 191,
@@ -1716,7 +2096,9 @@
     "Shield": "",
     "NationalDexNumber": 710,
     "Type": "Ghost",
-    "SubType": "Grass"
+    "SubType": "Grass",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 192,
@@ -1725,7 +2107,9 @@
     "Shield": "",
     "NationalDexNumber": 711,
     "Type": "Ghost",
-    "SubType": "Grass"
+    "SubType": "Grass",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 193,
@@ -1734,7 +2118,9 @@
     "Shield": "",
     "NationalDexNumber": 172,
     "Type": "Electric",
-    "SubType": ""
+    "SubType": "",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 194,
@@ -1743,7 +2129,9 @@
     "Shield": "",
     "NationalDexNumber": 25,
     "Type": "Electric",
-    "SubType": ""
+    "SubType": "",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 195,
@@ -1752,7 +2140,9 @@
     "Shield": "",
     "NationalDexNumber": 26,
     "Type": "Electric",
-    "SubType": ""
+    "SubType": "",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 196,
@@ -1761,7 +2151,9 @@
     "Shield": "",
     "NationalDexNumber": 133,
     "Type": "Normal",
-    "SubType": ""
+    "SubType": "",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 197,
@@ -1770,7 +2162,9 @@
     "Shield": "",
     "NationalDexNumber": 134,
     "Type": "Water",
-    "SubType": ""
+    "SubType": "",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 198,
@@ -1779,7 +2173,9 @@
     "Shield": "",
     "NationalDexNumber": 135,
     "Type": "Electric",
-    "SubType": ""
+    "SubType": "",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 199,
@@ -1788,7 +2184,9 @@
     "Shield": "",
     "NationalDexNumber": 136,
     "Type": "Fire",
-    "SubType": ""
+    "SubType": "",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 200,
@@ -1797,7 +2195,9 @@
     "Shield": "",
     "NationalDexNumber": 196,
     "Type": "Psychic",
-    "SubType": ""
+    "SubType": "",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 201,
@@ -1806,7 +2206,9 @@
     "Shield": "",
     "NationalDexNumber": 197,
     "Type": "Dark",
-    "SubType": ""
+    "SubType": "",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 202,
@@ -1815,7 +2217,9 @@
     "Shield": "",
     "NationalDexNumber": 470,
     "Type": "Grass",
-    "SubType": ""
+    "SubType": "",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 203,
@@ -1824,7 +2228,9 @@
     "Shield": "",
     "NationalDexNumber": 471,
     "Type": "Ice",
-    "SubType": ""
+    "SubType": "",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 204,
@@ -1833,7 +2239,9 @@
     "Shield": "",
     "NationalDexNumber": 700,
     "Type": "Fairy",
-    "SubType": ""
+    "SubType": "",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 205,
@@ -1842,7 +2250,9 @@
     "Shield": "",
     "NationalDexNumber": 840,
     "Type": "Grass",
-    "SubType": "Poison"
+    "SubType": "Poison",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 206,
@@ -1851,7 +2261,9 @@
     "Shield": "",
     "NationalDexNumber": 841,
     "Type": "Grass",
-    "SubType": "Poison"
+    "SubType": "Poison",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 207,
@@ -1860,7 +2272,9 @@
     "Shield": "",
     "NationalDexNumber": 842,
     "Type": "Grass",
-    "SubType": "Poison"
+    "SubType": "Poison",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 208,
@@ -1869,7 +2283,9 @@
     "Shield": "",
     "NationalDexNumber": 677,
     "Type": "Psychic",
-    "SubType": ""
+    "SubType": "",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 209,
@@ -1878,7 +2294,9 @@
     "Shield": "",
     "NationalDexNumber": 678,
     "Type": "Psychic",
-    "SubType": ""
+    "SubType": "",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 210,
@@ -1887,7 +2305,9 @@
     "Shield": "",
     "NationalDexNumber": 684,
     "Type": "Fairy",
-    "SubType": ""
+    "SubType": "",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 211,
@@ -1896,7 +2316,9 @@
     "Shield": "",
     "NationalDexNumber": 685,
     "Type": "Fairy",
-    "SubType": ""
+    "SubType": "",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 212,
@@ -1905,7 +2327,9 @@
     "Shield": "Shield",
     "NationalDexNumber": 682,
     "Type": "Fairy",
-    "SubType": ""
+    "SubType": "",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 213,
@@ -1914,7 +2338,9 @@
     "Shield": "Shield",
     "NationalDexNumber": 683,
     "Type": "Fairy",
-    "SubType": ""
+    "SubType": "",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 214,
@@ -1923,7 +2349,9 @@
     "Shield": "",
     "NationalDexNumber": 751,
     "Type": "Water",
-    "SubType": "Bug"
+    "SubType": "Bug",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 215,
@@ -1932,7 +2360,9 @@
     "Shield": "",
     "NationalDexNumber": 752,
     "Type": "Water",
-    "SubType": "Bug"
+    "SubType": "Bug",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 216,
@@ -1941,7 +2371,9 @@
     "Shield": "",
     "NationalDexNumber": 360,
     "Type": "Psychic",
-    "SubType": ""
+    "SubType": "",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 217,
@@ -1950,7 +2382,9 @@
     "Shield": "",
     "NationalDexNumber": 202,
     "Type": "Psychic",
-    "SubType": ""
+    "SubType": "",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 218,
@@ -1959,7 +2393,9 @@
     "Shield": "",
     "NationalDexNumber": 83,
     "Type": "Fighting",
-    "SubType": ""
+    "SubType": "",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 219,
@@ -1968,7 +2404,9 @@
     "Shield": "",
     "NationalDexNumber": 865,
     "Type": "Fighting",
-    "SubType": ""
+    "SubType": "",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 220,
@@ -1977,7 +2415,9 @@
     "Shield": "",
     "NationalDexNumber": 170,
     "Type": "Water",
-    "SubType": "Electric"
+    "SubType": "Electric",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 221,
@@ -1986,7 +2426,9 @@
     "Shield": "",
     "NationalDexNumber": 171,
     "Type": "Water",
-    "SubType": "Electric"
+    "SubType": "Electric",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 222,
@@ -1995,7 +2437,9 @@
     "Shield": "Shield",
     "NationalDexNumber": 453,
     "Type": "Poison",
-    "SubType": "Fighting"
+    "SubType": "Fighting",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 223,
@@ -2004,7 +2448,9 @@
     "Shield": "Shield",
     "NationalDexNumber": 454,
     "Type": "Poison",
-    "SubType": "Fighting"
+    "SubType": "Fighting",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 224,
@@ -2013,7 +2459,9 @@
     "Shield": "",
     "NationalDexNumber": 559,
     "Type": "Dark",
-    "SubType": "Fighting"
+    "SubType": "Fighting",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 225,
@@ -2022,7 +2470,9 @@
     "Shield": "",
     "NationalDexNumber": 560,
     "Type": "Dark",
-    "SubType": "Fighting"
+    "SubType": "Fighting",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 226,
@@ -2031,7 +2481,9 @@
     "Shield": "",
     "NationalDexNumber": 618,
     "Type": "Ground",
-    "SubType": "Steel"
+    "SubType": "Steel",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 227,
@@ -2040,7 +2492,9 @@
     "Shield": "",
     "NationalDexNumber": 213,
     "Type": "Bug",
-    "SubType": "Rock"
+    "SubType": "Rock",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 228,
@@ -2049,7 +2503,9 @@
     "Shield": "",
     "NationalDexNumber": 339,
     "Type": "Water",
-    "SubType": "Ground"
+    "SubType": "Ground",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 229,
@@ -2058,7 +2514,9 @@
     "Shield": "",
     "NationalDexNumber": 340,
     "Type": "Water",
-    "SubType": "Ground"
+    "SubType": "Ground",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 230,
@@ -2067,7 +2525,9 @@
     "Shield": "",
     "NationalDexNumber": 422,
     "Type": "Water",
-    "SubType": ""
+    "SubType": "",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 231,
@@ -2076,7 +2536,9 @@
     "Shield": "",
     "NationalDexNumber": 423,
     "Type": "Water",
-    "SubType": "Ground"
+    "SubType": "Ground",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 232,
@@ -2085,7 +2547,9 @@
     "Shield": "",
     "NationalDexNumber": 767,
     "Type": "Bug",
-    "SubType": "Water"
+    "SubType": "Water",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 233,
@@ -2094,7 +2558,9 @@
     "Shield": "",
     "NationalDexNumber": 768,
     "Type": "Bug",
-    "SubType": "Water"
+    "SubType": "Water",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 234,
@@ -2103,7 +2569,9 @@
     "Shield": "",
     "NationalDexNumber": 688,
     "Type": "Rock",
-    "SubType": "Water"
+    "SubType": "Water",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 235,
@@ -2112,7 +2580,9 @@
     "Shield": "",
     "NationalDexNumber": 689,
     "Type": "Rock",
-    "SubType": "Water"
+    "SubType": "Water",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 236,
@@ -2121,7 +2591,9 @@
     "Shield": "Shield",
     "NationalDexNumber": 222,
     "Type": "Ghost",
-    "SubType": ""
+    "SubType": "",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 237,
@@ -2130,7 +2602,9 @@
     "Shield": "Shield",
     "NationalDexNumber": 864,
     "Type": "Ghost",
-    "SubType": ""
+    "SubType": "",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 238,
@@ -2139,7 +2613,9 @@
     "Shield": "",
     "NationalDexNumber": 859,
     "Type": "Dark",
-    "SubType": "Fairy"
+    "SubType": "Fairy",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 239,
@@ -2148,7 +2624,9 @@
     "Shield": "",
     "NationalDexNumber": 860,
     "Type": "Dark",
-    "SubType": "Fairy"
+    "SubType": "Fairy",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 240,
@@ -2157,7 +2635,9 @@
     "Shield": "",
     "NationalDexNumber": 861,
     "Type": "Dark",
-    "SubType": "Fairy"
+    "SubType": "Fairy",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 241,
@@ -2166,7 +2646,9 @@
     "Shield": "",
     "NationalDexNumber": 856,
     "Type": "Psychic",
-    "SubType": ""
+    "SubType": "",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 242,
@@ -2175,7 +2657,9 @@
     "Shield": "",
     "NationalDexNumber": 857,
     "Type": "Psychic",
-    "SubType": ""
+    "SubType": "",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 243,
@@ -2184,7 +2668,9 @@
     "Shield": "",
     "NationalDexNumber": 858,
     "Type": "Psychic",
-    "SubType": ""
+    "SubType": "",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 244,
@@ -2193,7 +2679,9 @@
     "Shield": "",
     "NationalDexNumber": 757,
     "Type": "Poison",
-    "SubType": "Fire"
+    "SubType": "Fire",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 245,
@@ -2202,7 +2690,9 @@
     "Shield": "",
     "NationalDexNumber": 758,
     "Type": "Poison",
-    "SubType": "Fire"
+    "SubType": "Fire",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 246,
@@ -2211,7 +2701,9 @@
     "Shield": "",
     "NationalDexNumber": 624,
     "Type": "Dark",
-    "SubType": "Steel"
+    "SubType": "Steel",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 247,
@@ -2220,7 +2712,9 @@
     "Shield": "",
     "NationalDexNumber": 625,
     "Type": "Dark",
-    "SubType": "Steel"
+    "SubType": "Steel",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 248,
@@ -2229,7 +2723,9 @@
     "Shield": "Shield",
     "NationalDexNumber": 538,
     "Type": "Fighting",
-    "SubType": ""
+    "SubType": "",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 249,
@@ -2238,7 +2734,9 @@
     "Shield": "",
     "NationalDexNumber": 539,
     "Type": "Fighting",
-    "SubType": ""
+    "SubType": "",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 250,
@@ -2247,7 +2745,9 @@
     "Shield": "",
     "NationalDexNumber": 109,
     "Type": "Poison",
-    "SubType": ""
+    "SubType": "",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 251,
@@ -2256,7 +2756,9 @@
     "Shield": "",
     "NationalDexNumber": 110,
     "Type": "Poison",
-    "SubType": "Fairy"
+    "SubType": "Fairy",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 252,
@@ -2265,7 +2767,9 @@
     "Shield": "",
     "NationalDexNumber": 438,
     "Type": "Rock",
-    "SubType": ""
+    "SubType": "",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 253,
@@ -2274,7 +2778,9 @@
     "Shield": "",
     "NationalDexNumber": 185,
     "Type": "Rock",
-    "SubType": ""
+    "SubType": "",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 254,
@@ -2283,7 +2789,9 @@
     "Shield": "",
     "NationalDexNumber": 173,
     "Type": "Fairy",
-    "SubType": ""
+    "SubType": "",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 255,
@@ -2292,7 +2800,9 @@
     "Shield": "",
     "NationalDexNumber": 35,
     "Type": "Fairy",
-    "SubType": ""
+    "SubType": "",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 256,
@@ -2301,7 +2811,9 @@
     "Shield": "",
     "NationalDexNumber": 36,
     "Type": "Fairy",
-    "SubType": ""
+    "SubType": "",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 257,
@@ -2310,7 +2822,9 @@
     "Shield": "",
     "NationalDexNumber": 175,
     "Type": "Fairy",
-    "SubType": ""
+    "SubType": "",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 258,
@@ -2319,7 +2833,9 @@
     "Shield": "",
     "NationalDexNumber": 176,
     "Type": "Fairy",
-    "SubType": "Flying"
+    "SubType": "Flying",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 259,
@@ -2328,7 +2844,9 @@
     "Shield": "",
     "NationalDexNumber": 468,
     "Type": "Fairy",
-    "SubType": "Flying"
+    "SubType": "Flying",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 260,
@@ -2337,7 +2855,9 @@
     "Shield": "",
     "NationalDexNumber": 446,
     "Type": "Normal",
-    "SubType": ""
+    "SubType": "",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 261,
@@ -2346,7 +2866,9 @@
     "Shield": "",
     "NationalDexNumber": 143,
     "Type": "Normal",
-    "SubType": ""
+    "SubType": "",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 262,
@@ -2355,7 +2877,9 @@
     "Shield": "",
     "NationalDexNumber": 546,
     "Type": "Grass",
-    "SubType": "Fairy"
+    "SubType": "Fairy",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 263,
@@ -2364,7 +2888,9 @@
     "Shield": "",
     "NationalDexNumber": 547,
     "Type": "Grass",
-    "SubType": "Fairy"
+    "SubType": "Fairy",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 264,
@@ -2373,7 +2899,9 @@
     "Shield": "",
     "NationalDexNumber": 111,
     "Type": "Ground",
-    "SubType": "Rock"
+    "SubType": "Rock",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 265,
@@ -2382,7 +2910,9 @@
     "Shield": "",
     "NationalDexNumber": 112,
     "Type": "Ground",
-    "SubType": "Rock"
+    "SubType": "Rock",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 266,
@@ -2391,7 +2921,9 @@
     "Shield": "",
     "NationalDexNumber": 464,
     "Type": "Ground",
-    "SubType": "Rock"
+    "SubType": "Rock",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 267,
@@ -2400,7 +2932,9 @@
     "Shield": "",
     "NationalDexNumber": 574,
     "Type": "Psychic",
-    "SubType": ""
+    "SubType": "",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 268,
@@ -2409,7 +2943,9 @@
     "Shield": "",
     "NationalDexNumber": 575,
     "Type": "Psychic",
-    "SubType": ""
+    "SubType": "",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 269,
@@ -2418,7 +2954,9 @@
     "Shield": "",
     "NationalDexNumber": 576,
     "Type": "Psychic",
-    "SubType": ""
+    "SubType": "",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 270,
@@ -2427,7 +2965,9 @@
     "Shield": "Shield",
     "NationalDexNumber": 577,
     "Type": "Psychic",
-    "SubType": ""
+    "SubType": "",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 271,
@@ -2436,7 +2976,9 @@
     "Shield": "Shield",
     "NationalDexNumber": 578,
     "Type": "Psychic",
-    "SubType": ""
+    "SubType": "",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 272,
@@ -2445,7 +2987,9 @@
     "Shield": "Shield",
     "NationalDexNumber": 579,
     "Type": "Psychic",
-    "SubType": ""
+    "SubType": "",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 273,
@@ -2454,7 +2998,9 @@
     "Shield": "",
     "NationalDexNumber": 588,
     "Type": "Bug",
-    "SubType": ""
+    "SubType": "",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 274,
@@ -2463,7 +3009,9 @@
     "Shield": "",
     "NationalDexNumber": 589,
     "Type": "Bug",
-    "SubType": "Steel"
+    "SubType": "Steel",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 275,
@@ -2472,7 +3020,9 @@
     "Shield": "",
     "NationalDexNumber": 616,
     "Type": "Bug",
-    "SubType": ""
+    "SubType": "",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 276,
@@ -2481,7 +3031,9 @@
     "Shield": "",
     "NationalDexNumber": 617,
     "Type": "Bug",
-    "SubType": ""
+    "SubType": "",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 277,
@@ -2490,7 +3042,9 @@
     "Shield": "",
     "NationalDexNumber": 605,
     "Type": "Psychic",
-    "SubType": ""
+    "SubType": "",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 278,
@@ -2499,7 +3053,9 @@
     "Shield": "",
     "NationalDexNumber": 606,
     "Type": "Psychic",
-    "SubType": ""
+    "SubType": "",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 279,
@@ -2508,7 +3064,9 @@
     "Shield": "",
     "NationalDexNumber": 613,
     "Type": "Ice",
-    "SubType": ""
+    "SubType": "",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 280,
@@ -2517,7 +3075,9 @@
     "Shield": "",
     "NationalDexNumber": 614,
     "Type": "Ice",
-    "SubType": ""
+    "SubType": "",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 281,
@@ -2526,7 +3086,9 @@
     "Shield": "",
     "NationalDexNumber": 627,
     "Type": "Normal",
-    "SubType": "Flying"
+    "SubType": "Flying",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 282,
@@ -2535,7 +3097,9 @@
     "Shield": "",
     "NationalDexNumber": 628,
     "Type": "Normal",
-    "SubType": "Flying"
+    "SubType": "Flying",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 283,
@@ -2544,7 +3108,9 @@
     "Shield": "Shield",
     "NationalDexNumber": 629,
     "Type": "Dark",
-    "SubType": "Flying"
+    "SubType": "Flying",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 284,
@@ -2553,7 +3119,9 @@
     "Shield": "Shield",
     "NationalDexNumber": 630,
     "Type": "Dark",
-    "SubType": "Flying"
+    "SubType": "Flying",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 285,
@@ -2562,7 +3130,9 @@
     "Shield": "",
     "NationalDexNumber": 451,
     "Type": "Poison",
-    "SubType": "Bug"
+    "SubType": "Bug",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 286,
@@ -2571,7 +3141,9 @@
     "Shield": "",
     "NationalDexNumber": 452,
     "Type": "Poison",
-    "SubType": "Dark"
+    "SubType": "Dark",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 287,
@@ -2580,7 +3152,9 @@
     "Shield": "",
     "NationalDexNumber": 607,
     "Type": "Ghost",
-    "SubType": "Fire"
+    "SubType": "Fire",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 288,
@@ -2589,7 +3163,9 @@
     "Shield": "",
     "NationalDexNumber": 608,
     "Type": "Ghost",
-    "SubType": "Fire"
+    "SubType": "Fire",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 289,
@@ -2598,7 +3174,9 @@
     "Shield": "",
     "NationalDexNumber": 609,
     "Type": "Ghost",
-    "SubType": "Fire"
+    "SubType": "Fire",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 290,
@@ -2607,7 +3185,9 @@
     "Shield": "",
     "NationalDexNumber": 686,
     "Type": "Dark",
-    "SubType": "Psychic"
+    "SubType": "Psychic",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 291,
@@ -2616,7 +3196,9 @@
     "Shield": "",
     "NationalDexNumber": 687,
     "Type": "Dark",
-    "SubType": "Psychic"
+    "SubType": "Psychic",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 292,
@@ -2625,7 +3207,9 @@
     "Shield": "",
     "NationalDexNumber": 215,
     "Type": "Dark",
-    "SubType": "Ice"
+    "SubType": "Ice",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 293,
@@ -2634,7 +3218,9 @@
     "Shield": "",
     "NationalDexNumber": 461,
     "Type": "Dark",
-    "SubType": "Ice"
+    "SubType": "Ice",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 294,
@@ -2643,7 +3229,9 @@
     "Shield": "Shield",
     "NationalDexNumber": 302,
     "Type": "Dark",
-    "SubType": "Ghost"
+    "SubType": "Ghost",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 295,
@@ -2652,7 +3240,9 @@
     "Shield": "",
     "NationalDexNumber": 303,
     "Type": "Steel",
-    "SubType": "Fairy"
+    "SubType": "Fairy",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 296,
@@ -2661,7 +3251,9 @@
     "Shield": "",
     "NationalDexNumber": 556,
     "Type": "Grass",
-    "SubType": ""
+    "SubType": "",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 297,
@@ -2670,7 +3262,9 @@
     "Shield": "",
     "NationalDexNumber": 561,
     "Type": "Psychic",
-    "SubType": "Flying"
+    "SubType": "Flying",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 298,
@@ -2679,7 +3273,9 @@
     "Shield": "",
     "NationalDexNumber": 447,
     "Type": "Fighting",
-    "SubType": ""
+    "SubType": "",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 299,
@@ -2688,7 +3284,9 @@
     "Shield": "",
     "NationalDexNumber": 448,
     "Type": "Fighting",
-    "SubType": "Steel"
+    "SubType": "Steel",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 300,
@@ -2697,7 +3295,9 @@
     "Shield": "",
     "NationalDexNumber": 324,
     "Type": "Fire",
-    "SubType": ""
+    "SubType": "",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 301,
@@ -2706,7 +3306,9 @@
     "Shield": "",
     "NationalDexNumber": 778,
     "Type": "Ghost",
-    "SubType": "Fairy"
+    "SubType": "Fairy",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 302,
@@ -2715,7 +3317,9 @@
     "Shield": "",
     "NationalDexNumber": 878,
     "Type": "Steel",
-    "SubType": ""
+    "SubType": "",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 303,
@@ -2724,7 +3328,9 @@
     "Shield": "",
     "NationalDexNumber": 879,
     "Type": "Steel",
-    "SubType": ""
+    "SubType": "",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 304,
@@ -2733,7 +3339,9 @@
     "Shield": "",
     "NationalDexNumber": 211,
     "Type": "Water",
-    "SubType": "Poison"
+    "SubType": "Poison",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 305,
@@ -2742,7 +3350,9 @@
     "Shield": "",
     "NationalDexNumber": 592,
     "Type": "Water",
-    "SubType": "Ghost"
+    "SubType": "Ghost",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 306,
@@ -2751,7 +3361,9 @@
     "Shield": "",
     "NationalDexNumber": 593,
     "Type": "Water",
-    "SubType": "Ghost"
+    "SubType": "Ghost",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 307,
@@ -2760,7 +3372,9 @@
     "Shield": "",
     "NationalDexNumber": 747,
     "Type": "Poison",
-    "SubType": "Water"
+    "SubType": "Water",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 308,
@@ -2769,7 +3383,9 @@
     "Shield": "",
     "NationalDexNumber": 748,
     "Type": "Poison",
-    "SubType": "Water"
+    "SubType": "Water",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 309,
@@ -2778,7 +3394,9 @@
     "Shield": "",
     "NationalDexNumber": 845,
     "Type": "Flying",
-    "SubType": "Water"
+    "SubType": "Water",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 310,
@@ -2787,7 +3405,9 @@
     "Shield": "",
     "NationalDexNumber": 848,
     "Type": "Electric",
-    "SubType": "Poison"
+    "SubType": "Poison",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 311,
@@ -2796,7 +3416,9 @@
     "Shield": "",
     "NationalDexNumber": 849,
     "Type": "Electric",
-    "SubType": "Poison"
+    "SubType": "Poison",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 312,
@@ -2805,7 +3427,9 @@
     "Shield": "",
     "NationalDexNumber": 843,
     "Type": "Ground",
-    "SubType": ""
+    "SubType": "",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 313,
@@ -2814,7 +3438,9 @@
     "Shield": "",
     "NationalDexNumber": 844,
     "Type": "Ground",
-    "SubType": ""
+    "SubType": "",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 314,
@@ -2823,7 +3449,9 @@
     "Shield": "",
     "NationalDexNumber": 449,
     "Type": "Ground",
-    "SubType": ""
+    "SubType": "",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 315,
@@ -2832,7 +3460,9 @@
     "Shield": "",
     "NationalDexNumber": 450,
     "Type": "Ground",
-    "SubType": ""
+    "SubType": "",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 316,
@@ -2841,7 +3471,9 @@
     "Shield": "",
     "NationalDexNumber": 632,
     "Type": "Bug",
-    "SubType": "Steel"
+    "SubType": "Steel",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 317,
@@ -2850,7 +3482,9 @@
     "Shield": "",
     "NationalDexNumber": 631,
     "Type": "Fire",
-    "SubType": ""
+    "SubType": "",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 318,
@@ -2859,7 +3493,9 @@
     "Shield": "",
     "NationalDexNumber": 694,
     "Type": "Electric",
-    "SubType": "Normal"
+    "SubType": "Normal",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 319,
@@ -2868,7 +3504,9 @@
     "Shield": "",
     "NationalDexNumber": 695,
     "Type": "Electric",
-    "SubType": "Normal"
+    "SubType": "Normal",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 320,
@@ -2877,7 +3515,9 @@
     "Shield": "",
     "NationalDexNumber": 701,
     "Type": "Fighting",
-    "SubType": "Flying"
+    "SubType": "Flying",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 321,
@@ -2886,7 +3526,9 @@
     "Shield": "",
     "NationalDexNumber": 328,
     "Type": "Ground",
-    "SubType": ""
+    "SubType": "",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 322,
@@ -2895,7 +3537,9 @@
     "Shield": "",
     "NationalDexNumber": 329,
     "Type": "Ground",
-    "SubType": "Dragon"
+    "SubType": "Dragon",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 323,
@@ -2904,7 +3548,9 @@
     "Shield": "",
     "NationalDexNumber": 330,
     "Type": "Ground",
-    "SubType": "Dragon"
+    "SubType": "Dragon",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 324,
@@ -2913,7 +3559,9 @@
     "Shield": "",
     "NationalDexNumber": 610,
     "Type": "Dragon",
-    "SubType": ""
+    "SubType": "",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 325,
@@ -2922,7 +3570,9 @@
     "Shield": "",
     "NationalDexNumber": 611,
     "Type": "Dragon",
-    "SubType": ""
+    "SubType": "",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 326,
@@ -2931,7 +3581,9 @@
     "Shield": "",
     "NationalDexNumber": 612,
     "Type": "Dragon",
-    "SubType": ""
+    "SubType": "",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 327,
@@ -2940,7 +3592,9 @@
     "Shield": "",
     "NationalDexNumber": 562,
     "Type": "Ground",
-    "SubType": "Ghost"
+    "SubType": "Ghost",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 328,
@@ -2949,7 +3603,9 @@
     "Shield": "",
     "NationalDexNumber": 867,
     "Type": "Ground",
-    "SubType": "Ghost"
+    "SubType": "Ghost",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 329,
@@ -2958,7 +3614,9 @@
     "Shield": "",
     "NationalDexNumber": 563,
     "Type": "Ghost",
-    "SubType": ""
+    "SubType": "",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 330,
@@ -2967,7 +3625,9 @@
     "Shield": "",
     "NationalDexNumber": 679,
     "Type": "Steel",
-    "SubType": "Ghost"
+    "SubType": "Ghost",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 331,
@@ -2976,7 +3636,9 @@
     "Shield": "",
     "NationalDexNumber": 680,
     "Type": "Steel",
-    "SubType": "Ghost"
+    "SubType": "Ghost",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 332,
@@ -2985,7 +3647,9 @@
     "Shield": "",
     "NationalDexNumber": 681,
     "Type": "Steel",
-    "SubType": "Ghost"
+    "SubType": "Ghost",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 333,
@@ -2994,7 +3658,9 @@
     "Shield": "Shield",
     "NationalDexNumber": 77,
     "Type": "Psychic",
-    "SubType": ""
+    "SubType": "",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 334,
@@ -3003,7 +3669,9 @@
     "Shield": "Shield",
     "NationalDexNumber": 78,
     "Type": "Psychic",
-    "SubType": "Fair"
+    "SubType": "Fair",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 335,
@@ -3012,7 +3680,9 @@
     "Shield": "",
     "NationalDexNumber": 854,
     "Type": "Ghost",
-    "SubType": ""
+    "SubType": "",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 336,
@@ -3021,7 +3691,9 @@
     "Shield": "",
     "NationalDexNumber": 855,
     "Type": "Ghost",
-    "SubType": ""
+    "SubType": "",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 337,
@@ -3030,7 +3702,9 @@
     "Shield": "",
     "NationalDexNumber": 876,
     "Type": "Psychic",
-    "SubType": "Normal"
+    "SubType": "Normal",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 338,
@@ -3039,7 +3713,9 @@
     "Shield": "",
     "NationalDexNumber": 708,
     "Type": "Ghost",
-    "SubType": "Grass"
+    "SubType": "Grass",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 339,
@@ -3048,7 +3724,9 @@
     "Shield": "",
     "NationalDexNumber": 709,
     "Type": "Ghost",
-    "SubType": "Grass"
+    "SubType": "Grass",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 340,
@@ -3057,7 +3735,9 @@
     "Shield": "",
     "NationalDexNumber": 755,
     "Type": "Grass",
-    "SubType": "Fairy"
+    "SubType": "Fairy",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 341,
@@ -3066,7 +3746,9 @@
     "Shield": "",
     "NationalDexNumber": 756,
     "Type": "Grass",
-    "SubType": "Fairy"
+    "SubType": "Fairy",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 342,
@@ -3075,7 +3757,9 @@
     "Shield": "Shield",
     "NationalDexNumber": 765,
     "Type": "Normal",
-    "SubType": "Psychic"
+    "SubType": "Psychic",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 343,
@@ -3084,7 +3768,9 @@
     "Shield": "",
     "NationalDexNumber": 766,
     "Type": "Fighting",
-    "SubType": ""
+    "SubType": "",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 344,
@@ -3093,7 +3779,9 @@
     "Shield": "",
     "NationalDexNumber": 877,
     "Type": "Electric",
-    "SubType": "Dark"
+    "SubType": "Dark",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 345,
@@ -3102,7 +3790,9 @@
     "Shield": "",
     "NationalDexNumber": 870,
     "Type": "Fighting",
-    "SubType": ""
+    "SubType": "",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 346,
@@ -3111,7 +3801,9 @@
     "Shield": "Shield",
     "NationalDexNumber": 780,
     "Type": "Normal",
-    "SubType": "Dragon"
+    "SubType": "Dragon",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 347,
@@ -3120,7 +3812,9 @@
     "Shield": "",
     "NationalDexNumber": 776,
     "Type": "Fire",
-    "SubType": "Dragon"
+    "SubType": "Dragon",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 348,
@@ -3129,7 +3823,9 @@
     "Shield": "",
     "NationalDexNumber": 777,
     "Type": "Electric",
-    "SubType": "Steel"
+    "SubType": "Steel",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 349,
@@ -3138,7 +3834,9 @@
     "Shield": "",
     "NationalDexNumber": 872,
     "Type": "Ice",
-    "SubType": "Bug"
+    "SubType": "Bug",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 350,
@@ -3147,7 +3845,9 @@
     "Shield": "",
     "NationalDexNumber": 873,
     "Type": "Ice",
-    "SubType": "Bug"
+    "SubType": "Bug",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 351,
@@ -3156,7 +3856,9 @@
     "Shield": "",
     "NationalDexNumber": 852,
     "Type": "Fighting",
-    "SubType": ""
+    "SubType": "",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 352,
@@ -3165,7 +3867,9 @@
     "Shield": "",
     "NationalDexNumber": 853,
     "Type": "Fighting",
-    "SubType": ""
+    "SubType": "",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 353,
@@ -3174,7 +3878,9 @@
     "Shield": "",
     "NationalDexNumber": 871,
     "Type": "Electric",
-    "SubType": ""
+    "SubType": "",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 354,
@@ -3183,7 +3889,9 @@
     "Shield": "",
     "NationalDexNumber": 458,
     "Type": "Water",
-    "SubType": "Flying"
+    "SubType": "Flying",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 355,
@@ -3192,7 +3900,9 @@
     "Shield": "",
     "NationalDexNumber": 226,
     "Type": "Water",
-    "SubType": "Flying"
+    "SubType": "Flying",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 356,
@@ -3201,7 +3911,9 @@
     "Shield": "",
     "NationalDexNumber": 320,
     "Type": "Water",
-    "SubType": ""
+    "SubType": "",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 357,
@@ -3210,7 +3922,9 @@
     "Shield": "",
     "NationalDexNumber": 321,
     "Type": "Water",
-    "SubType": ""
+    "SubType": "",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 358,
@@ -3219,7 +3933,9 @@
     "Shield": "",
     "NationalDexNumber": 712,
     "Type": "Ice",
-    "SubType": ""
+    "SubType": "",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 359,
@@ -3228,7 +3944,9 @@
     "Shield": "",
     "NationalDexNumber": 713,
     "Type": "Ice",
-    "SubType": ""
+    "SubType": "",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 360,
@@ -3237,7 +3955,9 @@
     "Shield": "",
     "NationalDexNumber": 781,
     "Type": "Ghost",
-    "SubType": "Grass"
+    "SubType": "Grass",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 361,
@@ -3246,7 +3966,9 @@
     "Shield": "",
     "NationalDexNumber": 131,
     "Type": "Water",
-    "SubType": "Ice"
+    "SubType": "Ice",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 362,
@@ -3255,7 +3977,9 @@
     "Shield": "Shield",
     "NationalDexNumber": 337,
     "Type": "Rock",
-    "SubType": "Psychic"
+    "SubType": "Psychic",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 363,
@@ -3264,7 +3988,9 @@
     "Shield": "",
     "NationalDexNumber": 338,
     "Type": "Rock",
-    "SubType": "Psychic"
+    "SubType": "Psychic",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 364,
@@ -3273,7 +3999,9 @@
     "Shield": "",
     "NationalDexNumber": 439,
     "Type": "Psychic",
-    "SubType": "Fairy"
+    "SubType": "Fairy",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 365,
@@ -3282,7 +4010,9 @@
     "Shield": "",
     "NationalDexNumber": 122,
     "Type": "Ice",
-    "SubType": "Psychic"
+    "SubType": "Psychic",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 366,
@@ -3291,7 +4021,9 @@
     "Shield": "",
     "NationalDexNumber": 866,
     "Type": "Ice",
-    "SubType": "Psychic"
+    "SubType": "Psychic",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 367,
@@ -3300,7 +4032,9 @@
     "Shield": "",
     "NationalDexNumber": 554,
     "Type": "Ice",
-    "SubType": ""
+    "SubType": "",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 368,
@@ -3309,7 +4043,9 @@
     "Shield": "",
     "NationalDexNumber": 555,
     "Type": "Ice",
-    "SubType": ""
+    "SubType": "",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 369,
@@ -3318,7 +4054,9 @@
     "Shield": "",
     "NationalDexNumber": 874,
     "Type": "Rock",
-    "SubType": ""
+    "SubType": "",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 370,
@@ -3327,7 +4065,9 @@
     "Shield": "Shield",
     "NationalDexNumber": 875,
     "Type": "Ice",
-    "SubType": ""
+    "SubType": "",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 371,
@@ -3336,7 +4076,9 @@
     "Shield": "",
     "NationalDexNumber": 884,
     "Type": "Steel",
-    "SubType": "Dragon"
+    "SubType": "Dragon",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 372,
@@ -3345,7 +4087,9 @@
     "Shield": "",
     "NationalDexNumber": 479,
     "Type": "Electric",
-    "SubType": "Ghost"
+    "SubType": "Ghost",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 373,
@@ -3354,7 +4098,9 @@
     "Shield": "",
     "NationalDexNumber": 132,
     "Type": "Normal",
-    "SubType": ""
+    "SubType": "",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 374,
@@ -3363,7 +4109,9 @@
     "Shield": "",
     "NationalDexNumber": 880,
     "Type": "Electric",
-    "SubType": "Dragon"
+    "SubType": "Dragon",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 375,
@@ -3372,7 +4120,9 @@
     "Shield": "",
     "NationalDexNumber": 881,
     "Type": "Electric",
-    "SubType": "Ice"
+    "SubType": "Ice",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 376,
@@ -3381,7 +4131,9 @@
     "Shield": "",
     "NationalDexNumber": 882,
     "Type": "Water",
-    "SubType": "Dragon"
+    "SubType": "Dragon",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 377,
@@ -3390,7 +4142,9 @@
     "Shield": "",
     "NationalDexNumber": 883,
     "Type": "Water",
-    "SubType": "Ice"
+    "SubType": "Ice",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 378,
@@ -3399,7 +4153,9 @@
     "Shield": "",
     "NationalDexNumber": 4,
     "Type": "Fire",
-    "SubType": ""
+    "SubType": "",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 379,
@@ -3408,7 +4164,9 @@
     "Shield": "",
     "NationalDexNumber": 5,
     "Type": "Fire",
-    "SubType": ""
+    "SubType": "",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 380,
@@ -3417,16 +4175,20 @@
     "Shield": "",
     "NationalDexNumber": 6,
     "Type": "Fire",
-    "SubType": ""
+    "SubType": "Flying",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 381,
-    "Pokemon": "Type: Null",
+    "Pokemon": "Type:Null",
     "Sword": "",
     "Shield": "",
     "NationalDexNumber": 772,
     "Type": "Normal",
-    "SubType": ""
+    "SubType": "",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 382,
@@ -3435,7 +4197,9 @@
     "Shield": "",
     "NationalDexNumber": 773,
     "Type": "Normal",
-    "SubType": ""
+    "SubType": "",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 383,
@@ -3444,7 +4208,9 @@
     "Shield": "Shield",
     "NationalDexNumber": 246,
     "Type": "Rock",
-    "SubType": "Ground"
+    "SubType": "Ground",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 384,
@@ -3453,7 +4219,9 @@
     "Shield": "Shield",
     "NationalDexNumber": 247,
     "Type": "Rock",
-    "SubType": "Ground"
+    "SubType": "Ground",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 385,
@@ -3462,7 +4230,9 @@
     "Shield": "Shield",
     "NationalDexNumber": 248,
     "Type": "Rock",
-    "SubType": "Dark"
+    "SubType": "Dark",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 386,
@@ -3471,7 +4241,9 @@
     "Shield": "",
     "NationalDexNumber": 633,
     "Type": "Dark",
-    "SubType": "Dragon"
+    "SubType": "Dragon",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 387,
@@ -3480,7 +4252,9 @@
     "Shield": "",
     "NationalDexNumber": 634,
     "Type": "Dark",
-    "SubType": "Dragon"
+    "SubType": "Dragon",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 388,
@@ -3489,7 +4263,9 @@
     "Shield": "",
     "NationalDexNumber": 635,
     "Type": "Dark",
-    "SubType": "Dragon"
+    "SubType": "Dragon",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 389,
@@ -3498,7 +4274,9 @@
     "Shield": "Shield",
     "NationalDexNumber": 704,
     "Type": "Dragon",
-    "SubType": ""
+    "SubType": "",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 390,
@@ -3507,7 +4285,9 @@
     "Shield": "Shield",
     "NationalDexNumber": 705,
     "Type": "Dragon",
-    "SubType": ""
+    "SubType": "",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 391,
@@ -3516,7 +4296,9 @@
     "Shield": "Shield",
     "NationalDexNumber": 706,
     "Type": "Dragon",
-    "SubType": ""
+    "SubType": "",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 392,
@@ -3525,7 +4307,9 @@
     "Shield": "",
     "NationalDexNumber": 782,
     "Type": "Dragon",
-    "SubType": ""
+    "SubType": "",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 393,
@@ -3534,7 +4318,9 @@
     "Shield": "",
     "NationalDexNumber": 783,
     "Type": "Dragon",
-    "SubType": "Fighting"
+    "SubType": "Fighting",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 394,
@@ -3543,7 +4329,9 @@
     "Shield": "",
     "NationalDexNumber": 784,
     "Type": "Dragon",
-    "SubType": "Fighting"
+    "SubType": "Fighting",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 395,
@@ -3552,7 +4340,9 @@
     "Shield": "",
     "NationalDexNumber": 885,
     "Type": "Dragon",
-    "SubType": "Ghost"
+    "SubType": "Ghost",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 396,
@@ -3561,7 +4351,9 @@
     "Shield": "",
     "NationalDexNumber": 886,
     "Type": "Dragon",
-    "SubType": "Ghost"
+    "SubType": "Ghost",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 397,
@@ -3570,7 +4362,9 @@
     "Shield": "",
     "NationalDexNumber": 887,
     "Type": "Dragon",
-    "SubType": "Ghost"
+    "SubType": "Ghost",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 398,
@@ -3579,7 +4373,9 @@
     "Shield": "",
     "NationalDexNumber": 888,
     "Type": "Fairy",
-    "SubType": ""
+    "SubType": "",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 399,
@@ -3588,7 +4384,9 @@
     "Shield": "Shield",
     "NationalDexNumber": 889,
     "Type": "Fighting",
-    "SubType": ""
+    "SubType": "",
+    "Evolution": "",
+    "Found": ""
   },
   {
     "Number": 400,
@@ -3597,6 +4395,8 @@
     "Shield": "",
     "NationalDexNumber": 890,
     "Type": "Poison",
-    "SubType": "Dragon"
+    "SubType": "Dragon",
+    "Evolution": "",
+    "Found": ""
   }
 ]

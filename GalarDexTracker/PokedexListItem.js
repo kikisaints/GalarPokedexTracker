@@ -1,6 +1,8 @@
 import React, { Component } from 'react';
-import { Text, View, StyleSheet, Image, Platform, TouchableOpacity, AsyncStorage, Linking } from 'react-native';
+import { Text, View, StyleSheet, Image, Platform, TouchableOpacity, AsyncStorage, Linking, Alert } from 'react-native';
 import Collapsible from 'react-native-collapsible';
+import TypeTagList  from './TypeTagList';
+import TypeTag  from './TypeTag';
 
 export default class PokedexListItem extends Component {
   _isMounted = false;
@@ -10,6 +12,7 @@ export default class PokedexListItem extends Component {
    this.state = {
      caught: false,
      shiny: false,
+     showInfo: false,
    }
 }
 
@@ -34,6 +37,28 @@ export default class PokedexListItem extends Component {
     }
   }
 
+  showStrengthAlert = () => {
+    Alert.alert(
+      'Super Effective!',
+      'Against the following types',
+      [
+        {text: 'OK'},
+      ],
+      {cancelable: false},
+    );
+  }
+
+  showWeaknessAlert = () => {
+    Alert.alert(
+      'Not Very Effective...',
+      'Against the following types',
+      [
+        {text: 'OK'},
+      ],
+      {cancelable: false},
+    );
+  }
+
   componentWillUnmount() {
     this._isMounted = false;
   }
@@ -54,6 +79,12 @@ export default class PokedexListItem extends Component {
       AsyncStorage.setItem(this.props.pokemonName + 'ShinyStatus', (!this.state.shiny).toString());
     }
 
+    onPokemonPress = async ()=>{
+        this.setState({
+          showInfo: !this.state.showInfo
+        })
+      }
+
     getIconPathNumber(number) {
       if(number === '077' || number === '078')
         return number + '-g';
@@ -61,18 +92,62 @@ export default class PokedexListItem extends Component {
       return number;
     }
 
-
   render() {
     const IconPathNumber = this.props.itemIndex;
+    const MainType = this.props.pokemonType.toLowerCase();
+    const SubType = this.props.pokemonSubType.toLowerCase();
     const IconPath = {uri: 'https://www.serebii.net/pokedex-swsh/icon/' + this.getIconPathNumber(IconPathNumber) + '.png'};
+    const TypeTagOne = {uri: 'https://www.serebii.net/attackdex-bw/type/' + MainType.toLowerCase() + '.gif'};
+    const TypeTagTwo = {uri: 'https://www.serebii.net/attackdex-bw/type/' + SubType.toLowerCase() + '.gif'};
 
     const HasCaught = false;
 
+    var pokemonInfo = null;
+    if (this.state.showInfo)
+    {
+      pokemonInfo = (
+        <View style={styles.subitemInfobackground}>
+          <View style={{flexDirection: 'column'}}>
+
+            <View style={{flexDirection: 'row'}}>
+              <TypeTag style={{marginRight: 8}} Type={MainType.toLowerCase()}/>
+              <TypeTag Type={SubType.toLowerCase()}/>
+            </View>
+
+              <View style={{flexDirection: 'row', marginTop: 10}}>
+                <View style={styles.UpArrow}/>
+                <TouchableOpacity onPress={this.showStrengthAlert}>
+                  <TypeTagList ShowWeakness={false} PrimaryType={MainType.toLowerCase()} SecondaryType={SubType.toLowerCase()}/>
+                </TouchableOpacity>
+              </View>
+
+              <View style={{flexDirection: 'row',  marginTop: 5}}>
+                <View style={styles.DownArrow}/>
+                <TouchableOpacity onPress={this.showWeaknessAlert}>
+                  <TypeTagList ShowWeakness={true} PrimaryType={MainType.toLowerCase()} SecondaryType={SubType.toLowerCase()}/>
+                </TouchableOpacity>
+              </View>
+
+              <Text style={{fontSize: 13, marginTop: 10, fontWeight: 'bold', marginBottom: 4}}>Evolution</Text>
+              <Text>{this.props.pokemonEvolution}</Text>
+
+              <Text style={{fontSize: 13, marginTop: 10, fontWeight: 'bold', marginBottom: 4}}>Locations</Text>
+              <Text>{this.props.pokemonLocations}</Text>
+
+              <TouchableOpacity onPress={ () => Linking.openURL('https://www.serebii.net/pokedex-swsh/'+ this.props.pokemonName.toLowerCase() + '/')}>
+                <Text style={{fontSize: 13, marginTop: 15, fontWeight: 'bold', marginBottom: 4, color: 'blue'}}>More Info (link)</Text>
+              </TouchableOpacity>
+          </View>
+        </View>
+      );
+    }
+
     return (
+      <View>
       <View style={styles.listitembackground}>
         <Text style={styles.dexnumber}># {this.props.pokemonNumber}</Text>
         <TouchableOpacity style={{flexDirection: 'row'}}
-          onPress={ ()=>{ Linking.openURL('https://www.serebii.net/pokedex-swsh/'+ this.props.pokemonName.toLowerCase() + '/')}}>
+          onPress={this.onPokemonPress}>
           <Image style={{marginLeft: 5, maxWidth: 60, maxHeight: 60, minWidth: 32, minHeight: 32}} resizeMode={'contain'}
             source={IconPath}/>
           <Text style={styles.dexname}>{this.props.pokemonName}</Text>
@@ -83,7 +158,7 @@ export default class PokedexListItem extends Component {
           <TouchableOpacity onPress={this.onCaughtPress}>
               <View style={styles.toggles}>
                   <Image style={[styles.pokeballicon, this.state.caught ? styles.caughtpokemon : styles.uncaughtpokemon]} resizeMode={'contain'}
-                    source={{uri: 'https://www.serebii.net/itemdex/sprites/pokeball.png'}}/>
+                    source={{uri: 'https://raw.githubusercontent.com/msikma/pokesprite/master/icons/ball/poke.png'}}/>
               </View>
             </TouchableOpacity>
             <TouchableOpacity onPress={this.onShinyPress}>
@@ -99,11 +174,55 @@ export default class PokedexListItem extends Component {
           </View>
         </View>
       </View>
+
+      <View>
+        {pokemonInfo}
+      </View>
+
+      </View>
     );
   }
 }
 
 const styles = StyleSheet.create({
+  hiddenInfo: {
+    height: 0,
+    width: 0,
+  },
+  UpArrow: {
+    width: 0,
+    height: 0,
+    borderLeftWidth: 5,
+    borderRightWidth: 5,
+    borderBottomWidth: 10,
+    borderStyle: 'solid',
+    backgroundColor: 'transparent',
+    borderLeftColor: 'transparent',
+    borderRightColor: 'transparent',
+    borderBottomColor: '#2f912d',
+    marginRight: 8,
+    marginTop: 3,
+    shadowColor: 'rgba(0, 0, 0, 0.75)',
+    shadowOffset: {width: -1, height: 1},
+    shadowRadius: 1,
+  },
+  DownArrow: {
+    width: 0,
+    height: 0,
+    borderLeftWidth: 5,
+    borderRightWidth: 5,
+    borderTopWidth: 10,
+    borderStyle: 'solid',
+    backgroundColor: 'transparent',
+    borderLeftColor: 'transparent',
+    borderRightColor: 'transparent',
+    borderTopColor: '#d42c32',
+    marginRight: 8,
+    marginTop: 3,
+    shadowColor: 'rgba(0, 0, 0, 0.75)',
+    shadowOffset: {width: -1, height: 1},
+    shadowRadius: 1,
+  },
   listitembackground: {
     flex: 1,
     backgroundColor: '#e8e8e8',
@@ -112,6 +231,24 @@ const styles = StyleSheet.create({
     borderRadius: 4,
     padding: 10,
     marginTop: 1,
+    marginBottom: 1,
+    marginLeft: 5,
+    marginRight: 5,
+    flexDirection: 'row',
+    alignItems: 'center',
+    justifyContent: 'flex-start'
+  },
+  subitemInfobackground: {
+    flex: 1,
+    backgroundColor: '#f2f2f2',
+    borderWidth: 1,
+    borderColor: '#dbdbdb',
+    borderBottomLeftRadius: 4,
+    borderBottomRightRadius: 4,
+    borderTopLeftRadius: 0,
+    borderTopRightRadius: 0,
+    padding: 15,
+    marginTop: -4,
     marginBottom: 1,
     marginLeft: 5,
     marginRight: 5,
@@ -131,8 +268,8 @@ const styles = StyleSheet.create({
     alignContent: 'stretch'
   },
   pokeballicon: {
-    width: 24,
-    height: 24,
+    width: 28,
+    height: 28,
   },
   caughtpokemon: {
     opacity: 1.0,
