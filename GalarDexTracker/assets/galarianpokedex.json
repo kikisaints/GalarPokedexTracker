@@ -8,7 +8,8 @@
     "Type": "Grass",
     "SubType": "",
     "Evolution": "Chosen as starter or traded from another game.",
-    "Found": "Chosen as starter or traded from another game."
+    "Found": "Chosen as starter or traded from another game.",
+    "Weather": "Not Applicable"
   },
   {
     "Number": 2,
@@ -19,7 +20,8 @@
     "Type": "Grass",
     "SubType": "",
     "Evolution": "Evolve Grookey, lvl 16+",
-    "Found": "Chosen as starter or traded from another game."
+    "Found": "Chosen as starter or traded from another game.",
+    "Weather": "Not Applicable"
   },
   {
     "Number": 3,
@@ -30,7 +32,8 @@
     "Type": "Grass",
     "SubType": "",
     "Evolution": "Evolve Thwackey, lvl 35+",
-    "Found": "Chosen as starter or traded from another game."
+    "Found": "Chosen as starter or traded from another game.",
+    "Weather": "Not Applicable"
   },
   {
     "Number": 4,
@@ -41,7 +44,8 @@
     "Type": "Fire",
     "SubType": "",
     "Evolution": "Chosen as starter or traded from another game.",
-    "Found": "Chosen as starter or traded from another game."
+    "Found": "Chosen as starter or traded from another game.",
+    "Weather": "Not Applicable"
   },
   {
     "Number": 5,
@@ -52,7 +56,8 @@
     "Type": "Fire",
     "SubType": "",
     "Evolution": "Evolve Scorbunny, lvl 16+",
-    "Found": "Chosen as starter or traded from another game."
+    "Found": "Chosen as starter or traded from another game.",
+    "Weather": "Not Applicable"
   },
   {
     "Number": 6,
@@ -63,7 +68,8 @@
     "Type": "Fire",
     "SubType": "",
     "Evolution": "Evolve Raboot, lvl 35+",
-    "Found": "Chosen as starter or traded from another game."
+    "Found": "Chosen as starter or traded from another game.",
+    "Weather": "Not Applicable"
   },
   {
     "Number": 7,
@@ -74,7 +80,8 @@
     "Type": "Water",
     "SubType": "",
     "Evolution": "Chosen as starter or traded from another game.",
-    "Found": "Chosen as starter or traded from another game."
+    "Found": "Chosen as starter or traded from another game.",
+    "Weather": "Not Applicable"
   },
   {
     "Number": 8,
@@ -85,7 +92,8 @@
     "Type": "Water",
     "SubType": "",
     "Evolution": "Evolve Sobble, lvl 16+",
-    "Found": "Chosen as starter or traded from another game."
+    "Found": "Chosen as starter or traded from another game.",
+    "Weather": "Not Applicable"
   },
   {
     "Number": 9,
@@ -96,7 +104,8 @@
     "Type": "Water",
     "SubType": "",
     "Evolution": "Evolve Drizzile, lvl 35+",
-    "Found": "Chosen as starter or traded from another game."
+    "Found": "Chosen as starter or traded from another game.",
+    "Weather": "Not Applicable"
   },
   {
     "Number": 10,
@@ -107,7 +116,8 @@
     "Type": "Bug",
     "SubType": "",
     "Evolution": "None",
-    "Found": "Route 1, Route 2, Giant's Cap, Slumbering Weald"
+    "Found": "Route 1, Route 2, Giant's Cap, Slumbering Weald",
+    "Weather": "Normal"
   },
   {
     "Number": 11,
@@ -118,7 +128,8 @@
     "Type": "Bug",
     "SubType": "Psychic",
     "Evolution": "Evolve Blipbug, lvl 10+",
-    "Found": ""
+    "Found": "",
+    "Weather": "Not Applicable"
   },
   {
     "Number": 12,
@@ -129,7 +140,8 @@
     "Type": "Bug",
     "SubType": "Psychic",
     "Evolution": "Evolve Dottler, Lvl 30+",
-    "Found": ""
+    "Found": "",
+    "Weather": "Not Applicable"
   },
   {
     "Number": 13,
@@ -140,7 +152,8 @@
     "Type": "Bug",
     "SubType": "",
     "Evolution": "None",
-    "Found": "Route 1\n"
+    "Found": "Route 1\n",
+    "Weather": "Not Applicable"
   },
   {
     "Number": 14,
@@ -151,7 +164,8 @@
     "Type": "Bug",
     "SubType": "",
     "Evolution": "Evolve Caterpie, lvl 7+",
-    "Found": "Rolling Fields"
+    "Found": "Rolling Fields",
+    "Weather": "Not Applicable"
   },
   {
     "Number": 15,
@@ -162,7 +176,8 @@
     "Type": "Bug",
     "SubType": "Flying",
     "Evolution": "Evolve Metapod, lvl 10+",
-    "Found": "East Lake Axewell, Giant's Mirror, Rolling Fields, Slumbering Weald"
+    "Found": "East Lake Axewell, Giant's Mirror, Rolling Fields, Slumbering Weald",
+    "Weather": "Not Applicable"
   },
   {
     "Number": 16,
@@ -173,7 +188,8 @@
     "Type": "Bug",
     "SubType": "",
     "Evolution": "None",
-    "Found": "Route 1, Dappled Grove, East Lake Axewell, North Lake Miloch, Slumbering Weald, Watchtower Ruins"
+    "Found": "Route 1, Dappled Grove, East Lake Axewell, North Lake Miloch, Slumbering Weald, Watchtower Ruins",
+    "Weather": "Raining, Thunderstorm"
   },
   {
     "Number": 17,
@@ -184,7 +200,8 @@
     "Type": "Bug",
     "SubType": "Electric",
     "Evolution": "Evolve Grubbin, lvl 20+",
-    "Found": "Axew's Eye, Dusty Bowl, Hammerlocke Hills"
+    "Found": "Axew's Eye, Dusty Bowl, Hammerlocke Hills",
+    "Weather": "Raining, Thunderstorm"
   },
   {
     "Number": 18,
@@ -195,7 +212,8 @@
     "Type": "Bug",
     "SubType": "Electric",
     "Evolution": "Evolve Charjabug, Thunder Stone",
-    "Found": "Giant's Mirror, Giant's Seat"
+    "Found": "Giant's Mirror, Giant's Seat",
+    "Weather": "Not Applicable"
   },
   {
     "Number": 19,
@@ -206,7 +224,8 @@
     "Type": "Normal",
     "SubType": "Flying",
     "Evolution": "None",
-    "Found": "Route 1, Route 2, Dappled Grove, Giant's Cap, Slumbering Weald"
+    "Found": "Route 1, Route 2, Dappled Grove, Giant's Cap, Slumbering Weald",
+    "Weather": "Not Applicable"
   },
   {
     "Number": 20,
@@ -217,7 +236,8 @@
     "Type": "Normal",
     "SubType": "Flying",
     "Evolution": "Evolve Hoothoot, lvl 20+",
-    "Found": "Bridge Field, Giant's Cap, Motostoke Outskirts, Motostoke Riverbank"
+    "Found": "Bridge Field, Giant's Cap, Motostoke Outskirts, Motostoke Riverbank",
+    "Weather": "Not Applicable"
   },
   {
     "Number": 21,
@@ -228,7 +248,8 @@
     "Type": "Flying",
     "SubType": "",
     "Evolution": "None",
-    "Found": "Route 1, Route 2, Route 3, Motostoke Riverbank, Slumbering Weald"
+    "Found": "Route 1, Route 2, Route 3, Motostoke Riverbank, Slumbering Weald",
+    "Weather": "Overcast"
   },
   {
     "Number": 22,
@@ -239,7 +260,8 @@
     "Type": "Flying",
     "SubType": "",
     "Evolution": "Evolve Rookidee, lvl 18+",
-    "Found": "Route 3, Giant's Mirror, Hammerlocke Hills, Motostoke Riverbank"
+    "Found": "Route 3, Giant's Mirror, Hammerlocke Hills, Motostoke Riverbank",
+    "Weather": "Not Applicable"
   },
   {
     "Number": 23,
@@ -250,7 +272,8 @@
     "Type": "Flying",
     "SubType": "Steel",
     "Evolution": "Evolve Corvisquire, lvl 38+",
-    "Found": "Route 7, Dusty Bowl, Giant's Cap, Hammerlocke Hills, Lake of Outrage, Motostoke Riverbank, North Lake Miloch, Slumbering Weald, Watchtower Ruins"
+    "Found": "Route 7, Dusty Bowl, Giant's Cap, Hammerlocke Hills, Lake of Outrage, Motostoke Riverbank, North Lake Miloch, Slumbering Weald, Watchtower Ruins",
+    "Weather": "Not Applicable"
   },
   {
     "Number": 24,
@@ -261,7 +284,8 @@
     "Type": "Normal",
     "SubType": "",
     "Evolution": "None",
-    "Found": "Route 1, Route 2, Route 3, Route 4, Route 5, Dappled Grove, Motostoke Riverbank, North Lake Miloch, Rolling Fields, Slumbering Weald, Watchtower Ruins"
+    "Found": "Route 1, Route 2, Route 3, Route 4, Route 5, Dappled Grove, Motostoke Riverbank, North Lake Miloch, Rolling Fields, Slumbering Weald, Watchtower Ruins",
+    "Weather": "Not Applicable"
   },
   {
     "Number": 25,
@@ -272,7 +296,8 @@
     "Type": "Normal",
     "SubType": "",
     "Evolution": "Evolve Skwovet, lvl 24+",
-    "Found": "Route 6, Route 7, Route 9, Axew's Eye, Bridge Field, Giant's Cap, Giant's Mirror, Giant's Seat, Hammerlocke Hills, Lake of Outrage, Motostoke Riverbank"
+    "Found": "Route 6, Route 7, Route 9, Axew's Eye, Bridge Field, Giant's Cap, Giant's Mirror, Giant's Seat, Hammerlocke Hills, Lake of Outrage, Motostoke Riverbank",
+    "Weather": "Not Applicable"
   },
   {
     "Number": 26,
@@ -283,7 +308,8 @@
     "Type": "Normal",
     "SubType": "Flying",
     "Evolution": "None",
-    "Found": "East Lake Axewell, North Lake Miloch, Rolling Fields, Watchtower Ruins"
+    "Found": "East Lake Axewell, North Lake Miloch, Rolling Fields, Watchtower Ruins",
+    "Weather": "Not Applicable"
   },
   {
     "Number": 27,
@@ -294,7 +320,8 @@
     "Type": "Normal",
     "SubType": "Flying",
     "Evolution": "Evolve Pidove, lvl 21+",
-    "Found": "Bridge Field, Giant's Mirror, Giant's Seat, Stony Wilderness"
+    "Found": "Bridge Field, Giant's Mirror, Giant's Seat, Stony Wilderness",
+    "Weather": "Not Applicable"
   },
   {
     "Number": 28,
@@ -305,7 +332,8 @@
     "Type": "Normal",
     "SubType": "Flying",
     "Evolution": "Evolve Tranquill, lvl 32+",
-    "Found": "Axew's Eye, Giant's Mirror, Hammerlocke Hills, Stony Wilderness"
+    "Found": "Axew's Eye, Giant's Mirror, Hammerlocke Hills, Stony Wilderness",
+    "Weather": "Not Applicable"
   },
   {
     "Number": 29,
@@ -316,7 +344,8 @@
     "Type": "Dark",
     "SubType": "",
     "Evolution": "None",
-    "Found": "Route 1, Route 2, Dusty Bowl, Giant's Mirror, Stony Wilderness"
+    "Found": "Route 1, Route 2, Dusty Bowl, Giant's Mirror, Stony Wilderness",
+    "Weather": "Not Applicable"
   },
   {
     "Number": 30,
@@ -327,7 +356,8 @@
     "Type": "Dark",
     "SubType": "",
     "Evolution": "Evolve Nickit, lvl 18+",
-    "Found": "Route 7, Route 9, Bridge Field, Hammerlocke Hills, South Lake Miloch, Stony Wilderness"
+    "Found": "Route 7, Route 9, Bridge Field, Hammerlocke Hills, South Lake Miloch, Stony Wilderness",
+    "Weather": "Not Applicable"
   },
   {
     "Number": 31,
@@ -338,7 +368,8 @@
     "Type": "Dark",
     "SubType": "Normal",
     "Evolution": "None",
-    "Found": "Route 2, Route 3, Bridge Field, Giant's Cap, Stony Wilderness"
+    "Found": "Route 2, Route 3, Bridge Field, Giant's Cap, Stony Wilderness",
+    "Weather": "Not Applicable"
   },
   {
     "Number": 32,
@@ -349,7 +380,8 @@
     "Type": "Dark",
     "SubType": "Normal",
     "Evolution": "Evolve Zigzagoon, lvl 20+",
-    "Found": "Bridge Field, Giant's Cap"
+    "Found": "Bridge Field, Giant's Cap",
+    "Weather": "Not Applicable"
   },
   {
     "Number": 33,
@@ -360,7 +392,8 @@
     "Type": "Dark",
     "SubType": "Normal",
     "Evolution": "Evolve Obstagoon, lvl 35+ at Night (20:00+)",
-    "Found": "Route 2, Lake of Outrage"
+    "Found": "Route 2, Lake of Outrage",
+    "Weather": "Not Applicable"
   },
   {
     "Number": 34,
@@ -371,7 +404,8 @@
     "Type": "Normal",
     "SubType": "",
     "Evolution": "None",
-    "Found": "Route 1, Route 4, Motostoke Riverbank"
+    "Found": "Route 1, Route 4, Motostoke Riverbank",
+    "Weather": "Normal"
   },
   {
     "Number": 35,
@@ -382,7 +416,8 @@
     "Type": "Normal",
     "SubType": "",
     "Evolution": "Evolve Wooloo, lvl 24+",
-    "Found": "Dusty Bowl, Hammerlocke Hills, Motostoke Riverbank"
+    "Found": "Dusty Bowl, Hammerlocke Hills, Motostoke Riverbank",
+    "Weather": "Not Applicable"
   },
   {
     "Number": 36,
@@ -393,7 +428,8 @@
     "Type": "Water",
     "SubType": "Grass",
     "Evolution": "None",
-    "Found": "Route 2, Dappled Grove, Rolling Fields, West Lake Axewell"
+    "Found": "Route 2, Dappled Grove, Rolling Fields, West Lake Axewell",
+    "Weather": "Not Applicable"
   },
   {
     "Number": 37,
@@ -404,7 +440,8 @@
     "Type": "Water",
     "SubType": "Grass",
     "Evolution": "Evolve from Lotad, lvl 14+",
-    "Found": "Route 5, Dappled Grove, Giant's Cap, Giant's Seat, South Lake Miloch"
+    "Found": "Route 5, Dappled Grove, Giant's Cap, Giant's Seat, South Lake Miloch",
+    "Weather": "Not Applicable"
   },
   {
     "Number": 38,
@@ -415,7 +452,8 @@
     "Type": "Water",
     "SubType": "Grass",
     "Evolution": "Evolve from Lombre, Water Stone",
-    "Found": "Dappled Grove"
+    "Found": "Dappled Grove",
+    "Weather": "Not Applicable"
   },
   {
     "Number": 39,
@@ -426,7 +464,8 @@
     "Type": "Grass",
     "SubType": "",
     "Evolution": "None",
-    "Found": "Route 2, Dappled Grove, West Lake Axewell"
+    "Found": "Route 2, Dappled Grove, West Lake Axewell",
+    "Weather": "Not Applicable"
   },
   {
     "Number": 40,
@@ -437,7 +476,8 @@
     "Type": "Grass",
     "SubType": "Dark",
     "Evolution": "Evolve from Seedot, lvl 14+",
-    "Found": "Route 5, Dappled Grove, Giant's Cap, Giant's Seat, Rolling Fields, South Lake Miloch"
+    "Found": "Route 5, Dappled Grove, Giant's Cap, Giant's Seat, Rolling Fields, South Lake Miloch",
+    "Weather": "Not Applicable"
   },
   {
     "Number": 41,
@@ -448,7 +488,8 @@
     "Type": "Grass",
     "SubType": "Dark",
     "Evolution": "Evolve from Nuzleaf, Leaf Stone",
-    "Found": "Dappled Grove"
+    "Found": "Dappled Grove",
+    "Weather": "Not Applicable"
   },
   {
     "Number": 42,
@@ -459,7 +500,8 @@
     "Type": "Water",
     "SubType": "",
     "Evolution": "None",
-    "Found": "Route 2, Route 4, Route 5, Galar Mine No. 2, Giant's Cap, Giant's Mirror, Hulbury, Motostoke, Motostoke Outskirts, Motostoke Riverbank"
+    "Found": "Route 2, Route 4, Route 5, Galar Mine No. 2, Giant's Cap, Giant's Mirror, Hulbury, Motostoke, Motostoke Outskirts, Motostoke Riverbank",
+    "Weather": "Not Applicable"
   },
   {
     "Number": 43,
@@ -470,7 +512,8 @@
     "Type": "Water",
     "SubType": "Rock",
     "Evolution": "Evolve from Chewtle, lvl 22+",
-    "Found": "Route 2, Route 6, Bridge Field, Dusty Bowl, Galar Mine No. 2, Giant's Cap, Giant's Mirror, Lake of Outrage, West Lake Axewell"
+    "Found": "Route 2, Route 6, Bridge Field, Dusty Bowl, Galar Mine No. 2, Giant's Cap, Giant's Mirror, Lake of Outrage, West Lake Axewell",
+    "Weather": "Not Applicable"
   },
   {
     "Number": 44,
@@ -481,7 +524,8 @@
     "Type": "Dark",
     "SubType": "",
     "Evolution": "None",
-    "Found": "Route 2, Dappled Grove, East Lake Axewell, Motostoke Riverbank, North Lake Miloch, Watchtower Ruins, West Lake Axewell"
+    "Found": "Route 2, Dappled Grove, East Lake Axewell, Motostoke Riverbank, North Lake Miloch, Watchtower Ruins, West Lake Axewell",
+    "Weather": "Not Applicable"
   },
   {
     "Number": 45,
@@ -492,7 +536,8 @@
     "Type": "Dark",
     "SubType": "",
     "Evolution": "Evolve from Purrloin, lvl 20+",
-    "Found": "Route 7, Route 9, Axew's Eye, Bridge Field, Giant's Cap, Giant's Seat, North Lake Miloch"
+    "Found": "Route 7, Route 9, Axew's Eye, Bridge Field, Giant's Cap, Giant's Seat, North Lake Miloch",
+    "Weather": "Not Applicable"
   },
   {
     "Number": 46,
@@ -503,7 +548,8 @@
     "Type": "Electric",
     "SubType": "",
     "Evolution": "None",
-    "Found": "Route 2, Route 4, Giant's Mirror, Motostoke Riverbank, Stony Wilderness"
+    "Found": "Route 2, Route 4, Giant's Mirror, Motostoke Riverbank, Stony Wilderness",
+    "Weather": "Not Applicable"
   },
   {
     "Number": 47,
@@ -514,7 +560,8 @@
     "Type": "Electric",
     "SubType": "",
     "Evolution": "Evolve from Yamper, lvl 25+",
-    "Found": "Dusty Bowl, Lake of Outrage, Motostoke Riverbank, North Lake Miloch"
+    "Found": "Dusty Bowl, Lake of Outrage, Motostoke Riverbank, North Lake Miloch",
+    "Weather": "Normal"
   },
   {
     "Number": 48,
@@ -525,7 +572,8 @@
     "Type": "Normal",
     "SubType": "",
     "Evolution": "None",
-    "Found": "Dappled Grove, East Lake Axewell, Giant's Cap, North Lake Miloch, Rolling Fields, West Lake Axewell"
+    "Found": "Dappled Grove, East Lake Axewell, Giant's Cap, North Lake Miloch, Rolling Fields, West Lake Axewell",
+    "Weather": "Not Applicable"
   },
   {
     "Number": 49,
@@ -536,7 +584,8 @@
     "Type": "Normal",
     "SubType": "Ground",
     "Evolution": "Evolve from Bunnelby, lvl 20+",
-    "Found": "Axew's Eye, Bridge Field, Giant's Cap, Giant's Mirror, Giant's Seat, North Lake Miloch, Rolling Fields"
+    "Found": "Axew's Eye, Bridge Field, Giant's Cap, Giant's Mirror, Giant's Seat, North Lake Miloch, Rolling Fields",
+    "Weather": "Not Applicable"
   },
   {
     "Number": 50,
@@ -547,7 +596,8 @@
     "Type": "Normal",
     "SubType": "",
     "Evolution": "None",
-    "Found": "Route 5, East Lake Axewell, Giant's Cap, Rolling Fields"
+    "Found": "Route 5, East Lake Axewell, Giant's Cap, Rolling Fields",
+    "Weather": "Not Applicable"
   },
   {
     "Number": 51,
@@ -558,7 +608,8 @@
     "Type": "Normal",
     "SubType": "",
     "Evolution": "Evolve from Minccino, Shiny Stone",
-    "Found": "Giant's Cap"
+    "Found": "Giant's Cap",
+    "Weather": "Normal, Overcast, Fog"
   },
   {
     "Number": 52,
@@ -569,7 +620,8 @@
     "Type": "Grass",
     "SubType": "",
     "Evolution": "None",
-    "Found": "Dappled Grove, East Lake Axewell, Rolling Fields, Stony Wilderness, Watchtower Ruins, West Lake Axewell"
+    "Found": "Dappled Grove, East Lake Axewell, Rolling Fields, Stony Wilderness, Watchtower Ruins, West Lake Axewell",
+    "Weather": "Not Applicable"
   },
   {
     "Number": 53,
@@ -580,7 +632,8 @@
     "Type": "Grass",
     "SubType": "",
     "Evolution": "Evolve from Bounsweet, lvl 18+",
-    "Found": "Axew's Eye"
+    "Found": "Axew's Eye",
+    "Weather": "Normal"
   },
   {
     "Number": 54,
@@ -591,7 +644,8 @@
     "Type": "Grass",
     "SubType": "",
     "Evolution": "Evolve from Steenee while knowing Stomp",
-    "Found": "Stony Wilderness"
+    "Found": "Stony Wilderness",
+    "Weather": "Not Applicable"
   },
   {
     "Number": 55,
@@ -602,7 +656,8 @@
     "Type": "Grass",
     "SubType": "Poison",
     "Evolution": "None",
-    "Found": "Dappled Grove, East Lake Axewell, Rolling Fields, Watchtower Ruins"
+    "Found": "Dappled Grove, East Lake Axewell, Rolling Fields, Watchtower Ruins",
+    "Weather": "Not Applicable"
   },
   {
     "Number": 56,
@@ -613,7 +668,8 @@
     "Type": "Grass",
     "SubType": "Poison",
     "Evolution": "Evolve Oddish, lvl 21+",
-    "Found": "Axew's Eye, Giant's Cap, Giant's Mirror, North Lake Miloch"
+    "Found": "Axew's Eye, Giant's Cap, Giant's Mirror, North Lake Miloch",
+    "Weather": "Not Applicable"
   },
   {
     "Number": 57,
@@ -624,7 +680,8 @@
     "Type": "Grass",
     "SubType": "Poison",
     "Evolution": "Evolve Gloom, Leaf Stone",
-    "Found": "Dappled Grove, Giant's Mirror, Hammerlocke Hills"
+    "Found": "Dappled Grove, Giant's Mirror, Hammerlocke Hills",
+    "Weather": "Not Applicable"
   },
   {
     "Number": 58,
@@ -635,7 +692,8 @@
     "Type": "Grass",
     "SubType": "",
     "Evolution": "Evolve Gloom, Sun Stone",
-    "Found": "Giant's Mirror"
+    "Found": "Giant's Mirror",
+    "Weather": "Normal"
   },
   {
     "Number": 59,
@@ -646,7 +704,8 @@
     "Type": "Grass",
     "SubType": "Poison",
     "Evolution": "None",
-    "Found": "Route 4, Dappled Grove, East Lake Axewell, Giant's Mirror, Rolling Fields, West Lake Axewell"
+    "Found": "Route 4, Dappled Grove, East Lake Axewell, Giant's Mirror, Rolling Fields, West Lake Axewell",
+    "Weather": "Not Applicable"
   },
   {
     "Number": 60,
@@ -657,7 +716,8 @@
     "Type": "Grass",
     "SubType": "Poison",
     "Evolution": "Evolve Budew, during the day at 220 happiness",
-    "Found": "Axew's Eye, Dusty Bowl, Giant's Mirror, Rolling Fields, South Lake Miloch"
+    "Found": "Axew's Eye, Dusty Bowl, Giant's Mirror, Rolling Fields, South Lake Miloch",
+    "Weather": "Not Applicable"
   },
   {
     "Number": 61,
@@ -668,7 +728,8 @@
     "Type": "Grass",
     "SubType": "Poison",
     "Evolution": "Evolve Roselia, Shiny Stone",
-    "Found": "Hammerlocke Hills"
+    "Found": "Hammerlocke Hills",
+    "Weather": "Overcast, Fog"
   },
   {
     "Number": 62,
@@ -679,7 +740,8 @@
     "Type": "Water",
     "SubType": "Flying",
     "Evolution": "None",
-    "Found": "East Lake Axewell, North Lake Miloch, Rolling Fields, South Lake Miloch, Watchtower Ruins, West Lake Axewell"
+    "Found": "East Lake Axewell, North Lake Miloch, Rolling Fields, South Lake Miloch, Watchtower Ruins, West Lake Axewell",
+    "Weather": "Not Applicable"
   },
   {
     "Number": 63,
@@ -690,7 +752,8 @@
     "Type": "Water",
     "SubType": "Flying",
     "Evolution": "Evolve Wingull, lvl 25+",
-    "Found": "Route 9, Axew's Eye, Bridge Field, Dusty Bowl, Hammerlocke Hills, Lake of Outrage, North Lake Miloch, Rolling Fields"
+    "Found": "Route 9, Axew's Eye, Bridge Field, Dusty Bowl, Hammerlocke Hills, Lake of Outrage, North Lake Miloch, Rolling Fields",
+    "Weather": "Not Applicable"
   },
   {
     "Number": 64,
@@ -701,7 +764,8 @@
     "Type": "Bug",
     "SubType": "Electric",
     "Evolution": "None",
-    "Found": "Route 4, Dappled Grove, East Lake Axewell, Giant's Cap, Giant's Mirror, North Lake Miloch, Rolling Fields, South Lake Miloch, West Lake Axewell"
+    "Found": "Route 4, Dappled Grove, East Lake Axewell, Giant's Cap, Giant's Mirror, North Lake Miloch, Rolling Fields, South Lake Miloch, West Lake Axewell",
+    "Weather": "Thunderstorm"
   },
   {
     "Number": 65,
@@ -712,7 +776,8 @@
     "Type": "Bug",
     "SubType": "Electric",
     "Evolution": "Evolve Joltik, lvl 36+",
-    "Found": "Route 7, Giant's Cap, Giant's Seat, Lake of Outrage, South Lake Miloch"
+    "Found": "Route 7, Giant's Cap, Giant's Seat, Lake of Outrage, South Lake Miloch",
+    "Weather": "Not Applicable"
   },
   {
     "Number": 66,
@@ -723,7 +788,8 @@
     "Type": "Electric",
     "SubType": "",
     "Evolution": "None",
-    "Found": "Route 4, Dappled Grove, Dusty Bowl, East Lake Axewell, Giant's Seat, Rolling Fields, South Lake Miloch, Watchtower Ruins, West Lake Axewell"
+    "Found": "Route 4, Dappled Grove, Dusty Bowl, East Lake Axewell, Giant's Seat, Rolling Fields, South Lake Miloch, Watchtower Ruins, West Lake Axewell",
+    "Weather": "Thunderstorm, Raining"
   },
   {
     "Number": 67,
@@ -734,7 +800,8 @@
     "Type": "Electric",
     "SubType": "",
     "Evolution": "Evolve Electrike, lvl 26+",
-    "Found": "Axew's Eye, Giant's Cap, Giant's Seat, Rolling Fields"
+    "Found": "Axew's Eye, Giant's Cap, Giant's Seat, Rolling Fields",
+    "Weather": "Thunderstorm"
   },
   {
     "Number": 68,
@@ -745,7 +812,8 @@
     "Type": "Fire",
     "SubType": "",
     "Evolution": "None",
-    "Found": "Sword: Route 3, Axew's Eye, Dappled Grove, East Lake Axewell, Giant's Seat, Motostoke, North Lake Miloch, Rolling Fields, South Lake Miloch, Watchtower Ruins, West Lake Axewell\nShield: Dusty Bowl, Hammerlocke Hills, Motostoke"
+    "Found": "Sword: Route 3, Axew's Eye, Dappled Grove, East Lake Axewell, Giant's Seat, Motostoke, North Lake Miloch, Rolling Fields, South Lake Miloch, Watchtower Ruins, West Lake Axewell\nShield: Dusty Bowl, Hammerlocke Hills, Motostoke",
+    "Weather": "Intense Sun"
   },
   {
     "Number": 69,
@@ -756,7 +824,8 @@
     "Type": "Fire",
     "SubType": "",
     "Evolution": "Evolve Vulpix, Fire Stone",
-    "Found": "Sword: Lake of Outrage\nShield: Giant's Cap Max Raid Battle"
+    "Found": "Sword: Lake of Outrage\nShield: Giant's Cap Max Raid Battle",
+    "Weather": "Intense Sun"
   },
   {
     "Number": 70,
@@ -767,7 +836,8 @@
     "Type": "Fire",
     "SubType": "",
     "Evolution": "None",
-    "Found": "Sword: Dusty Bowl, Giant's Mirror, Hammerlocke Hills\nShield: Route 3, Axew's Eye, Dappled Grove, East Lake Axewell, Giant's Seat, North Lake Miloch, Rolling Fields, South Lake Miloch, Watchtower Ruins, West Lake Axewell"
+    "Found": "Sword: Dusty Bowl, Giant's Mirror, Hammerlocke Hills\nShield: Route 3, Axew's Eye, Dappled Grove, East Lake Axewell, Giant's Seat, North Lake Miloch, Rolling Fields, South Lake Miloch, Watchtower Ruins, West Lake Axewell",
+    "Weather": "Intense Sun"
   },
   {
     "Number": 71,
@@ -778,7 +848,8 @@
     "Type": "Fire",
     "SubType": "",
     "Evolution": "Evolve Growlithe, Fire Stone",
-    "Found": "Sword: Gian'ts Cap\nShield: Lake of Outrage"
+    "Found": "Sword: Gian'ts Cap\nShield: Lake of Outrage",
+    "Weather": "Intense Sun"
   },
   {
     "Number": 72,
@@ -789,7 +860,8 @@
     "Type": "Ice",
     "SubType": "",
     "Evolution": "None",
-    "Found": "Bridge Field, Dappled Grove, East Lake Axewell, Giant's Cap, Giant's Mirror, Hammerlocke Hills, Lake of Outrage, Motostoke Riverbank, North Lake Miloch, Rolling Fields, South Lake Miloch, West Lake Axewell"
+    "Found": "Bridge Field, Dappled Grove, East Lake Axewell, Giant's Cap, Giant's Mirror, Hammerlocke Hills, Lake of Outrage, Motostoke Riverbank, North Lake Miloch, Rolling Fields, South Lake Miloch, West Lake Axewell",
+    "Weather": "Snowing, Snowstorm"
   },
   {
     "Number": 73,
@@ -800,7 +872,8 @@
     "Type": "Ice",
     "SubType": "",
     "Evolution": "Evolve Vanillite, lvl 35+",
-    "Found": "Route 8, Route 10, Axew's Eye, Dappled Grove, Dusty Bowl"
+    "Found": "Route 8, Route 10, Axew's Eye, Dappled Grove, Dusty Bowl",
+    "Weather": "Snowing, Snowstorm"
   },
   {
     "Number": 74,
@@ -811,7 +884,8 @@
     "Type": "Ice",
     "SubType": "",
     "Evolution": "Evolve Vanillish, lvl 47+",
-    "Found": "Route 10, Bridge Field, Lake of Outrage, South Lake Miloch"
+    "Found": "Route 10, Bridge Field, Lake of Outrage, South Lake Miloch",
+    "Weather": "Snowing, Snowstorm"
   },
   {
     "Number": 75,
@@ -822,7 +896,8 @@
     "Type": "Ice",
     "SubType": "Ground",
     "Evolution": "None",
-    "Found": "Giant's Mirror, Giant's Seat, Hammerlocke Hills, Rolling Fields"
+    "Found": "Giant's Mirror, Giant's Seat, Hammerlocke Hills, Rolling Fields",
+    "Weather": "Snowstorm, Snowing"
   },
   {
     "Number": 76,
@@ -833,7 +908,8 @@
     "Type": "Ice",
     "SubType": "Ground",
     "Evolution": "Evolve Swinub, lvl 33+",
-    "Found": "Dusty Bowl, East Lake Axewell, Lake of Outrage, Rolling Fields"
+    "Found": "Dusty Bowl, East Lake Axewell, Lake of Outrage, Rolling Fields",
+    "Weather": "Snowstorm, Snowing"
   },
   {
     "Number": 77,
@@ -844,7 +920,8 @@
     "Type": "Ice",
     "SubType": "Ground",
     "Evolution": "Evolve Piloswine, lvl up while knowing Ancient Power",
-    "Found": "Stony Wilderness Max Raid Battle"
+    "Found": "Stony Wilderness Max Raid Battle",
+    "Weather": "Not Applicable"
   },
   {
     "Number": 78,
@@ -855,7 +932,8 @@
     "Type": "Ice",
     "SubType": "Flying",
     "Evolution": "None",
-    "Found": "Route 8, Axew's Eye, Dappled Grove, Dusty Bowl, Giant's Cap, Giant's Mirror, Giant's Seat, Hammerlocke Hills, North Lake Miloch, Rolling Fields, South Lake Miloch, Watchtower Ruins, West Lake Axewell"
+    "Found": "Route 8, Axew's Eye, Dappled Grove, Dusty Bowl, Giant's Cap, Giant's Mirror, Giant's Seat, Hammerlocke Hills, North Lake Miloch, Rolling Fields, South Lake Miloch, Watchtower Ruins, West Lake Axewell",
+    "Weather": "Snowing, Snowstorm"
   },
   {
     "Number": 79,
@@ -866,7 +944,8 @@
     "Type": "Ice",
     "SubType": "",
     "Evolution": "None",
-    "Found": "Route 8, Dappled Grove, East Lake Axewell, Giant's Cap, Giant's Seat, Hammerlocke Hills, North Lake Miloch, Rolling Fields, South Lake Miloch, Watchtower Ruins, West Lake Axewell"
+    "Found": "Route 8, Dappled Grove, East Lake Axewell, Giant's Cap, Giant's Seat, Hammerlocke Hills, North Lake Miloch, Rolling Fields, South Lake Miloch, Watchtower Ruins, West Lake Axewell",
+    "Weather": "Snowing, Snowstorm"
   },
   {
     "Number": 80,
@@ -877,7 +956,8 @@
     "Type": "Ice",
     "SubType": "",
     "Evolution": "Evolve Snorunt, lvl 42+",
-    "Found": "Route 9, Route 10, Giant's Cap, Giant's Seat, Lake of Outrage, Watchtower Ruins"
+    "Found": "Route 9, Route 10, Giant's Cap, Giant's Seat, Lake of Outrage, Watchtower Ruins",
+    "Weather": "Snowing, Snowstorm"
   },
   {
     "Number": 81,
@@ -888,7 +968,8 @@
     "Type": "Ice",
     "SubType": "Ghost",
     "Evolution": "Evolve Female Snorunt, Dawn Stone",
-    "Found": "Giant's Cap, Hammerlocke Hills Max Raid Battles"
+    "Found": "Giant's Cap, Hammerlocke Hills Max Raid Battles",
+    "Weather": "Not Applicable"
   },
   {
     "Number": 82,
@@ -899,7 +980,8 @@
     "Type": "Ground",
     "SubType": "Psychic",
     "Evolution": "None",
-    "Found": "Axew's Eye, Bridge Field, Dappled Grove, East Lake Axewell, Giant's Cap, Hammerlocke Hills, North Lake Miloch, Rolling Fields, South Lake Miloch, Stony Wilderness, West Lake Axewell"
+    "Found": "Axew's Eye, Bridge Field, Dappled Grove, East Lake Axewell, Giant's Cap, Hammerlocke Hills, North Lake Miloch, Rolling Fields, South Lake Miloch, Stony Wilderness, West Lake Axewell",
+    "Weather": "Not Applicable"
   },
   {
     "Number": 83,
@@ -910,7 +992,8 @@
     "Type": "Ground",
     "SubType": "Psychic",
     "Evolution": "Evolve Baltoy, lvl 36+",
-    "Found": "Axew's Eye, Bridge Field, Dappled Grove, Dusty Bowl, Lake of Outrage, Stony Wilderness"
+    "Found": "Axew's Eye, Bridge Field, Dappled Grove, Dusty Bowl, Lake of Outrage, Stony Wilderness",
+    "Weather": "Not Applicable"
   },
   {
     "Number": 84,
@@ -921,7 +1004,8 @@
     "Type": "Ground",
     "SubType": "",
     "Evolution": "None",
-    "Found": "Route 3, Dappled Grove, East Lake Axewell, Giant's Cap, Giant's Seat, North Lake Miloch, Rolling Fields, South Lake Miloch, West Lake Axewell"
+    "Found": "Route 3, Dappled Grove, East Lake Axewell, Giant's Cap, Giant's Seat, North Lake Miloch, Rolling Fields, South Lake Miloch, West Lake Axewell",
+    "Weather": "Intense Sun, Sandstorm"
   },
   {
     "Number": 85,
@@ -932,7 +1016,8 @@
     "Type": "Ground",
     "SubType": "",
     "Evolution": "Evolve Mudbray, lvl 30+",
-    "Found": "Axew's Eye, Dusty Bowl, East Lake Axewell, Giant's Seat, Rolling Fields"
+    "Found": "Axew's Eye, Dusty Bowl, East Lake Axewell, Giant's Seat, Rolling Fields",
+    "Weather": "Not Applicable"
   },
   {
     "Number": 86,
@@ -943,7 +1028,8 @@
     "Type": "Bug",
     "SubType": "Rock",
     "Evolution": "None",
-    "Found": "East Lake Axewell, Giant's Seat, Hammerlocke Hills, North Lake Miloch, Rolling Fields, South Lake Miloch, Stony Wilderness, Watchtower Ruins, West Lake Axewell"
+    "Found": "East Lake Axewell, Giant's Seat, Hammerlocke Hills, North Lake Miloch, Rolling Fields, South Lake Miloch, Stony Wilderness, Watchtower Ruins, West Lake Axewell",
+    "Weather": "Not Applicable"
   },
   {
     "Number": 87,
@@ -954,7 +1040,8 @@
     "Type": "Bug",
     "SubType": "Rock",
     "Evolution": "Evolve Dwebble, lvl 34+",
-    "Found": "Route 8, Axew's Eye, Rolling Fields, South Lake Miloch, Stony Wilderness"
+    "Found": "Route 8, Axew's Eye, Rolling Fields, South Lake Miloch, Stony Wilderness",
+    "Weather": "Not Applicable"
   },
   {
     "Number": 88,
@@ -965,7 +1052,8 @@
     "Type": "Ground",
     "SubType": "Ghost",
     "Evolution": "None",
-    "Found": "Route 8, Dappled Grove, Giant's Cap, Giant's Seat, North Lake Miloch, Rolling Fields, Stony Wilderness, Watchtower Ruins"
+    "Found": "Route 8, Dappled Grove, Giant's Cap, Giant's Seat, North Lake Miloch, Rolling Fields, Stony Wilderness, Watchtower Ruins",
+    "Weather": "Not Applicable"
   },
   {
     "Number": 89,
@@ -976,7 +1064,8 @@
     "Type": "Ground",
     "SubType": "Ghost",
     "Evolution": "Evolve Golett, lvl 43+",
-    "Found": "Dusty Bowl, Giant's Seat, Lake of Outrage, Stony Wilderness, Watchtower Ruins"
+    "Found": "Dusty Bowl, Giant's Seat, Lake of Outrage, Stony Wilderness, Watchtower Ruins",
+    "Weather": "Not Applicable"
   },
   {
     "Number": 90,
@@ -987,7 +1076,8 @@
     "Type": "Psychic",
     "SubType": "",
     "Evolution": "None",
-    "Found": "Axew's Eye, Bridge Field, East Lake Axewell, Giant's Cap, Giant's Seat, Rolling Fields, Slumbering Weald, Stony Wilderness"
+    "Found": "Axew's Eye, Bridge Field, East Lake Axewell, Giant's Cap, Giant's Seat, Rolling Fields, Slumbering Weald, Stony Wilderness",
+    "Weather": "Not Applicable"
   },
   {
     "Number": 91,
@@ -998,7 +1088,8 @@
     "Type": "Psychic",
     "SubType": "",
     "Evolution": "Evolve Munna, Moon Stone",
-    "Found": "Bridge Field, Giant's Seat"
+    "Found": "Bridge Field, Giant's Seat",
+    "Weather": "Fog, Overcast"
   },
   {
     "Number": 92,
@@ -1009,7 +1100,8 @@
     "Type": "Psychic",
     "SubType": "Flying",
     "Evolution": "None",
-    "Found": "Giant's Mirror, Giant's Seat, North Lake Miloch, Rolling Fields, South Lake Miloch, West Lake Axewell"
+    "Found": "Giant's Mirror, Giant's Seat, North Lake Miloch, Rolling Fields, South Lake Miloch, West Lake Axewell",
+    "Weather": "Not Applicable"
   },
   {
     "Number": 93,
@@ -1020,7 +1112,8 @@
     "Type": "Psychic",
     "SubType": "Flying",
     "Evolution": "Evolve Natu, lvl 25+",
-    "Found": "East Lake Axewell, Giant's Mirror, Giant's Seat, North Lake Miloch"
+    "Found": "East Lake Axewell, Giant's Mirror, Giant's Seat, North Lake Miloch",
+    "Weather": "Not Applicable"
   },
   {
     "Number": 94,
@@ -1031,7 +1124,8 @@
     "Type": "Normal",
     "SubType": "Fighting",
     "Evolution": "None",
-    "Found": "Route 5, Bridge Field, Dappled Grove, East Lake Axewell, Giant's Seat, Hammerlocke Hills, North Lake Miloch"
+    "Found": "Route 5, Bridge Field, Dappled Grove, East Lake Axewell, Giant's Seat, Hammerlocke Hills, North Lake Miloch",
+    "Weather": "Not Applicable"
   },
   {
     "Number": 95,
@@ -1042,7 +1136,8 @@
     "Type": "Normal",
     "SubType": "Fighting",
     "Evolution": "Evolve Stufful, lvl 27+",
-    "Found": "Axew's Eye, Bridge Field, Dappled Grove, Giant's Seat, Lake of Outrage, West Lake Axewell"
+    "Found": "Axew's Eye, Bridge Field, Dappled Grove, Giant's Seat, Lake of Outrage, West Lake Axewell",
+    "Weather": "Not Applicable"
   },
   {
     "Number": 96,
@@ -1053,7 +1148,8 @@
     "Type": "Grass",
     "SubType": "Ice",
     "Evolution": "None",
-    "Found": "Route 8, Route 10, Axew's Eye, Dappled Grove, Dusty Bowl, East Lake Axewell, Giant's Cap, Giant's Mirror, Giant's Seat, North Lake Miloch, South Lake Miloch, Watchtower Ruins"
+    "Found": "Route 8, Route 10, Axew's Eye, Dappled Grove, Dusty Bowl, East Lake Axewell, Giant's Cap, Giant's Mirror, Giant's Seat, North Lake Miloch, South Lake Miloch, Watchtower Ruins",
+    "Weather": "Snowing, Snowstorm"
   },
   {
     "Number": 97,
@@ -1064,7 +1160,8 @@
     "Type": "Grass",
     "SubType": "Ice",
     "Evolution": "Evolve Snover, lvl 40+",
-    "Found": "Route 10, Axew's Eye, Dusty Bowl, Giant's Mirror, Giant's Seat, Hammerlocke Hills, Lake of Outrage"
+    "Found": "Route 10, Axew's Eye, Dusty Bowl, Giant's Mirror, Giant's Seat, Hammerlocke Hills, Lake of Outrage",
+    "Weather": "Snowing, Snowstorm"
   },
   {
     "Number": 98,
@@ -1075,7 +1172,8 @@
     "Type": "Water",
     "SubType": "",
     "Evolution": "None",
-    "Found": "Giant's Cap, South Lake Miloch, West Lake Axewell"
+    "Found": "Giant's Cap, South Lake Miloch, West Lake Axewell",
+    "Weather": "Not Applicable"
   },
   {
     "Number": 99,
@@ -1086,7 +1184,8 @@
     "Type": "Water",
     "SubType": "",
     "Evolution": "Evolve Krabby, lvl 28+",
-    "Found": "Route 9, Axew's Eye, South Lake Miloch, West Lake Axewell"
+    "Found": "Route 9, Axew's Eye, South Lake Miloch, West Lake Axewell",
+    "Weather": "Normal, Overcast, Thunderstorm"
   },
   {
     "Number": 100,
@@ -1097,7 +1196,8 @@
     "Type": "Water",
     "SubType": "Ground",
     "Evolution": "None",
-    "Found": "Giant's Cap, Giant's Seat, South Lake Miloch, West Lake Axewell"
+    "Found": "Giant's Cap, Giant's Seat, South Lake Miloch, West Lake Axewell",
+    "Weather": "Not Applicable"
   },
   {
     "Number": 101,
@@ -1108,7 +1208,8 @@
     "Type": "Water",
     "SubType": "Ground",
     "Evolution": "Evolve Wooper, lvl 20+",
-    "Found": "Giant's Cap, Giant's Seat, Lake of Outrage, West Lake Axewell"
+    "Found": "Giant's Cap, Giant's Seat, Lake of Outrage, West Lake Axewell",
+    "Weather": "Not Applicable"
   },
   {
     "Number": 102,
@@ -1118,8 +1219,9 @@
     "NationalDexNumber": 341,
     "Type": "Water",
     "SubType": "",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "None",
+    "Found": "Galar Mine No. 2, Giant's Cap, South Lake Miloch",
+    "Weather": "Not Applicable"
   },
   {
     "Number": 103,
@@ -1129,8 +1231,9 @@
     "NationalDexNumber": 342,
     "Type": "Water",
     "SubType": "Dark",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "Evolve Corphish, lvl 30+",
+    "Found": "Axew's Eye, Giant's Seat, South Lake Miloch, Turffield",
+    "Weather": "Raining, Thunderstorm, Normal"
   },
   {
     "Number": 104,
@@ -1140,8 +1243,9 @@
     "NationalDexNumber": 290,
     "Type": "Bug",
     "SubType": "Ground",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "None",
+    "Found": "Route 5, South Lake Miloch, West Lake Axewell",
+    "Weather": "Intense Sun, Sandstorm"
   },
   {
     "Number": 105,
@@ -1151,8 +1255,9 @@
     "NationalDexNumber": 291,
     "Type": "Bug",
     "SubType": "Flying",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "Evolve Nincada, lvl 20+",
+    "Found": "Rolling Fields, Stony Wilderness",
+    "Weather": "Not Applicable"
   },
   {
     "Number": 106,
@@ -1162,8 +1267,9 @@
     "NationalDexNumber": 292,
     "Type": "Bug",
     "SubType": "Ghost",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "Evolve Nincada with an empy slot in party, lvl 20+",
+    "Found": "Bridge Field, Rolling Fields, South Lake Miloch Max Raid Battles",
+    "Weather": "Not Applicable"
   },
   {
     "Number": 107,
@@ -1173,8 +1279,9 @@
     "NationalDexNumber": 236,
     "Type": "Fighting",
     "SubType": "",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "None",
+    "Found": "Route 3, Dappled Grove, Giant's Seat, Rolling Fields, South Lake Miloch, Stony Wilderness, West Lake Axewell",
+    "Weather": "Not Applicable"
   },
   {
     "Number": 108,
@@ -1184,8 +1291,9 @@
     "NationalDexNumber": 106,
     "Type": "Fighting",
     "SubType": "",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "Evolve Tyrogue with ATK > DEF, lvl 20+",
+    "Found": "Sword: Dusty Bowl\nShield: Rolling Fields, South Lake Miloch, Stony Wilderness Max Raid Battles",
+    "Weather": "Overcast"
   },
   {
     "Number": 109,
@@ -1195,8 +1303,9 @@
     "NationalDexNumber": 107,
     "Type": "Fighting",
     "SubType": "",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "Evolve Tyrogue with ATK < DEF, lvl 20+",
+    "Found": "Sword: Rolling Fields, South Lake Miloch, Stony Wilderness Max Raid Battles\nShield: Dusty Bowl",
+    "Weather": "Overcast"
   },
   {
     "Number": 110,
@@ -1206,8 +1315,9 @@
     "NationalDexNumber": 237,
     "Type": "Fighting",
     "SubType": "",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "Evolve Tyrogue with ATK = DEF, lvl 20+",
+    "Found": "Lake of Outrage",
+    "Weather": "Overcast"
   },
   {
     "Number": 111,
@@ -1217,8 +1327,9 @@
     "NationalDexNumber": 674,
     "Type": "Fighting",
     "SubType": "",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "None",
+    "Found": "Route 3, East Lake Axewell, Rolling Fields, West Lake Axewell",
+    "Weather": "Not Applicable"
   },
   {
     "Number": 112,
@@ -1228,8 +1339,9 @@
     "NationalDexNumber": 675,
     "Type": "Fighting",
     "SubType": "Dark",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "Evolve Pancham with dark type in party, lvl 32+",
+    "Found": "Bridge Field, Dappled Grove, Lake of Outrage, Rolling Fields",
+    "Weather": "Not Applicable"
   },
   {
     "Number": 113,
@@ -1239,8 +1351,9 @@
     "NationalDexNumber": 599,
     "Type": "Steel",
     "SubType": "",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "None",
+    "Found": "Route 3, Axew's Eye, Dappled Grove, Hammerlocke Hills, North Lake Miloch, South Lake Miloch, West Lake Axewell",
+    "Weather": "Not Applicable"
   },
   {
     "Number": 114,
@@ -1250,8 +1363,9 @@
     "NationalDexNumber": 600,
     "Type": "Steel",
     "SubType": "",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "Evolve Klink, lvl 38+",
+    "Found": "Route 10, Dusty Bowl, Hammerlocke Hills",
+    "Weather": "Not Applicable"
   },
   {
     "Number": 115,
@@ -1261,8 +1375,9 @@
     "NationalDexNumber": 601,
     "Type": "Steel",
     "SubType": "",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "Evolve Klinklang, lvl 49+",
+    "Found": "Hammerlocke Hills, Lake of Outrage",
+    "Weather": "Not Applicable"
   },
   {
     "Number": 116,
@@ -1272,8 +1387,9 @@
     "NationalDexNumber": 415,
     "Type": "Bug",
     "SubType": "Flying",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "None",
+    "Found": "Rolling Fields",
+    "Weather": "Normal"
   },
   {
     "Number": 117,
@@ -1283,8 +1399,9 @@
     "NationalDexNumber": 416,
     "Type": "Bug",
     "SubType": "Flying",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "Evolve a female Combee, lvl 21+",
+    "Found": "Rolling Fields",
+    "Weather": "Normal"
   },
   {
     "Number": 118,
@@ -1294,8 +1411,9 @@
     "NationalDexNumber": 436,
     "Type": "Steel",
     "SubType": "Psychic",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "None",
+    "Found": "Bridge Field, Giant's Seat, South Lake Miloch",
+    "Weather": "Not Applicable"
   },
   {
     "Number": 119,
@@ -1305,8 +1423,9 @@
     "NationalDexNumber": 437,
     "Type": "Steel",
     "SubType": "Psychic",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "Evolve Bronzor, lvl 33+",
+    "Found": "Route 8, Axew's Eye, Bridge Field, Dusty Bowl, Giant's Seat, Lake of Outrage, Stony Wilderness",
+    "Weather": "Not Applicable"
   },
   {
     "Number": 120,
@@ -1316,8 +1435,9 @@
     "NationalDexNumber": 280,
     "Type": "Psychic",
     "SubType": "Fairy",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "None",
+    "Found": "Dappled Grove, North Lake Miloch, Rolling Fields, South Lake Miloch, Watchtower Ruins, West Lake Axewell",
+    "Weather": "Fog, Overcast"
   },
   {
     "Number": 121,
@@ -1327,8 +1447,9 @@
     "NationalDexNumber": 281,
     "Type": "Psychic",
     "SubType": "Fairy",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "Evolve Ralts, lvl 20+",
+    "Found": "Rolling Fields",
+    "Weather": "Fog"
   },
   {
     "Number": 122,
@@ -1338,8 +1459,9 @@
     "NationalDexNumber": 282,
     "Type": "Psychic",
     "SubType": "Fairy",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "Evolve Kirlia, lvl 30+",
+    "Found": "Dusty Bowl, Lake of Outrage, Rolling Fields",
+    "Weather": "Fog, Normal, Thunderstorm"
   },
   {
     "Number": 123,
@@ -1349,8 +1471,9 @@
     "NationalDexNumber": 475,
     "Type": "Psychic",
     "SubType": "Fighting",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "Evolve male Kirlia, Dawn Stone",
+    "Found": "Bridge Field",
+    "Weather": "Not Applicable"
   },
   {
     "Number": 124,
@@ -1360,8 +1483,9 @@
     "NationalDexNumber": 425,
     "Type": "Ghost",
     "SubType": "Flying",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "None",
+    "Found": "Axew's Eye, South Lake Miloch, Watchtower Ruins",
+    "Weather": "Not Applicable"
   },
   {
     "Number": 125,
@@ -1371,8 +1495,9 @@
     "NationalDexNumber": 426,
     "Type": "Ghost",
     "SubType": "Flying",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "Evolve Drifblim, lvl 28+",
+    "Found": "Axew's Eye, South Lake Miloch, Watchtower Ruins",
+    "Weather": "Not Applicable"
   },
   {
     "Number": 126,
@@ -1382,8 +1507,9 @@
     "NationalDexNumber": 829,
     "Type": "Grass",
     "SubType": "",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "None",
+    "Found": "Route 2, Route 3, Motostoke Riverbank",
+    "Weather": "Normal"
   },
   {
     "Number": 127,
@@ -1393,8 +1519,9 @@
     "NationalDexNumber": 830,
     "Type": "Grass",
     "SubType": "",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "Evolve Gossifleur, lvl 20+",
+    "Found": "Route 5, Dusty Bowl, Giant's Cap, Motostoke Riverbank, Stony Wilderness",
+    "Weather": "Not Applicable"
   },
   {
     "Number": 128,
@@ -1404,8 +1531,9 @@
     "NationalDexNumber": 420,
     "Type": "Grass",
     "SubType": "",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "None",
+    "Found": "Route 3, Axew's Eye, Bridge Field, Giant's Cap, Giant's Mirror, Giant's Seat, Hammerlocke Hills, Lake of Outrage, Motostoke Riverbank, North Lake Miloch, Rolling Fields, Watchtower Ruins",
+    "Weather": "Not Applicable"
   },
   {
     "Number": 129,
@@ -1415,8 +1543,9 @@
     "NationalDexNumber": 421,
     "Type": "Grass",
     "SubType": "",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "Evolve Cherubi, lvl 25+",
+    "Found": "Max Raid Battles: Bridge Field, Dappled Grove, Giant's Mirror, Stony Wilderness",
+    "Weather": "Not Applicable"
   },
   {
     "Number": 130,
@@ -1426,8 +1555,9 @@
     "NationalDexNumber": 434,
     "Type": "Poison",
     "SubType": "Dark",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "None",
+    "Found": "Route 3, Dappled Grove, Giant's Cap, North Lake Miloch, South Lake Miloch",
+    "Weather": "Not Applicable"
   },
   {
     "Number": 131,
@@ -1437,8 +1567,9 @@
     "NationalDexNumber": 435,
     "Type": "Poison",
     "SubType": "Dark",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "Evolve Stunky, lvl 34+",
+    "Found": "Dusty Bowl, Lake of Outrage, North Lake Miloch, South Lake Miloch",
+    "Weather": "Not Applicable"
   },
   {
     "Number": 132,
@@ -1448,8 +1579,9 @@
     "NationalDexNumber": 535,
     "Type": "Water",
     "SubType": "",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "None",
+    "Found": "Dappled Grove, North Lake Miloch, South Lake Miloch, Watchtower Ruins, West Lake Axewell",
+    "Weather": "Not Applicable"
   },
   {
     "Number": 133,
@@ -1459,8 +1591,9 @@
     "NationalDexNumber": 536,
     "Type": "Water",
     "SubType": "Ground",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "Evolve Tympole, lvl 25+",
+    "Found": "Bridge Field, Dusty Bowl, Giant's Cap, Giant's Mirror, Giant's Seat, Hammerlocke Hills, North Lake Miloch, West Lake Axewell",
+    "Weather": "Not Applicable"
   },
   {
     "Number": 134,
@@ -1470,8 +1603,9 @@
     "NationalDexNumber": 537,
     "Type": "Water",
     "SubType": "Ground",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "Evolve Palpitoad, lvl 36+",
+    "Found": "Route 7, Axew's Eye, Bridge Field, Dappled Grove, Dusty Bowl, Giant's Cap, Giant's Mirror, Lake of Outrage",
+    "Weather": "Not Applicable"
   },
   {
     "Number": 135,
@@ -1481,8 +1615,9 @@
     "NationalDexNumber": 355,
     "Type": "Ghost",
     "SubType": "",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "None",
+    "Found": "Route 6, (Sword) Dusty Bowl, Giant's Cap, Giant's Seat, Motostoke Riverbank, Watchtower Ruins",
+    "Weather": "Not Applicable"
   },
   {
     "Number": 136,
@@ -1492,8 +1627,9 @@
     "NationalDexNumber": 356,
     "Type": "Ghost",
     "SubType": "",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "Evolve Duskull, lvl 37+",
+    "Found": "Route 8, Giant's Seat, Watchtower Ruins",
+    "Weather": "Not Applicable"
   },
   {
     "Number": 137,
@@ -1503,8 +1639,9 @@
     "NationalDexNumber": 477,
     "Type": "Ghost",
     "SubType": "",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "Trade Dusclops with Reaper Cloth equipped",
+    "Found": "Stony Wilderness",
+    "Weather": "Not Applicable"
   },
   {
     "Number": 138,
@@ -1514,8 +1651,9 @@
     "NationalDexNumber": 66,
     "Type": "Fighting",
     "SubType": "",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "None",
+    "Found": "Axew's Eye, Giant's Seat, Hammerlocke Hills, South Lake Miloch, Stony Wilderness",
+    "Weather": "Not Applicable"
   },
   {
     "Number": 139,
@@ -1525,8 +1663,9 @@
     "NationalDexNumber": 67,
     "Type": "Fighting",
     "SubType": "",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "Evolve Machop, lvl 28+",
+    "Found": "Giant's Mirror",
+    "Weather": "Not Applicable"
   },
   {
     "Number": 140,
@@ -1536,8 +1675,9 @@
     "NationalDexNumber": 68,
     "Type": "Fighting",
     "SubType": "",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "Trade Machoke",
+    "Found": "Strong Spawn in Wild Area\r\nDusty Bowl, North Lake Miloch, Rolling Fields, South Lake Miloch, Stony Wilderness Max Raid Battles",
+    "Weather": "Not Applicable"
   },
   {
     "Number": 141,
@@ -1547,8 +1687,9 @@
     "NationalDexNumber": 92,
     "Type": "Ghost",
     "SubType": "Poison",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "None",
+    "Found": "Giant's Seat, Hammerlocke Hills, North Lake Miloch, Watchtower Ruins",
+    "Weather": "Not Applicable"
   },
   {
     "Number": 142,
@@ -1558,8 +1699,9 @@
     "NationalDexNumber": 93,
     "Type": "Ghost",
     "SubType": "Poison",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "Evolve Gastly, lvl 25+",
+    "Found": "Route 8, Giant's Seat, Rolling Fields, Watchtower Ruins",
+    "Weather": "Not Applicable"
   },
   {
     "Number": 143,
@@ -1569,8 +1711,9 @@
     "NationalDexNumber": 94,
     "Type": "Ghost",
     "SubType": "Poison",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "Trade Haunter",
+    "Found": "Giant's Cap",
+    "Weather": "Not Applicable"
   },
   {
     "Number": 144,
@@ -1580,8 +1723,9 @@
     "NationalDexNumber": 129,
     "Type": "Water",
     "SubType": "",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "None",
+    "Found": "Route 2, Route 4, Route 5, Route 6, Axew's Eye, Bridge Field, East Lake Axewell, Motostoke, North Lake Miloch, Slumbering Weald, South Lake Miloch, West Lake Axewell",
+    "Weather": "Not Applicable"
   },
   {
     "Number": 145,
@@ -1591,8 +1735,9 @@
     "NationalDexNumber": 130,
     "Type": "Water",
     "SubType": "Flying",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "Evolve Magikarp, lvl 20+",
+    "Found": "Route 2, Axew's Eye, Bridge Field, Dusty Bowl, East Lake Axewell, Giant's Cap, Giant's Mirror, Giant's Seat, Lake of Outrage, West Lake Axewell",
+    "Weather": "Not Applicable"
   },
   {
     "Number": 146,
@@ -1602,8 +1747,9 @@
     "NationalDexNumber": 118,
     "Type": "Water",
     "SubType": "",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "None",
+    "Found": "Route 4, Route 5, Route 6, Bridge Field, East Lake Axewell, Giant's Cap, North Lake Miloch, South Lake Miloch, West Lake Axewell",
+    "Weather": "Not Applicable"
   },
   {
     "Number": 147,
@@ -1613,8 +1759,9 @@
     "NationalDexNumber": 119,
     "Type": "Water",
     "SubType": "",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "Evolve Goldeen, lvl 33+",
+    "Found": "Bridge Field, Lake of Outrage, North Lake Miloch, West Lake Axewell",
+    "Weather": "Not Applicable"
   },
   {
     "Number": 148,
@@ -1624,8 +1771,9 @@
     "NationalDexNumber": 223,
     "Type": "Water",
     "SubType": "",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "None",
+    "Found": "Route 9, South Lake Miloch, West Lake Axewell",
+    "Weather": "Not Applicable"
   },
   {
     "Number": 149,
@@ -1635,8 +1783,9 @@
     "NationalDexNumber": 224,
     "Type": "Water",
     "SubType": "",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "Evolve Remoraid, lvl 25+",
+    "Found": "Route 9, Axew's Eye, South Lake Miloch",
+    "Weather": "Not Applicable"
   },
   {
     "Number": 150,
@@ -1646,8 +1795,9 @@
     "NationalDexNumber": 90,
     "Type": "Water",
     "SubType": "",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "None",
+    "Found": "East Lake Axewell, Giant's Seat, West Lake Axewell",
+    "Weather": "Not Applicable"
   },
   {
     "Number": 151,
@@ -1657,8 +1807,9 @@
     "NationalDexNumber": 91,
     "Type": "Water",
     "SubType": "Ice",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "Evolve Shellder, Water Stone",
+    "Found": "Giant's Seat, West Lake Axewell",
+    "Weather": "Normal, Fog"
   },
   {
     "Number": 152,
@@ -1668,8 +1819,9 @@
     "NationalDexNumber": 349,
     "Type": "Water",
     "SubType": "",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "None",
+    "Found": "Route 2",
+    "Weather": "Not Applicable"
   },
   {
     "Number": 153,
@@ -1679,8 +1831,9 @@
     "NationalDexNumber": 350,
     "Type": "Water",
     "SubType": "",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "Trade with a Prism Scale",
+    "Found": "Lake of Outrage, South Lake Miloch",
+    "Weather": "Fog"
   },
   {
     "Number": 154,
@@ -1690,8 +1843,9 @@
     "NationalDexNumber": 550,
     "Type": "Water",
     "SubType": "",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "None",
+    "Found": "Hulbury, Motostoke Riverbank, North Lake Miloch",
+    "Weather": "Not Applicable"
   },
   {
     "Number": 155,
@@ -1701,8 +1855,9 @@
     "NationalDexNumber": 746,
     "Type": "Water",
     "SubType": "",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "None",
+    "Found": "Route 9, Axew's Eye, East Lake Axewell, Hulbury, West Lake Axewell",
+    "Weather": "Not Applicable"
   },
   {
     "Number": 156,
@@ -1712,8 +1867,9 @@
     "NationalDexNumber": 771,
     "Type": "Water",
     "SubType": "",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "None",
+    "Found": "Route 9, Giant's Seat, South Lake Miloch",
+    "Weather": "Thunderstorm"
   },
   {
     "Number": 157,
@@ -1723,8 +1879,9 @@
     "NationalDexNumber": 568,
     "Type": "Poison",
     "SubType": "",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "None",
+    "Found": "Route 3",
+    "Weather": "Not Applicable"
   },
   {
     "Number": 158,
@@ -1734,8 +1891,9 @@
     "NationalDexNumber": 569,
     "Type": "Poison",
     "SubType": "",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "Evolve Trubbish, lvl 36+",
+    "Found": "Bridge Field, Lake of Outrage",
+    "Weather": "Not Applicable"
   },
   {
     "Number": 159,
@@ -1745,8 +1903,9 @@
     "NationalDexNumber": 850,
     "Type": "Fire",
     "SubType": "Bug",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "None",
+    "Found": "Route 3, Motostoke",
+    "Weather": "Not Applicable"
   },
   {
     "Number": 160,
@@ -1756,8 +1915,9 @@
     "NationalDexNumber": 851,
     "Type": "Fire",
     "SubType": "Bug",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "Evolve Sizzlipede, lvl 28+",
+    "Found": "Dusty Bowl, Giant's Cap, Hammerlocke Hills, Lake of Outrage, Stony Wilderness Max Raid Battles",
+    "Weather": "Not Applicable"
   },
   {
     "Number": 161,
@@ -1767,8 +1927,9 @@
     "NationalDexNumber": 837,
     "Type": "Rock",
     "SubType": "",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "None",
+    "Found": "Route 3, Galar Mine, Giant's Cap, Motostoke Riverbank",
+    "Weather": "Not Applicable"
   },
   {
     "Number": 162,
@@ -1778,8 +1939,9 @@
     "NationalDexNumber": 838,
     "Type": "Rock",
     "SubType": "Fire",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "Evolve Rolycoly, lvl 18+",
+    "Found": "Bridge Field, Galar Mine, Giant's Cap, Stony Wilderness",
+    "Weather": "Intense Sun, Sandstorm"
   },
   {
     "Number": 163,
@@ -1789,8 +1951,9 @@
     "NationalDexNumber": 839,
     "Type": "Rock",
     "SubType": "Fire",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "Evolve Carkol, lvl 34+",
+    "Found": "Dusty Bowl, Giant's Cap, Lake of Outrage",
+    "Weather": "Not Applicable"
   },
   {
     "Number": 164,
@@ -1800,8 +1963,9 @@
     "NationalDexNumber": 50,
     "Type": "Ground",
     "SubType": "",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "None",
+    "Found": "Route 4, Galar Mine, Giant's Mirror, Rolling Fields",
+    "Weather": "Not Applicable"
   },
   {
     "Number": 165,
@@ -1811,8 +1975,9 @@
     "NationalDexNumber": 51,
     "Type": "Ground",
     "SubType": "",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "Evolve Diglett, lvl 26+",
+    "Found": "Route 6, Dusty Bowl, Giant's Cap, Giant's Mirror, Hammerlocke Hills, Lake of Outrage",
+    "Weather": "Not Applicable"
   },
   {
     "Number": 166,
@@ -1822,8 +1987,9 @@
     "NationalDexNumber": 529,
     "Type": "Ground",
     "SubType": "",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "None",
+    "Found": "Dusty Bowl, Galar Mine, Giant's Cap, Giant's Mirror, Hammerlocke Hills, Stony Wilderness",
+    "Weather": "Intense Sun, Sandstorm"
   },
   {
     "Number": 167,
@@ -1833,8 +1999,9 @@
     "NationalDexNumber": 530,
     "Type": "Ground",
     "SubType": "Steel",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "Evolve Drilbur, lvl 31+",
+    "Found": "Giant's Cap, Giant's Mirror, Lake of Outrage",
+    "Weather": "Not Applicable"
   },
   {
     "Number": 168,
@@ -1844,8 +2011,9 @@
     "NationalDexNumber": 524,
     "Type": "Rock",
     "SubType": "",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "None",
+    "Found": "Galar Mine, Motostoke Outskirts, Rolling Fields, Stony Wilderness",
+    "Weather": "Not Applicable"
   },
   {
     "Number": 169,
@@ -1855,8 +2023,9 @@
     "NationalDexNumber": 525,
     "Type": "Rock",
     "SubType": "",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "Evolve Roggenrola, lvl 25+",
+    "Found": "Route 8, Giant's Cap, Giant's Mirror, Lake of Outrage, Stony Wilderness",
+    "Weather": "Not Applicable"
   },
   {
     "Number": 170,
@@ -1866,8 +2035,9 @@
     "NationalDexNumber": 526,
     "Type": "Rock",
     "SubType": "",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "Trade Boldore",
+    "Found": "Dusty Bowl",
+    "Weather": "Normal, Intense Sun, Sandstorm"
   },
   {
     "Number": 171,
@@ -1877,8 +2047,9 @@
     "NationalDexNumber": 532,
     "Type": "Fighting",
     "SubType": "",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "None",
+    "Found": "Galar Mine",
+    "Weather": "Not Applicable"
   },
   {
     "Number": 172,
@@ -1888,8 +2059,9 @@
     "NationalDexNumber": 533,
     "Type": "Fighting",
     "SubType": "",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "Evolve Timburr, lvl 25+",
+    "Found": "Route 8, Dusty Bowl, Stony Wilderness",
+    "Weather": "Not Applicable"
   },
   {
     "Number": 173,
@@ -1899,8 +2071,9 @@
     "NationalDexNumber": 534,
     "Type": "Fighting",
     "SubType": "",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "Trade Gurdurr",
+    "Found": "Motostoke Riverbank",
+    "Weather": "Not Applicable"
   },
   {
     "Number": 174,
@@ -1910,8 +2083,9 @@
     "NationalDexNumber": 527,
     "Type": "Psychic",
     "SubType": "Flying",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "None",
+    "Found": "Bridge Field, Galar Mine, Giant's Mirror, Watchtower Ruins",
+    "Weather": "Not Applicable"
   },
   {
     "Number": 175,
@@ -1921,8 +2095,9 @@
     "NationalDexNumber": 528,
     "Type": "Psychic",
     "SubType": "Flying",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "Evolve Woobat, lvl up with happiness 220+",
+    "Found": "Max Raid Battles: East Lake Axewell, Hammerlocke Hills, Motostoke Riverbank, Rolling Fields, Stony Wilderness, Watchtower Ruins",
+    "Weather": "Not Applicable"
   },
   {
     "Number": 176,
@@ -1932,8 +2107,9 @@
     "NationalDexNumber": 714,
     "Type": "Flying",
     "SubType": "Dragon",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "None",
+    "Found": "Bridge Field, Galar Mine No. 2, Watchtower Ruins",
+    "Weather": "Not Applicable"
   },
   {
     "Number": 177,
@@ -1943,8 +2119,9 @@
     "NationalDexNumber": 715,
     "Type": "Flying",
     "SubType": "Dragon",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "Evolve Noibat, lvl 48+",
+    "Found": "Bridge Field, Lake of Outrage",
+    "Weather": "Not Applicable"
   },
   {
     "Number": 178,
@@ -1954,8 +2131,9 @@
     "NationalDexNumber": 95,
     "Type": "Rock",
     "SubType": "Ground",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "None",
+    "Found": "East Lake Axewell, Giant's Seat, Motostoke Riverbank, Rolling Fields",
+    "Weather": "Not Applicable"
   },
   {
     "Number": 179,
@@ -1965,8 +2143,9 @@
     "NationalDexNumber": 208,
     "Type": "Steel",
     "SubType": "Ground",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "Trade Onix with Metal Coat equipped",
+    "Found": "Giant's Mirror, Giant's Seat",
+    "Weather": "Not Applicable"
   },
   {
     "Number": 180,
@@ -1976,8 +2155,9 @@
     "NationalDexNumber": 846,
     "Type": "Water",
     "SubType": "",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "None",
+    "Found": "Route 2, Hulbury, Motostoke Riverbank",
+    "Weather": "Not Applicable"
   },
   {
     "Number": 181,
@@ -1987,8 +2167,9 @@
     "NationalDexNumber": 847,
     "Type": "Water",
     "SubType": "",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "Evolve Arrokuda, lvl 26+",
+    "Found": "Route 2, Dusty Bowl, Lake of Outrage, Motostoke Riverbank",
+    "Weather": "Not Applicable"
   },
   {
     "Number": 182,
@@ -1998,8 +2179,9 @@
     "NationalDexNumber": 52,
     "Type": "Steel",
     "SubType": "",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "None",
+    "Found": "Route 4 (Galarian)",
+    "Weather": "Not Applicable"
   },
   {
     "Number": 183,
@@ -2009,8 +2191,9 @@
     "NationalDexNumber": 863,
     "Type": "Steel",
     "SubType": "",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "Evolve Meowth (Galarian), lvl 28+",
+    "Found": "Route 7, Route 9, Giant's Mirror, Lake of Outrage",
+    "Weather": "Not Applicable"
   },
   {
     "Number": 184,
@@ -2020,8 +2203,9 @@
     "NationalDexNumber": 53,
     "Type": "Normal",
     "SubType": "",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "Evolve Meowth (Kantonian), lvl up with happiness at 220+",
+    "Found": "Only obtained through evolution",
+    "Weather": "Not Applicable"
   },
   {
     "Number": 185,
@@ -2031,8 +2215,9 @@
     "NationalDexNumber": 868,
     "Type": "Fairy",
     "SubType": "",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "None",
+    "Found": "Route 4, Bridge Field, Giant's Mirror",
+    "Weather": "Fog"
   },
   {
     "Number": 186,
@@ -2042,8 +2227,9 @@
     "NationalDexNumber": 869,
     "Type": "Fairy",
     "SubType": "",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "Evolve Milcrey with sweet item held and spinning around",
+    "Found": "Sweet items are obtained randomly after battling in a cafe",
+    "Weather": "Not Applicable"
   },
   {
     "Number": 187,
@@ -2053,8 +2239,9 @@
     "NationalDexNumber": 742,
     "Type": "Bug",
     "SubType": "Fairy",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "None",
+    "Found": "Route 4, Bridge Field, Giant's Mirror, Motostoke Riverbank",
+    "Weather": "Not Applicable"
   },
   {
     "Number": 188,
@@ -2064,8 +2251,9 @@
     "NationalDexNumber": 743,
     "Type": "Bug",
     "SubType": "Fairy",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "Evolve Cutiefly, lvl 25+",
+    "Found": "Bridge Field, Motostoke Riverbank, Stony Wilderness",
+    "Weather": "Not Applicable"
   },
   {
     "Number": 189,
@@ -2075,8 +2263,9 @@
     "NationalDexNumber": 597,
     "Type": "Grass",
     "SubType": "Steel",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "None",
+    "Found": "Route 4, Bridge Field, Motostoke Riverbank, Stony Wilderness",
+    "Weather": "Not Applicable"
   },
   {
     "Number": 190,
@@ -2086,8 +2275,9 @@
     "NationalDexNumber": 598,
     "Type": "Grass",
     "SubType": "Steel",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "Evolve Ferroseed, lvl 40+",
+    "Found": "Bridge Field, Dusty Bowl",
+    "Weather": "Not Applicable"
   },
   {
     "Number": 191,
@@ -2097,8 +2287,9 @@
     "NationalDexNumber": 710,
     "Type": "Ghost",
     "SubType": "Grass",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "None",
+    "Found": "Route 4, Giant's Mirror, Hammerlocke Hills",
+    "Weather": "Not Applicable"
   },
   {
     "Number": 192,
@@ -2108,8 +2299,9 @@
     "NationalDexNumber": 711,
     "Type": "Ghost",
     "SubType": "Grass",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "Trade Pumpkaboo",
+    "Found": "Hammerlocke Hills",
+    "Weather": "Not Applicable"
   },
   {
     "Number": 193,
@@ -2119,8 +2311,9 @@
     "NationalDexNumber": 172,
     "Type": "Electric",
     "SubType": "",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "None",
+    "Found": "Giant's Cap, Hammerlocke Hills, Motostoke Riverbank Max Raid Battles",
+    "Weather": "Not Applicable"
   },
   {
     "Number": 194,
@@ -2130,8 +2323,9 @@
     "NationalDexNumber": 25,
     "Type": "Electric",
     "SubType": "",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "Evolve Pichu with happiness at 220+",
+    "Found": "Route 4, Rolling Fields, Stony Wilderness",
+    "Weather": "Not Applicable"
   },
   {
     "Number": 195,
@@ -2141,8 +2335,9 @@
     "NationalDexNumber": 26,
     "Type": "Electric",
     "SubType": "",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "Evolve Pikachu, Thunder Stone",
+    "Found": "Giant's Cap, Motostoke Riverbank Max Raid Battles",
+    "Weather": "Thunderstorm, Raining"
   },
   {
     "Number": 196,
@@ -2152,8 +2347,9 @@
     "NationalDexNumber": 133,
     "Type": "Normal",
     "SubType": "",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "None",
+    "Found": "Route 4",
+    "Weather": "Not Applicable"
   },
   {
     "Number": 197,
@@ -2163,8 +2359,9 @@
     "NationalDexNumber": 134,
     "Type": "Water",
     "SubType": "",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "Evolve Eevee, Water Stone",
+    "Found": "Lake of Outrage",
+    "Weather": "Raining"
   },
   {
     "Number": 198,
@@ -2174,8 +2371,9 @@
     "NationalDexNumber": 135,
     "Type": "Electric",
     "SubType": "",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "Evolve Eevee, Thunder Stone",
+    "Found": "Lake of Outrage",
+    "Weather": "Thunderstorm"
   },
   {
     "Number": 199,
@@ -2185,8 +2383,9 @@
     "NationalDexNumber": 136,
     "Type": "Fire",
     "SubType": "",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "Evolve Eevee, Fire Stone",
+    "Found": "Lake of Outrage",
+    "Weather": "Intense Sun"
   },
   {
     "Number": 200,
@@ -2196,8 +2395,9 @@
     "NationalDexNumber": 196,
     "Type": "Psychic",
     "SubType": "",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "Evolve Eevee with hapiness 220+ during the day",
+    "Found": "Lake of Outrage",
+    "Weather": "Overcast"
   },
   {
     "Number": 201,
@@ -2207,8 +2407,9 @@
     "NationalDexNumber": 197,
     "Type": "Dark",
     "SubType": "",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "Evolve Eevee with hapiness 220+ at night (20:00+)",
+    "Found": "Lake of Outrage",
+    "Weather": "Sandstorm"
   },
   {
     "Number": 202,
@@ -2218,8 +2419,9 @@
     "NationalDexNumber": 470,
     "Type": "Grass",
     "SubType": "",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "Evolve Eevee, Leaft Stone",
+    "Found": "Lake of Outrage",
+    "Weather": "Normal"
   },
   {
     "Number": 203,
@@ -2229,8 +2431,9 @@
     "NationalDexNumber": 471,
     "Type": "Ice",
     "SubType": "",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "Evolve Eevee, Ice Stone",
+    "Found": "Lake of Outrage",
+    "Weather": "Snowing, Snowstorm"
   },
   {
     "Number": 204,
@@ -2240,8 +2443,9 @@
     "NationalDexNumber": 700,
     "Type": "Fairy",
     "SubType": "",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "Evolve Eevee with hapiness at 160+ and knowing a fairy type move",
+    "Found": "Lake of Outrage",
+    "Weather": "Fog"
   },
   {
     "Number": 205,
@@ -2251,8 +2455,9 @@
     "NationalDexNumber": 840,
     "Type": "Grass",
     "SubType": "Poison",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "None",
+    "Found": "Route 5, Dusty Bowl, Giant's Mirror, Stony Wilderness",
+    "Weather": "Normal, Thunderstorm"
   },
   {
     "Number": 206,
@@ -2262,8 +2467,9 @@
     "NationalDexNumber": 841,
     "Type": "Grass",
     "SubType": "Poison",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "Evolve Applin, Tart Apple",
+    "Found": "Axew's Eye, Bridge Field, Dappled Grove, Giant's Mirror, Stony Wilderness Max Raid Battles",
+    "Weather": "Not Applicable"
   },
   {
     "Number": 207,
@@ -2273,8 +2479,9 @@
     "NationalDexNumber": 842,
     "Type": "Grass",
     "SubType": "Poison",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "Evolve Applin, Sweet Apple",
+    "Found": "Axew's Eye, Bridge Field, Dappled Grove, Giant's Mirror, Stony Wilderness Max Raid Battles",
+    "Weather": "Not Applicable"
   },
   {
     "Number": 208,
@@ -2284,8 +2491,9 @@
     "NationalDexNumber": 677,
     "Type": "Psychic",
     "SubType": "",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "None",
+    "Found": "Route 5, Hammerlocke Hills, Motostoke Riverbank",
+    "Weather": "Not Applicable"
   },
   {
     "Number": 209,
@@ -2295,8 +2503,9 @@
     "NationalDexNumber": 678,
     "Type": "Psychic",
     "SubType": "",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "Evolve Espurr, lvl 25+",
+    "Found": "Route 7, Dusty Bowl, Giant's Cap, Hammerlocke Hills, Lake of Outrage, Motostoke Riverbank, North Lake Miloch, Slumbering Weald, Watchtower Ruins",
+    "Weather": "Fog"
   },
   {
     "Number": 210,
@@ -2306,8 +2515,9 @@
     "NationalDexNumber": 684,
     "Type": "Fairy",
     "SubType": "",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "None",
+    "Found": "Route 5, Giant's Mirror, Glimwood Tangle, Stony Wilderness",
+    "Weather": "Fog, Overcast"
   },
   {
     "Number": 211,
@@ -2317,8 +2527,9 @@
     "NationalDexNumber": 685,
     "Type": "Fairy",
     "SubType": "",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "Trade Swirlix with Whipped Dream equipped",
+    "Found": "Bridge Field, Hammerlocke Hills, Lake of Outrage, Rolling Fields Max Raid Battles",
+    "Weather": "Not Applicable"
   },
   {
     "Number": 212,
@@ -2328,8 +2539,9 @@
     "NationalDexNumber": 682,
     "Type": "Fairy",
     "SubType": "",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "None",
+    "Found": "Route 5, Giant's Mirror, Glimwood Tangle, Stony Wilderness",
+    "Weather": "Fog, Overcast"
   },
   {
     "Number": 213,
@@ -2339,8 +2551,9 @@
     "NationalDexNumber": 683,
     "Type": "Fairy",
     "SubType": "",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "Trade Spritzee with Sachet equipped",
+    "Found": "Bridge Field, Hammerlocke Hills, Lake of Outrage, Rolling Fields Max Raid Battles",
+    "Weather": "Not Applicable"
   },
   {
     "Number": 214,
@@ -2350,8 +2563,9 @@
     "NationalDexNumber": 751,
     "Type": "Water",
     "SubType": "Bug",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "None",
+    "Found": "Route 5, Motostoke Riverbank, Stony Wilderness",
+    "Weather": "Raining, Thunderstorm"
   },
   {
     "Number": 215,
@@ -2361,8 +2575,9 @@
     "NationalDexNumber": 752,
     "Type": "Water",
     "SubType": "Bug",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "Evolve Dewpider, lvl 22+",
+    "Found": "Lake of Outrage, Stony Wilderness",
+    "Weather": "Raining, Thunderstorm"
   },
   {
     "Number": 216,
@@ -2372,8 +2587,9 @@
     "NationalDexNumber": 360,
     "Type": "Psychic",
     "SubType": "",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "Breed Wobbuffet while holding Lax Incense",
+    "Found": "Hammerlocke Hills, Motostoke Riverbank, Stony Wilderness Max Raid Battles",
+    "Weather": "Not Applicable"
   },
   {
     "Number": 217,
@@ -2383,8 +2599,9 @@
     "NationalDexNumber": 202,
     "Type": "Psychic",
     "SubType": "",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "Evolve Wynaut, lvl 15+",
+    "Found": "Route 5, Bridge Field, Dusty Bowl, Hammerlocke Hills, Lake of Outrage, Motostoke Riverbank",
+    "Weather": "Not Applicable"
   },
   {
     "Number": 218,
@@ -2394,8 +2611,9 @@
     "NationalDexNumber": 83,
     "Type": "Fighting",
     "SubType": "",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "None",
+    "Found": "Route 5, Giant's Mirror",
+    "Weather": "Overcast"
   },
   {
     "Number": 219,
@@ -2405,8 +2623,9 @@
     "NationalDexNumber": 865,
     "Type": "Fighting",
     "SubType": "",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "Have Farfetch'd crit 3 times in one battle",
+    "Found": "Dusty Bowl, North Lake Miloch, Stony Wilderness Max Raid Battles",
+    "Weather": "Not Applicable"
   },
   {
     "Number": 220,
@@ -2416,8 +2635,9 @@
     "NationalDexNumber": 170,
     "Type": "Water",
     "SubType": "Electric",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "None",
+    "Found": "East Lake Axewell, Giant's Mirror, Hulbury, West Lake Axewell",
+    "Weather": "Thunderstorm"
   },
   {
     "Number": 221,
@@ -2427,8 +2647,9 @@
     "NationalDexNumber": 171,
     "Type": "Water",
     "SubType": "Electric",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "Evolve Chinchou, lvl 27+",
+    "Found": "Bridge Field, Dusty Bowl, East Lake Axewell, Lake of Outrage",
+    "Weather": "Thunderstorm, Normal, Fog"
   },
   {
     "Number": 222,
@@ -2438,8 +2659,9 @@
     "NationalDexNumber": 453,
     "Type": "Poison",
     "SubType": "Fighting",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "None",
+    "Found": "Bridge Field, Dusty Bowl, Galar Mine No. 2, Giant's Cap, Motostoke Outskirts, Stony Wilderness",
+    "Weather": "Overcast, Sandstorm, Normal"
   },
   {
     "Number": 223,
@@ -2449,8 +2671,9 @@
     "NationalDexNumber": 454,
     "Type": "Poison",
     "SubType": "Fighting",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "Evolve Croagunk, lvl 37+",
+    "Found": "Stony Wilderness",
+    "Weather": "Overcast"
   },
   {
     "Number": 224,
@@ -2460,8 +2683,9 @@
     "NationalDexNumber": 559,
     "Type": "Dark",
     "SubType": "Fighting",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "None",
+    "Found": "Bridge Field, Dusty Bowl, Galar Mine No. 2, Giant's Cap, Motostoke Outskirts, Stony Wilderness",
+    "Weather": "Overcast, Sandstorm, Normal"
   },
   {
     "Number": 225,
@@ -2471,8 +2695,9 @@
     "NationalDexNumber": 560,
     "Type": "Dark",
     "SubType": "Fighting",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "Evolve Scraggy, lvl 39+",
+    "Found": "Bridge Field, Dusty Bowl, North Lake Miloch, Rolling Fields, South Lake Miloch, Stony Wilderness, West Lake Axewell Max Raid Battles",
+    "Weather": "Not Applicable"
   },
   {
     "Number": 226,
@@ -2482,8 +2707,9 @@
     "NationalDexNumber": 618,
     "Type": "Ground",
     "SubType": "Steel",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "None",
+    "Found": "Dusty Bowl, Galar Mine No. 2, Lake of Outrage, Slumbering Weald",
+    "Weather": "Intense Sun, Sandstorm"
   },
   {
     "Number": 227,
@@ -2493,8 +2719,9 @@
     "NationalDexNumber": 213,
     "Type": "Bug",
     "SubType": "Rock",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "None",
+    "Found": "Dusty Bowl, Galar Mine No. 2, Giant's Cap, Stony Wilderness, Watchtower Ruins",
+    "Weather": "Not Applicable"
   },
   {
     "Number": 228,
@@ -2504,8 +2731,9 @@
     "NationalDexNumber": 339,
     "Type": "Water",
     "SubType": "Ground",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "None",
+    "Found": "Galar Mine No. 2, Motostoke, North Lake Miloch, Slumbering Weald, South Lake Miloch, Stony Wilderness",
+    "Weather": "Not Applicable"
   },
   {
     "Number": 229,
@@ -2515,8 +2743,9 @@
     "NationalDexNumber": 340,
     "Type": "Water",
     "SubType": "Ground",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "Evolve Barboach, lvl 30+",
+    "Found": "Slumbering Weald, South Lake Miloch",
+    "Weather": "Not Applicable"
   },
   {
     "Number": 230,
@@ -2526,8 +2755,9 @@
     "NationalDexNumber": 422,
     "Type": "Water",
     "SubType": "",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "None",
+    "Found": "Bridge Field, Galar Mine No. 2, Giant's Cap, Giant's Mirror, Motostoke Riverbank, Stony Wilderness",
+    "Weather": "Not Applicable"
   },
   {
     "Number": 231,
@@ -2537,8 +2767,9 @@
     "NationalDexNumber": 423,
     "Type": "Water",
     "SubType": "Ground",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "Evolve Shellos, lvl 30+",
+    "Found": "Route 9, Dusty Bowl, Galar Mine No. 2, Giant's Mirror",
+    "Weather": "Not Applicable"
   },
   {
     "Number": 232,
@@ -2548,8 +2779,9 @@
     "NationalDexNumber": 767,
     "Type": "Bug",
     "SubType": "Water",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "None",
+    "Found": "Bridge Field, Galar Mine No. 2, Giant's Mirror, Hammerlocke Hills, Motostoke Riverbank",
+    "Weather": "Raining, Thunderstorm"
   },
   {
     "Number": 233,
@@ -2559,8 +2791,9 @@
     "NationalDexNumber": 768,
     "Type": "Bug",
     "SubType": "Water",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "Evolve Golisopod, lvl 30+",
+    "Found": "Bridge Field, Giant's Cap, Lake of Outrage",
+    "Weather": "Normal, Raining, Thunderstorm"
   },
   {
     "Number": 234,
@@ -2570,8 +2803,9 @@
     "NationalDexNumber": 688,
     "Type": "Rock",
     "SubType": "Water",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "None",
+    "Found": "Bridge Field, Galar Mine No. 2, Motostoke Riverbank",
+    "Weather": "Raining, Thunderstorm"
   },
   {
     "Number": 235,
@@ -2581,8 +2815,9 @@
     "NationalDexNumber": 689,
     "Type": "Rock",
     "SubType": "Water",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "Evolve Binacle, lvl 39+",
+    "Found": "Route 9, Dusty Bowl, Lake of Outrage",
+    "Weather": "Raining, Thunderstorm, Overcast"
   },
   {
     "Number": 236,
@@ -2592,8 +2827,9 @@
     "NationalDexNumber": 222,
     "Type": "Ghost",
     "SubType": "",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "None",
+    "Found": "Giant's Mirror",
+    "Weather": "Overcast"
   },
   {
     "Number": 237,
@@ -2603,8 +2839,9 @@
     "NationalDexNumber": 864,
     "Type": "Ghost",
     "SubType": "",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "Evolve Corsola, lvl 38+",
+    "Found": "Giant's Mirror, South Lake Miloch, Stony Wilderness, Watchtower Ruins Max Raid Battles",
+    "Weather": "Not Applicable"
   },
   {
     "Number": 238,
@@ -2614,8 +2851,9 @@
     "NationalDexNumber": 859,
     "Type": "Dark",
     "SubType": "Fairy",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "None",
+    "Found": "Giant's Mirror, Glimwood Tangle, Hammerlocke Hills, Motostoke Outskirts, Stony Wilderness",
+    "Weather": "Not Applicable"
   },
   {
     "Number": 239,
@@ -2625,8 +2863,9 @@
     "NationalDexNumber": 860,
     "Type": "Dark",
     "SubType": "Fairy",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "Evolve Impidimp, lvl 32+",
+    "Found": "Glimwood Tangle",
+    "Weather": "Not Applicable"
   },
   {
     "Number": 240,
@@ -2636,8 +2875,9 @@
     "NationalDexNumber": 861,
     "Type": "Dark",
     "SubType": "Fairy",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "Evolve Morgrem, lvl 42+",
+    "Found": "Lake of Outrage",
+    "Weather": "Not Applicable"
   },
   {
     "Number": 241,
@@ -2647,8 +2887,9 @@
     "NationalDexNumber": 856,
     "Type": "Psychic",
     "SubType": "",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "None",
+    "Found": "Hammerlocke Hills, Motostoke Outskirts, Stony Wilderness",
+    "Weather": "Fog"
   },
   {
     "Number": 242,
@@ -2658,8 +2899,9 @@
     "NationalDexNumber": 857,
     "Type": "Psychic",
     "SubType": "",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "Evolve Hatenna, lvl 32+",
+    "Found": "Dusty Bowl, Glimwood Tangle",
+    "Weather": "Not Applicable"
   },
   {
     "Number": 243,
@@ -2669,8 +2911,9 @@
     "NationalDexNumber": 858,
     "Type": "Psychic",
     "SubType": "",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "Evolve Hattrem, lvl 42+",
+    "Found": "Lake of Outrage",
+    "Weather": "Not Applicable"
   },
   {
     "Number": 244,
@@ -2680,8 +2923,9 @@
     "NationalDexNumber": 757,
     "Type": "Poison",
     "SubType": "Fire",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "None",
+    "Found": "Stony Wilderness",
+    "Weather": "Intense Sun"
   },
   {
     "Number": 245,
@@ -2691,8 +2935,9 @@
     "NationalDexNumber": 758,
     "Type": "Poison",
     "SubType": "Fire",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "Evolve female Salandit, lvl 33+",
+    "Found": "Dusty Bowl, Giant's Cap, Hammerlocke Hills, Lake of Outrage, Stony Wilderness Max Raid Battles",
+    "Weather": "Not Applicable"
   },
   {
     "Number": 246,
@@ -2702,8 +2947,9 @@
     "NationalDexNumber": 624,
     "Type": "Dark",
     "SubType": "Steel",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "None",
+    "Found": "Route 8, Giant's Cap, Giant's Mirror, Motostoke Outskirts, Motostoke Riverbank, Stony Wilderness",
+    "Weather": "Snowstorm"
   },
   {
     "Number": 247,
@@ -2713,8 +2959,9 @@
     "NationalDexNumber": 625,
     "Type": "Dark",
     "SubType": "Steel",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "Evolve Pawniard, lvl 52+",
+    "Found": "Giant's Seat, Lake of Outrage",
+    "Weather": "Not Applicable"
   },
   {
     "Number": 248,
@@ -2724,8 +2971,9 @@
     "NationalDexNumber": 538,
     "Type": "Fighting",
     "SubType": "",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "None (Trade in Circhester?)",
+    "Found": "Route 8, Bridge Field, Giant's Mirror, Motostoke Outskirts, Motostoke Riverbank",
+    "Weather": "Overcast"
   },
   {
     "Number": 249,
@@ -2735,8 +2983,9 @@
     "NationalDexNumber": 539,
     "Type": "Fighting",
     "SubType": "",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "None (Trade in Circhester?)",
+    "Found": "Route 8, Bridge Field, Giant's Mirror, Motostoke Outskirts, Motostoke Riverbank",
+    "Weather": "Overcast"
   },
   {
     "Number": 250,
@@ -2746,8 +2995,9 @@
     "NationalDexNumber": 109,
     "Type": "Poison",
     "SubType": "",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "None",
+    "Found": "Dusty Bowl, Giant's Mirror, Motostoke Outskirts, Motostoke Riverbank",
+    "Weather": "Not Applicable"
   },
   {
     "Number": 251,
@@ -2757,8 +3007,9 @@
     "NationalDexNumber": 110,
     "Type": "Poison",
     "SubType": "Fairy",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "Evolve Koffing, lvl 35+",
+    "Found": "East Lake Axewell, Lake of Outrage, Slumbering Weald",
+    "Weather": "Not Applicable"
   },
   {
     "Number": 252,
@@ -2768,8 +3019,9 @@
     "NationalDexNumber": 438,
     "Type": "Rock",
     "SubType": "",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "None",
+    "Found": "Bridge Field, Stony Wilderness",
+    "Weather": "Sandstorm"
   },
   {
     "Number": 253,
@@ -2779,8 +3031,9 @@
     "NationalDexNumber": 185,
     "Type": "Rock",
     "SubType": "",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "Evolve Bonsly, level up while knowing Mimic move",
+    "Found": "Bridge Field, Dusty Bowl, Giant's Mirror, Hammerlocke Hills, Motostoke Outskirts, Motostoke Riverbank",
+    "Weather": "Not Applicable"
   },
   {
     "Number": 254,
@@ -2790,8 +3043,9 @@
     "NationalDexNumber": 173,
     "Type": "Fairy",
     "SubType": "",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "None",
+    "Found": "Hammerlocke Hills, Rolling Fields Max Raid Battles",
+    "Weather": "Not Applicable"
   },
   {
     "Number": 255,
@@ -2801,8 +3055,9 @@
     "NationalDexNumber": 35,
     "Type": "Fairy",
     "SubType": "",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "Evolve Cleffa, lvl up with happiness at 220+",
+    "Found": "Giant's Cap, Motostoke Riverbank",
+    "Weather": "Fog"
   },
   {
     "Number": 256,
@@ -2812,8 +3067,9 @@
     "NationalDexNumber": 36,
     "Type": "Fairy",
     "SubType": "",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "Evolve Clefairy, Moon Stone",
+    "Found": "Motostoke Riverbank",
+    "Weather": "Fog"
   },
   {
     "Number": 257,
@@ -2823,8 +3079,9 @@
     "NationalDexNumber": 175,
     "Type": "Fairy",
     "SubType": "",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "None",
+    "Found": "Bridge Field",
+    "Weather": "Normal, Overcast, Fog"
   },
   {
     "Number": 258,
@@ -2834,8 +3091,9 @@
     "NationalDexNumber": 176,
     "Type": "Fairy",
     "SubType": "Flying",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "Evolve Togepi, level up with happiness 220+",
+    "Found": "Stony Wilderness",
+    "Weather": "Fog"
   },
   {
     "Number": 259,
@@ -2845,8 +3103,9 @@
     "NationalDexNumber": 468,
     "Type": "Fairy",
     "SubType": "Flying",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "Evolve Togetic, Shiny Stone",
+    "Found": "Dusty Bowl",
+    "Weather": "Fog"
   },
   {
     "Number": 260,
@@ -2856,8 +3115,9 @@
     "NationalDexNumber": 446,
     "Type": "Normal",
     "SubType": "",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "None (Breed Snorlax while holding Full Incense)",
+    "Found": "Motostoke Riverbank",
+    "Weather": "Normal"
   },
   {
     "Number": 261,
@@ -2867,8 +3127,9 @@
     "NationalDexNumber": 143,
     "Type": "Normal",
     "SubType": "",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "Evolve Munchlax, level up with hapiness at 220+",
+    "Found": "Motostoke Riverbank",
+    "Weather": "Not Applicable"
   },
   {
     "Number": 262,
@@ -2878,8 +3139,9 @@
     "NationalDexNumber": 546,
     "Type": "Grass",
     "SubType": "Fairy",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "None",
+    "Found": "Stony Wilderness",
+    "Weather": "Overcast"
   },
   {
     "Number": 263,
@@ -2889,8 +3151,9 @@
     "NationalDexNumber": 547,
     "Type": "Grass",
     "SubType": "Fairy",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "Evolve Cottonee, Sun Stone",
+    "Found": "Bridge Field, Dappled Grove, Giant's Mirror, Stony Wilderness Max Raid Battles",
+    "Weather": "Not Applicable"
   },
   {
     "Number": 264,
@@ -2900,8 +3163,9 @@
     "NationalDexNumber": 111,
     "Type": "Ground",
     "SubType": "Rock",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "None",
+    "Found": "Route 8, Bridge Field, Giant's Cap, Giant's Mirror, Motostoke Riverbank, Stony Wilderness",
+    "Weather": "Not Applicable"
   },
   {
     "Number": 265,
@@ -2911,8 +3175,9 @@
     "NationalDexNumber": 112,
     "Type": "Ground",
     "SubType": "Rock",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "Evolve Rhyhorn, lvl 42+",
+    "Found": "Route 10, Bridge Field, Dusty Bowl, Giant's Seat, Lake of Outrage, Motostoke Riverbank, Stony Wilderness",
+    "Weather": "Not Applicable"
   },
   {
     "Number": 266,
@@ -2922,8 +3187,9 @@
     "NationalDexNumber": 464,
     "Type": "Ground",
     "SubType": "Rock",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "Trade Rhydon with Protector equipped",
+    "Found": "Bridge Field, Dusty Bowl, Giant's Seat, Rolling Fields Max Raid Battles",
+    "Weather": "Not Applicable"
   },
   {
     "Number": 267,
@@ -2933,8 +3199,9 @@
     "NationalDexNumber": 574,
     "Type": "Psychic",
     "SubType": "",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "None",
+    "Found": "Giant's Cap",
+    "Weather": "Fog"
   },
   {
     "Number": 268,
@@ -2944,8 +3211,9 @@
     "NationalDexNumber": 575,
     "Type": "Psychic",
     "SubType": "",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "Evolve Gothita, lvl 32+",
+    "Found": "Dusty Bowl, Giant's Cap",
+    "Weather": "Fog"
   },
   {
     "Number": 269,
@@ -2955,8 +3223,9 @@
     "NationalDexNumber": 576,
     "Type": "Psychic",
     "SubType": "",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "Evolve Gothorita, lvl 41+",
+    "Found": "Lake of Outrage",
+    "Weather": "Fog"
   },
   {
     "Number": 270,
@@ -2966,8 +3235,9 @@
     "NationalDexNumber": 577,
     "Type": "Psychic",
     "SubType": "",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "None",
+    "Found": "Giant's Cap",
+    "Weather": "Fog"
   },
   {
     "Number": 271,
@@ -2977,8 +3247,9 @@
     "NationalDexNumber": 578,
     "Type": "Psychic",
     "SubType": "",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "Evolve Solosis, lvl 32+",
+    "Found": "Dusty Bowl",
+    "Weather": "Fog"
   },
   {
     "Number": 272,
@@ -2988,8 +3259,9 @@
     "NationalDexNumber": 579,
     "Type": "Psychic",
     "SubType": "",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "Evolve Duosion, lvl 41+",
+    "Found": "Lake of Outrage",
+    "Weather": "Fog"
   },
   {
     "Number": 273,
@@ -2999,8 +3271,9 @@
     "NationalDexNumber": 588,
     "Type": "Bug",
     "SubType": "",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "None",
+    "Found": "Route 7, Bridge Field, Giant's Cap, Hammerlocke Hills, Motostoke Riverbank",
+    "Weather": "Overcast, Raining, Thunderstorm"
   },
   {
     "Number": 274,
@@ -3010,8 +3283,9 @@
     "NationalDexNumber": 589,
     "Type": "Bug",
     "SubType": "Steel",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "Trade a Shelmet for a Karrablast ",
+    "Found": "Bridge Field, Dappled Grove, Rolling Fields, South Lake Miloch Max Raid Battles",
+    "Weather": "Not Applicable"
   },
   {
     "Number": 275,
@@ -3021,8 +3295,9 @@
     "NationalDexNumber": 616,
     "Type": "Bug",
     "SubType": "",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "None",
+    "Found": "Route 7, Bridge Field, Hammerlocke Hills, Motostoke Riverbank",
+    "Weather": "Overcast, Raining, Thunderstorm"
   },
   {
     "Number": 276,
@@ -3032,8 +3307,9 @@
     "NationalDexNumber": 617,
     "Type": "Bug",
     "SubType": "",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "Trade a Karrablast for a Shelmet",
+    "Found": "Bridge Field, Dappled Grove, Rolling Fields, South Lake Miloch Max Raid Battles",
+    "Weather": "Not Applicable"
   },
   {
     "Number": 277,
@@ -3043,8 +3319,9 @@
     "NationalDexNumber": 605,
     "Type": "Psychic",
     "SubType": "",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "None",
+    "Found": "Bridge Field, Motostoke Riverbank",
+    "Weather": "Normal, Overcast, Fog"
   },
   {
     "Number": 278,
@@ -3054,8 +3331,9 @@
     "NationalDexNumber": 606,
     "Type": "Psychic",
     "SubType": "",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "Evolve Elgyem, lvl 42+",
+    "Found": "Bridge Field, Lake of Outrage",
+    "Weather": "Not Applicable"
   },
   {
     "Number": 279,
@@ -3065,8 +3343,9 @@
     "NationalDexNumber": 613,
     "Type": "Ice",
     "SubType": "",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "None",
+    "Found": "Route 10, Bridge Field, Dusty Bowl, Giant's Mirror, Hammerlocke Hills, Stony Wilderness",
+    "Weather": "Snowing, Snowstorm"
   },
   {
     "Number": 280,
@@ -3076,8 +3355,9 @@
     "NationalDexNumber": 614,
     "Type": "Ice",
     "SubType": "",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "Evolve Cubchoo, lvl 37+",
+    "Found": "Route 10, Bridge Field, Giant's Cap",
+    "Weather": "Snowing"
   },
   {
     "Number": 281,
@@ -3087,8 +3367,9 @@
     "NationalDexNumber": 627,
     "Type": "Normal",
     "SubType": "Flying",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "None",
+    "Found": "Route 8, Bridge Field, Stony Wilderness",
+    "Weather": "Not Applicable"
   },
   {
     "Number": 282,
@@ -3098,8 +3379,9 @@
     "NationalDexNumber": 628,
     "Type": "Normal",
     "SubType": "Flying",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "Evolve Rufflet, lvl 54+",
+    "Found": "Dusty Bowl, Lake of Outrage",
+    "Weather": "Not Applicable"
   },
   {
     "Number": 283,
@@ -3109,8 +3391,9 @@
     "NationalDexNumber": 629,
     "Type": "Dark",
     "SubType": "Flying",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "None",
+    "Found": "Route 8, Bridge Field, Stony Wilderness",
+    "Weather": "Not Applicable"
   },
   {
     "Number": 284,
@@ -3120,8 +3403,9 @@
     "NationalDexNumber": 630,
     "Type": "Dark",
     "SubType": "Flying",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "Evolve Vullaby, lvl 54+",
+    "Found": "Dusty Bowl, Lake of Outrage",
+    "Weather": "Not Applicable"
   },
   {
     "Number": 285,
@@ -3131,8 +3415,9 @@
     "NationalDexNumber": 451,
     "Type": "Poison",
     "SubType": "Bug",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "None",
+    "Found": "Route 6, Giant's Mirror, Motostoke Riverbank",
+    "Weather": "Not Applicable"
   },
   {
     "Number": 286,
@@ -3142,8 +3427,9 @@
     "NationalDexNumber": 452,
     "Type": "Poison",
     "SubType": "Dark",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "Evolve Skorupi, lvl 40+",
+    "Found": "Route 8, Bridge Field, Lake of Outrage, Motostoke Riverbank",
+    "Weather": "Not Applicable"
   },
   {
     "Number": 287,
@@ -3153,8 +3439,9 @@
     "NationalDexNumber": 607,
     "Type": "Ghost",
     "SubType": "Fire",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "None",
+    "Found": "Bridge Field, Motostoke, Motostoke Riverbank",
+    "Weather": "Intense Sun, Fog"
   },
   {
     "Number": 288,
@@ -3164,8 +3451,9 @@
     "NationalDexNumber": 608,
     "Type": "Ghost",
     "SubType": "Fire",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "Evolve Litwick, lvl 41+",
+    "Found": "Lake of Outrage",
+    "Weather": "Intense Sun"
   },
   {
     "Number": 289,
@@ -3175,8 +3463,9 @@
     "NationalDexNumber": 609,
     "Type": "Ghost",
     "SubType": "Fire",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "Evolve Lampert, Dusk Stone",
+    "Found": "Lake of Outrage",
+    "Weather": "Intense Sun"
   },
   {
     "Number": 290,
@@ -3186,8 +3475,9 @@
     "NationalDexNumber": 686,
     "Type": "Dark",
     "SubType": "Psychic",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "None",
+    "Found": "Route 7, Route 9, Bridge Field, Giant's Mirror, Hammerlocke Hills",
+    "Weather": "Not Applicable"
   },
   {
     "Number": 291,
@@ -3197,8 +3487,9 @@
     "NationalDexNumber": 687,
     "Type": "Dark",
     "SubType": "Psychic",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "Evolve Inkay, lvl 30+ while holding console upside-down (only works in hand-held mode)",
+    "Found": "Giant's Mirror, Hammerlocke Hills, Motostoke Riverbank, Stony Wilderness, Watchtower Ruins, West Lake Axewell Max Raid Battles",
+    "Weather": "Not Applicable"
   },
   {
     "Number": 292,
@@ -3208,8 +3499,9 @@
     "NationalDexNumber": 215,
     "Type": "Dark",
     "SubType": "Ice",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "None",
+    "Found": "Route 8, Route 10, Bridge Field, Dusty Bowl, Giant's Cap, Hammerlocke Hills, Motostoke Riverbank, Stony Wilderness",
+    "Weather": "Snowing, Snowstorm"
   },
   {
     "Number": 293,
@@ -3219,8 +3511,9 @@
     "NationalDexNumber": 461,
     "Type": "Dark",
     "SubType": "Ice",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "Evolve Sneasel, level up with Razor Claw equipped at night (20:00+)",
+    "Found": "Bridge Field",
+    "Weather": "Snowstorm"
   },
   {
     "Number": 294,
@@ -3230,8 +3523,9 @@
     "NationalDexNumber": 302,
     "Type": "Dark",
     "SubType": "Ghost",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "None",
+    "Found": "Dusty Bowl",
+    "Weather": "Fog"
   },
   {
     "Number": 295,
@@ -3241,8 +3535,9 @@
     "NationalDexNumber": 303,
     "Type": "Steel",
     "SubType": "Fairy",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "None",
+    "Found": "Bridge Field, Dusty Bowl",
+    "Weather": "Snowstorm"
   },
   {
     "Number": 296,
@@ -3252,8 +3547,9 @@
     "NationalDexNumber": 556,
     "Type": "Grass",
     "SubType": "",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "None",
+    "Found": "Route 6, Bridge Field, Hammerlocke Hills, Stony Wilderness",
+    "Weather": "Intense Sun"
   },
   {
     "Number": 297,
@@ -3263,8 +3559,9 @@
     "NationalDexNumber": 561,
     "Type": "Psychic",
     "SubType": "Flying",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "None",
+    "Found": "Dusty Bowl, Lake of Outrage, Motostoke Riverbank, Stony Wilderness",
+    "Weather": "Not Applicable"
   },
   {
     "Number": 298,
@@ -3274,8 +3571,9 @@
     "NationalDexNumber": 447,
     "Type": "Fighting",
     "SubType": "",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "None",
+    "Found": "Giant's Cap",
+    "Weather": "Snowstorm"
   },
   {
     "Number": 299,
@@ -3285,8 +3583,9 @@
     "NationalDexNumber": 448,
     "Type": "Fighting",
     "SubType": "Steel",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "Evolve Riolu, level up with hapiness at 220+ during the day",
+    "Found": "North Lake Miloch",
+    "Weather": "Normal"
   },
   {
     "Number": 300,
@@ -3296,8 +3595,9 @@
     "NationalDexNumber": 324,
     "Type": "Fire",
     "SubType": "",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "None",
+    "Found": "Route 6, Giant's Cap, Giant's Mirror, Motostoke Riverbank",
+    "Weather": "Intense Sun"
   },
   {
     "Number": 301,
@@ -3307,8 +3607,9 @@
     "NationalDexNumber": 778,
     "Type": "Ghost",
     "SubType": "Fairy",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "None",
+    "Found": "Bridge Field, Giant's Mirror",
+    "Weather": "Fog"
   },
   {
     "Number": 302,
@@ -3318,8 +3619,9 @@
     "NationalDexNumber": 878,
     "Type": "Steel",
     "SubType": "",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "None",
+    "Found": "Bridge Field",
+    "Weather": "Not Applicable"
   },
   {
     "Number": 303,
@@ -3329,8 +3631,9 @@
     "NationalDexNumber": 879,
     "Type": "Steel",
     "SubType": "",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "Evolve Cufant, lvl 34+",
+    "Found": "Hammerlocke Hills, Lake of Outrage",
+    "Weather": "Not Applicable"
   },
   {
     "Number": 304,
@@ -3340,8 +3643,9 @@
     "NationalDexNumber": 211,
     "Type": "Water",
     "SubType": "Poison",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "None",
+    "Found": "Route 9, Bridge Field, Dusty Bowl, Lake of Outrage",
+    "Weather": "Not Applicable"
   },
   {
     "Number": 305,
@@ -3351,8 +3655,9 @@
     "NationalDexNumber": 592,
     "Type": "Water",
     "SubType": "Ghost",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "None",
+    "Found": "Bridge Field, East Lake Axewell, Giant's Mirror, North Lake Miloch, West Lake Axewell",
+    "Weather": "Not Applicable"
   },
   {
     "Number": 306,
@@ -3362,8 +3667,9 @@
     "NationalDexNumber": 593,
     "Type": "Water",
     "SubType": "Ghost",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "Evolve Frillish, lvl 40+",
+    "Found": "Route 9, Bridge Field, East Lake Axewell, Lake of Outrage, North Lake Miloch",
+    "Weather": "Not Applicable"
   },
   {
     "Number": 307,
@@ -3373,8 +3679,9 @@
     "NationalDexNumber": 747,
     "Type": "Poison",
     "SubType": "Water",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "None",
+    "Found": "Route 9, Giant's Mirror, Motostoke Riverbank",
+    "Weather": "Thunderstorm"
   },
   {
     "Number": 308,
@@ -3384,8 +3691,9 @@
     "NationalDexNumber": 748,
     "Type": "Poison",
     "SubType": "Water",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "Evolve Mareanie, lvl 38+",
+    "Found": "Route 9",
+    "Weather": "Not Applicable"
   },
   {
     "Number": 309,
@@ -3395,8 +3703,9 @@
     "NationalDexNumber": 845,
     "Type": "Flying",
     "SubType": "Water",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "None",
+    "Found": "Route 9, Axew's Eye, Bridge Field, Lake of Outrage, Stony Wilderness",
+    "Weather": "Not Applicable"
   },
   {
     "Number": 310,
@@ -3406,8 +3715,9 @@
     "NationalDexNumber": 848,
     "Type": "Electric",
     "SubType": "Poison",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "None",
+    "Found": "Route 7, Bridge Field, Giant's Cap, Hammerlocke Hills, Motostoke Riverbank, Stony Wilderness",
+    "Weather": "Normal, Raining, Thunderstorm"
   },
   {
     "Number": 311,
@@ -3417,8 +3727,9 @@
     "NationalDexNumber": 849,
     "Type": "Electric",
     "SubType": "Poison",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "Evolve Toxel, lvl 30+ (Evolution forms affected by actual nature. Cannot be changed via Nature Mints)",
+    "Found": "East Lake Axewell, Giant's Cap, Giant's Mirror, Hammerlocke Hills, Lake of Outrage, Motostoke Riverbank, North Lake Miloch Max Raid Battles",
+    "Weather": "Not Applicable"
   },
   {
     "Number": 312,
@@ -3428,8 +3739,9 @@
     "NationalDexNumber": 843,
     "Type": "Ground",
     "SubType": "",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "None",
+    "Found": "Route 6",
+    "Weather": "Not Applicable"
   },
   {
     "Number": 313,
@@ -3439,8 +3751,9 @@
     "NationalDexNumber": 844,
     "Type": "Ground",
     "SubType": "",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "Evolve Silicobra, lvl 36+",
+    "Found": "Route 8, Lake of Outrage",
+    "Weather": "Not Applicable"
   },
   {
     "Number": 314,
@@ -3450,8 +3763,9 @@
     "NationalDexNumber": 449,
     "Type": "Ground",
     "SubType": "",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "None",
+    "Found": "Route 6, Dusty Bowl",
+    "Weather": "Intense Sun, Sandstorm"
   },
   {
     "Number": 315,
@@ -3461,8 +3775,9 @@
     "NationalDexNumber": 450,
     "Type": "Ground",
     "SubType": "",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "Evolve Hippopotas, lvl 34+",
+    "Found": "Route 8, Giant's Mirror, Lake of Outrage",
+    "Weather": "Sandstorm"
   },
   {
     "Number": 316,
@@ -3472,8 +3787,9 @@
     "NationalDexNumber": 632,
     "Type": "Bug",
     "SubType": "Steel",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "None",
+    "Found": "Route 6, Giant's Mirror, Lake of Outrage",
+    "Weather": "Intense Sun"
   },
   {
     "Number": 317,
@@ -3483,8 +3799,9 @@
     "NationalDexNumber": 631,
     "Type": "Fire",
     "SubType": "",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "None",
+    "Found": "Route 6, Giant's Mirror, Lake of Outrage",
+    "Weather": "Intense Sun"
   },
   {
     "Number": 318,
@@ -3494,8 +3811,9 @@
     "NationalDexNumber": 694,
     "Type": "Electric",
     "SubType": "Normal",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "None",
+    "Found": "Route 6, Giant's Mirror",
+    "Weather": "Thunderstorm"
   },
   {
     "Number": 319,
@@ -3505,8 +3823,9 @@
     "NationalDexNumber": 695,
     "Type": "Electric",
     "SubType": "Normal",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "Evolve Helioptile, Sun Stone",
+    "Found": "East Lake Axewell, Giant's Mirror, Lake of Outrage, Rolling Fields Max Raid Battles",
+    "Weather": "Not Applicable"
   },
   {
     "Number": 320,
@@ -3516,8 +3835,9 @@
     "NationalDexNumber": 701,
     "Type": "Fighting",
     "SubType": "Flying",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "None",
+    "Found": "Route 6, Hammerlocke Hills",
+    "Weather": "Not Applicable"
   },
   {
     "Number": 321,
@@ -3527,8 +3847,9 @@
     "NationalDexNumber": 328,
     "Type": "Ground",
     "SubType": "",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "None",
+    "Found": "Route 6",
+    "Weather": "Sandstorm"
   },
   {
     "Number": 322,
@@ -3538,8 +3859,9 @@
     "NationalDexNumber": 329,
     "Type": "Ground",
     "SubType": "Dragon",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "Evolve Trapinch, lvl 35+",
+    "Found": "Dusty Bowl, Rolling Fields Max Raid Battles",
+    "Weather": "Not Applicable"
   },
   {
     "Number": 323,
@@ -3549,8 +3871,9 @@
     "NationalDexNumber": 330,
     "Type": "Ground",
     "SubType": "Dragon",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "Evolve Vibrava, lvl 45+",
+    "Found": "Dusty Bowl, Lake of Outrage",
+    "Weather": "Normal, Sandstorm, Intense Sun"
   },
   {
     "Number": 324,
@@ -3560,8 +3883,9 @@
     "NationalDexNumber": 610,
     "Type": "Dragon",
     "SubType": "",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "None",
+    "Found": "Route 6, Axew's Eye, Hammerlocke Hills",
+    "Weather": "Not Applicable"
   },
   {
     "Number": 325,
@@ -3571,8 +3895,9 @@
     "NationalDexNumber": 611,
     "Type": "Dragon",
     "SubType": "",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "Evolve Axew, lvl 38+",
+    "Found": "Axew's Eye, Rolling Fields Max Raid Battles",
+    "Weather": "Not Applicable"
   },
   {
     "Number": 326,
@@ -3582,8 +3907,9 @@
     "NationalDexNumber": 612,
     "Type": "Dragon",
     "SubType": "",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "Evolve Fraxure, lvl 48+",
+    "Found": "Axew's Eye, Lake of Outrage",
+    "Weather": "Not Applicable"
   },
   {
     "Number": 327,
@@ -3593,8 +3919,9 @@
     "NationalDexNumber": 562,
     "Type": "Ground",
     "SubType": "Ghost",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "None",
+    "Found": "Route 6 (Galarian)\r\nTrade in Ballonlea (Unovan)",
+    "Weather": "Not Applicable"
   },
   {
     "Number": 328,
@@ -3604,8 +3931,9 @@
     "NationalDexNumber": 867,
     "Type": "Ground",
     "SubType": "Ghost",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "Yamask (Galarian) takes 49+ damage in onve battle and then walk under the stone sculpture in Dusty Bowl",
+    "Found": "Bridge Field, Dusty Bowl, Giant's Mirror, Rolling Fields, South Lake Miloch, Stony Wilderness, Watchtower Ruins Max Raid Battles",
+    "Weather": "Not Applicable"
   },
   {
     "Number": 329,
@@ -3615,8 +3943,9 @@
     "NationalDexNumber": 563,
     "Type": "Ghost",
     "SubType": "",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "Evolve Yamask (Unovan), lvl 34+",
+    "Found": "None",
+    "Weather": "Not Applicable"
   },
   {
     "Number": 330,
@@ -3626,8 +3955,9 @@
     "NationalDexNumber": 679,
     "Type": "Steel",
     "SubType": "Ghost",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "None",
+    "Found": "Hammerlocke Hills",
+    "Weather": "Fog, Snowstorm"
   },
   {
     "Number": 331,
@@ -3637,8 +3967,9 @@
     "NationalDexNumber": 680,
     "Type": "Steel",
     "SubType": "Ghost",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "Evolve Honedge, lvl 35+",
+    "Found": "Giant's Cap, Lake of Outrage",
+    "Weather": "Fog"
   },
   {
     "Number": 332,
@@ -3648,8 +3979,9 @@
     "NationalDexNumber": 681,
     "Type": "Steel",
     "SubType": "Ghost",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "Evolve Doublade, Dusk Stone",
+    "Found": "Giant's Cap",
+    "Weather": "Not Applicable"
   },
   {
     "Number": 333,
@@ -3659,8 +3991,9 @@
     "NationalDexNumber": 77,
     "Type": "Psychic",
     "SubType": "",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "None",
+    "Found": "Glimwood Tangle",
+    "Weather": "Not Applicable"
   },
   {
     "Number": 334,
@@ -3670,8 +4003,9 @@
     "NationalDexNumber": 78,
     "Type": "Psychic",
     "SubType": "Fair",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "Evolve Ponyta, lvl 40+",
+    "Found": "Bridge Field, Hammerlocke Hills, Lake of Outrage, Rolling Fields Max Raid Battles",
+    "Weather": "Not Applicable"
   },
   {
     "Number": 335,
@@ -3681,8 +4015,9 @@
     "NationalDexNumber": 854,
     "Type": "Ghost",
     "SubType": "",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "None",
+    "Found": "Glimwood Tangle",
+    "Weather": "Not Applicable"
   },
   {
     "Number": 336,
@@ -3692,8 +4027,9 @@
     "NationalDexNumber": 855,
     "Type": "Ghost",
     "SubType": "",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "Evolve Sinistea, give Cracked Pot (Phony form) or Chipped Pot (Antique Form)",
+    "Found": "Giant's Mirror, South Lake Miloch, Stony Wilderness, Watchtower Ruins Max Raid Battles",
+    "Weather": "Not Applicable"
   },
   {
     "Number": 337,
@@ -3703,8 +4039,9 @@
     "NationalDexNumber": 876,
     "Type": "Psychic",
     "SubType": "Normal",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "None",
+    "Found": "Glimwood Tangle, Lake of Outrage",
+    "Weather": "Fog"
   },
   {
     "Number": 338,
@@ -3714,8 +4051,9 @@
     "NationalDexNumber": 708,
     "Type": "Ghost",
     "SubType": "Grass",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "None",
+    "Found": "Glimwood Tangle",
+    "Weather": "Not Applicable"
   },
   {
     "Number": 339,
@@ -3725,8 +4063,9 @@
     "NationalDexNumber": 709,
     "Type": "Ghost",
     "SubType": "Grass",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "Trade Phantump",
+    "Found": "Dappled Grove, Giant's Mirror, Stony Wilderness, Watchtower Ruins Max Raid Battles",
+    "Weather": "Not Applicable"
   },
   {
     "Number": 340,
@@ -3736,8 +4075,9 @@
     "NationalDexNumber": 755,
     "Type": "Grass",
     "SubType": "Fairy",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "None",
+    "Found": "Giant's Mirror, Hammerlocke Hills",
+    "Weather": "Fog"
   },
   {
     "Number": 341,
@@ -3747,8 +4087,9 @@
     "NationalDexNumber": 756,
     "Type": "Grass",
     "SubType": "Fairy",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "Evolve Morelull, lvl 24+",
+    "Found": "Glimwood Tangle, Lake of Outrage",
+    "Weather": "Overcast, Raining, Thunderstorm"
   },
   {
     "Number": 342,
@@ -3758,8 +4099,9 @@
     "NationalDexNumber": 765,
     "Type": "Normal",
     "SubType": "Psychic",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "None",
+    "Found": "Glimwood Tangle",
+    "Weather": "Not Applicable"
   },
   {
     "Number": 343,
@@ -3769,8 +4111,9 @@
     "NationalDexNumber": 766,
     "Type": "Fighting",
     "SubType": "",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "None",
+    "Found": "Glimwood Tangle",
+    "Weather": "Not Applicable"
   },
   {
     "Number": 344,
@@ -3780,8 +4123,9 @@
     "NationalDexNumber": 877,
     "Type": "Electric",
     "SubType": "Dark",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "None",
+    "Found": "Route 7, Route 9, Lake of Outrage",
+    "Weather": "Thunderstorm"
   },
   {
     "Number": 345,
@@ -3791,8 +4135,9 @@
     "NationalDexNumber": 870,
     "Type": "Fighting",
     "SubType": "",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "None",
+    "Found": "Route 8, Lake of Outrage",
+    "Weather": "Overcast"
   },
   {
     "Number": 346,
@@ -3802,8 +4147,9 @@
     "NationalDexNumber": 780,
     "Type": "Normal",
     "SubType": "Dragon",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "None",
+    "Found": "Lake of Outrage",
+    "Weather": "Thunderstorm"
   },
   {
     "Number": 347,
@@ -3813,8 +4159,9 @@
     "NationalDexNumber": 776,
     "Type": "Fire",
     "SubType": "Dragon",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "None",
+    "Found": "Lake of Outrage",
+    "Weather": "Intense Sun"
   },
   {
     "Number": 348,
@@ -3824,8 +4171,9 @@
     "NationalDexNumber": 777,
     "Type": "Electric",
     "SubType": "Steel",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "None",
+    "Found": "Route 8, Lake of Outrage",
+    "Weather": "Snowstorm"
   },
   {
     "Number": 349,
@@ -3835,8 +4183,9 @@
     "NationalDexNumber": 872,
     "Type": "Ice",
     "SubType": "Bug",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "None",
+    "Found": "Route 8, Route 10, Lake of Outrage",
+    "Weather": "Snowing"
   },
   {
     "Number": 350,
@@ -3846,8 +4195,9 @@
     "NationalDexNumber": 873,
     "Type": "Ice",
     "SubType": "Bug",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "Evolve Snom, level up with happiness 220+ at night (20:00+)",
+    "Found": "Giant's Cap, Hammerlocke Hills, Stony Wilderness Max Raid Battles",
+    "Weather": "Not Applicable"
   },
   {
     "Number": 351,
@@ -3857,8 +4207,9 @@
     "NationalDexNumber": 852,
     "Type": "Fighting",
     "SubType": "",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "None",
+    "Found": "Route 9",
+    "Weather": "Not Applicable"
   },
   {
     "Number": 352,
@@ -3868,8 +4219,9 @@
     "NationalDexNumber": 853,
     "Type": "Fighting",
     "SubType": "",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "Evolve Clobbopus, level up with knowing the move Taunt",
+    "Found": "Route 9, Lake of Outrage, West Lake Axewell",
+    "Weather": "Not Applicable"
   },
   {
     "Number": 353,
@@ -3879,8 +4231,9 @@
     "NationalDexNumber": 871,
     "Type": "Electric",
     "SubType": "",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "None",
+    "Found": "Route 9",
+    "Weather": "Not Applicable"
   },
   {
     "Number": 354,
@@ -3890,8 +4243,9 @@
     "NationalDexNumber": 458,
     "Type": "Water",
     "SubType": "Flying",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "None",
+    "Found": "Route 9, Lake of Outrage, Motostoke Riverbank",
+    "Weather": "Not Applicable"
   },
   {
     "Number": 355,
@@ -3901,8 +4255,9 @@
     "NationalDexNumber": 226,
     "Type": "Water",
     "SubType": "Flying",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "Evolve Mantyke, level up with with Remoraid in party",
+    "Found": "Route 9, Lake of Outrage",
+    "Weather": "Not Applicable"
   },
   {
     "Number": 356,
@@ -3912,8 +4267,9 @@
     "NationalDexNumber": 320,
     "Type": "Water",
     "SubType": "",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "None",
+    "Found": "Route 9, Motostoke Riverbank",
+    "Weather": "Not Applicable"
   },
   {
     "Number": 357,
@@ -3923,8 +4279,9 @@
     "NationalDexNumber": 321,
     "Type": "Water",
     "SubType": "",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "Evolve Wailmer, lvl 40+",
+    "Found": "Route 9",
+    "Weather": "Not Applicable"
   },
   {
     "Number": 358,
@@ -3934,8 +4291,9 @@
     "NationalDexNumber": 712,
     "Type": "Ice",
     "SubType": "",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "None",
+    "Found": "Route 9, Lake of Outrage",
+    "Weather": "Snowing"
   },
   {
     "Number": 359,
@@ -3945,8 +4303,9 @@
     "NationalDexNumber": 713,
     "Type": "Ice",
     "SubType": "",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "Evolve Bergmite, lvl 37+",
+    "Found": "Lake of Outrage",
+    "Weather": "Snowing, Snowstorm"
   },
   {
     "Number": 360,
@@ -3956,8 +4315,9 @@
     "NationalDexNumber": 781,
     "Type": "Ghost",
     "SubType": "Grass",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "None",
+    "Found": "Route 9",
+    "Weather": "Not Applicable"
   },
   {
     "Number": 361,
@@ -3967,8 +4327,9 @@
     "NationalDexNumber": 131,
     "Type": "Water",
     "SubType": "Ice",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "None",
+    "Found": "Route 2, Route 9, Lake of Outrage, North Lake Miloch",
+    "Weather": "Not Applicable"
   },
   {
     "Number": 362,
@@ -3978,8 +4339,9 @@
     "NationalDexNumber": 337,
     "Type": "Rock",
     "SubType": "Psychic",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "None",
+    "Found": "Route 8, Giant's Cap",
+    "Weather": "Not Applicable"
   },
   {
     "Number": 363,
@@ -3989,8 +4351,9 @@
     "NationalDexNumber": 338,
     "Type": "Rock",
     "SubType": "Psychic",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "None",
+    "Found": "Route 8, Giant's Cap",
+    "Weather": "Not Applicable"
   },
   {
     "Number": 364,
@@ -4000,8 +4363,9 @@
     "NationalDexNumber": 439,
     "Type": "Psychic",
     "SubType": "Fairy",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "None (Breed while holding Odd Incense)",
+    "Found": "Rolling Fields",
+    "Weather": "Snowstorm"
   },
   {
     "Number": 365,
@@ -4011,8 +4375,9 @@
     "NationalDexNumber": 122,
     "Type": "Ice",
     "SubType": "Psychic",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "Evolve Mime Jr., level up knowing the move Mimic",
+    "Found": "Route 10, Lake of Outrage",
+    "Weather": "Snowing"
   },
   {
     "Number": 366,
@@ -4022,8 +4387,9 @@
     "NationalDexNumber": 866,
     "Type": "Ice",
     "SubType": "Psychic",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "Evolve Mr. Mime, lvl 42+",
+    "Found": "Dusty Bowl, Giant's Cap, Hammerlocke Hills, Motostoke Riverbank, Stony Wilderness, Watchtower Ruins Max Raid Battles",
+    "Weather": "Not Applicable"
   },
   {
     "Number": 367,
@@ -4033,8 +4399,9 @@
     "NationalDexNumber": 554,
     "Type": "Ice",
     "SubType": "",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "None",
+    "Found": "Route 8, Route 10",
+    "Weather": "Not Applicable"
   },
   {
     "Number": 368,
@@ -4044,8 +4411,9 @@
     "NationalDexNumber": 555,
     "Type": "Ice",
     "SubType": "",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "Evolve Darumaka, Ice Stone (lvl 35+ if Unovan form)",
+    "Found": "Dusty Bowl, Giant's Cap, Hammerlocke Hills, Lake of Outrage, Stony Wilderness Max Raid Battles",
+    "Weather": "Not Applicable"
   },
   {
     "Number": 369,
@@ -4055,8 +4423,9 @@
     "NationalDexNumber": 874,
     "Type": "Rock",
     "SubType": "",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "None",
+    "Found": "Route 10, Lake of Outrage",
+    "Weather": "Intense Sun, Sandstorm"
   },
   {
     "Number": 370,
@@ -4066,8 +4435,9 @@
     "NationalDexNumber": 875,
     "Type": "Ice",
     "SubType": "",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "None",
+    "Found": "Route 10, Lake of Outrage",
+    "Weather": "Snowing, Snowstorm"
   },
   {
     "Number": 371,
@@ -4077,8 +4447,9 @@
     "NationalDexNumber": 884,
     "Type": "Steel",
     "SubType": "Dragon",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "None",
+    "Found": "Route 10, Giant's Seat, Lake of Outrage",
+    "Weather": "Not Applicable"
   },
   {
     "Number": 372,
@@ -4088,8 +4459,9 @@
     "NationalDexNumber": 479,
     "Type": "Electric",
     "SubType": "Ghost",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "None (Changes form based on interacting with appliances from the Rotom Catalogue item)",
+    "Found": "Lake of Outrage",
+    "Weather": "Raining, Thunderstorm"
   },
   {
     "Number": 373,
@@ -4099,8 +4471,9 @@
     "NationalDexNumber": 132,
     "Type": "Normal",
     "SubType": "",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "None",
+    "Found": "Lake of Outrage",
+    "Weather": "Not Applicable"
   },
   {
     "Number": 374,
@@ -4110,8 +4483,9 @@
     "NationalDexNumber": 880,
     "Type": "Electric",
     "SubType": "Dragon",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "None",
+    "Found": "Revive Fossilized Bird & Fossilized Drake in Route 6",
+    "Weather": "Not Applicable"
   },
   {
     "Number": 375,
@@ -4121,8 +4495,9 @@
     "NationalDexNumber": 881,
     "Type": "Electric",
     "SubType": "Ice",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "None",
+    "Found": "Revive Fossilized Bird & Fossilized Dino in Route 6",
+    "Weather": "Not Applicable"
   },
   {
     "Number": 376,
@@ -4132,8 +4507,9 @@
     "NationalDexNumber": 882,
     "Type": "Water",
     "SubType": "Dragon",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "None",
+    "Found": "Revive Fossilized Fish & Fossilized Drake in Route 6",
+    "Weather": "Not Applicable"
   },
   {
     "Number": 377,
@@ -4143,8 +4519,9 @@
     "NationalDexNumber": 883,
     "Type": "Water",
     "SubType": "Ice",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "None",
+    "Found": "Revive Fossilized Fish & Fossilized Dino in Route 6",
+    "Weather": "Not Applicable"
   },
   {
     "Number": 378,
@@ -4154,8 +4531,9 @@
     "NationalDexNumber": 4,
     "Type": "Fire",
     "SubType": "",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "None",
+    "Found": "Gift from Leon in Postwick (Go into Leon's room)",
+    "Weather": "Not Applicable"
   },
   {
     "Number": 379,
@@ -4165,8 +4543,9 @@
     "NationalDexNumber": 5,
     "Type": "Fire",
     "SubType": "",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "Evolve Charmander, lvl 16+",
+    "Found": "Hammerlocke Hills, Lake of Outrage Max Raid Battles",
+    "Weather": "Not Applicable"
   },
   {
     "Number": 380,
@@ -4175,9 +4554,10 @@
     "Shield": "",
     "NationalDexNumber": 6,
     "Type": "Fire",
-    "SubType": "Flying",
-    "Evolution": "",
-    "Found": ""
+    "SubType": "",
+    "Evolution": "Evolve Charmeleon, lvl 36+",
+    "Found": "Hammerlocke Hills Max Raid Battles",
+    "Weather": "Not Applicable"
   },
   {
     "Number": 381,
@@ -4187,8 +4567,9 @@
     "NationalDexNumber": 772,
     "Type": "Normal",
     "SubType": "",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "None",
+    "Found": "Gift in Battle Tower",
+    "Weather": "Not Applicable"
   },
   {
     "Number": 382,
@@ -4198,8 +4579,9 @@
     "NationalDexNumber": 773,
     "Type": "Normal",
     "SubType": "",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "Evolve Type:Null with happiness at 220+",
+    "Found": "Only through evolution. Give it different memory disks (obtained from Battle Tower) to change it's type and form.",
+    "Weather": "Not Applicable"
   },
   {
     "Number": 383,
@@ -4209,8 +4591,9 @@
     "NationalDexNumber": 246,
     "Type": "Rock",
     "SubType": "Ground",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "None",
+    "Found": "Lake of Outrage",
+    "Weather": "Overcast, Intense Sun"
   },
   {
     "Number": 384,
@@ -4220,8 +4603,9 @@
     "NationalDexNumber": 247,
     "Type": "Rock",
     "SubType": "Ground",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "Evolve Larvitar, lvl 30+",
+    "Found": "Lake of Outrage",
+    "Weather": "Sandstorm"
   },
   {
     "Number": 385,
@@ -4231,8 +4615,9 @@
     "NationalDexNumber": 248,
     "Type": "Rock",
     "SubType": "Dark",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "Evolve Pupitar, lvl 55+",
+    "Found": "Dusty Bowl",
+    "Weather": "Not Applicable"
   },
   {
     "Number": 386,
@@ -4242,8 +4627,9 @@
     "NationalDexNumber": 633,
     "Type": "Dark",
     "SubType": "Dragon",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "None",
+    "Found": "Lake of Outrage",
+    "Weather": "Raining"
   },
   {
     "Number": 387,
@@ -4253,8 +4639,9 @@
     "NationalDexNumber": 634,
     "Type": "Dark",
     "SubType": "Dragon",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "Evolve Deino, lvl 50+",
+    "Found": "Lake of Outrage",
+    "Weather": "Sandstorm, Thunderstorm"
   },
   {
     "Number": 388,
@@ -4264,8 +4651,9 @@
     "NationalDexNumber": 635,
     "Type": "Dark",
     "SubType": "Dragon",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "Evolve Zweilous, lvl 64+",
+    "Found": "Bridge Field, Dusty Bowl, Giant's Mirror, Stony Wilderness, West Lake Axewell Max Raid Battles",
+    "Weather": "Not Applicable"
   },
   {
     "Number": 389,
@@ -4275,8 +4663,9 @@
     "NationalDexNumber": 704,
     "Type": "Dragon",
     "SubType": "",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "None",
+    "Found": "Lake of Outrage",
+    "Weather": "Raining"
   },
   {
     "Number": 390,
@@ -4286,8 +4675,9 @@
     "NationalDexNumber": 705,
     "Type": "Dragon",
     "SubType": "",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "Evolve Goomy, lvl 40+",
+    "Found": "Lake of Outrage",
+    "Weather": "Thunderstorm"
   },
   {
     "Number": 391,
@@ -4297,8 +4687,9 @@
     "NationalDexNumber": 706,
     "Type": "Dragon",
     "SubType": "",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "Evolve Sliggo, lvl 50+ when it's raining",
+    "Found": "Axew's Eye, Rolling Fields Max Raid Battles",
+    "Weather": "Not Applicable"
   },
   {
     "Number": 392,
@@ -4308,8 +4699,9 @@
     "NationalDexNumber": 782,
     "Type": "Dragon",
     "SubType": "",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "None",
+    "Found": "Lake of Outrage",
+    "Weather": "Overcast, Intense Sun"
   },
   {
     "Number": 393,
@@ -4319,8 +4711,9 @@
     "NationalDexNumber": 783,
     "Type": "Dragon",
     "SubType": "Fighting",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "Evolve Jangmo-o, lvl 35+",
+    "Found": "Lake of Outrage",
+    "Weather": "Thunderstorm"
   },
   {
     "Number": 394,
@@ -4330,8 +4723,9 @@
     "NationalDexNumber": 784,
     "Type": "Dragon",
     "SubType": "Fighting",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "Evolve Hakamo-o, lvl 45+",
+    "Found": "Dusty Bowl",
+    "Weather": "Not Applicable"
   },
   {
     "Number": 395,
@@ -4341,8 +4735,9 @@
     "NationalDexNumber": 885,
     "Type": "Dragon",
     "SubType": "Ghost",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "None",
+    "Found": "Lake of Outrage",
+    "Weather": "Overcast, Thunderstorm, Fog"
   },
   {
     "Number": 396,
@@ -4352,8 +4747,9 @@
     "NationalDexNumber": 886,
     "Type": "Dragon",
     "SubType": "Ghost",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "Evolve Dreepy, lvl 50+",
+    "Found": "Lake of Outrage",
+    "Weather": "Not Applicable"
   },
   {
     "Number": 397,
@@ -4363,8 +4759,9 @@
     "NationalDexNumber": 887,
     "Type": "Dragon",
     "SubType": "Ghost",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "Evolve Drakloak, lvl 60+",
+    "Found": "Axew's Eye, Rolling Fields Max Raid Battles",
+    "Weather": "Not Applicable"
   },
   {
     "Number": 398,
@@ -4374,8 +4771,9 @@
     "NationalDexNumber": 888,
     "Type": "Fairy",
     "SubType": "",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "None",
+    "Found": "Energy Plant - Complete the game. (Changes form based on whether or not it's equipped with the Rusty Sword)",
+    "Weather": "Not Applicable"
   },
   {
     "Number": 399,
@@ -4385,8 +4783,9 @@
     "NationalDexNumber": 889,
     "Type": "Fighting",
     "SubType": "",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "None",
+    "Found": "Energy Plant - Complete the game. (Changes form based on whether or not it's equipped with the Rusty Shield)",
+    "Weather": "Not Applicable"
   },
   {
     "Number": 400,
@@ -4396,7 +4795,8 @@
     "NationalDexNumber": 890,
     "Type": "Poison",
     "SubType": "Dragon",
-    "Evolution": "",
-    "Found": ""
+    "Evolution": "None",
+    "Found": "Energy Plant - Complete main story. (Eternamax form not available natively)",
+    "Weather": "Not Applicable"
   }
 ]

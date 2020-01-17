@@ -1,10 +1,10 @@
-import React, { Component } from 'react';
+import React, { Component, PureComponent } from 'react';
 import { Text, View, StyleSheet, Image, Platform, TouchableOpacity, AsyncStorage, Linking, Alert } from 'react-native';
 import Collapsible from 'react-native-collapsible';
 import TypeTagList  from './TypeTagList';
 import TypeTag  from './TypeTag';
 
-export default class PokedexListItem extends Component {
+export default class PokedexListItem extends PureComponent {
   _isMounted = false;
 
   constructor() {
@@ -97,8 +97,6 @@ export default class PokedexListItem extends Component {
     const MainType = this.props.pokemonType.toLowerCase();
     const SubType = this.props.pokemonSubType.toLowerCase();
     const IconPath = {uri: 'https://www.serebii.net/pokedex-swsh/icon/' + this.getIconPathNumber(IconPathNumber) + '.png'};
-    const TypeTagOne = {uri: 'https://www.serebii.net/attackdex-bw/type/' + MainType.toLowerCase() + '.gif'};
-    const TypeTagTwo = {uri: 'https://www.serebii.net/attackdex-bw/type/' + SubType.toLowerCase() + '.gif'};
 
     const HasCaught = false;
 
@@ -134,9 +132,8 @@ export default class PokedexListItem extends Component {
               <Text style={{fontSize: 13, marginTop: 10, fontWeight: 'bold', marginBottom: 4}}>Locations</Text>
               <Text>{this.props.pokemonLocations}</Text>
 
-              <TouchableOpacity onPress={ () => Linking.openURL('https://www.serebii.net/pokedex-swsh/'+ this.props.pokemonName.toLowerCase() + '/')}>
-                <Text style={{fontSize: 13, marginTop: 15, fontWeight: 'bold', marginBottom: 4, color: 'blue'}}>More Info (link)</Text>
-              </TouchableOpacity>
+              <Text style={{fontSize: 13, marginTop: 10, fontWeight: 'bold', marginBottom: 4}}>Weather</Text>
+              <Text>{this.props.pokemonWeather}</Text>
           </View>
         </View>
       );
@@ -158,13 +155,13 @@ export default class PokedexListItem extends Component {
           <TouchableOpacity onPress={this.onCaughtPress}>
               <View style={styles.toggles}>
                   <Image style={[styles.pokeballicon, this.state.caught ? styles.caughtpokemon : styles.uncaughtpokemon]} resizeMode={'contain'}
-                    source={{uri: 'https://raw.githubusercontent.com/msikma/pokesprite/master/icons/ball/poke.png'}}/>
+                    source={require('./assets/pokeball.png')}/>
               </View>
             </TouchableOpacity>
             <TouchableOpacity onPress={this.onShinyPress}>
               <View style={styles.toggles}>
                   <Image style={[styles.shinyicon, this.state.shiny ? styles.caughtshiny : styles.noshiny]} resizeMode={'contain'}
-                    source={{uri: 'https://cdn.bulbagarden.net/upload/8/82/ShinyLGPEStar.png'}}/>
+                    source={require('./assets/shinystar.png')}/>
               </View>
             </TouchableOpacity>
           </View>

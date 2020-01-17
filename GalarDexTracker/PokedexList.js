@@ -52,7 +52,8 @@ _keyExtractor = (item, index) => item.Pokemon;
           data={this.props.listData}
           keyExtractor={this._keyExtractor}
           renderItem={({item, index}) => <PokedexListItem pokemonNumber={item.Number} pokemonName={item.Pokemon} pokemonType={item.Type} pokemonSubType={item.SubType}
-            pokemonEvolution={item.Evolution} itemIndex={this.getIconNumber(item.NationalDexNumber, index)} existsIn={this.getGameExistance(item)} pokemonLocations={item.Found}/> }
+            pokemonEvolution={item.Evolution} itemIndex={this.getIconNumber(item.NationalDexNumber, index)}
+            existsIn={this.getGameExistance(item)} pokemonLocations={item.Found} pokemonWeather={item.Weather}/> }
           />
       </View>
     );

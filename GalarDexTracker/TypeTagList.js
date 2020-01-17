@@ -92,8 +92,6 @@ export default class PokedexList extends Component {
         multiplier = maintypechart[currentval] * subtypechart[currentval];
       }
 
-      console.log(currentval + ": " + multiplier);
-
       if (multiplier > 1 && showweakness)
       {
         typeval = currentval;
