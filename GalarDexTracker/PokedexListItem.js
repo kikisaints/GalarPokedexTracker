@@ -39,8 +39,8 @@ export default class PokedexListItem extends PureComponent {
 
   showStrengthAlert = () => {
     Alert.alert(
-      'Super Effective!',
-      'Against the following types',
+      'Strong Against',
+      'The following types',
       [
         {text: 'OK'},
       ],
@@ -50,8 +50,8 @@ export default class PokedexListItem extends PureComponent {
 
   showWeaknessAlert = () => {
     Alert.alert(
-      'Not Very Effective...',
-      'Against the following types',
+      'Weak To',
+      'The following types',
       [
         {text: 'OK'},
       ],
@@ -124,6 +124,38 @@ export default class PokedexListItem extends PureComponent {
                 <TouchableOpacity onPress={this.showWeaknessAlert}>
                   <TypeTagList ShowWeakness={true} PrimaryType={MainType.toLowerCase()} SecondaryType={SubType.toLowerCase()}/>
                 </TouchableOpacity>
+              </View>
+
+              <Text style={{fontSize: 13, marginTop: 10, fontWeight: 'bold', marginBottom: 4}}>Base Stats</Text>
+              <View style={{flexDirection: 'row'}}>
+                <View style={{borderTopWidth: 1, borderBottomWidth: 1, borderColor: '#dbdbdb', alignItems: 'center'}}>
+                  <Text style={{fontSize: 12, padding: 4, fontWeight: 'bold'}}>HP</Text>
+                  <Text style={{fontSize: 12, padding: 4}}>{this.props.Health}</Text>
+                </View>
+                <View style={{borderTopWidth: 1, borderBottomWidth: 1, borderColor: '#dbdbdb', alignItems: 'center'}}>
+                  <Text style={{fontSize: 12, padding: 4, fontWeight: 'bold'}}>ATK</Text>
+                  <Text style={{fontSize: 12, padding: 4}}>{this.props.Attack}</Text>
+                </View>
+                <View style={{borderTopWidth: 1, borderBottomWidth: 1, borderColor: '#dbdbdb', alignItems: 'center'}}>
+                  <Text style={{fontSize: 12, padding: 4, fontWeight: 'bold'}}>DEF</Text>
+                  <Text style={{fontSize: 12, padding: 4}}>{this.props.Defense}</Text>
+                </View>
+                <View style={{borderTopWidth: 1, borderBottomWidth: 1, borderColor: '#dbdbdb', alignItems: 'center'}}>
+                  <Text style={{fontSize: 12, padding: 4, fontWeight: 'bold'}}>Sp.ATK</Text>
+                  <Text style={{fontSize: 12, padding: 4}}>{this.props.SpecialAttack}</Text>
+                </View>
+                <View style={{borderTopWidth: 1, borderBottomWidth: 1, borderColor: '#dbdbdb', alignItems: 'center'}}>
+                  <Text style={{fontSize: 12, padding: 4, fontWeight: 'bold'}}>Sp.DEF</Text>
+                  <Text style={{fontSize: 12, padding: 4}}>{this.props.SpecialDefense}</Text>
+                </View>
+                <View style={{borderTopWidth: 1, borderBottomWidth: 1, borderColor: '#dbdbdb', alignItems: 'center'}}>
+                  <Text style={{fontSize: 12, padding: 4, fontWeight: 'bold'}}>Speed</Text>
+                  <Text style={{fontSize: 12, padding: 4}}>{this.props.Speed}</Text>
+                </View>
+                <View style={{borderTopWidth: 1, borderBottomWidth: 1, borderColor: '#dbdbdb', alignItems: 'center'}}>
+                  <Text style={{fontSize: 12, padding: 4, fontWeight: 'bold'}}>Total</Text>
+                  <Text style={{fontSize: 12, padding: 4}}>{this.props.TotalStats}</Text>
+                </View>
               </View>
 
               <Text style={{fontSize: 13, marginTop: 10, fontWeight: 'bold', marginBottom: 4}}>Evolution</Text>

@@ -9,7 +9,14 @@
     "SubType": "",
     "Evolution": "Chosen as starter or traded from another game.",
     "Found": "Chosen as starter or traded from another game.",
-    "Weather": "Not Applicable"
+    "Weather": "Any",
+    "HP": 50,
+    "ATK": 65,
+    "DEF": 50,
+    "SpATK": 40,
+    "SpDEF": 40,
+    "Speed": 65,
+    "Total": 310
   },
   {
     "Number": 2,
@@ -21,7 +28,14 @@
     "SubType": "",
     "Evolution": "Evolve Grookey, lvl 16+",
     "Found": "Chosen as starter or traded from another game.",
-    "Weather": "Not Applicable"
+    "Weather": "Any",
+    "HP": 70,
+    "ATK": 85,
+    "DEF": 70,
+    "SpATK": 55,
+    "SpDEF": 60,
+    "Speed": 80,
+    "Total": 420
   },
   {
     "Number": 3,
@@ -33,7 +47,14 @@
     "SubType": "",
     "Evolution": "Evolve Thwackey, lvl 35+",
     "Found": "Chosen as starter or traded from another game.",
-    "Weather": "Not Applicable"
+    "Weather": "Any",
+    "HP": 100,
+    "ATK": 125,
+    "DEF": 90,
+    "SpATK": 60,
+    "SpDEF": 70,
+    "Speed": 85,
+    "Total": 530
   },
   {
     "Number": 4,
@@ -45,7 +66,14 @@
     "SubType": "",
     "Evolution": "Chosen as starter or traded from another game.",
     "Found": "Chosen as starter or traded from another game.",
-    "Weather": "Not Applicable"
+    "Weather": "Any",
+    "HP": 50,
+    "ATK": 71,
+    "DEF": 40,
+    "SpATK": 40,
+    "SpDEF": 40,
+    "Speed": 69,
+    "Total": 310
   },
   {
     "Number": 5,
@@ -57,7 +85,14 @@
     "SubType": "",
     "Evolution": "Evolve Scorbunny, lvl 16+",
     "Found": "Chosen as starter or traded from another game.",
-    "Weather": "Not Applicable"
+    "Weather": "Any",
+    "HP": 65,
+    "ATK": 86,
+    "DEF": 60,
+    "SpATK": 55,
+    "SpDEF": 60,
+    "Speed": 94,
+    "Total": 420
   },
   {
     "Number": 6,
@@ -69,7 +104,14 @@
     "SubType": "",
     "Evolution": "Evolve Raboot, lvl 35+",
     "Found": "Chosen as starter or traded from another game.",
-    "Weather": "Not Applicable"
+    "Weather": "Any",
+    "HP": 80,
+    "ATK": 116,
+    "DEF": 75,
+    "SpATK": 65,
+    "SpDEF": 75,
+    "Speed": 119,
+    "Total": 530
   },
   {
     "Number": 7,
@@ -81,7 +123,14 @@
     "SubType": "",
     "Evolution": "Chosen as starter or traded from another game.",
     "Found": "Chosen as starter or traded from another game.",
-    "Weather": "Not Applicable"
+    "Weather": "Any",
+    "HP": 50,
+    "ATK": 40,
+    "DEF": 40,
+    "SpATK": 70,
+    "SpDEF": 40,
+    "Speed": 70,
+    "Total": 310
   },
   {
     "Number": 8,
@@ -93,7 +142,14 @@
     "SubType": "",
     "Evolution": "Evolve Sobble, lvl 16+",
     "Found": "Chosen as starter or traded from another game.",
-    "Weather": "Not Applicable"
+    "Weather": "Any",
+    "HP": 65,
+    "ATK": 60,
+    "DEF": 55,
+    "SpATK": 95,
+    "SpDEF": 55,
+    "Speed": 90,
+    "Total": 420
   },
   {
     "Number": 9,
@@ -105,7 +161,14 @@
     "SubType": "",
     "Evolution": "Evolve Drizzile, lvl 35+",
     "Found": "Chosen as starter or traded from another game.",
-    "Weather": "Not Applicable"
+    "Weather": "Any",
+    "HP": 70,
+    "ATK": 85,
+    "DEF": 65,
+    "SpATK": 125,
+    "SpDEF": 65,
+    "Speed": 120,
+    "Total": 530
   },
   {
     "Number": 10,
@@ -115,9 +178,16 @@
     "NationalDexNumber": 824,
     "Type": "Bug",
     "SubType": "",
-    "Evolution": "None",
+    "Evolution": "None/Starting",
     "Found": "Route 1, Route 2, Giant's Cap, Slumbering Weald",
-    "Weather": "Normal"
+    "Weather": "Normal",
+    "HP": 25,
+    "ATK": 20,
+    "DEF": 20,
+    "SpATK": 25,
+    "SpDEF": 45,
+    "Speed": 45,
+    "Total": 180
   },
   {
     "Number": 11,
@@ -128,8 +198,15 @@
     "Type": "Bug",
     "SubType": "Psychic",
     "Evolution": "Evolve Blipbug, lvl 10+",
-    "Found": "",
-    "Weather": "Not Applicable"
+    "Found": "Route 5, Giant's Cap, Giant's Mirror, Stony Wilderness",
+    "Weather": "Any",
+    "HP": 50,
+    "ATK": 35,
+    "DEF": 80,
+    "SpATK": 50,
+    "SpDEF": 90,
+    "Speed": 30,
+    "Total": 335
   },
   {
     "Number": 12,
@@ -140,8 +217,15 @@
     "Type": "Bug",
     "SubType": "Psychic",
     "Evolution": "Evolve Dottler, Lvl 30+",
-    "Found": "",
-    "Weather": "Not Applicable"
+    "Found": "Giant's Cap, Lake of Outrage, Slumbering Weald",
+    "Weather": "Any",
+    "HP": 60,
+    "ATK": 45,
+    "DEF": 110,
+    "SpATK": 80,
+    "SpDEF": 120,
+    "Speed": 90,
+    "Total": 505
   },
   {
     "Number": 13,
@@ -151,9 +235,16 @@
     "NationalDexNumber": 10,
     "Type": "Bug",
     "SubType": "",
-    "Evolution": "None",
+    "Evolution": "None/Starting",
     "Found": "Route 1\n",
-    "Weather": "Not Applicable"
+    "Weather": "Any",
+    "HP": 45,
+    "ATK": 30,
+    "DEF": 35,
+    "SpATK": 20,
+    "SpDEF": 20,
+    "Speed": 45,
+    "Total": 195
   },
   {
     "Number": 14,
@@ -165,7 +256,14 @@
     "SubType": "",
     "Evolution": "Evolve Caterpie, lvl 7+",
     "Found": "Rolling Fields",
-    "Weather": "Not Applicable"
+    "Weather": "Any",
+    "HP": 50,
+    "ATK": 20,
+    "DEF": 55,
+    "SpATK": 25,
+    "SpDEF": 25,
+    "Speed": 30,
+    "Total": 205
   },
   {
     "Number": 15,
@@ -177,7 +275,14 @@
     "SubType": "Flying",
     "Evolution": "Evolve Metapod, lvl 10+",
     "Found": "East Lake Axewell, Giant's Mirror, Rolling Fields, Slumbering Weald",
-    "Weather": "Not Applicable"
+    "Weather": "Any",
+    "HP": 60,
+    "ATK": 45,
+    "DEF": 50,
+    "SpATK": 90,
+    "SpDEF": 80,
+    "Speed": 70,
+    "Total": 395
   },
   {
     "Number": 16,
@@ -187,9 +292,16 @@
     "NationalDexNumber": 736,
     "Type": "Bug",
     "SubType": "",
-    "Evolution": "None",
+    "Evolution": "None/Starting",
     "Found": "Route 1, Dappled Grove, East Lake Axewell, North Lake Miloch, Slumbering Weald, Watchtower Ruins",
-    "Weather": "Raining, Thunderstorm"
+    "Weather": "Raining, Thunderstorm",
+    "HP": 47,
+    "ATK": 62,
+    "DEF": 45,
+    "SpATK": 55,
+    "SpDEF": 45,
+    "Speed": 46,
+    "Total": 300
   },
   {
     "Number": 17,
@@ -201,7 +313,14 @@
     "SubType": "Electric",
     "Evolution": "Evolve Grubbin, lvl 20+",
     "Found": "Axew's Eye, Dusty Bowl, Hammerlocke Hills",
-    "Weather": "Raining, Thunderstorm"
+    "Weather": "Raining, Thunderstorm",
+    "HP": 57,
+    "ATK": 82,
+    "DEF": 95,
+    "SpATK": 55,
+    "SpDEF": 75,
+    "Speed": 36,
+    "Total": 400
   },
   {
     "Number": 18,
@@ -213,7 +332,14 @@
     "SubType": "Electric",
     "Evolution": "Evolve Charjabug, Thunder Stone",
     "Found": "Giant's Mirror, Giant's Seat",
-    "Weather": "Not Applicable"
+    "Weather": "Any",
+    "HP": 77,
+    "ATK": 70,
+    "DEF": 90,
+    "SpATK": 145,
+    "SpDEF": 75,
+    "Speed": 43,
+    "Total": 500
   },
   {
     "Number": 19,
@@ -223,9 +349,16 @@
     "NationalDexNumber": 163,
     "Type": "Normal",
     "SubType": "Flying",
-    "Evolution": "None",
+    "Evolution": "None/Starting",
     "Found": "Route 1, Route 2, Dappled Grove, Giant's Cap, Slumbering Weald",
-    "Weather": "Not Applicable"
+    "Weather": "Any",
+    "HP": 60,
+    "ATK": 30,
+    "DEF": 30,
+    "SpATK": 36,
+    "SpDEF": 56,
+    "Speed": 50,
+    "Total": 262
   },
   {
     "Number": 20,
@@ -237,7 +370,14 @@
     "SubType": "Flying",
     "Evolution": "Evolve Hoothoot, lvl 20+",
     "Found": "Bridge Field, Giant's Cap, Motostoke Outskirts, Motostoke Riverbank",
-    "Weather": "Not Applicable"
+    "Weather": "Any",
+    "HP": 100,
+    "ATK": 50,
+    "DEF": 50,
+    "SpATK": 86,
+    "SpDEF": 96,
+    "Speed": 70,
+    "Total": 452
   },
   {
     "Number": 21,
@@ -247,9 +387,16 @@
     "NationalDexNumber": 821,
     "Type": "Flying",
     "SubType": "",
-    "Evolution": "None",
+    "Evolution": "None/Starting",
     "Found": "Route 1, Route 2, Route 3, Motostoke Riverbank, Slumbering Weald",
-    "Weather": "Overcast"
+    "Weather": "Overcast",
+    "HP": 38,
+    "ATK": 47,
+    "DEF": 35,
+    "SpATK": 33,
+    "SpDEF": 35,
+    "Speed": 57,
+    "Total": 245
   },
   {
     "Number": 22,
@@ -261,7 +408,14 @@
     "SubType": "",
     "Evolution": "Evolve Rookidee, lvl 18+",
     "Found": "Route 3, Giant's Mirror, Hammerlocke Hills, Motostoke Riverbank",
-    "Weather": "Not Applicable"
+    "Weather": "Any",
+    "HP": 68,
+    "ATK": 67,
+    "DEF": 55,
+    "SpATK": 43,
+    "SpDEF": 55,
+    "Speed": 77,
+    "Total": 365
   },
   {
     "Number": 23,
@@ -273,7 +427,14 @@
     "SubType": "Steel",
     "Evolution": "Evolve Corvisquire, lvl 38+",
     "Found": "Route 7, Dusty Bowl, Giant's Cap, Hammerlocke Hills, Lake of Outrage, Motostoke Riverbank, North Lake Miloch, Slumbering Weald, Watchtower Ruins",
-    "Weather": "Not Applicable"
+    "Weather": "Any",
+    "HP": 98,
+    "ATK": 87,
+    "DEF": 105,
+    "SpATK": 53,
+    "SpDEF": 85,
+    "Speed": 67,
+    "Total": 495
   },
   {
     "Number": 24,
@@ -283,9 +444,16 @@
     "NationalDexNumber": 819,
     "Type": "Normal",
     "SubType": "",
-    "Evolution": "None",
+    "Evolution": "None/Starting",
     "Found": "Route 1, Route 2, Route 3, Route 4, Route 5, Dappled Grove, Motostoke Riverbank, North Lake Miloch, Rolling Fields, Slumbering Weald, Watchtower Ruins",
-    "Weather": "Not Applicable"
+    "Weather": "Any",
+    "HP": 70,
+    "ATK": 55,
+    "DEF": 55,
+    "SpATK": 35,
+    "SpDEF": 35,
+    "Speed": 25,
+    "Total": 275
   },
   {
     "Number": 25,
@@ -297,7 +465,14 @@
     "SubType": "",
     "Evolution": "Evolve Skwovet, lvl 24+",
     "Found": "Route 6, Route 7, Route 9, Axew's Eye, Bridge Field, Giant's Cap, Giant's Mirror, Giant's Seat, Hammerlocke Hills, Lake of Outrage, Motostoke Riverbank",
-    "Weather": "Not Applicable"
+    "Weather": "Any",
+    "HP": 120,
+    "ATK": 95,
+    "DEF": 95,
+    "SpATK": 55,
+    "SpDEF": 75,
+    "Speed": 20,
+    "Total": 460
   },
   {
     "Number": 26,
@@ -307,9 +482,16 @@
     "NationalDexNumber": 519,
     "Type": "Normal",
     "SubType": "Flying",
-    "Evolution": "None",
+    "Evolution": "None/Starting",
     "Found": "East Lake Axewell, North Lake Miloch, Rolling Fields, Watchtower Ruins",
-    "Weather": "Not Applicable"
+    "Weather": "Any",
+    "HP": 50,
+    "ATK": 55,
+    "DEF": 50,
+    "SpATK": 36,
+    "SpDEF": 30,
+    "Speed": 43,
+    "Total": 264
   },
   {
     "Number": 27,
@@ -321,7 +503,14 @@
     "SubType": "Flying",
     "Evolution": "Evolve Pidove, lvl 21+",
     "Found": "Bridge Field, Giant's Mirror, Giant's Seat, Stony Wilderness",
-    "Weather": "Not Applicable"
+    "Weather": "Any",
+    "HP": 62,
+    "ATK": 77,
+    "DEF": 62,
+    "SpATK": 50,
+    "SpDEF": 42,
+    "Speed": 65,
+    "Total": 358
   },
   {
     "Number": 28,
@@ -333,7 +522,14 @@
     "SubType": "Flying",
     "Evolution": "Evolve Tranquill, lvl 32+",
     "Found": "Axew's Eye, Giant's Mirror, Hammerlocke Hills, Stony Wilderness",
-    "Weather": "Not Applicable"
+    "Weather": "Any",
+    "HP": 80,
+    "ATK": 115,
+    "DEF": 80,
+    "SpATK": 65,
+    "SpDEF": 55,
+    "Speed": 93,
+    "Total": 488
   },
   {
     "Number": 29,
@@ -343,9 +539,16 @@
     "NationalDexNumber": 827,
     "Type": "Dark",
     "SubType": "",
-    "Evolution": "None",
+    "Evolution": "None/Starting",
     "Found": "Route 1, Route 2, Dusty Bowl, Giant's Mirror, Stony Wilderness",
-    "Weather": "Not Applicable"
+    "Weather": "Any",
+    "HP": 40,
+    "ATK": 28,
+    "DEF": 28,
+    "SpATK": 47,
+    "SpDEF": 52,
+    "Speed": 50,
+    "Total": 245
   },
   {
     "Number": 30,
@@ -357,7 +560,14 @@
     "SubType": "",
     "Evolution": "Evolve Nickit, lvl 18+",
     "Found": "Route 7, Route 9, Bridge Field, Hammerlocke Hills, South Lake Miloch, Stony Wilderness",
-    "Weather": "Not Applicable"
+    "Weather": "Any",
+    "HP": 70,
+    "ATK": 58,
+    "DEF": 58,
+    "SpATK": 87,
+    "SpDEF": 92,
+    "Speed": 90,
+    "Total": 455
   },
   {
     "Number": 31,
@@ -367,9 +577,16 @@
     "NationalDexNumber": 263,
     "Type": "Dark",
     "SubType": "Normal",
-    "Evolution": "None",
+    "Evolution": "None/Starting",
     "Found": "Route 2, Route 3, Bridge Field, Giant's Cap, Stony Wilderness",
-    "Weather": "Not Applicable"
+    "Weather": "Any",
+    "HP": 38,
+    "ATK": 30,
+    "DEF": 41,
+    "SpATK": 30,
+    "SpDEF": 41,
+    "Speed": 60,
+    "Total": 240
   },
   {
     "Number": 32,
@@ -381,7 +598,14 @@
     "SubType": "Normal",
     "Evolution": "Evolve Zigzagoon, lvl 20+",
     "Found": "Bridge Field, Giant's Cap",
-    "Weather": "Not Applicable"
+    "Weather": "Any",
+    "HP": 78,
+    "ATK": 70,
+    "DEF": 61,
+    "SpATK": 50,
+    "SpDEF": 61,
+    "Speed": 100,
+    "Total": 420
   },
   {
     "Number": 33,
@@ -393,7 +617,14 @@
     "SubType": "Normal",
     "Evolution": "Evolve Obstagoon, lvl 35+ at Night (20:00+)",
     "Found": "Route 2, Lake of Outrage",
-    "Weather": "Not Applicable"
+    "Weather": "Any",
+    "HP": 93,
+    "ATK": 90,
+    "DEF": 101,
+    "SpATK": 60,
+    "SpDEF": 81,
+    "Speed": 95,
+    "Total": 520
   },
   {
     "Number": 34,
@@ -403,9 +634,16 @@
     "NationalDexNumber": 831,
     "Type": "Normal",
     "SubType": "",
-    "Evolution": "None",
+    "Evolution": "None/Starting",
     "Found": "Route 1, Route 4, Motostoke Riverbank",
-    "Weather": "Normal"
+    "Weather": "Normal",
+    "HP": 42,
+    "ATK": 40,
+    "DEF": 55,
+    "SpATK": 40,
+    "SpDEF": 45,
+    "Speed": 48,
+    "Total": 270
   },
   {
     "Number": 35,
@@ -417,7 +655,14 @@
     "SubType": "",
     "Evolution": "Evolve Wooloo, lvl 24+",
     "Found": "Dusty Bowl, Hammerlocke Hills, Motostoke Riverbank",
-    "Weather": "Not Applicable"
+    "Weather": "Any",
+    "HP": 72,
+    "ATK": 80,
+    "DEF": 100,
+    "SpATK": 60,
+    "SpDEF": 90,
+    "Speed": 88,
+    "Total": 490
   },
   {
     "Number": 36,
@@ -427,9 +672,16 @@
     "NationalDexNumber": 270,
     "Type": "Water",
     "SubType": "Grass",
-    "Evolution": "None",
+    "Evolution": "None/Starting",
     "Found": "Route 2, Dappled Grove, Rolling Fields, West Lake Axewell",
-    "Weather": "Not Applicable"
+    "Weather": "Any",
+    "HP": 40,
+    "ATK": 30,
+    "DEF": 30,
+    "SpATK": 40,
+    "SpDEF": 50,
+    "Speed": 30,
+    "Total": 220
   },
   {
     "Number": 37,
@@ -441,7 +693,14 @@
     "SubType": "Grass",
     "Evolution": "Evolve from Lotad, lvl 14+",
     "Found": "Route 5, Dappled Grove, Giant's Cap, Giant's Seat, South Lake Miloch",
-    "Weather": "Not Applicable"
+    "Weather": "Any",
+    "HP": 60,
+    "ATK": 50,
+    "DEF": 50,
+    "SpATK": 60,
+    "SpDEF": 70,
+    "Speed": 50,
+    "Total": 340
   },
   {
     "Number": 38,
@@ -453,7 +712,14 @@
     "SubType": "Grass",
     "Evolution": "Evolve from Lombre, Water Stone",
     "Found": "Dappled Grove",
-    "Weather": "Not Applicable"
+    "Weather": "Any",
+    "HP": 80,
+    "ATK": 70,
+    "DEF": 70,
+    "SpATK": 90,
+    "SpDEF": 100,
+    "Speed": 70,
+    "Total": 480
   },
   {
     "Number": 39,
@@ -463,9 +729,16 @@
     "NationalDexNumber": 273,
     "Type": "Grass",
     "SubType": "",
-    "Evolution": "None",
+    "Evolution": "None/Starting",
     "Found": "Route 2, Dappled Grove, West Lake Axewell",
-    "Weather": "Not Applicable"
+    "Weather": "Any",
+    "HP": 40,
+    "ATK": 40,
+    "DEF": 50,
+    "SpATK": 30,
+    "SpDEF": 30,
+    "Speed": 30,
+    "Total": 220
   },
   {
     "Number": 40,
@@ -477,7 +750,14 @@
     "SubType": "Dark",
     "Evolution": "Evolve from Seedot, lvl 14+",
     "Found": "Route 5, Dappled Grove, Giant's Cap, Giant's Seat, Rolling Fields, South Lake Miloch",
-    "Weather": "Not Applicable"
+    "Weather": "Any",
+    "HP": 70,
+    "ATK": 70,
+    "DEF": 40,
+    "SpATK": 60,
+    "SpDEF": 40,
+    "Speed": 60,
+    "Total": 340
   },
   {
     "Number": 41,
@@ -489,7 +769,14 @@
     "SubType": "Dark",
     "Evolution": "Evolve from Nuzleaf, Leaf Stone",
     "Found": "Dappled Grove",
-    "Weather": "Not Applicable"
+    "Weather": "Any",
+    "HP": 90,
+    "ATK": 100,
+    "DEF": 60,
+    "SpATK": 90,
+    "SpDEF": 60,
+    "Speed": 80,
+    "Total": 480
   },
   {
     "Number": 42,
@@ -499,9 +786,16 @@
     "NationalDexNumber": 833,
     "Type": "Water",
     "SubType": "",
-    "Evolution": "None",
+    "Evolution": "None/Starting",
     "Found": "Route 2, Route 4, Route 5, Galar Mine No. 2, Giant's Cap, Giant's Mirror, Hulbury, Motostoke, Motostoke Outskirts, Motostoke Riverbank",
-    "Weather": "Not Applicable"
+    "Weather": "Any",
+    "HP": 50,
+    "ATK": 64,
+    "DEF": 50,
+    "SpATK": 38,
+    "SpDEF": 38,
+    "Speed": 44,
+    "Total": 284
   },
   {
     "Number": 43,
@@ -513,7 +807,14 @@
     "SubType": "Rock",
     "Evolution": "Evolve from Chewtle, lvl 22+",
     "Found": "Route 2, Route 6, Bridge Field, Dusty Bowl, Galar Mine No. 2, Giant's Cap, Giant's Mirror, Lake of Outrage, West Lake Axewell",
-    "Weather": "Not Applicable"
+    "Weather": "Any",
+    "HP": 90,
+    "ATK": 115,
+    "DEF": 90,
+    "SpATK": 48,
+    "SpDEF": 68,
+    "Speed": 74,
+    "Total": 485
   },
   {
     "Number": 44,
@@ -523,9 +824,16 @@
     "NationalDexNumber": 509,
     "Type": "Dark",
     "SubType": "",
-    "Evolution": "None",
+    "Evolution": "None/Starting",
     "Found": "Route 2, Dappled Grove, East Lake Axewell, Motostoke Riverbank, North Lake Miloch, Watchtower Ruins, West Lake Axewell",
-    "Weather": "Not Applicable"
+    "Weather": "Any",
+    "HP": 41,
+    "ATK": 50,
+    "DEF": 37,
+    "SpATK": 50,
+    "SpDEF": 37,
+    "Speed": 66,
+    "Total": 281
   },
   {
     "Number": 45,
@@ -537,7 +845,14 @@
     "SubType": "",
     "Evolution": "Evolve from Purrloin, lvl 20+",
     "Found": "Route 7, Route 9, Axew's Eye, Bridge Field, Giant's Cap, Giant's Seat, North Lake Miloch",
-    "Weather": "Not Applicable"
+    "Weather": "Any",
+    "HP": 64,
+    "ATK": 88,
+    "DEF": 50,
+    "SpATK": 88,
+    "SpDEF": 50,
+    "Speed": 106,
+    "Total": 446
   },
   {
     "Number": 46,
@@ -547,9 +862,16 @@
     "NationalDexNumber": 835,
     "Type": "Electric",
     "SubType": "",
-    "Evolution": "None",
+    "Evolution": "None/Starting",
     "Found": "Route 2, Route 4, Giant's Mirror, Motostoke Riverbank, Stony Wilderness",
-    "Weather": "Not Applicable"
+    "Weather": "Any",
+    "HP": 59,
+    "ATK": 45,
+    "DEF": 50,
+    "SpATK": 40,
+    "SpDEF": 50,
+    "Speed": 26,
+    "Total": 270
   },
   {
     "Number": 47,
@@ -561,7 +883,14 @@
     "SubType": "",
     "Evolution": "Evolve from Yamper, lvl 25+",
     "Found": "Dusty Bowl, Lake of Outrage, Motostoke Riverbank, North Lake Miloch",
-    "Weather": "Normal"
+    "Weather": "Normal",
+    "HP": 69,
+    "ATK": 90,
+    "DEF": 60,
+    "SpATK": 90,
+    "SpDEF": 60,
+    "Speed": 121,
+    "Total": 490
   },
   {
     "Number": 48,
@@ -571,9 +900,16 @@
     "NationalDexNumber": 659,
     "Type": "Normal",
     "SubType": "",
-    "Evolution": "None",
+    "Evolution": "None/Starting",
     "Found": "Dappled Grove, East Lake Axewell, Giant's Cap, North Lake Miloch, Rolling Fields, West Lake Axewell",
-    "Weather": "Not Applicable"
+    "Weather": "Any",
+    "HP": 38,
+    "ATK": 36,
+    "DEF": 38,
+    "SpATK": 32,
+    "SpDEF": 36,
+    "Speed": 57,
+    "Total": 237
   },
   {
     "Number": 49,
@@ -585,7 +921,14 @@
     "SubType": "Ground",
     "Evolution": "Evolve from Bunnelby, lvl 20+",
     "Found": "Axew's Eye, Bridge Field, Giant's Cap, Giant's Mirror, Giant's Seat, North Lake Miloch, Rolling Fields",
-    "Weather": "Not Applicable"
+    "Weather": "Any",
+    "HP": 85,
+    "ATK": 56,
+    "DEF": 77,
+    "SpATK": 50,
+    "SpDEF": 77,
+    "Speed": 78,
+    "Total": 423
   },
   {
     "Number": 50,
@@ -595,9 +938,16 @@
     "NationalDexNumber": 572,
     "Type": "Normal",
     "SubType": "",
-    "Evolution": "None",
+    "Evolution": "None/Starting",
     "Found": "Route 5, East Lake Axewell, Giant's Cap, Rolling Fields",
-    "Weather": "Not Applicable"
+    "Weather": "Any",
+    "HP": 55,
+    "ATK": 50,
+    "DEF": 40,
+    "SpATK": 40,
+    "SpDEF": 40,
+    "Speed": 75,
+    "Total": 300
   },
   {
     "Number": 51,
@@ -609,7 +959,14 @@
     "SubType": "",
     "Evolution": "Evolve from Minccino, Shiny Stone",
     "Found": "Giant's Cap",
-    "Weather": "Normal, Overcast, Fog"
+    "Weather": "Normal, Overcast, Fog",
+    "HP": 75,
+    "ATK": 95,
+    "DEF": 60,
+    "SpATK": 65,
+    "SpDEF": 60,
+    "Speed": 115,
+    "Total": 470
   },
   {
     "Number": 52,
@@ -619,9 +976,16 @@
     "NationalDexNumber": 761,
     "Type": "Grass",
     "SubType": "",
-    "Evolution": "None",
+    "Evolution": "None/Starting",
     "Found": "Dappled Grove, East Lake Axewell, Rolling Fields, Stony Wilderness, Watchtower Ruins, West Lake Axewell",
-    "Weather": "Not Applicable"
+    "Weather": "Any",
+    "HP": 42,
+    "ATK": 30,
+    "DEF": 38,
+    "SpATK": 30,
+    "SpDEF": 38,
+    "Speed": 32,
+    "Total": 210
   },
   {
     "Number": 53,
@@ -633,7 +997,14 @@
     "SubType": "",
     "Evolution": "Evolve from Bounsweet, lvl 18+",
     "Found": "Axew's Eye",
-    "Weather": "Normal"
+    "Weather": "Normal",
+    "HP": 52,
+    "ATK": 40,
+    "DEF": 48,
+    "SpATK": 40,
+    "SpDEF": 48,
+    "Speed": 62,
+    "Total": 290
   },
   {
     "Number": 54,
@@ -645,7 +1016,14 @@
     "SubType": "",
     "Evolution": "Evolve from Steenee while knowing Stomp",
     "Found": "Stony Wilderness",
-    "Weather": "Not Applicable"
+    "Weather": "Any",
+    "HP": 72,
+    "ATK": 120,
+    "DEF": 98,
+    "SpATK": 50,
+    "SpDEF": 98,
+    "Speed": 72,
+    "Total": 510
   },
   {
     "Number": 55,
@@ -655,9 +1033,16 @@
     "NationalDexNumber": 43,
     "Type": "Grass",
     "SubType": "Poison",
-    "Evolution": "None",
+    "Evolution": "None/Starting",
     "Found": "Dappled Grove, East Lake Axewell, Rolling Fields, Watchtower Ruins",
-    "Weather": "Not Applicable"
+    "Weather": "Any",
+    "HP": 45,
+    "ATK": 50,
+    "DEF": 55,
+    "SpATK": 75,
+    "SpDEF": 65,
+    "Speed": 30,
+    "Total": 320
   },
   {
     "Number": 56,
@@ -669,7 +1054,14 @@
     "SubType": "Poison",
     "Evolution": "Evolve Oddish, lvl 21+",
     "Found": "Axew's Eye, Giant's Cap, Giant's Mirror, North Lake Miloch",
-    "Weather": "Not Applicable"
+    "Weather": "Any",
+    "HP": 60,
+    "ATK": 65,
+    "DEF": 70,
+    "SpATK": 85,
+    "SpDEF": 75,
+    "Speed": 40,
+    "Total": 395
   },
   {
     "Number": 57,
@@ -681,7 +1073,14 @@
     "SubType": "Poison",
     "Evolution": "Evolve Gloom, Leaf Stone",
     "Found": "Dappled Grove, Giant's Mirror, Hammerlocke Hills",
-    "Weather": "Not Applicable"
+    "Weather": "Any",
+    "HP": 75,
+    "ATK": 80,
+    "DEF": 85,
+    "SpATK": 110,
+    "SpDEF": 90,
+    "Speed": 50,
+    "Total": 490
   },
   {
     "Number": 58,
@@ -693,7 +1092,14 @@
     "SubType": "",
     "Evolution": "Evolve Gloom, Sun Stone",
     "Found": "Giant's Mirror",
-    "Weather": "Normal"
+    "Weather": "Normal",
+    "HP": 75,
+    "ATK": 80,
+    "DEF": 95,
+    "SpATK": 90,
+    "SpDEF": 100,
+    "Speed": 50,
+    "Total": 490
   },
   {
     "Number": 59,
@@ -703,9 +1109,16 @@
     "NationalDexNumber": 406,
     "Type": "Grass",
     "SubType": "Poison",
-    "Evolution": "None",
+    "Evolution": "None/Starting",
     "Found": "Route 4, Dappled Grove, East Lake Axewell, Giant's Mirror, Rolling Fields, West Lake Axewell",
-    "Weather": "Not Applicable"
+    "Weather": "Any",
+    "HP": 40,
+    "ATK": 30,
+    "DEF": 35,
+    "SpATK": 50,
+    "SpDEF": 70,
+    "Speed": 55,
+    "Total": 280
   },
   {
     "Number": 60,
@@ -717,7 +1130,14 @@
     "SubType": "Poison",
     "Evolution": "Evolve Budew, during the day at 220 happiness",
     "Found": "Axew's Eye, Dusty Bowl, Giant's Mirror, Rolling Fields, South Lake Miloch",
-    "Weather": "Not Applicable"
+    "Weather": "Any",
+    "HP": 50,
+    "ATK": 60,
+    "DEF": 45,
+    "SpATK": 100,
+    "SpDEF": 80,
+    "Speed": 65,
+    "Total": 400
   },
   {
     "Number": 61,
@@ -729,7 +1149,14 @@
     "SubType": "Poison",
     "Evolution": "Evolve Roselia, Shiny Stone",
     "Found": "Hammerlocke Hills",
-    "Weather": "Overcast, Fog"
+    "Weather": "Overcast, Fog",
+    "HP": 60,
+    "ATK": 70,
+    "DEF": 65,
+    "SpATK": 125,
+    "SpDEF": 105,
+    "Speed": 90,
+    "Total": 515
   },
   {
     "Number": 62,
@@ -739,9 +1166,16 @@
     "NationalDexNumber": 278,
     "Type": "Water",
     "SubType": "Flying",
-    "Evolution": "None",
+    "Evolution": "None/Starting",
     "Found": "East Lake Axewell, North Lake Miloch, Rolling Fields, South Lake Miloch, Watchtower Ruins, West Lake Axewell",
-    "Weather": "Not Applicable"
+    "Weather": "Any",
+    "HP": 40,
+    "ATK": 30,
+    "DEF": 30,
+    "SpATK": 55,
+    "SpDEF": 30,
+    "Speed": 85,
+    "Total": 270
   },
   {
     "Number": 63,
@@ -753,7 +1187,14 @@
     "SubType": "Flying",
     "Evolution": "Evolve Wingull, lvl 25+",
     "Found": "Route 9, Axew's Eye, Bridge Field, Dusty Bowl, Hammerlocke Hills, Lake of Outrage, North Lake Miloch, Rolling Fields",
-    "Weather": "Not Applicable"
+    "Weather": "Any",
+    "HP": 60,
+    "ATK": 50,
+    "DEF": 100,
+    "SpATK": 95,
+    "SpDEF": 70,
+    "Speed": 65,
+    "Total": 440
   },
   {
     "Number": 64,
@@ -763,9 +1204,16 @@
     "NationalDexNumber": 595,
     "Type": "Bug",
     "SubType": "Electric",
-    "Evolution": "None",
+    "Evolution": "None/Starting",
     "Found": "Route 4, Dappled Grove, East Lake Axewell, Giant's Cap, Giant's Mirror, North Lake Miloch, Rolling Fields, South Lake Miloch, West Lake Axewell",
-    "Weather": "Thunderstorm"
+    "Weather": "Thunderstorm",
+    "HP": 50,
+    "ATK": 47,
+    "DEF": 50,
+    "SpATK": 57,
+    "SpDEF": 50,
+    "Speed": 65,
+    "Total": 319
   },
   {
     "Number": 65,
@@ -777,7 +1225,14 @@
     "SubType": "Electric",
     "Evolution": "Evolve Joltik, lvl 36+",
     "Found": "Route 7, Giant's Cap, Giant's Seat, Lake of Outrage, South Lake Miloch",
-    "Weather": "Not Applicable"
+    "Weather": "Any",
+    "HP": 70,
+    "ATK": 77,
+    "DEF": 60,
+    "SpATK": 97,
+    "SpDEF": 60,
+    "Speed": 108,
+    "Total": 472
   },
   {
     "Number": 66,
@@ -787,9 +1242,16 @@
     "NationalDexNumber": 309,
     "Type": "Electric",
     "SubType": "",
-    "Evolution": "None",
+    "Evolution": "None/Starting",
     "Found": "Route 4, Dappled Grove, Dusty Bowl, East Lake Axewell, Giant's Seat, Rolling Fields, South Lake Miloch, Watchtower Ruins, West Lake Axewell",
-    "Weather": "Thunderstorm, Raining"
+    "Weather": "Thunderstorm, Raining",
+    "HP": 40,
+    "ATK": 45,
+    "DEF": 40,
+    "SpATK": 65,
+    "SpDEF": 40,
+    "Speed": 65,
+    "Total": 295
   },
   {
     "Number": 67,
@@ -801,7 +1263,14 @@
     "SubType": "",
     "Evolution": "Evolve Electrike, lvl 26+",
     "Found": "Axew's Eye, Giant's Cap, Giant's Seat, Rolling Fields",
-    "Weather": "Thunderstorm"
+    "Weather": "Thunderstorm",
+    "HP": 70,
+    "ATK": 75,
+    "DEF": 60,
+    "SpATK": 105,
+    "SpDEF": 60,
+    "Speed": 105,
+    "Total": 475
   },
   {
     "Number": 68,
@@ -811,9 +1280,16 @@
     "NationalDexNumber": 37,
     "Type": "Fire",
     "SubType": "",
-    "Evolution": "None",
+    "Evolution": "None/Starting",
     "Found": "Sword: Route 3, Axew's Eye, Dappled Grove, East Lake Axewell, Giant's Seat, Motostoke, North Lake Miloch, Rolling Fields, South Lake Miloch, Watchtower Ruins, West Lake Axewell\nShield: Dusty Bowl, Hammerlocke Hills, Motostoke",
-    "Weather": "Intense Sun"
+    "Weather": "Intense Sun",
+    "HP": 38,
+    "ATK": 41,
+    "DEF": 40,
+    "SpATK": 50,
+    "SpDEF": 65,
+    "Speed": 65,
+    "Total": 299
   },
   {
     "Number": 69,
@@ -825,7 +1301,14 @@
     "SubType": "",
     "Evolution": "Evolve Vulpix, Fire Stone",
     "Found": "Sword: Lake of Outrage\nShield: Giant's Cap Max Raid Battle",
-    "Weather": "Intense Sun"
+    "Weather": "Intense Sun",
+    "HP": 73,
+    "ATK": 76,
+    "DEF": 75,
+    "SpATK": 81,
+    "SpDEF": 100,
+    "Speed": 100,
+    "Total": 505
   },
   {
     "Number": 70,
@@ -835,9 +1318,16 @@
     "NationalDexNumber": 58,
     "Type": "Fire",
     "SubType": "",
-    "Evolution": "None",
+    "Evolution": "None/Starting",
     "Found": "Sword: Dusty Bowl, Giant's Mirror, Hammerlocke Hills\nShield: Route 3, Axew's Eye, Dappled Grove, East Lake Axewell, Giant's Seat, North Lake Miloch, Rolling Fields, South Lake Miloch, Watchtower Ruins, West Lake Axewell",
-    "Weather": "Intense Sun"
+    "Weather": "Intense Sun",
+    "HP": 55,
+    "ATK": 70,
+    "DEF": 45,
+    "SpATK": 70,
+    "SpDEF": 50,
+    "Speed": 60,
+    "Total": 350
   },
   {
     "Number": 71,
@@ -849,7 +1339,14 @@
     "SubType": "",
     "Evolution": "Evolve Growlithe, Fire Stone",
     "Found": "Sword: Gian'ts Cap\nShield: Lake of Outrage",
-    "Weather": "Intense Sun"
+    "Weather": "Intense Sun",
+    "HP": 90,
+    "ATK": 110,
+    "DEF": 80,
+    "SpATK": 100,
+    "SpDEF": 80,
+    "Speed": 95,
+    "Total": 555
   },
   {
     "Number": 72,
@@ -859,9 +1356,16 @@
     "NationalDexNumber": 582,
     "Type": "Ice",
     "SubType": "",
-    "Evolution": "None",
+    "Evolution": "None/Starting",
     "Found": "Bridge Field, Dappled Grove, East Lake Axewell, Giant's Cap, Giant's Mirror, Hammerlocke Hills, Lake of Outrage, Motostoke Riverbank, North Lake Miloch, Rolling Fields, South Lake Miloch, West Lake Axewell",
-    "Weather": "Snowing, Snowstorm"
+    "Weather": "Snowing, Snowstorm",
+    "HP": 36,
+    "ATK": 50,
+    "DEF": 50,
+    "SpATK": 65,
+    "SpDEF": 60,
+    "Speed": 44,
+    "Total": 305
   },
   {
     "Number": 73,
@@ -873,7 +1377,14 @@
     "SubType": "",
     "Evolution": "Evolve Vanillite, lvl 35+",
     "Found": "Route 8, Route 10, Axew's Eye, Dappled Grove, Dusty Bowl",
-    "Weather": "Snowing, Snowstorm"
+    "Weather": "Snowing, Snowstorm",
+    "HP": 51,
+    "ATK": 65,
+    "DEF": 65,
+    "SpATK": 80,
+    "SpDEF": 75,
+    "Speed": 59,
+    "Total": 395
   },
   {
     "Number": 74,
@@ -885,7 +1396,14 @@
     "SubType": "",
     "Evolution": "Evolve Vanillish, lvl 47+",
     "Found": "Route 10, Bridge Field, Lake of Outrage, South Lake Miloch",
-    "Weather": "Snowing, Snowstorm"
+    "Weather": "Snowing, Snowstorm",
+    "HP": 71,
+    "ATK": 95,
+    "DEF": 85,
+    "SpATK": 110,
+    "SpDEF": 95,
+    "Speed": 79,
+    "Total": 535
   },
   {
     "Number": 75,
@@ -895,9 +1413,16 @@
     "NationalDexNumber": 220,
     "Type": "Ice",
     "SubType": "Ground",
-    "Evolution": "None",
+    "Evolution": "None/Starting",
     "Found": "Giant's Mirror, Giant's Seat, Hammerlocke Hills, Rolling Fields",
-    "Weather": "Snowstorm, Snowing"
+    "Weather": "Snowstorm, Snowing",
+    "HP": 50,
+    "ATK": 50,
+    "DEF": 40,
+    "SpATK": 30,
+    "SpDEF": 30,
+    "Speed": 50,
+    "Total": 250
   },
   {
     "Number": 76,
@@ -909,7 +1434,14 @@
     "SubType": "Ground",
     "Evolution": "Evolve Swinub, lvl 33+",
     "Found": "Dusty Bowl, East Lake Axewell, Lake of Outrage, Rolling Fields",
-    "Weather": "Snowstorm, Snowing"
+    "Weather": "Snowstorm, Snowing",
+    "HP": 100,
+    "ATK": 100,
+    "DEF": 80,
+    "SpATK": 60,
+    "SpDEF": 60,
+    "Speed": 50,
+    "Total": 450
   },
   {
     "Number": 77,
@@ -921,7 +1453,14 @@
     "SubType": "Ground",
     "Evolution": "Evolve Piloswine, lvl up while knowing Ancient Power",
     "Found": "Stony Wilderness Max Raid Battle",
-    "Weather": "Not Applicable"
+    "Weather": "Any",
+    "HP": 110,
+    "ATK": 130,
+    "DEF": 80,
+    "SpATK": 70,
+    "SpDEF": 60,
+    "Speed": 80,
+    "Total": 530
   },
   {
     "Number": 78,
@@ -931,9 +1470,16 @@
     "NationalDexNumber": 225,
     "Type": "Ice",
     "SubType": "Flying",
-    "Evolution": "None",
+    "Evolution": "None/Starting",
     "Found": "Route 8, Axew's Eye, Dappled Grove, Dusty Bowl, Giant's Cap, Giant's Mirror, Giant's Seat, Hammerlocke Hills, North Lake Miloch, Rolling Fields, South Lake Miloch, Watchtower Ruins, West Lake Axewell",
-    "Weather": "Snowing, Snowstorm"
+    "Weather": "Snowing, Snowstorm",
+    "HP": 45,
+    "ATK": 55,
+    "DEF": 45,
+    "SpATK": 65,
+    "SpDEF": 45,
+    "Speed": 75,
+    "Total": 330
   },
   {
     "Number": 79,
@@ -943,9 +1489,16 @@
     "NationalDexNumber": 361,
     "Type": "Ice",
     "SubType": "",
-    "Evolution": "None",
+    "Evolution": "None/Starting",
     "Found": "Route 8, Dappled Grove, East Lake Axewell, Giant's Cap, Giant's Seat, Hammerlocke Hills, North Lake Miloch, Rolling Fields, South Lake Miloch, Watchtower Ruins, West Lake Axewell",
-    "Weather": "Snowing, Snowstorm"
+    "Weather": "Snowing, Snowstorm",
+    "HP": 50,
+    "ATK": 50,
+    "DEF": 50,
+    "SpATK": 50,
+    "SpDEF": 50,
+    "Speed": 50,
+    "Total": 300
   },
   {
     "Number": 80,
@@ -957,7 +1510,14 @@
     "SubType": "",
     "Evolution": "Evolve Snorunt, lvl 42+",
     "Found": "Route 9, Route 10, Giant's Cap, Giant's Seat, Lake of Outrage, Watchtower Ruins",
-    "Weather": "Snowing, Snowstorm"
+    "Weather": "Snowing, Snowstorm",
+    "HP": 80,
+    "ATK": 80,
+    "DEF": 80,
+    "SpATK": 80,
+    "SpDEF": 80,
+    "Speed": 80,
+    "Total": 480
   },
   {
     "Number": 81,
@@ -969,7 +1529,14 @@
     "SubType": "Ghost",
     "Evolution": "Evolve Female Snorunt, Dawn Stone",
     "Found": "Giant's Cap, Hammerlocke Hills Max Raid Battles",
-    "Weather": "Not Applicable"
+    "Weather": "Any",
+    "HP": 70,
+    "ATK": 80,
+    "DEF": 70,
+    "SpATK": 80,
+    "SpDEF": 70,
+    "Speed": 110,
+    "Total": 480
   },
   {
     "Number": 82,
@@ -979,9 +1546,16 @@
     "NationalDexNumber": 343,
     "Type": "Ground",
     "SubType": "Psychic",
-    "Evolution": "None",
+    "Evolution": "None/Starting",
     "Found": "Axew's Eye, Bridge Field, Dappled Grove, East Lake Axewell, Giant's Cap, Hammerlocke Hills, North Lake Miloch, Rolling Fields, South Lake Miloch, Stony Wilderness, West Lake Axewell",
-    "Weather": "Not Applicable"
+    "Weather": "Any",
+    "HP": 40,
+    "ATK": 40,
+    "DEF": 55,
+    "SpATK": 40,
+    "SpDEF": 70,
+    "Speed": 55,
+    "Total": 300
   },
   {
     "Number": 83,
@@ -993,7 +1567,14 @@
     "SubType": "Psychic",
     "Evolution": "Evolve Baltoy, lvl 36+",
     "Found": "Axew's Eye, Bridge Field, Dappled Grove, Dusty Bowl, Lake of Outrage, Stony Wilderness",
-    "Weather": "Not Applicable"
+    "Weather": "Any",
+    "HP": 60,
+    "ATK": 70,
+    "DEF": 105,
+    "SpATK": 70,
+    "SpDEF": 120,
+    "Speed": 75,
+    "Total": 500
   },
   {
     "Number": 84,
@@ -1003,9 +1584,16 @@
     "NationalDexNumber": 749,
     "Type": "Ground",
     "SubType": "",
-    "Evolution": "None",
+    "Evolution": "None/Starting",
     "Found": "Route 3, Dappled Grove, East Lake Axewell, Giant's Cap, Giant's Seat, North Lake Miloch, Rolling Fields, South Lake Miloch, West Lake Axewell",
-    "Weather": "Intense Sun, Sandstorm"
+    "Weather": "Intense Sun, Sandstorm",
+    "HP": 70,
+    "ATK": 100,
+    "DEF": 70,
+    "SpATK": 45,
+    "SpDEF": 55,
+    "Speed": 45,
+    "Total": 385
   },
   {
     "Number": 85,
@@ -1017,7 +1605,14 @@
     "SubType": "",
     "Evolution": "Evolve Mudbray, lvl 30+",
     "Found": "Axew's Eye, Dusty Bowl, East Lake Axewell, Giant's Seat, Rolling Fields",
-    "Weather": "Not Applicable"
+    "Weather": "Any",
+    "HP": 100,
+    "ATK": 125,
+    "DEF": 100,
+    "SpATK": 55,
+    "SpDEF": 85,
+    "Speed": 35,
+    "Total": 500
   },
   {
     "Number": 86,
@@ -1027,9 +1622,16 @@
     "NationalDexNumber": 557,
     "Type": "Bug",
     "SubType": "Rock",
-    "Evolution": "None",
+    "Evolution": "None/Starting",
     "Found": "East Lake Axewell, Giant's Seat, Hammerlocke Hills, North Lake Miloch, Rolling Fields, South Lake Miloch, Stony Wilderness, Watchtower Ruins, West Lake Axewell",
-    "Weather": "Not Applicable"
+    "Weather": "Any",
+    "HP": 50,
+    "ATK": 65,
+    "DEF": 85,
+    "SpATK": 35,
+    "SpDEF": 35,
+    "Speed": 55,
+    "Total": 325
   },
   {
     "Number": 87,
@@ -1041,7 +1643,14 @@
     "SubType": "Rock",
     "Evolution": "Evolve Dwebble, lvl 34+",
     "Found": "Route 8, Axew's Eye, Rolling Fields, South Lake Miloch, Stony Wilderness",
-    "Weather": "Not Applicable"
+    "Weather": "Any",
+    "HP": 70,
+    "ATK": 105,
+    "DEF": 125,
+    "SpATK": 65,
+    "SpDEF": 75,
+    "Speed": 45,
+    "Total": 485
   },
   {
     "Number": 88,
@@ -1051,9 +1660,16 @@
     "NationalDexNumber": 622,
     "Type": "Ground",
     "SubType": "Ghost",
-    "Evolution": "None",
+    "Evolution": "None/Starting",
     "Found": "Route 8, Dappled Grove, Giant's Cap, Giant's Seat, North Lake Miloch, Rolling Fields, Stony Wilderness, Watchtower Ruins",
-    "Weather": "Not Applicable"
+    "Weather": "Any",
+    "HP": 59,
+    "ATK": 74,
+    "DEF": 50,
+    "SpATK": 35,
+    "SpDEF": 50,
+    "Speed": 35,
+    "Total": 303
   },
   {
     "Number": 89,
@@ -1065,7 +1681,14 @@
     "SubType": "Ghost",
     "Evolution": "Evolve Golett, lvl 43+",
     "Found": "Dusty Bowl, Giant's Seat, Lake of Outrage, Stony Wilderness, Watchtower Ruins",
-    "Weather": "Not Applicable"
+    "Weather": "Any",
+    "HP": 89,
+    "ATK": 124,
+    "DEF": 80,
+    "SpATK": 55,
+    "SpDEF": 80,
+    "Speed": 55,
+    "Total": 483
   },
   {
     "Number": 90,
@@ -1075,9 +1698,16 @@
     "NationalDexNumber": 517,
     "Type": "Psychic",
     "SubType": "",
-    "Evolution": "None",
+    "Evolution": "None/Starting",
     "Found": "Axew's Eye, Bridge Field, East Lake Axewell, Giant's Cap, Giant's Seat, Rolling Fields, Slumbering Weald, Stony Wilderness",
-    "Weather": "Not Applicable"
+    "Weather": "Any",
+    "HP": 76,
+    "ATK": 25,
+    "DEF": 45,
+    "SpATK": 67,
+    "SpDEF": 55,
+    "Speed": 24,
+    "Total": 292
   },
   {
     "Number": 91,
@@ -1089,7 +1719,14 @@
     "SubType": "",
     "Evolution": "Evolve Munna, Moon Stone",
     "Found": "Bridge Field, Giant's Seat",
-    "Weather": "Fog, Overcast"
+    "Weather": "Fog, Overcast",
+    "HP": 116,
+    "ATK": 55,
+    "DEF": 85,
+    "SpATK": 107,
+    "SpDEF": 95,
+    "Speed": 29,
+    "Total": 487
   },
   {
     "Number": 92,
@@ -1099,9 +1736,16 @@
     "NationalDexNumber": 177,
     "Type": "Psychic",
     "SubType": "Flying",
-    "Evolution": "None",
+    "Evolution": "None/Starting",
     "Found": "Giant's Mirror, Giant's Seat, North Lake Miloch, Rolling Fields, South Lake Miloch, West Lake Axewell",
-    "Weather": "Not Applicable"
+    "Weather": "Any",
+    "HP": 40,
+    "ATK": 50,
+    "DEF": 45,
+    "SpATK": 70,
+    "SpDEF": 45,
+    "Speed": 70,
+    "Total": 320
   },
   {
     "Number": 93,
@@ -1113,7 +1757,14 @@
     "SubType": "Flying",
     "Evolution": "Evolve Natu, lvl 25+",
     "Found": "East Lake Axewell, Giant's Mirror, Giant's Seat, North Lake Miloch",
-    "Weather": "Not Applicable"
+    "Weather": "Any",
+    "HP": 65,
+    "ATK": 75,
+    "DEF": 70,
+    "SpATK": 95,
+    "SpDEF": 70,
+    "Speed": 95,
+    "Total": 470
   },
   {
     "Number": 94,
@@ -1123,9 +1774,16 @@
     "NationalDexNumber": 759,
     "Type": "Normal",
     "SubType": "Fighting",
-    "Evolution": "None",
+    "Evolution": "None/Starting",
     "Found": "Route 5, Bridge Field, Dappled Grove, East Lake Axewell, Giant's Seat, Hammerlocke Hills, North Lake Miloch",
-    "Weather": "Not Applicable"
+    "Weather": "Any",
+    "HP": 70,
+    "ATK": 75,
+    "DEF": 50,
+    "SpATK": 45,
+    "SpDEF": 50,
+    "Speed": 50,
+    "Total": 340
   },
   {
     "Number": 95,
@@ -1137,7 +1795,14 @@
     "SubType": "Fighting",
     "Evolution": "Evolve Stufful, lvl 27+",
     "Found": "Axew's Eye, Bridge Field, Dappled Grove, Giant's Seat, Lake of Outrage, West Lake Axewell",
-    "Weather": "Not Applicable"
+    "Weather": "Any",
+    "HP": 120,
+    "ATK": 125,
+    "DEF": 80,
+    "SpATK": 55,
+    "SpDEF": 60,
+    "Speed": 60,
+    "Total": 500
   },
   {
     "Number": 96,
@@ -1147,9 +1812,16 @@
     "NationalDexNumber": 459,
     "Type": "Grass",
     "SubType": "Ice",
-    "Evolution": "None",
+    "Evolution": "None/Starting",
     "Found": "Route 8, Route 10, Axew's Eye, Dappled Grove, Dusty Bowl, East Lake Axewell, Giant's Cap, Giant's Mirror, Giant's Seat, North Lake Miloch, South Lake Miloch, Watchtower Ruins",
-    "Weather": "Snowing, Snowstorm"
+    "Weather": "Snowing, Snowstorm",
+    "HP": 60,
+    "ATK": 62,
+    "DEF": 50,
+    "SpATK": 62,
+    "SpDEF": 60,
+    "Speed": 40,
+    "Total": 334
   },
   {
     "Number": 97,
@@ -1161,7 +1833,14 @@
     "SubType": "Ice",
     "Evolution": "Evolve Snover, lvl 40+",
     "Found": "Route 10, Axew's Eye, Dusty Bowl, Giant's Mirror, Giant's Seat, Hammerlocke Hills, Lake of Outrage",
-    "Weather": "Snowing, Snowstorm"
+    "Weather": "Snowing, Snowstorm",
+    "HP": 90,
+    "ATK": 92,
+    "DEF": 75,
+    "SpATK": 92,
+    "SpDEF": 85,
+    "Speed": 60,
+    "Total": 494
   },
   {
     "Number": 98,
@@ -1171,9 +1850,16 @@
     "NationalDexNumber": 98,
     "Type": "Water",
     "SubType": "",
-    "Evolution": "None",
+    "Evolution": "None/Starting",
     "Found": "Giant's Cap, South Lake Miloch, West Lake Axewell",
-    "Weather": "Not Applicable"
+    "Weather": "Any",
+    "HP": 30,
+    "ATK": 105,
+    "DEF": 90,
+    "SpATK": 25,
+    "SpDEF": 25,
+    "Speed": 50,
+    "Total": 325
   },
   {
     "Number": 99,
@@ -1185,7 +1871,14 @@
     "SubType": "",
     "Evolution": "Evolve Krabby, lvl 28+",
     "Found": "Route 9, Axew's Eye, South Lake Miloch, West Lake Axewell",
-    "Weather": "Normal, Overcast, Thunderstorm"
+    "Weather": "Normal, Overcast, Thunderstorm",
+    "HP": 55,
+    "ATK": 130,
+    "DEF": 115,
+    "SpATK": 50,
+    "SpDEF": 50,
+    "Speed": 75,
+    "Total": 475
   },
   {
     "Number": 100,
@@ -1195,9 +1888,16 @@
     "NationalDexNumber": 194,
     "Type": "Water",
     "SubType": "Ground",
-    "Evolution": "None",
+    "Evolution": "None/Starting",
     "Found": "Giant's Cap, Giant's Seat, South Lake Miloch, West Lake Axewell",
-    "Weather": "Not Applicable"
+    "Weather": "Any",
+    "HP": 55,
+    "ATK": 45,
+    "DEF": 45,
+    "SpATK": 25,
+    "SpDEF": 25,
+    "Speed": 15,
+    "Total": 210
   },
   {
     "Number": 101,
@@ -1209,7 +1909,14 @@
     "SubType": "Ground",
     "Evolution": "Evolve Wooper, lvl 20+",
     "Found": "Giant's Cap, Giant's Seat, Lake of Outrage, West Lake Axewell",
-    "Weather": "Not Applicable"
+    "Weather": "Any",
+    "HP": 95,
+    "ATK": 85,
+    "DEF": 85,
+    "SpATK": 65,
+    "SpDEF": 65,
+    "Speed": 35,
+    "Total": 430
   },
   {
     "Number": 102,
@@ -1219,9 +1926,16 @@
     "NationalDexNumber": 341,
     "Type": "Water",
     "SubType": "",
-    "Evolution": "None",
+    "Evolution": "None/Starting",
     "Found": "Galar Mine No. 2, Giant's Cap, South Lake Miloch",
-    "Weather": "Not Applicable"
+    "Weather": "Any",
+    "HP": 43,
+    "ATK": 80,
+    "DEF": 65,
+    "SpATK": 50,
+    "SpDEF": 35,
+    "Speed": 35,
+    "Total": 308
   },
   {
     "Number": 103,
@@ -1233,7 +1947,14 @@
     "SubType": "Dark",
     "Evolution": "Evolve Corphish, lvl 30+",
     "Found": "Axew's Eye, Giant's Seat, South Lake Miloch, Turffield",
-    "Weather": "Raining, Thunderstorm, Normal"
+    "Weather": "Raining, Thunderstorm, Normal",
+    "HP": 63,
+    "ATK": 120,
+    "DEF": 85,
+    "SpATK": 90,
+    "SpDEF": 55,
+    "Speed": 55,
+    "Total": 468
   },
   {
     "Number": 104,
@@ -1243,9 +1964,16 @@
     "NationalDexNumber": 290,
     "Type": "Bug",
     "SubType": "Ground",
-    "Evolution": "None",
+    "Evolution": "None/Starting",
     "Found": "Route 5, South Lake Miloch, West Lake Axewell",
-    "Weather": "Intense Sun, Sandstorm"
+    "Weather": "Intense Sun, Sandstorm",
+    "HP": 31,
+    "ATK": 45,
+    "DEF": 90,
+    "SpATK": 30,
+    "SpDEF": 30,
+    "Speed": 40,
+    "Total": 266
   },
   {
     "Number": 105,
@@ -1257,7 +1985,14 @@
     "SubType": "Flying",
     "Evolution": "Evolve Nincada, lvl 20+",
     "Found": "Rolling Fields, Stony Wilderness",
-    "Weather": "Not Applicable"
+    "Weather": "Any",
+    "HP": 61,
+    "ATK": 90,
+    "DEF": 45,
+    "SpATK": 50,
+    "SpDEF": 50,
+    "Speed": 160,
+    "Total": 456
   },
   {
     "Number": 106,
@@ -1269,7 +2004,14 @@
     "SubType": "Ghost",
     "Evolution": "Evolve Nincada with an empy slot in party, lvl 20+",
     "Found": "Bridge Field, Rolling Fields, South Lake Miloch Max Raid Battles",
-    "Weather": "Not Applicable"
+    "Weather": "Any",
+    "HP": 1,
+    "ATK": 90,
+    "DEF": 45,
+    "SpATK": 30,
+    "SpDEF": 30,
+    "Speed": 40,
+    "Total": 236
   },
   {
     "Number": 107,
@@ -1279,9 +2021,16 @@
     "NationalDexNumber": 236,
     "Type": "Fighting",
     "SubType": "",
-    "Evolution": "None",
+    "Evolution": "None/Starting",
     "Found": "Route 3, Dappled Grove, Giant's Seat, Rolling Fields, South Lake Miloch, Stony Wilderness, West Lake Axewell",
-    "Weather": "Not Applicable"
+    "Weather": "Any",
+    "HP": 35,
+    "ATK": 35,
+    "DEF": 35,
+    "SpATK": 35,
+    "SpDEF": 35,
+    "Speed": 35,
+    "Total": 210
   },
   {
     "Number": 108,
@@ -1293,7 +2042,14 @@
     "SubType": "",
     "Evolution": "Evolve Tyrogue with ATK > DEF, lvl 20+",
     "Found": "Sword: Dusty Bowl\nShield: Rolling Fields, South Lake Miloch, Stony Wilderness Max Raid Battles",
-    "Weather": "Overcast"
+    "Weather": "Overcast",
+    "HP": 50,
+    "ATK": 120,
+    "DEF": 53,
+    "SpATK": 35,
+    "SpDEF": 110,
+    "Speed": 87,
+    "Total": 455
   },
   {
     "Number": 109,
@@ -1305,7 +2061,14 @@
     "SubType": "",
     "Evolution": "Evolve Tyrogue with ATK < DEF, lvl 20+",
     "Found": "Sword: Rolling Fields, South Lake Miloch, Stony Wilderness Max Raid Battles\nShield: Dusty Bowl",
-    "Weather": "Overcast"
+    "Weather": "Overcast",
+    "HP": 50,
+    "ATK": 105,
+    "DEF": 79,
+    "SpATK": 35,
+    "SpDEF": 110,
+    "Speed": 76,
+    "Total": 455
   },
   {
     "Number": 110,
@@ -1317,7 +2080,14 @@
     "SubType": "",
     "Evolution": "Evolve Tyrogue with ATK = DEF, lvl 20+",
     "Found": "Lake of Outrage",
-    "Weather": "Overcast"
+    "Weather": "Overcast",
+    "HP": 50,
+    "ATK": 95,
+    "DEF": 95,
+    "SpATK": 35,
+    "SpDEF": 110,
+    "Speed": 70,
+    "Total": 455
   },
   {
     "Number": 111,
@@ -1327,9 +2097,16 @@
     "NationalDexNumber": 674,
     "Type": "Fighting",
     "SubType": "",
-    "Evolution": "None",
+    "Evolution": "None/Starting",
     "Found": "Route 3, East Lake Axewell, Rolling Fields, West Lake Axewell",
-    "Weather": "Not Applicable"
+    "Weather": "Any",
+    "HP": 67,
+    "ATK": 82,
+    "DEF": 62,
+    "SpATK": 46,
+    "SpDEF": 48,
+    "Speed": 43,
+    "Total": 348
   },
   {
     "Number": 112,
@@ -1341,7 +2118,14 @@
     "SubType": "Dark",
     "Evolution": "Evolve Pancham with dark type in party, lvl 32+",
     "Found": "Bridge Field, Dappled Grove, Lake of Outrage, Rolling Fields",
-    "Weather": "Not Applicable"
+    "Weather": "Any",
+    "HP": 95,
+    "ATK": 124,
+    "DEF": 78,
+    "SpATK": 69,
+    "SpDEF": 71,
+    "Speed": 58,
+    "Total": 495
   },
   {
     "Number": 113,
@@ -1351,9 +2135,16 @@
     "NationalDexNumber": 599,
     "Type": "Steel",
     "SubType": "",
-    "Evolution": "None",
+    "Evolution": "None/Starting",
     "Found": "Route 3, Axew's Eye, Dappled Grove, Hammerlocke Hills, North Lake Miloch, South Lake Miloch, West Lake Axewell",
-    "Weather": "Not Applicable"
+    "Weather": "Any",
+    "HP": 40,
+    "ATK": 55,
+    "DEF": 70,
+    "SpATK": 45,
+    "SpDEF": 60,
+    "Speed": 30,
+    "Total": 300
   },
   {
     "Number": 114,
@@ -1365,7 +2156,14 @@
     "SubType": "",
     "Evolution": "Evolve Klink, lvl 38+",
     "Found": "Route 10, Dusty Bowl, Hammerlocke Hills",
-    "Weather": "Not Applicable"
+    "Weather": "Any",
+    "HP": 60,
+    "ATK": 80,
+    "DEF": 95,
+    "SpATK": 70,
+    "SpDEF": 85,
+    "Speed": 50,
+    "Total": 440
   },
   {
     "Number": 115,
@@ -1377,7 +2175,14 @@
     "SubType": "",
     "Evolution": "Evolve Klinklang, lvl 49+",
     "Found": "Hammerlocke Hills, Lake of Outrage",
-    "Weather": "Not Applicable"
+    "Weather": "Any",
+    "HP": 60,
+    "ATK": 100,
+    "DEF": 115,
+    "SpATK": 70,
+    "SpDEF": 85,
+    "Speed": 90,
+    "Total": 520
   },
   {
     "Number": 116,
@@ -1387,9 +2192,16 @@
     "NationalDexNumber": 415,
     "Type": "Bug",
     "SubType": "Flying",
-    "Evolution": "None",
+    "Evolution": "None/Starting",
     "Found": "Rolling Fields",
-    "Weather": "Normal"
+    "Weather": "Normal",
+    "HP": 30,
+    "ATK": 30,
+    "DEF": 42,
+    "SpATK": 30,
+    "SpDEF": 42,
+    "Speed": 70,
+    "Total": 244
   },
   {
     "Number": 117,
@@ -1401,7 +2213,14 @@
     "SubType": "Flying",
     "Evolution": "Evolve a female Combee, lvl 21+",
     "Found": "Rolling Fields",
-    "Weather": "Normal"
+    "Weather": "Normal",
+    "HP": 70,
+    "ATK": 80,
+    "DEF": 102,
+    "SpATK": 80,
+    "SpDEF": 102,
+    "Speed": 40,
+    "Total": 474
   },
   {
     "Number": 118,
@@ -1411,9 +2230,16 @@
     "NationalDexNumber": 436,
     "Type": "Steel",
     "SubType": "Psychic",
-    "Evolution": "None",
+    "Evolution": "None/Starting",
     "Found": "Bridge Field, Giant's Seat, South Lake Miloch",
-    "Weather": "Not Applicable"
+    "Weather": "Any",
+    "HP": 57,
+    "ATK": 24,
+    "DEF": 86,
+    "SpATK": 24,
+    "SpDEF": 86,
+    "Speed": 23,
+    "Total": 300
   },
   {
     "Number": 119,
@@ -1425,7 +2251,14 @@
     "SubType": "Psychic",
     "Evolution": "Evolve Bronzor, lvl 33+",
     "Found": "Route 8, Axew's Eye, Bridge Field, Dusty Bowl, Giant's Seat, Lake of Outrage, Stony Wilderness",
-    "Weather": "Not Applicable"
+    "Weather": "Any",
+    "HP": 67,
+    "ATK": 89,
+    "DEF": 116,
+    "SpATK": 79,
+    "SpDEF": 116,
+    "Speed": 33,
+    "Total": 500
   },
   {
     "Number": 120,
@@ -1435,9 +2268,16 @@
     "NationalDexNumber": 280,
     "Type": "Psychic",
     "SubType": "Fairy",
-    "Evolution": "None",
+    "Evolution": "None/Starting",
     "Found": "Dappled Grove, North Lake Miloch, Rolling Fields, South Lake Miloch, Watchtower Ruins, West Lake Axewell",
-    "Weather": "Fog, Overcast"
+    "Weather": "Fog, Overcast",
+    "HP": 28,
+    "ATK": 25,
+    "DEF": 25,
+    "SpATK": 45,
+    "SpDEF": 35,
+    "Speed": 40,
+    "Total": 198
   },
   {
     "Number": 121,
@@ -1449,7 +2289,14 @@
     "SubType": "Fairy",
     "Evolution": "Evolve Ralts, lvl 20+",
     "Found": "Rolling Fields",
-    "Weather": "Fog"
+    "Weather": "Fog",
+    "HP": 38,
+    "ATK": 35,
+    "DEF": 35,
+    "SpATK": 65,
+    "SpDEF": 55,
+    "Speed": 50,
+    "Total": 278
   },
   {
     "Number": 122,
@@ -1461,7 +2308,14 @@
     "SubType": "Fairy",
     "Evolution": "Evolve Kirlia, lvl 30+",
     "Found": "Dusty Bowl, Lake of Outrage, Rolling Fields",
-    "Weather": "Fog, Normal, Thunderstorm"
+    "Weather": "Fog, Normal, Thunderstorm",
+    "HP": 68,
+    "ATK": 65,
+    "DEF": 65,
+    "SpATK": 125,
+    "SpDEF": 115,
+    "Speed": 80,
+    "Total": 518
   },
   {
     "Number": 123,
@@ -1473,7 +2327,14 @@
     "SubType": "Fighting",
     "Evolution": "Evolve male Kirlia, Dawn Stone",
     "Found": "Bridge Field",
-    "Weather": "Not Applicable"
+    "Weather": "Any",
+    "HP": 68,
+    "ATK": 125,
+    "DEF": 65,
+    "SpATK": 65,
+    "SpDEF": 115,
+    "Speed": 80,
+    "Total": 518
   },
   {
     "Number": 124,
@@ -1483,9 +2344,16 @@
     "NationalDexNumber": 425,
     "Type": "Ghost",
     "SubType": "Flying",
-    "Evolution": "None",
+    "Evolution": "None/Starting",
     "Found": "Axew's Eye, South Lake Miloch, Watchtower Ruins",
-    "Weather": "Not Applicable"
+    "Weather": "Any",
+    "HP": 90,
+    "ATK": 50,
+    "DEF": 34,
+    "SpATK": 60,
+    "SpDEF": 44,
+    "Speed": 70,
+    "Total": 348
   },
   {
     "Number": 125,
@@ -1497,7 +2365,14 @@
     "SubType": "Flying",
     "Evolution": "Evolve Drifblim, lvl 28+",
     "Found": "Axew's Eye, South Lake Miloch, Watchtower Ruins",
-    "Weather": "Not Applicable"
+    "Weather": "Any",
+    "HP": 150,
+    "ATK": 80,
+    "DEF": 44,
+    "SpATK": 90,
+    "SpDEF": 54,
+    "Speed": 80,
+    "Total": 498
   },
   {
     "Number": 126,
@@ -1507,9 +2382,16 @@
     "NationalDexNumber": 829,
     "Type": "Grass",
     "SubType": "",
-    "Evolution": "None",
+    "Evolution": "None/Starting",
     "Found": "Route 2, Route 3, Motostoke Riverbank",
-    "Weather": "Normal"
+    "Weather": "Normal",
+    "HP": 40,
+    "ATK": 40,
+    "DEF": 60,
+    "SpATK": 40,
+    "SpDEF": 60,
+    "Speed": 10,
+    "Total": 250
   },
   {
     "Number": 127,
@@ -1521,7 +2403,14 @@
     "SubType": "",
     "Evolution": "Evolve Gossifleur, lvl 20+",
     "Found": "Route 5, Dusty Bowl, Giant's Cap, Motostoke Riverbank, Stony Wilderness",
-    "Weather": "Not Applicable"
+    "Weather": "Any",
+    "HP": 60,
+    "ATK": 50,
+    "DEF": 90,
+    "SpATK": 80,
+    "SpDEF": 120,
+    "Speed": 60,
+    "Total": 460
   },
   {
     "Number": 128,
@@ -1531,9 +2420,16 @@
     "NationalDexNumber": 420,
     "Type": "Grass",
     "SubType": "",
-    "Evolution": "None",
+    "Evolution": "None/Starting",
     "Found": "Route 3, Axew's Eye, Bridge Field, Giant's Cap, Giant's Mirror, Giant's Seat, Hammerlocke Hills, Lake of Outrage, Motostoke Riverbank, North Lake Miloch, Rolling Fields, Watchtower Ruins",
-    "Weather": "Not Applicable"
+    "Weather": "Any",
+    "HP": 45,
+    "ATK": 35,
+    "DEF": 45,
+    "SpATK": 62,
+    "SpDEF": 53,
+    "Speed": 35,
+    "Total": 275
   },
   {
     "Number": 129,
@@ -1545,7 +2441,14 @@
     "SubType": "",
     "Evolution": "Evolve Cherubi, lvl 25+",
     "Found": "Max Raid Battles: Bridge Field, Dappled Grove, Giant's Mirror, Stony Wilderness",
-    "Weather": "Not Applicable"
+    "Weather": "Any",
+    "HP": 70,
+    "ATK": 60,
+    "DEF": 70,
+    "SpATK": 87,
+    "SpDEF": 78,
+    "Speed": 85,
+    "Total": 450
   },
   {
     "Number": 130,
@@ -1555,9 +2458,16 @@
     "NationalDexNumber": 434,
     "Type": "Poison",
     "SubType": "Dark",
-    "Evolution": "None",
+    "Evolution": "None/Starting",
     "Found": "Route 3, Dappled Grove, Giant's Cap, North Lake Miloch, South Lake Miloch",
-    "Weather": "Not Applicable"
+    "Weather": "Any",
+    "HP": 63,
+    "ATK": 63,
+    "DEF": 47,
+    "SpATK": 41,
+    "SpDEF": 41,
+    "Speed": 74,
+    "Total": 329
   },
   {
     "Number": 131,
@@ -1569,7 +2479,14 @@
     "SubType": "Dark",
     "Evolution": "Evolve Stunky, lvl 34+",
     "Found": "Dusty Bowl, Lake of Outrage, North Lake Miloch, South Lake Miloch",
-    "Weather": "Not Applicable"
+    "Weather": "Any",
+    "HP": 103,
+    "ATK": 93,
+    "DEF": 67,
+    "SpATK": 71,
+    "SpDEF": 61,
+    "Speed": 84,
+    "Total": 479
   },
   {
     "Number": 132,
@@ -1579,9 +2496,16 @@
     "NationalDexNumber": 535,
     "Type": "Water",
     "SubType": "",
-    "Evolution": "None",
+    "Evolution": "None/Starting",
     "Found": "Dappled Grove, North Lake Miloch, South Lake Miloch, Watchtower Ruins, West Lake Axewell",
-    "Weather": "Not Applicable"
+    "Weather": "Any",
+    "HP": 50,
+    "ATK": 50,
+    "DEF": 40,
+    "SpATK": 50,
+    "SpDEF": 40,
+    "Speed": 64,
+    "Total": 294
   },
   {
     "Number": 133,
@@ -1593,7 +2517,14 @@
     "SubType": "Ground",
     "Evolution": "Evolve Tympole, lvl 25+",
     "Found": "Bridge Field, Dusty Bowl, Giant's Cap, Giant's Mirror, Giant's Seat, Hammerlocke Hills, North Lake Miloch, West Lake Axewell",
-    "Weather": "Not Applicable"
+    "Weather": "Any",
+    "HP": 75,
+    "ATK": 65,
+    "DEF": 55,
+    "SpATK": 65,
+    "SpDEF": 55,
+    "Speed": 69,
+    "Total": 384
   },
   {
     "Number": 134,
@@ -1605,7 +2536,14 @@
     "SubType": "Ground",
     "Evolution": "Evolve Palpitoad, lvl 36+",
     "Found": "Route 7, Axew's Eye, Bridge Field, Dappled Grove, Dusty Bowl, Giant's Cap, Giant's Mirror, Lake of Outrage",
-    "Weather": "Not Applicable"
+    "Weather": "Any",
+    "HP": 105,
+    "ATK": 95,
+    "DEF": 75,
+    "SpATK": 85,
+    "SpDEF": 75,
+    "Speed": 74,
+    "Total": 509
   },
   {
     "Number": 135,
@@ -1615,9 +2553,16 @@
     "NationalDexNumber": 355,
     "Type": "Ghost",
     "SubType": "",
-    "Evolution": "None",
+    "Evolution": "None/Starting",
     "Found": "Route 6, (Sword) Dusty Bowl, Giant's Cap, Giant's Seat, Motostoke Riverbank, Watchtower Ruins",
-    "Weather": "Not Applicable"
+    "Weather": "Any",
+    "HP": 20,
+    "ATK": 40,
+    "DEF": 90,
+    "SpATK": 30,
+    "SpDEF": 90,
+    "Speed": 25,
+    "Total": 295
   },
   {
     "Number": 136,
@@ -1629,7 +2574,14 @@
     "SubType": "",
     "Evolution": "Evolve Duskull, lvl 37+",
     "Found": "Route 8, Giant's Seat, Watchtower Ruins",
-    "Weather": "Not Applicable"
+    "Weather": "Any",
+    "HP": 40,
+    "ATK": 70,
+    "DEF": 130,
+    "SpATK": 60,
+    "SpDEF": 130,
+    "Speed": 25,
+    "Total": 455
   },
   {
     "Number": 137,
@@ -1641,7 +2593,14 @@
     "SubType": "",
     "Evolution": "Trade Dusclops with Reaper Cloth equipped",
     "Found": "Stony Wilderness",
-    "Weather": "Not Applicable"
+    "Weather": "Any",
+    "HP": 45,
+    "ATK": 100,
+    "DEF": 135,
+    "SpATK": 65,
+    "SpDEF": 135,
+    "Speed": 45,
+    "Total": 525
   },
   {
     "Number": 138,
@@ -1651,9 +2610,16 @@
     "NationalDexNumber": 66,
     "Type": "Fighting",
     "SubType": "",
-    "Evolution": "None",
+    "Evolution": "None/Starting",
     "Found": "Axew's Eye, Giant's Seat, Hammerlocke Hills, South Lake Miloch, Stony Wilderness",
-    "Weather": "Not Applicable"
+    "Weather": "Any",
+    "HP": 70,
+    "ATK": 80,
+    "DEF": 50,
+    "SpATK": 35,
+    "SpDEF": 35,
+    "Speed": 35,
+    "Total": 305
   },
   {
     "Number": 139,
@@ -1665,7 +2631,14 @@
     "SubType": "",
     "Evolution": "Evolve Machop, lvl 28+",
     "Found": "Giant's Mirror",
-    "Weather": "Not Applicable"
+    "Weather": "Any",
+    "HP": 80,
+    "ATK": 100,
+    "DEF": 70,
+    "SpATK": 50,
+    "SpDEF": 60,
+    "Speed": 45,
+    "Total": 405
   },
   {
     "Number": 140,
@@ -1677,7 +2650,14 @@
     "SubType": "",
     "Evolution": "Trade Machoke",
     "Found": "Strong Spawn in Wild Area\r\nDusty Bowl, North Lake Miloch, Rolling Fields, South Lake Miloch, Stony Wilderness Max Raid Battles",
-    "Weather": "Not Applicable"
+    "Weather": "Any",
+    "HP": 90,
+    "ATK": 130,
+    "DEF": 80,
+    "SpATK": 65,
+    "SpDEF": 85,
+    "Speed": 55,
+    "Total": 505
   },
   {
     "Number": 141,
@@ -1687,9 +2667,16 @@
     "NationalDexNumber": 92,
     "Type": "Ghost",
     "SubType": "Poison",
-    "Evolution": "None",
+    "Evolution": "None/Starting",
     "Found": "Giant's Seat, Hammerlocke Hills, North Lake Miloch, Watchtower Ruins",
-    "Weather": "Not Applicable"
+    "Weather": "Any",
+    "HP": 30,
+    "ATK": 35,
+    "DEF": 30,
+    "SpATK": 100,
+    "SpDEF": 35,
+    "Speed": 80,
+    "Total": 310
   },
   {
     "Number": 142,
@@ -1701,7 +2688,14 @@
     "SubType": "Poison",
     "Evolution": "Evolve Gastly, lvl 25+",
     "Found": "Route 8, Giant's Seat, Rolling Fields, Watchtower Ruins",
-    "Weather": "Not Applicable"
+    "Weather": "Any",
+    "HP": 45,
+    "ATK": 50,
+    "DEF": 45,
+    "SpATK": 115,
+    "SpDEF": 55,
+    "Speed": 95,
+    "Total": 405
   },
   {
     "Number": 143,
@@ -1713,7 +2707,14 @@
     "SubType": "Poison",
     "Evolution": "Trade Haunter",
     "Found": "Giant's Cap",
-    "Weather": "Not Applicable"
+    "Weather": "Any",
+    "HP": 60,
+    "ATK": 65,
+    "DEF": 60,
+    "SpATK": 130,
+    "SpDEF": 75,
+    "Speed": 110,
+    "Total": 500
   },
   {
     "Number": 144,
@@ -1723,9 +2724,16 @@
     "NationalDexNumber": 129,
     "Type": "Water",
     "SubType": "",
-    "Evolution": "None",
+    "Evolution": "None/Starting",
     "Found": "Route 2, Route 4, Route 5, Route 6, Axew's Eye, Bridge Field, East Lake Axewell, Motostoke, North Lake Miloch, Slumbering Weald, South Lake Miloch, West Lake Axewell",
-    "Weather": "Not Applicable"
+    "Weather": "Any",
+    "HP": 20,
+    "ATK": 10,
+    "DEF": 55,
+    "SpATK": 15,
+    "SpDEF": 20,
+    "Speed": 80,
+    "Total": 200
   },
   {
     "Number": 145,
@@ -1737,7 +2745,14 @@
     "SubType": "Flying",
     "Evolution": "Evolve Magikarp, lvl 20+",
     "Found": "Route 2, Axew's Eye, Bridge Field, Dusty Bowl, East Lake Axewell, Giant's Cap, Giant's Mirror, Giant's Seat, Lake of Outrage, West Lake Axewell",
-    "Weather": "Not Applicable"
+    "Weather": "Any",
+    "HP": 95,
+    "ATK": 125,
+    "DEF": 79,
+    "SpATK": 60,
+    "SpDEF": 100,
+    "Speed": 81,
+    "Total": 540
   },
   {
     "Number": 146,
@@ -1747,9 +2762,16 @@
     "NationalDexNumber": 118,
     "Type": "Water",
     "SubType": "",
-    "Evolution": "None",
+    "Evolution": "None/Starting",
     "Found": "Route 4, Route 5, Route 6, Bridge Field, East Lake Axewell, Giant's Cap, North Lake Miloch, South Lake Miloch, West Lake Axewell",
-    "Weather": "Not Applicable"
+    "Weather": "Any",
+    "HP": 45,
+    "ATK": 67,
+    "DEF": 60,
+    "SpATK": 35,
+    "SpDEF": 50,
+    "Speed": 63,
+    "Total": 320
   },
   {
     "Number": 147,
@@ -1761,7 +2783,14 @@
     "SubType": "",
     "Evolution": "Evolve Goldeen, lvl 33+",
     "Found": "Bridge Field, Lake of Outrage, North Lake Miloch, West Lake Axewell",
-    "Weather": "Not Applicable"
+    "Weather": "Any",
+    "HP": 80,
+    "ATK": 92,
+    "DEF": 65,
+    "SpATK": 65,
+    "SpDEF": 80,
+    "Speed": 68,
+    "Total": 450
   },
   {
     "Number": 148,
@@ -1771,9 +2800,16 @@
     "NationalDexNumber": 223,
     "Type": "Water",
     "SubType": "",
-    "Evolution": "None",
+    "Evolution": "None/Starting",
     "Found": "Route 9, South Lake Miloch, West Lake Axewell",
-    "Weather": "Not Applicable"
+    "Weather": "Any",
+    "HP": 35,
+    "ATK": 65,
+    "DEF": 35,
+    "SpATK": 65,
+    "SpDEF": 35,
+    "Speed": 65,
+    "Total": 300
   },
   {
     "Number": 149,
@@ -1785,7 +2821,14 @@
     "SubType": "",
     "Evolution": "Evolve Remoraid, lvl 25+",
     "Found": "Route 9, Axew's Eye, South Lake Miloch",
-    "Weather": "Not Applicable"
+    "Weather": "Any",
+    "HP": 75,
+    "ATK": 105,
+    "DEF": 75,
+    "SpATK": 105,
+    "SpDEF": 75,
+    "Speed": 45,
+    "Total": 480
   },
   {
     "Number": 150,
@@ -1795,9 +2838,16 @@
     "NationalDexNumber": 90,
     "Type": "Water",
     "SubType": "",
-    "Evolution": "None",
+    "Evolution": "None/Starting",
     "Found": "East Lake Axewell, Giant's Seat, West Lake Axewell",
-    "Weather": "Not Applicable"
+    "Weather": "Any",
+    "HP": 30,
+    "ATK": 65,
+    "DEF": 100,
+    "SpATK": 45,
+    "SpDEF": 25,
+    "Speed": 40,
+    "Total": 305
   },
   {
     "Number": 151,
@@ -1809,7 +2859,14 @@
     "SubType": "Ice",
     "Evolution": "Evolve Shellder, Water Stone",
     "Found": "Giant's Seat, West Lake Axewell",
-    "Weather": "Normal, Fog"
+    "Weather": "Normal, Fog",
+    "HP": 50,
+    "ATK": 95,
+    "DEF": 180,
+    "SpATK": 85,
+    "SpDEF": 45,
+    "Speed": 70,
+    "Total": 525
   },
   {
     "Number": 152,
@@ -1819,9 +2876,16 @@
     "NationalDexNumber": 349,
     "Type": "Water",
     "SubType": "",
-    "Evolution": "None",
+    "Evolution": "None/Starting",
     "Found": "Route 2",
-    "Weather": "Not Applicable"
+    "Weather": "Any",
+    "HP": 20,
+    "ATK": 15,
+    "DEF": 20,
+    "SpATK": 10,
+    "SpDEF": 55,
+    "Speed": 80,
+    "Total": 200
   },
   {
     "Number": 153,
@@ -1833,7 +2897,14 @@
     "SubType": "",
     "Evolution": "Trade with a Prism Scale",
     "Found": "Lake of Outrage, South Lake Miloch",
-    "Weather": "Fog"
+    "Weather": "Fog",
+    "HP": 95,
+    "ATK": 60,
+    "DEF": 79,
+    "SpATK": 100,
+    "SpDEF": 125,
+    "Speed": 81,
+    "Total": 540
   },
   {
     "Number": 154,
@@ -1843,9 +2914,16 @@
     "NationalDexNumber": 550,
     "Type": "Water",
     "SubType": "",
-    "Evolution": "None",
+    "Evolution": "None/Starting",
     "Found": "Hulbury, Motostoke Riverbank, North Lake Miloch",
-    "Weather": "Not Applicable"
+    "Weather": "Any",
+    "HP": 70,
+    "ATK": 92,
+    "DEF": 65,
+    "SpATK": 80,
+    "SpDEF": 55,
+    "Speed": 98,
+    "Total": 460
   },
   {
     "Number": 155,
@@ -1855,9 +2933,16 @@
     "NationalDexNumber": 746,
     "Type": "Water",
     "SubType": "",
-    "Evolution": "None",
+    "Evolution": "None/Starting",
     "Found": "Route 9, Axew's Eye, East Lake Axewell, Hulbury, West Lake Axewell",
-    "Weather": "Not Applicable"
+    "Weather": "Any",
+    "HP": 45,
+    "ATK": 20,
+    "DEF": 20,
+    "SpATK": 25,
+    "SpDEF": 25,
+    "Speed": 40,
+    "Total": 175
   },
   {
     "Number": 156,
@@ -1867,9 +2952,16 @@
     "NationalDexNumber": 771,
     "Type": "Water",
     "SubType": "",
-    "Evolution": "None",
+    "Evolution": "None/Starting",
     "Found": "Route 9, Giant's Seat, South Lake Miloch",
-    "Weather": "Thunderstorm"
+    "Weather": "Thunderstorm",
+    "HP": 55,
+    "ATK": 60,
+    "DEF": 130,
+    "SpATK": 30,
+    "SpDEF": 130,
+    "Speed": 5,
+    "Total": 410
   },
   {
     "Number": 157,
@@ -1879,9 +2971,16 @@
     "NationalDexNumber": 568,
     "Type": "Poison",
     "SubType": "",
-    "Evolution": "None",
+    "Evolution": "None/Starting",
     "Found": "Route 3",
-    "Weather": "Not Applicable"
+    "Weather": "Any",
+    "HP": 50,
+    "ATK": 50,
+    "DEF": 62,
+    "SpATK": 40,
+    "SpDEF": 62,
+    "Speed": 65,
+    "Total": 329
   },
   {
     "Number": 158,
@@ -1893,7 +2992,14 @@
     "SubType": "",
     "Evolution": "Evolve Trubbish, lvl 36+",
     "Found": "Bridge Field, Lake of Outrage",
-    "Weather": "Not Applicable"
+    "Weather": "Any",
+    "HP": 80,
+    "ATK": 95,
+    "DEF": 82,
+    "SpATK": 60,
+    "SpDEF": 82,
+    "Speed": 75,
+    "Total": 474
   },
   {
     "Number": 159,
@@ -1903,9 +3009,16 @@
     "NationalDexNumber": 850,
     "Type": "Fire",
     "SubType": "Bug",
-    "Evolution": "None",
+    "Evolution": "None/Starting",
     "Found": "Route 3, Motostoke",
-    "Weather": "Not Applicable"
+    "Weather": "Any",
+    "HP": 50,
+    "ATK": 65,
+    "DEF": 45,
+    "SpATK": 50,
+    "SpDEF": 50,
+    "Speed": 45,
+    "Total": 305
   },
   {
     "Number": 160,
@@ -1917,7 +3030,14 @@
     "SubType": "Bug",
     "Evolution": "Evolve Sizzlipede, lvl 28+",
     "Found": "Dusty Bowl, Giant's Cap, Hammerlocke Hills, Lake of Outrage, Stony Wilderness Max Raid Battles",
-    "Weather": "Not Applicable"
+    "Weather": "Any",
+    "HP": 100,
+    "ATK": 115,
+    "DEF": 65,
+    "SpATK": 90,
+    "SpDEF": 90,
+    "Speed": 65,
+    "Total": 525
   },
   {
     "Number": 161,
@@ -1927,9 +3047,16 @@
     "NationalDexNumber": 837,
     "Type": "Rock",
     "SubType": "",
-    "Evolution": "None",
+    "Evolution": "None/Starting",
     "Found": "Route 3, Galar Mine, Giant's Cap, Motostoke Riverbank",
-    "Weather": "Not Applicable"
+    "Weather": "Any",
+    "HP": 30,
+    "ATK": 40,
+    "DEF": 50,
+    "SpATK": 40,
+    "SpDEF": 50,
+    "Speed": 30,
+    "Total": 240
   },
   {
     "Number": 162,
@@ -1941,7 +3068,14 @@
     "SubType": "Fire",
     "Evolution": "Evolve Rolycoly, lvl 18+",
     "Found": "Bridge Field, Galar Mine, Giant's Cap, Stony Wilderness",
-    "Weather": "Intense Sun, Sandstorm"
+    "Weather": "Intense Sun, Sandstorm",
+    "HP": 80,
+    "ATK": 60,
+    "DEF": 90,
+    "SpATK": 60,
+    "SpDEF": 70,
+    "Speed": 50,
+    "Total": 410
   },
   {
     "Number": 163,
@@ -1953,7 +3087,14 @@
     "SubType": "Fire",
     "Evolution": "Evolve Carkol, lvl 34+",
     "Found": "Dusty Bowl, Giant's Cap, Lake of Outrage",
-    "Weather": "Not Applicable"
+    "Weather": "Any",
+    "HP": 110,
+    "ATK": 80,
+    "DEF": 120,
+    "SpATK": 80,
+    "SpDEF": 90,
+    "Speed": 30,
+    "Total": 510
   },
   {
     "Number": 164,
@@ -1963,9 +3104,16 @@
     "NationalDexNumber": 50,
     "Type": "Ground",
     "SubType": "",
-    "Evolution": "None",
+    "Evolution": "None/Starting",
     "Found": "Route 4, Galar Mine, Giant's Mirror, Rolling Fields",
-    "Weather": "Not Applicable"
+    "Weather": "Any",
+    "HP": 10,
+    "ATK": 55,
+    "DEF": 25,
+    "SpATK": 35,
+    "SpDEF": 45,
+    "Speed": 95,
+    "Total": 265
   },
   {
     "Number": 165,
@@ -1977,7 +3125,14 @@
     "SubType": "",
     "Evolution": "Evolve Diglett, lvl 26+",
     "Found": "Route 6, Dusty Bowl, Giant's Cap, Giant's Mirror, Hammerlocke Hills, Lake of Outrage",
-    "Weather": "Not Applicable"
+    "Weather": "Any",
+    "HP": 35,
+    "ATK": 100,
+    "DEF": 50,
+    "SpATK": 50,
+    "SpDEF": 70,
+    "Speed": 120,
+    "Total": 425
   },
   {
     "Number": 166,
@@ -1987,9 +3142,16 @@
     "NationalDexNumber": 529,
     "Type": "Ground",
     "SubType": "",
-    "Evolution": "None",
+    "Evolution": "None/Starting",
     "Found": "Dusty Bowl, Galar Mine, Giant's Cap, Giant's Mirror, Hammerlocke Hills, Stony Wilderness",
-    "Weather": "Intense Sun, Sandstorm"
+    "Weather": "Intense Sun, Sandstorm",
+    "HP": 60,
+    "ATK": 85,
+    "DEF": 40,
+    "SpATK": 30,
+    "SpDEF": 45,
+    "Speed": 68,
+    "Total": 328
   },
   {
     "Number": 167,
@@ -2001,7 +3163,14 @@
     "SubType": "Steel",
     "Evolution": "Evolve Drilbur, lvl 31+",
     "Found": "Giant's Cap, Giant's Mirror, Lake of Outrage",
-    "Weather": "Not Applicable"
+    "Weather": "Any",
+    "HP": 110,
+    "ATK": 135,
+    "DEF": 60,
+    "SpATK": 50,
+    "SpDEF": 65,
+    "Speed": 88,
+    "Total": 508
   },
   {
     "Number": 168,
@@ -2011,9 +3180,16 @@
     "NationalDexNumber": 524,
     "Type": "Rock",
     "SubType": "",
-    "Evolution": "None",
+    "Evolution": "None/Starting",
     "Found": "Galar Mine, Motostoke Outskirts, Rolling Fields, Stony Wilderness",
-    "Weather": "Not Applicable"
+    "Weather": "Any",
+    "HP": 55,
+    "ATK": 75,
+    "DEF": 85,
+    "SpATK": 25,
+    "SpDEF": 25,
+    "Speed": 15,
+    "Total": 280
   },
   {
     "Number": 169,
@@ -2025,7 +3201,14 @@
     "SubType": "",
     "Evolution": "Evolve Roggenrola, lvl 25+",
     "Found": "Route 8, Giant's Cap, Giant's Mirror, Lake of Outrage, Stony Wilderness",
-    "Weather": "Not Applicable"
+    "Weather": "Any",
+    "HP": 70,
+    "ATK": 105,
+    "DEF": 105,
+    "SpATK": 50,
+    "SpDEF": 40,
+    "Speed": 20,
+    "Total": 390
   },
   {
     "Number": 170,
@@ -2037,7 +3220,14 @@
     "SubType": "",
     "Evolution": "Trade Boldore",
     "Found": "Dusty Bowl",
-    "Weather": "Normal, Intense Sun, Sandstorm"
+    "Weather": "Normal, Intense Sun, Sandstorm",
+    "HP": 85,
+    "ATK": 135,
+    "DEF": 130,
+    "SpATK": 60,
+    "SpDEF": 80,
+    "Speed": 25,
+    "Total": 515
   },
   {
     "Number": 171,
@@ -2047,9 +3237,16 @@
     "NationalDexNumber": 532,
     "Type": "Fighting",
     "SubType": "",
-    "Evolution": "None",
+    "Evolution": "None/Starting",
     "Found": "Galar Mine",
-    "Weather": "Not Applicable"
+    "Weather": "Any",
+    "HP": 75,
+    "ATK": 80,
+    "DEF": 55,
+    "SpATK": 25,
+    "SpDEF": 35,
+    "Speed": 35,
+    "Total": 305
   },
   {
     "Number": 172,
@@ -2061,7 +3258,14 @@
     "SubType": "",
     "Evolution": "Evolve Timburr, lvl 25+",
     "Found": "Route 8, Dusty Bowl, Stony Wilderness",
-    "Weather": "Not Applicable"
+    "Weather": "Any",
+    "HP": 85,
+    "ATK": 105,
+    "DEF": 85,
+    "SpATK": 40,
+    "SpDEF": 50,
+    "Speed": 40,
+    "Total": 405
   },
   {
     "Number": 173,
@@ -2073,7 +3277,14 @@
     "SubType": "",
     "Evolution": "Trade Gurdurr",
     "Found": "Motostoke Riverbank",
-    "Weather": "Not Applicable"
+    "Weather": "Any",
+    "HP": 105,
+    "ATK": 140,
+    "DEF": 95,
+    "SpATK": 55,
+    "SpDEF": 65,
+    "Speed": 45,
+    "Total": 505
   },
   {
     "Number": 174,
@@ -2083,9 +3294,16 @@
     "NationalDexNumber": 527,
     "Type": "Psychic",
     "SubType": "Flying",
-    "Evolution": "None",
+    "Evolution": "None/Starting",
     "Found": "Bridge Field, Galar Mine, Giant's Mirror, Watchtower Ruins",
-    "Weather": "Not Applicable"
+    "Weather": "Any",
+    "HP": 65,
+    "ATK": 45,
+    "DEF": 43,
+    "SpATK": 55,
+    "SpDEF": 43,
+    "Speed": 72,
+    "Total": 323
   },
   {
     "Number": 175,
@@ -2097,7 +3315,14 @@
     "SubType": "Flying",
     "Evolution": "Evolve Woobat, lvl up with happiness 220+",
     "Found": "Max Raid Battles: East Lake Axewell, Hammerlocke Hills, Motostoke Riverbank, Rolling Fields, Stony Wilderness, Watchtower Ruins",
-    "Weather": "Not Applicable"
+    "Weather": "Any",
+    "HP": 67,
+    "ATK": 57,
+    "DEF": 55,
+    "SpATK": 77,
+    "SpDEF": 55,
+    "Speed": 114,
+    "Total": 425
   },
   {
     "Number": 176,
@@ -2107,9 +3332,16 @@
     "NationalDexNumber": 714,
     "Type": "Flying",
     "SubType": "Dragon",
-    "Evolution": "None",
+    "Evolution": "None/Starting",
     "Found": "Bridge Field, Galar Mine No. 2, Watchtower Ruins",
-    "Weather": "Not Applicable"
+    "Weather": "Any",
+    "HP": 40,
+    "ATK": 30,
+    "DEF": 35,
+    "SpATK": 45,
+    "SpDEF": 40,
+    "Speed": 55,
+    "Total": 245
   },
   {
     "Number": 177,
@@ -2121,7 +3353,14 @@
     "SubType": "Dragon",
     "Evolution": "Evolve Noibat, lvl 48+",
     "Found": "Bridge Field, Lake of Outrage",
-    "Weather": "Not Applicable"
+    "Weather": "Any",
+    "HP": 85,
+    "ATK": 70,
+    "DEF": 80,
+    "SpATK": 97,
+    "SpDEF": 80,
+    "Speed": 123,
+    "Total": 535
   },
   {
     "Number": 178,
@@ -2131,9 +3370,16 @@
     "NationalDexNumber": 95,
     "Type": "Rock",
     "SubType": "Ground",
-    "Evolution": "None",
+    "Evolution": "None/Starting",
     "Found": "East Lake Axewell, Giant's Seat, Motostoke Riverbank, Rolling Fields",
-    "Weather": "Not Applicable"
+    "Weather": "Any",
+    "HP": 35,
+    "ATK": 45,
+    "DEF": 160,
+    "SpATK": 30,
+    "SpDEF": 45,
+    "Speed": 70,
+    "Total": 385
   },
   {
     "Number": 179,
@@ -2145,7 +3391,14 @@
     "SubType": "Ground",
     "Evolution": "Trade Onix with Metal Coat equipped",
     "Found": "Giant's Mirror, Giant's Seat",
-    "Weather": "Not Applicable"
+    "Weather": "Any",
+    "HP": 75,
+    "ATK": 85,
+    "DEF": 200,
+    "SpATK": 55,
+    "SpDEF": 65,
+    "Speed": 30,
+    "Total": 510
   },
   {
     "Number": 180,
@@ -2155,9 +3408,16 @@
     "NationalDexNumber": 846,
     "Type": "Water",
     "SubType": "",
-    "Evolution": "None",
+    "Evolution": "None/Starting",
     "Found": "Route 2, Hulbury, Motostoke Riverbank",
-    "Weather": "Not Applicable"
+    "Weather": "Any",
+    "HP": 41,
+    "ATK": 63,
+    "DEF": 40,
+    "SpATK": 40,
+    "SpDEF": 30,
+    "Speed": 66,
+    "Total": 280
   },
   {
     "Number": 181,
@@ -2169,7 +3429,14 @@
     "SubType": "",
     "Evolution": "Evolve Arrokuda, lvl 26+",
     "Found": "Route 2, Dusty Bowl, Lake of Outrage, Motostoke Riverbank",
-    "Weather": "Not Applicable"
+    "Weather": "Any",
+    "HP": 61,
+    "ATK": 123,
+    "DEF": 60,
+    "SpATK": 60,
+    "SpDEF": 50,
+    "Speed": 136,
+    "Total": 490
   },
   {
     "Number": 182,
@@ -2179,9 +3446,16 @@
     "NationalDexNumber": 52,
     "Type": "Steel",
     "SubType": "",
-    "Evolution": "None",
+    "Evolution": "None/Starting",
     "Found": "Route 4 (Galarian)",
-    "Weather": "Not Applicable"
+    "Weather": "Any",
+    "HP": 50,
+    "ATK": 65,
+    "DEF": 55,
+    "SpATK": 40,
+    "SpDEF": 40,
+    "Speed": 40,
+    "Total": 290
   },
   {
     "Number": 183,
@@ -2193,7 +3467,14 @@
     "SubType": "",
     "Evolution": "Evolve Meowth (Galarian), lvl 28+",
     "Found": "Route 7, Route 9, Giant's Mirror, Lake of Outrage",
-    "Weather": "Not Applicable"
+    "Weather": "Any",
+    "HP": 70,
+    "ATK": 110,
+    "DEF": 100,
+    "SpATK": 50,
+    "SpDEF": 60,
+    "Speed": 50,
+    "Total": 440
   },
   {
     "Number": 184,
@@ -2205,7 +3486,14 @@
     "SubType": "",
     "Evolution": "Evolve Meowth (Kantonian), lvl up with happiness at 220+",
     "Found": "Only obtained through evolution",
-    "Weather": "Not Applicable"
+    "Weather": "Any",
+    "HP": 65,
+    "ATK": 70,
+    "DEF": 60,
+    "SpATK": 65,
+    "SpDEF": 65,
+    "Speed": 115,
+    "Total": 440
   },
   {
     "Number": 185,
@@ -2215,9 +3503,16 @@
     "NationalDexNumber": 868,
     "Type": "Fairy",
     "SubType": "",
-    "Evolution": "None",
+    "Evolution": "None/Starting",
     "Found": "Route 4, Bridge Field, Giant's Mirror",
-    "Weather": "Fog"
+    "Weather": "Fog",
+    "HP": 45,
+    "ATK": 40,
+    "DEF": 40,
+    "SpATK": 50,
+    "SpDEF": 61,
+    "Speed": 34,
+    "Total": 270
   },
   {
     "Number": 186,
@@ -2229,7 +3524,14 @@
     "SubType": "",
     "Evolution": "Evolve Milcrey with sweet item held and spinning around",
     "Found": "Sweet items are obtained randomly after battling in a cafe",
-    "Weather": "Not Applicable"
+    "Weather": "Any",
+    "HP": 65,
+    "ATK": 60,
+    "DEF": 75,
+    "SpATK": 110,
+    "SpDEF": 121,
+    "Speed": 64,
+    "Total": 495
   },
   {
     "Number": 187,
@@ -2239,9 +3541,16 @@
     "NationalDexNumber": 742,
     "Type": "Bug",
     "SubType": "Fairy",
-    "Evolution": "None",
+    "Evolution": "None/Starting",
     "Found": "Route 4, Bridge Field, Giant's Mirror, Motostoke Riverbank",
-    "Weather": "Not Applicable"
+    "Weather": "Any",
+    "HP": 40,
+    "ATK": 45,
+    "DEF": 40,
+    "SpATK": 55,
+    "SpDEF": 40,
+    "Speed": 84,
+    "Total": 304
   },
   {
     "Number": 188,
@@ -2253,7 +3562,14 @@
     "SubType": "Fairy",
     "Evolution": "Evolve Cutiefly, lvl 25+",
     "Found": "Bridge Field, Motostoke Riverbank, Stony Wilderness",
-    "Weather": "Not Applicable"
+    "Weather": "Any",
+    "HP": 60,
+    "ATK": 55,
+    "DEF": 60,
+    "SpATK": 95,
+    "SpDEF": 70,
+    "Speed": 124,
+    "Total": 464
   },
   {
     "Number": 189,
@@ -2263,9 +3579,16 @@
     "NationalDexNumber": 597,
     "Type": "Grass",
     "SubType": "Steel",
-    "Evolution": "None",
+    "Evolution": "None/Starting",
     "Found": "Route 4, Bridge Field, Motostoke Riverbank, Stony Wilderness",
-    "Weather": "Not Applicable"
+    "Weather": "Any",
+    "HP": 44,
+    "ATK": 50,
+    "DEF": 91,
+    "SpATK": 24,
+    "SpDEF": 86,
+    "Speed": 10,
+    "Total": 305
   },
   {
     "Number": 190,
@@ -2277,7 +3600,14 @@
     "SubType": "Steel",
     "Evolution": "Evolve Ferroseed, lvl 40+",
     "Found": "Bridge Field, Dusty Bowl",
-    "Weather": "Not Applicable"
+    "Weather": "Any",
+    "HP": 74,
+    "ATK": 94,
+    "DEF": 131,
+    "SpATK": 54,
+    "SpDEF": 116,
+    "Speed": 20,
+    "Total": 489
   },
   {
     "Number": 191,
@@ -2287,9 +3617,16 @@
     "NationalDexNumber": 710,
     "Type": "Ghost",
     "SubType": "Grass",
-    "Evolution": "None",
+    "Evolution": "None/Starting",
     "Found": "Route 4, Giant's Mirror, Hammerlocke Hills",
-    "Weather": "Not Applicable"
+    "Weather": "Any",
+    "HP": 49,
+    "ATK": 66,
+    "DEF": 70,
+    "SpATK": 44,
+    "SpDEF": 55,
+    "Speed": 51,
+    "Total": 335
   },
   {
     "Number": 192,
@@ -2301,7 +3638,14 @@
     "SubType": "Grass",
     "Evolution": "Trade Pumpkaboo",
     "Found": "Hammerlocke Hills",
-    "Weather": "Not Applicable"
+    "Weather": "Any",
+    "HP": 65,
+    "ATK": 90,
+    "DEF": 122,
+    "SpATK": 58,
+    "SpDEF": 75,
+    "Speed": 84,
+    "Total": 494
   },
   {
     "Number": 193,
@@ -2311,9 +3655,16 @@
     "NationalDexNumber": 172,
     "Type": "Electric",
     "SubType": "",
-    "Evolution": "None",
+    "Evolution": "None/Starting",
     "Found": "Giant's Cap, Hammerlocke Hills, Motostoke Riverbank Max Raid Battles",
-    "Weather": "Not Applicable"
+    "Weather": "Any",
+    "HP": 20,
+    "ATK": 40,
+    "DEF": 15,
+    "SpATK": 35,
+    "SpDEF": 35,
+    "Speed": 60,
+    "Total": 205
   },
   {
     "Number": 194,
@@ -2325,7 +3676,14 @@
     "SubType": "",
     "Evolution": "Evolve Pichu with happiness at 220+",
     "Found": "Route 4, Rolling Fields, Stony Wilderness",
-    "Weather": "Not Applicable"
+    "Weather": "Any",
+    "HP": 35,
+    "ATK": 55,
+    "DEF": 40,
+    "SpATK": 50,
+    "SpDEF": 50,
+    "Speed": 90,
+    "Total": 320
   },
   {
     "Number": 195,
@@ -2337,7 +3695,14 @@
     "SubType": "",
     "Evolution": "Evolve Pikachu, Thunder Stone",
     "Found": "Giant's Cap, Motostoke Riverbank Max Raid Battles",
-    "Weather": "Thunderstorm, Raining"
+    "Weather": "Thunderstorm, Raining",
+    "HP": 60,
+    "ATK": 90,
+    "DEF": 55,
+    "SpATK": 90,
+    "SpDEF": 80,
+    "Speed": 110,
+    "Total": 485
   },
   {
     "Number": 196,
@@ -2347,9 +3712,16 @@
     "NationalDexNumber": 133,
     "Type": "Normal",
     "SubType": "",
-    "Evolution": "None",
+    "Evolution": "None/Starting",
     "Found": "Route 4",
-    "Weather": "Not Applicable"
+    "Weather": "Any",
+    "HP": 55,
+    "ATK": 55,
+    "DEF": 50,
+    "SpATK": 45,
+    "SpDEF": 65,
+    "Speed": 55,
+    "Total": 325
   },
   {
     "Number": 197,
@@ -2361,7 +3733,14 @@
     "SubType": "",
     "Evolution": "Evolve Eevee, Water Stone",
     "Found": "Lake of Outrage",
-    "Weather": "Raining"
+    "Weather": "Raining",
+    "HP": 130,
+    "ATK": 65,
+    "DEF": 60,
+    "SpATK": 110,
+    "SpDEF": 95,
+    "Speed": 65,
+    "Total": 525
   },
   {
     "Number": 198,
@@ -2373,7 +3752,14 @@
     "SubType": "",
     "Evolution": "Evolve Eevee, Thunder Stone",
     "Found": "Lake of Outrage",
-    "Weather": "Thunderstorm"
+    "Weather": "Thunderstorm",
+    "HP": 65,
+    "ATK": 65,
+    "DEF": 60,
+    "SpATK": 110,
+    "SpDEF": 95,
+    "Speed": 130,
+    "Total": 525
   },
   {
     "Number": 199,
@@ -2385,7 +3771,14 @@
     "SubType": "",
     "Evolution": "Evolve Eevee, Fire Stone",
     "Found": "Lake of Outrage",
-    "Weather": "Intense Sun"
+    "Weather": "Intense Sun",
+    "HP": 65,
+    "ATK": 130,
+    "DEF": 60,
+    "SpATK": 95,
+    "SpDEF": 110,
+    "Speed": 65,
+    "Total": 525
   },
   {
     "Number": 200,
@@ -2397,7 +3790,14 @@
     "SubType": "",
     "Evolution": "Evolve Eevee with hapiness 220+ during the day",
     "Found": "Lake of Outrage",
-    "Weather": "Overcast"
+    "Weather": "Overcast",
+    "HP": 65,
+    "ATK": 65,
+    "DEF": 60,
+    "SpATK": 130,
+    "SpDEF": 95,
+    "Speed": 110,
+    "Total": 525
   },
   {
     "Number": 201,
@@ -2409,7 +3809,14 @@
     "SubType": "",
     "Evolution": "Evolve Eevee with hapiness 220+ at night (20:00+)",
     "Found": "Lake of Outrage",
-    "Weather": "Sandstorm"
+    "Weather": "Sandstorm",
+    "HP": 95,
+    "ATK": 65,
+    "DEF": 110,
+    "SpATK": 60,
+    "SpDEF": 130,
+    "Speed": 65,
+    "Total": 525
   },
   {
     "Number": 202,
@@ -2421,7 +3828,14 @@
     "SubType": "",
     "Evolution": "Evolve Eevee, Leaft Stone",
     "Found": "Lake of Outrage",
-    "Weather": "Normal"
+    "Weather": "Normal",
+    "HP": 65,
+    "ATK": 110,
+    "DEF": 130,
+    "SpATK": 60,
+    "SpDEF": 65,
+    "Speed": 95,
+    "Total": 525
   },
   {
     "Number": 203,
@@ -2433,7 +3847,14 @@
     "SubType": "",
     "Evolution": "Evolve Eevee, Ice Stone",
     "Found": "Lake of Outrage",
-    "Weather": "Snowing, Snowstorm"
+    "Weather": "Snowing, Snowstorm",
+    "HP": 65,
+    "ATK": 60,
+    "DEF": 110,
+    "SpATK": 130,
+    "SpDEF": 95,
+    "Speed": 65,
+    "Total": 525
   },
   {
     "Number": 204,
@@ -2445,7 +3866,14 @@
     "SubType": "",
     "Evolution": "Evolve Eevee with hapiness at 160+ and knowing a fairy type move",
     "Found": "Lake of Outrage",
-    "Weather": "Fog"
+    "Weather": "Fog",
+    "HP": 95,
+    "ATK": 65,
+    "DEF": 65,
+    "SpATK": 110,
+    "SpDEF": 130,
+    "Speed": 60,
+    "Total": 525
   },
   {
     "Number": 205,
@@ -2455,9 +3883,16 @@
     "NationalDexNumber": 840,
     "Type": "Grass",
     "SubType": "Poison",
-    "Evolution": "None",
+    "Evolution": "None/Starting",
     "Found": "Route 5, Dusty Bowl, Giant's Mirror, Stony Wilderness",
-    "Weather": "Normal, Thunderstorm"
+    "Weather": "Normal, Thunderstorm",
+    "HP": 40,
+    "ATK": 40,
+    "DEF": 80,
+    "SpATK": 40,
+    "SpDEF": 40,
+    "Speed": 20,
+    "Total": 260
   },
   {
     "Number": 206,
@@ -2469,7 +3904,14 @@
     "SubType": "Poison",
     "Evolution": "Evolve Applin, Tart Apple",
     "Found": "Axew's Eye, Bridge Field, Dappled Grove, Giant's Mirror, Stony Wilderness Max Raid Battles",
-    "Weather": "Not Applicable"
+    "Weather": "Any",
+    "HP": 70,
+    "ATK": 110,
+    "DEF": 80,
+    "SpATK": 95,
+    "SpDEF": 60,
+    "Speed": 70,
+    "Total": 485
   },
   {
     "Number": 207,
@@ -2481,7 +3923,14 @@
     "SubType": "Poison",
     "Evolution": "Evolve Applin, Sweet Apple",
     "Found": "Axew's Eye, Bridge Field, Dappled Grove, Giant's Mirror, Stony Wilderness Max Raid Battles",
-    "Weather": "Not Applicable"
+    "Weather": "Any",
+    "HP": 110,
+    "ATK": 85,
+    "DEF": 80,
+    "SpATK": 100,
+    "SpDEF": 80,
+    "Speed": 30,
+    "Total": 485
   },
   {
     "Number": 208,
@@ -2491,9 +3940,16 @@
     "NationalDexNumber": 677,
     "Type": "Psychic",
     "SubType": "",
-    "Evolution": "None",
+    "Evolution": "None/Starting",
     "Found": "Route 5, Hammerlocke Hills, Motostoke Riverbank",
-    "Weather": "Not Applicable"
+    "Weather": "Any",
+    "HP": 62,
+    "ATK": 48,
+    "DEF": 54,
+    "SpATK": 63,
+    "SpDEF": 60,
+    "Speed": 68,
+    "Total": 355
   },
   {
     "Number": 209,
@@ -2505,7 +3961,14 @@
     "SubType": "",
     "Evolution": "Evolve Espurr, lvl 25+",
     "Found": "Route 7, Dusty Bowl, Giant's Cap, Hammerlocke Hills, Lake of Outrage, Motostoke Riverbank, North Lake Miloch, Slumbering Weald, Watchtower Ruins",
-    "Weather": "Fog"
+    "Weather": "Fog",
+    "HP": 74,
+    "ATK": 48,
+    "DEF": 76,
+    "SpATK": 83,
+    "SpDEF": 81,
+    "Speed": 104,
+    "Total": 466
   },
   {
     "Number": 210,
@@ -2515,9 +3978,16 @@
     "NationalDexNumber": 684,
     "Type": "Fairy",
     "SubType": "",
-    "Evolution": "None",
+    "Evolution": "None/Starting",
     "Found": "Route 5, Giant's Mirror, Glimwood Tangle, Stony Wilderness",
-    "Weather": "Fog, Overcast"
+    "Weather": "Fog, Overcast",
+    "HP": 62,
+    "ATK": 48,
+    "DEF": 66,
+    "SpATK": 59,
+    "SpDEF": 57,
+    "Speed": 49,
+    "Total": 341
   },
   {
     "Number": 211,
@@ -2529,7 +3999,14 @@
     "SubType": "",
     "Evolution": "Trade Swirlix with Whipped Dream equipped",
     "Found": "Bridge Field, Hammerlocke Hills, Lake of Outrage, Rolling Fields Max Raid Battles",
-    "Weather": "Not Applicable"
+    "Weather": "Any",
+    "HP": 82,
+    "ATK": 80,
+    "DEF": 86,
+    "SpATK": 85,
+    "SpDEF": 75,
+    "Speed": 72,
+    "Total": 480
   },
   {
     "Number": 212,
@@ -2539,9 +4016,16 @@
     "NationalDexNumber": 682,
     "Type": "Fairy",
     "SubType": "",
-    "Evolution": "None",
+    "Evolution": "None/Starting",
     "Found": "Route 5, Giant's Mirror, Glimwood Tangle, Stony Wilderness",
-    "Weather": "Fog, Overcast"
+    "Weather": "Fog, Overcast",
+    "HP": 78,
+    "ATK": 52,
+    "DEF": 60,
+    "SpATK": 63,
+    "SpDEF": 65,
+    "Speed": 23,
+    "Total": 341
   },
   {
     "Number": 213,
@@ -2553,7 +4037,14 @@
     "SubType": "",
     "Evolution": "Trade Spritzee with Sachet equipped",
     "Found": "Bridge Field, Hammerlocke Hills, Lake of Outrage, Rolling Fields Max Raid Battles",
-    "Weather": "Not Applicable"
+    "Weather": "Any",
+    "HP": 101,
+    "ATK": 72,
+    "DEF": 72,
+    "SpATK": 99,
+    "SpDEF": 89,
+    "Speed": 29,
+    "Total": 462
   },
   {
     "Number": 214,
@@ -2563,9 +4054,16 @@
     "NationalDexNumber": 751,
     "Type": "Water",
     "SubType": "Bug",
-    "Evolution": "None",
+    "Evolution": "None/Starting",
     "Found": "Route 5, Motostoke Riverbank, Stony Wilderness",
-    "Weather": "Raining, Thunderstorm"
+    "Weather": "Raining, Thunderstorm",
+    "HP": 38,
+    "ATK": 40,
+    "DEF": 52,
+    "SpATK": 40,
+    "SpDEF": 72,
+    "Speed": 27,
+    "Total": 269
   },
   {
     "Number": 215,
@@ -2577,7 +4075,14 @@
     "SubType": "Bug",
     "Evolution": "Evolve Dewpider, lvl 22+",
     "Found": "Lake of Outrage, Stony Wilderness",
-    "Weather": "Raining, Thunderstorm"
+    "Weather": "Raining, Thunderstorm",
+    "HP": 68,
+    "ATK": 70,
+    "DEF": 92,
+    "SpATK": 50,
+    "SpDEF": 132,
+    "Speed": 42,
+    "Total": 454
   },
   {
     "Number": 216,
@@ -2589,7 +4094,14 @@
     "SubType": "",
     "Evolution": "Breed Wobbuffet while holding Lax Incense",
     "Found": "Hammerlocke Hills, Motostoke Riverbank, Stony Wilderness Max Raid Battles",
-    "Weather": "Not Applicable"
+    "Weather": "Any",
+    "HP": 95,
+    "ATK": 23,
+    "DEF": 48,
+    "SpATK": 23,
+    "SpDEF": 48,
+    "Speed": 23,
+    "Total": 260
   },
   {
     "Number": 217,
@@ -2601,7 +4113,14 @@
     "SubType": "",
     "Evolution": "Evolve Wynaut, lvl 15+",
     "Found": "Route 5, Bridge Field, Dusty Bowl, Hammerlocke Hills, Lake of Outrage, Motostoke Riverbank",
-    "Weather": "Not Applicable"
+    "Weather": "Any",
+    "HP": 190,
+    "ATK": 33,
+    "DEF": 58,
+    "SpATK": 33,
+    "SpDEF": 58,
+    "Speed": 33,
+    "Total": 405
   },
   {
     "Number": 218,
@@ -2611,9 +4130,16 @@
     "NationalDexNumber": 83,
     "Type": "Fighting",
     "SubType": "",
-    "Evolution": "None",
+    "Evolution": "None/Starting",
     "Found": "Route 5, Giant's Mirror",
-    "Weather": "Overcast"
+    "Weather": "Overcast",
+    "HP": 52,
+    "ATK": 95,
+    "DEF": 55,
+    "SpATK": 58,
+    "SpDEF": 62,
+    "Speed": 55,
+    "Total": 377
   },
   {
     "Number": 219,
@@ -2625,7 +4151,14 @@
     "SubType": "",
     "Evolution": "Have Farfetch'd crit 3 times in one battle",
     "Found": "Dusty Bowl, North Lake Miloch, Stony Wilderness Max Raid Battles",
-    "Weather": "Not Applicable"
+    "Weather": "Any",
+    "HP": 62,
+    "ATK": 135,
+    "DEF": 95,
+    "SpATK": 68,
+    "SpDEF": 82,
+    "Speed": 65,
+    "Total": 507
   },
   {
     "Number": 220,
@@ -2635,9 +4168,16 @@
     "NationalDexNumber": 170,
     "Type": "Water",
     "SubType": "Electric",
-    "Evolution": "None",
+    "Evolution": "None/Starting",
     "Found": "East Lake Axewell, Giant's Mirror, Hulbury, West Lake Axewell",
-    "Weather": "Thunderstorm"
+    "Weather": "Thunderstorm",
+    "HP": 75,
+    "ATK": 38,
+    "DEF": 38,
+    "SpATK": 56,
+    "SpDEF": 56,
+    "Speed": 67,
+    "Total": 330
   },
   {
     "Number": 221,
@@ -2649,7 +4189,14 @@
     "SubType": "Electric",
     "Evolution": "Evolve Chinchou, lvl 27+",
     "Found": "Bridge Field, Dusty Bowl, East Lake Axewell, Lake of Outrage",
-    "Weather": "Thunderstorm, Normal, Fog"
+    "Weather": "Thunderstorm, Normal, Fog",
+    "HP": 125,
+    "ATK": 58,
+    "DEF": 58,
+    "SpATK": 76,
+    "SpDEF": 76,
+    "Speed": 67,
+    "Total": 460
   },
   {
     "Number": 222,
@@ -2659,9 +4206,16 @@
     "NationalDexNumber": 453,
     "Type": "Poison",
     "SubType": "Fighting",
-    "Evolution": "None",
+    "Evolution": "None/Starting",
     "Found": "Bridge Field, Dusty Bowl, Galar Mine No. 2, Giant's Cap, Motostoke Outskirts, Stony Wilderness",
-    "Weather": "Overcast, Sandstorm, Normal"
+    "Weather": "Overcast, Sandstorm, Normal",
+    "HP": 48,
+    "ATK": 61,
+    "DEF": 40,
+    "SpATK": 61,
+    "SpDEF": 40,
+    "Speed": 50,
+    "Total": 300
   },
   {
     "Number": 223,
@@ -2673,7 +4227,14 @@
     "SubType": "Fighting",
     "Evolution": "Evolve Croagunk, lvl 37+",
     "Found": "Stony Wilderness",
-    "Weather": "Overcast"
+    "Weather": "Overcast",
+    "HP": 83,
+    "ATK": 106,
+    "DEF": 65,
+    "SpATK": 86,
+    "SpDEF": 65,
+    "Speed": 85,
+    "Total": 490
   },
   {
     "Number": 224,
@@ -2683,9 +4244,16 @@
     "NationalDexNumber": 559,
     "Type": "Dark",
     "SubType": "Fighting",
-    "Evolution": "None",
+    "Evolution": "None/Starting",
     "Found": "Bridge Field, Dusty Bowl, Galar Mine No. 2, Giant's Cap, Motostoke Outskirts, Stony Wilderness",
-    "Weather": "Overcast, Sandstorm, Normal"
+    "Weather": "Overcast, Sandstorm, Normal",
+    "HP": 50,
+    "ATK": 75,
+    "DEF": 70,
+    "SpATK": 35,
+    "SpDEF": 70,
+    "Speed": 48,
+    "Total": 348
   },
   {
     "Number": 225,
@@ -2697,7 +4265,14 @@
     "SubType": "Fighting",
     "Evolution": "Evolve Scraggy, lvl 39+",
     "Found": "Bridge Field, Dusty Bowl, North Lake Miloch, Rolling Fields, South Lake Miloch, Stony Wilderness, West Lake Axewell Max Raid Battles",
-    "Weather": "Not Applicable"
+    "Weather": "Any",
+    "HP": 65,
+    "ATK": 90,
+    "DEF": 115,
+    "SpATK": 45,
+    "SpDEF": 115,
+    "Speed": 58,
+    "Total": 488
   },
   {
     "Number": 226,
@@ -2707,9 +4282,16 @@
     "NationalDexNumber": 618,
     "Type": "Ground",
     "SubType": "Steel",
-    "Evolution": "None",
+    "Evolution": "None/Starting",
     "Found": "Dusty Bowl, Galar Mine No. 2, Lake of Outrage, Slumbering Weald",
-    "Weather": "Intense Sun, Sandstorm"
+    "Weather": "Intense Sun, Sandstorm",
+    "HP": 109,
+    "ATK": 81,
+    "DEF": 99,
+    "SpATK": 66,
+    "SpDEF": 84,
+    "Speed": 32,
+    "Total": 471
   },
   {
     "Number": 227,
@@ -2719,9 +4301,16 @@
     "NationalDexNumber": 213,
     "Type": "Bug",
     "SubType": "Rock",
-    "Evolution": "None",
+    "Evolution": "None/Starting",
     "Found": "Dusty Bowl, Galar Mine No. 2, Giant's Cap, Stony Wilderness, Watchtower Ruins",
-    "Weather": "Not Applicable"
+    "Weather": "Any",
+    "HP": 20,
+    "ATK": 10,
+    "DEF": 230,
+    "SpATK": 10,
+    "SpDEF": 230,
+    "Speed": 5,
+    "Total": 505
   },
   {
     "Number": 228,
@@ -2731,9 +4320,16 @@
     "NationalDexNumber": 339,
     "Type": "Water",
     "SubType": "Ground",
-    "Evolution": "None",
+    "Evolution": "None/Starting",
     "Found": "Galar Mine No. 2, Motostoke, North Lake Miloch, Slumbering Weald, South Lake Miloch, Stony Wilderness",
-    "Weather": "Not Applicable"
+    "Weather": "Any",
+    "HP": 50,
+    "ATK": 48,
+    "DEF": 43,
+    "SpATK": 46,
+    "SpDEF": 41,
+    "Speed": 60,
+    "Total": 288
   },
   {
     "Number": 229,
@@ -2745,7 +4341,14 @@
     "SubType": "Ground",
     "Evolution": "Evolve Barboach, lvl 30+",
     "Found": "Slumbering Weald, South Lake Miloch",
-    "Weather": "Not Applicable"
+    "Weather": "Any",
+    "HP": 110,
+    "ATK": 78,
+    "DEF": 73,
+    "SpATK": 76,
+    "SpDEF": 71,
+    "Speed": 60,
+    "Total": 468
   },
   {
     "Number": 230,
@@ -2755,9 +4358,16 @@
     "NationalDexNumber": 422,
     "Type": "Water",
     "SubType": "",
-    "Evolution": "None",
+    "Evolution": "None/Starting",
     "Found": "Bridge Field, Galar Mine No. 2, Giant's Cap, Giant's Mirror, Motostoke Riverbank, Stony Wilderness",
-    "Weather": "Not Applicable"
+    "Weather": "Any",
+    "HP": 76,
+    "ATK": 48,
+    "DEF": 48,
+    "SpATK": 57,
+    "SpDEF": 62,
+    "Speed": 34,
+    "Total": 325
   },
   {
     "Number": 231,
@@ -2769,7 +4379,14 @@
     "SubType": "Ground",
     "Evolution": "Evolve Shellos, lvl 30+",
     "Found": "Route 9, Dusty Bowl, Galar Mine No. 2, Giant's Mirror",
-    "Weather": "Not Applicable"
+    "Weather": "Any",
+    "HP": 111,
+    "ATK": 83,
+    "DEF": 68,
+    "SpATK": 92,
+    "SpDEF": 82,
+    "Speed": 39,
+    "Total": 475
   },
   {
     "Number": 232,
@@ -2779,9 +4396,16 @@
     "NationalDexNumber": 767,
     "Type": "Bug",
     "SubType": "Water",
-    "Evolution": "None",
+    "Evolution": "None/Starting",
     "Found": "Bridge Field, Galar Mine No. 2, Giant's Mirror, Hammerlocke Hills, Motostoke Riverbank",
-    "Weather": "Raining, Thunderstorm"
+    "Weather": "Raining, Thunderstorm",
+    "HP": 25,
+    "ATK": 35,
+    "DEF": 40,
+    "SpATK": 20,
+    "SpDEF": 30,
+    "Speed": 80,
+    "Total": 230
   },
   {
     "Number": 233,
@@ -2793,7 +4417,14 @@
     "SubType": "Water",
     "Evolution": "Evolve Golisopod, lvl 30+",
     "Found": "Bridge Field, Giant's Cap, Lake of Outrage",
-    "Weather": "Normal, Raining, Thunderstorm"
+    "Weather": "Normal, Raining, Thunderstorm",
+    "HP": 75,
+    "ATK": 125,
+    "DEF": 140,
+    "SpATK": 60,
+    "SpDEF": 90,
+    "Speed": 40,
+    "Total": 530
   },
   {
     "Number": 234,
@@ -2803,9 +4434,16 @@
     "NationalDexNumber": 688,
     "Type": "Rock",
     "SubType": "Water",
-    "Evolution": "None",
+    "Evolution": "None/Starting",
     "Found": "Bridge Field, Galar Mine No. 2, Motostoke Riverbank",
-    "Weather": "Raining, Thunderstorm"
+    "Weather": "Raining, Thunderstorm",
+    "HP": 42,
+    "ATK": 52,
+    "DEF": 67,
+    "SpATK": 39,
+    "SpDEF": 56,
+    "Speed": 50,
+    "Total": 306
   },
   {
     "Number": 235,
@@ -2817,7 +4455,14 @@
     "SubType": "Water",
     "Evolution": "Evolve Binacle, lvl 39+",
     "Found": "Route 9, Dusty Bowl, Lake of Outrage",
-    "Weather": "Raining, Thunderstorm, Overcast"
+    "Weather": "Raining, Thunderstorm, Overcast",
+    "HP": 72,
+    "ATK": 105,
+    "DEF": 115,
+    "SpATK": 54,
+    "SpDEF": 86,
+    "Speed": 68,
+    "Total": 500
   },
   {
     "Number": 236,
@@ -2827,9 +4472,16 @@
     "NationalDexNumber": 222,
     "Type": "Ghost",
     "SubType": "",
-    "Evolution": "None",
+    "Evolution": "None/Starting",
     "Found": "Giant's Mirror",
-    "Weather": "Overcast"
+    "Weather": "Overcast",
+    "HP": 60,
+    "ATK": 55,
+    "DEF": 100,
+    "SpATK": 65,
+    "SpDEF": 100,
+    "Speed": 30,
+    "Total": 410
   },
   {
     "Number": 237,
@@ -2841,7 +4493,14 @@
     "SubType": "",
     "Evolution": "Evolve Corsola, lvl 38+",
     "Found": "Giant's Mirror, South Lake Miloch, Stony Wilderness, Watchtower Ruins Max Raid Battles",
-    "Weather": "Not Applicable"
+    "Weather": "Any",
+    "HP": 60,
+    "ATK": 95,
+    "DEF": 50,
+    "SpATK": 145,
+    "SpDEF": 130,
+    "Speed": 30,
+    "Total": 510
   },
   {
     "Number": 238,
@@ -2851,9 +4510,16 @@
     "NationalDexNumber": 859,
     "Type": "Dark",
     "SubType": "Fairy",
-    "Evolution": "None",
+    "Evolution": "None/Starting",
     "Found": "Giant's Mirror, Glimwood Tangle, Hammerlocke Hills, Motostoke Outskirts, Stony Wilderness",
-    "Weather": "Not Applicable"
+    "Weather": "Any",
+    "HP": 45,
+    "ATK": 45,
+    "DEF": 30,
+    "SpATK": 55,
+    "SpDEF": 40,
+    "Speed": 50,
+    "Total": 265
   },
   {
     "Number": 239,
@@ -2865,7 +4531,14 @@
     "SubType": "Fairy",
     "Evolution": "Evolve Impidimp, lvl 32+",
     "Found": "Glimwood Tangle",
-    "Weather": "Not Applicable"
+    "Weather": "Any",
+    "HP": 65,
+    "ATK": 60,
+    "DEF": 45,
+    "SpATK": 75,
+    "SpDEF": 55,
+    "Speed": 70,
+    "Total": 370
   },
   {
     "Number": 240,
@@ -2877,7 +4550,14 @@
     "SubType": "Fairy",
     "Evolution": "Evolve Morgrem, lvl 42+",
     "Found": "Lake of Outrage",
-    "Weather": "Not Applicable"
+    "Weather": "Any",
+    "HP": 95,
+    "ATK": 120,
+    "DEF": 65,
+    "SpATK": 95,
+    "SpDEF": 75,
+    "Speed": 60,
+    "Total": 510
   },
   {
     "Number": 241,
@@ -2887,9 +4567,16 @@
     "NationalDexNumber": 856,
     "Type": "Psychic",
     "SubType": "",
-    "Evolution": "None",
+    "Evolution": "None/Starting",
     "Found": "Hammerlocke Hills, Motostoke Outskirts, Stony Wilderness",
-    "Weather": "Fog"
+    "Weather": "Fog",
+    "HP": 42,
+    "ATK": 30,
+    "DEF": 45,
+    "SpATK": 56,
+    "SpDEF": 53,
+    "Speed": 39,
+    "Total": 265
   },
   {
     "Number": 242,
@@ -2901,7 +4588,14 @@
     "SubType": "",
     "Evolution": "Evolve Hatenna, lvl 32+",
     "Found": "Dusty Bowl, Glimwood Tangle",
-    "Weather": "Not Applicable"
+    "Weather": "Any",
+    "HP": 57,
+    "ATK": 40,
+    "DEF": 65,
+    "SpATK": 86,
+    "SpDEF": 73,
+    "Speed": 49,
+    "Total": 370
   },
   {
     "Number": 243,
@@ -2913,7 +4607,14 @@
     "SubType": "",
     "Evolution": "Evolve Hattrem, lvl 42+",
     "Found": "Lake of Outrage",
-    "Weather": "Not Applicable"
+    "Weather": "Any",
+    "HP": 57,
+    "ATK": 90,
+    "DEF": 95,
+    "SpATK": 136,
+    "SpDEF": 103,
+    "Speed": 29,
+    "Total": 510
   },
   {
     "Number": 244,
@@ -2923,9 +4624,16 @@
     "NationalDexNumber": 757,
     "Type": "Poison",
     "SubType": "Fire",
-    "Evolution": "None",
+    "Evolution": "None/Starting",
     "Found": "Stony Wilderness",
-    "Weather": "Intense Sun"
+    "Weather": "Intense Sun",
+    "HP": 48,
+    "ATK": 44,
+    "DEF": 40,
+    "SpATK": 71,
+    "SpDEF": 40,
+    "Speed": 77,
+    "Total": 320
   },
   {
     "Number": 245,
@@ -2937,7 +4645,14 @@
     "SubType": "Fire",
     "Evolution": "Evolve female Salandit, lvl 33+",
     "Found": "Dusty Bowl, Giant's Cap, Hammerlocke Hills, Lake of Outrage, Stony Wilderness Max Raid Battles",
-    "Weather": "Not Applicable"
+    "Weather": "Any",
+    "HP": 68,
+    "ATK": 64,
+    "DEF": 60,
+    "SpATK": 111,
+    "SpDEF": 60,
+    "Speed": 117,
+    "Total": 480
   },
   {
     "Number": 246,
@@ -2947,9 +4662,16 @@
     "NationalDexNumber": 624,
     "Type": "Dark",
     "SubType": "Steel",
-    "Evolution": "None",
+    "Evolution": "None/Starting",
     "Found": "Route 8, Giant's Cap, Giant's Mirror, Motostoke Outskirts, Motostoke Riverbank, Stony Wilderness",
-    "Weather": "Snowstorm"
+    "Weather": "Snowstorm",
+    "HP": 45,
+    "ATK": 85,
+    "DEF": 70,
+    "SpATK": 40,
+    "SpDEF": 40,
+    "Speed": 60,
+    "Total": 340
   },
   {
     "Number": 247,
@@ -2961,7 +4683,14 @@
     "SubType": "Steel",
     "Evolution": "Evolve Pawniard, lvl 52+",
     "Found": "Giant's Seat, Lake of Outrage",
-    "Weather": "Not Applicable"
+    "Weather": "Any",
+    "HP": 65,
+    "ATK": 125,
+    "DEF": 100,
+    "SpATK": 60,
+    "SpDEF": 70,
+    "Speed": 70,
+    "Total": 490
   },
   {
     "Number": 248,
@@ -2973,7 +4702,14 @@
     "SubType": "",
     "Evolution": "None (Trade in Circhester?)",
     "Found": "Route 8, Bridge Field, Giant's Mirror, Motostoke Outskirts, Motostoke Riverbank",
-    "Weather": "Overcast"
+    "Weather": "Overcast",
+    "HP": 120,
+    "ATK": 100,
+    "DEF": 85,
+    "SpATK": 30,
+    "SpDEF": 85,
+    "Speed": 45,
+    "Total": 465
   },
   {
     "Number": 249,
@@ -2985,7 +4721,14 @@
     "SubType": "",
     "Evolution": "None (Trade in Circhester?)",
     "Found": "Route 8, Bridge Field, Giant's Mirror, Motostoke Outskirts, Motostoke Riverbank",
-    "Weather": "Overcast"
+    "Weather": "Overcast",
+    "HP": 75,
+    "ATK": 125,
+    "DEF": 75,
+    "SpATK": 30,
+    "SpDEF": 75,
+    "Speed": 85,
+    "Total": 465
   },
   {
     "Number": 250,
@@ -2995,9 +4738,16 @@
     "NationalDexNumber": 109,
     "Type": "Poison",
     "SubType": "",
-    "Evolution": "None",
+    "Evolution": "None/Starting",
     "Found": "Dusty Bowl, Giant's Mirror, Motostoke Outskirts, Motostoke Riverbank",
-    "Weather": "Not Applicable"
+    "Weather": "Any",
+    "HP": 40,
+    "ATK": 65,
+    "DEF": 95,
+    "SpATK": 60,
+    "SpDEF": 45,
+    "Speed": 35,
+    "Total": 340
   },
   {
     "Number": 251,
@@ -3009,7 +4759,14 @@
     "SubType": "Fairy",
     "Evolution": "Evolve Koffing, lvl 35+",
     "Found": "East Lake Axewell, Lake of Outrage, Slumbering Weald",
-    "Weather": "Not Applicable"
+    "Weather": "Any",
+    "HP": 65,
+    "ATK": 90,
+    "DEF": 120,
+    "SpATK": 85,
+    "SpDEF": 70,
+    "Speed": 60,
+    "Total": 490
   },
   {
     "Number": 252,
@@ -3019,9 +4776,16 @@
     "NationalDexNumber": 438,
     "Type": "Rock",
     "SubType": "",
-    "Evolution": "None",
+    "Evolution": "None/Starting",
     "Found": "Bridge Field, Stony Wilderness",
-    "Weather": "Sandstorm"
+    "Weather": "Sandstorm",
+    "HP": 50,
+    "ATK": 80,
+    "DEF": 95,
+    "SpATK": 10,
+    "SpDEF": 45,
+    "Speed": 10,
+    "Total": 290
   },
   {
     "Number": 253,
@@ -3033,7 +4797,14 @@
     "SubType": "",
     "Evolution": "Evolve Bonsly, level up while knowing Mimic move",
     "Found": "Bridge Field, Dusty Bowl, Giant's Mirror, Hammerlocke Hills, Motostoke Outskirts, Motostoke Riverbank",
-    "Weather": "Not Applicable"
+    "Weather": "Any",
+    "HP": 70,
+    "ATK": 100,
+    "DEF": 115,
+    "SpATK": 30,
+    "SpDEF": 65,
+    "Speed": 30,
+    "Total": 410
   },
   {
     "Number": 254,
@@ -3043,9 +4814,16 @@
     "NationalDexNumber": 173,
     "Type": "Fairy",
     "SubType": "",
-    "Evolution": "None",
+    "Evolution": "None/Starting",
     "Found": "Hammerlocke Hills, Rolling Fields Max Raid Battles",
-    "Weather": "Not Applicable"
+    "Weather": "Any",
+    "HP": 50,
+    "ATK": 25,
+    "DEF": 28,
+    "SpATK": 45,
+    "SpDEF": 55,
+    "Speed": 15,
+    "Total": 218
   },
   {
     "Number": 255,
@@ -3057,7 +4835,14 @@
     "SubType": "",
     "Evolution": "Evolve Cleffa, lvl up with happiness at 220+",
     "Found": "Giant's Cap, Motostoke Riverbank",
-    "Weather": "Fog"
+    "Weather": "Fog",
+    "HP": 70,
+    "ATK": 45,
+    "DEF": 48,
+    "SpATK": 60,
+    "SpDEF": 65,
+    "Speed": 35,
+    "Total": 323
   },
   {
     "Number": 256,
@@ -3069,7 +4854,14 @@
     "SubType": "",
     "Evolution": "Evolve Clefairy, Moon Stone",
     "Found": "Motostoke Riverbank",
-    "Weather": "Fog"
+    "Weather": "Fog",
+    "HP": 95,
+    "ATK": 70,
+    "DEF": 73,
+    "SpATK": 95,
+    "SpDEF": 90,
+    "Speed": 60,
+    "Total": 483
   },
   {
     "Number": 257,
@@ -3079,9 +4871,16 @@
     "NationalDexNumber": 175,
     "Type": "Fairy",
     "SubType": "",
-    "Evolution": "None",
+    "Evolution": "None/Starting",
     "Found": "Bridge Field",
-    "Weather": "Normal, Overcast, Fog"
+    "Weather": "Normal, Overcast, Fog",
+    "HP": 35,
+    "ATK": 20,
+    "DEF": 65,
+    "SpATK": 40,
+    "SpDEF": 65,
+    "Speed": 20,
+    "Total": 245
   },
   {
     "Number": 258,
@@ -3093,7 +4892,14 @@
     "SubType": "Flying",
     "Evolution": "Evolve Togepi, level up with happiness 220+",
     "Found": "Stony Wilderness",
-    "Weather": "Fog"
+    "Weather": "Fog",
+    "HP": 55,
+    "ATK": 40,
+    "DEF": 85,
+    "SpATK": 80,
+    "SpDEF": 105,
+    "Speed": 40,
+    "Total": 405
   },
   {
     "Number": 259,
@@ -3105,7 +4911,14 @@
     "SubType": "Flying",
     "Evolution": "Evolve Togetic, Shiny Stone",
     "Found": "Dusty Bowl",
-    "Weather": "Fog"
+    "Weather": "Fog",
+    "HP": 85,
+    "ATK": 50,
+    "DEF": 95,
+    "SpATK": 120,
+    "SpDEF": 115,
+    "Speed": 80,
+    "Total": 545
   },
   {
     "Number": 260,
@@ -3117,7 +4930,14 @@
     "SubType": "",
     "Evolution": "None (Breed Snorlax while holding Full Incense)",
     "Found": "Motostoke Riverbank",
-    "Weather": "Normal"
+    "Weather": "Normal",
+    "HP": 135,
+    "ATK": 85,
+    "DEF": 40,
+    "SpATK": 40,
+    "SpDEF": 85,
+    "Speed": 5,
+    "Total": 390
   },
   {
     "Number": 261,
@@ -3129,7 +4949,14 @@
     "SubType": "",
     "Evolution": "Evolve Munchlax, level up with hapiness at 220+",
     "Found": "Motostoke Riverbank",
-    "Weather": "Not Applicable"
+    "Weather": "Any",
+    "HP": 160,
+    "ATK": 110,
+    "DEF": 65,
+    "SpATK": 65,
+    "SpDEF": 110,
+    "Speed": 30,
+    "Total": 540
   },
   {
     "Number": 262,
@@ -3139,9 +4966,16 @@
     "NationalDexNumber": 546,
     "Type": "Grass",
     "SubType": "Fairy",
-    "Evolution": "None",
+    "Evolution": "None/Starting",
     "Found": "Stony Wilderness",
-    "Weather": "Overcast"
+    "Weather": "Overcast",
+    "HP": 40,
+    "ATK": 27,
+    "DEF": 60,
+    "SpATK": 37,
+    "SpDEF": 50,
+    "Speed": 66,
+    "Total": 280
   },
   {
     "Number": 263,
@@ -3153,7 +4987,14 @@
     "SubType": "Fairy",
     "Evolution": "Evolve Cottonee, Sun Stone",
     "Found": "Bridge Field, Dappled Grove, Giant's Mirror, Stony Wilderness Max Raid Battles",
-    "Weather": "Not Applicable"
+    "Weather": "Any",
+    "HP": 60,
+    "ATK": 67,
+    "DEF": 85,
+    "SpATK": 77,
+    "SpDEF": 75,
+    "Speed": 116,
+    "Total": 480
   },
   {
     "Number": 264,
@@ -3163,9 +5004,16 @@
     "NationalDexNumber": 111,
     "Type": "Ground",
     "SubType": "Rock",
-    "Evolution": "None",
+    "Evolution": "None/Starting",
     "Found": "Route 8, Bridge Field, Giant's Cap, Giant's Mirror, Motostoke Riverbank, Stony Wilderness",
-    "Weather": "Not Applicable"
+    "Weather": "Any",
+    "HP": 80,
+    "ATK": 85,
+    "DEF": 95,
+    "SpATK": 30,
+    "SpDEF": 30,
+    "Speed": 25,
+    "Total": 345
   },
   {
     "Number": 265,
@@ -3177,7 +5025,14 @@
     "SubType": "Rock",
     "Evolution": "Evolve Rhyhorn, lvl 42+",
     "Found": "Route 10, Bridge Field, Dusty Bowl, Giant's Seat, Lake of Outrage, Motostoke Riverbank, Stony Wilderness",
-    "Weather": "Not Applicable"
+    "Weather": "Any",
+    "HP": 105,
+    "ATK": 130,
+    "DEF": 120,
+    "SpATK": 45,
+    "SpDEF": 45,
+    "Speed": 40,
+    "Total": 485
   },
   {
     "Number": 266,
@@ -3189,7 +5044,14 @@
     "SubType": "Rock",
     "Evolution": "Trade Rhydon with Protector equipped",
     "Found": "Bridge Field, Dusty Bowl, Giant's Seat, Rolling Fields Max Raid Battles",
-    "Weather": "Not Applicable"
+    "Weather": "Any",
+    "HP": 115,
+    "ATK": 140,
+    "DEF": 130,
+    "SpATK": 55,
+    "SpDEF": 55,
+    "Speed": 40,
+    "Total": 535
   },
   {
     "Number": 267,
@@ -3199,9 +5061,16 @@
     "NationalDexNumber": 574,
     "Type": "Psychic",
     "SubType": "",
-    "Evolution": "None",
+    "Evolution": "None/Starting",
     "Found": "Giant's Cap",
-    "Weather": "Fog"
+    "Weather": "Fog",
+    "HP": 45,
+    "ATK": 30,
+    "DEF": 50,
+    "SpATK": 55,
+    "SpDEF": 65,
+    "Speed": 45,
+    "Total": 290
   },
   {
     "Number": 268,
@@ -3213,7 +5082,14 @@
     "SubType": "",
     "Evolution": "Evolve Gothita, lvl 32+",
     "Found": "Dusty Bowl, Giant's Cap",
-    "Weather": "Fog"
+    "Weather": "Fog",
+    "HP": 60,
+    "ATK": 45,
+    "DEF": 70,
+    "SpATK": 75,
+    "SpDEF": 85,
+    "Speed": 55,
+    "Total": 390
   },
   {
     "Number": 269,
@@ -3225,7 +5101,14 @@
     "SubType": "",
     "Evolution": "Evolve Gothorita, lvl 41+",
     "Found": "Lake of Outrage",
-    "Weather": "Fog"
+    "Weather": "Fog",
+    "HP": 70,
+    "ATK": 55,
+    "DEF": 95,
+    "SpATK": 95,
+    "SpDEF": 110,
+    "Speed": 65,
+    "Total": 490
   },
   {
     "Number": 270,
@@ -3235,9 +5118,16 @@
     "NationalDexNumber": 577,
     "Type": "Psychic",
     "SubType": "",
-    "Evolution": "None",
+    "Evolution": "None/Starting",
     "Found": "Giant's Cap",
-    "Weather": "Fog"
+    "Weather": "Fog",
+    "HP": 45,
+    "ATK": 30,
+    "DEF": 40,
+    "SpATK": 105,
+    "SpDEF": 50,
+    "Speed": 20,
+    "Total": 290
   },
   {
     "Number": 271,
@@ -3249,7 +5139,14 @@
     "SubType": "",
     "Evolution": "Evolve Solosis, lvl 32+",
     "Found": "Dusty Bowl",
-    "Weather": "Fog"
+    "Weather": "Fog",
+    "HP": 65,
+    "ATK": 40,
+    "DEF": 50,
+    "SpATK": 125,
+    "SpDEF": 60,
+    "Speed": 30,
+    "Total": 370
   },
   {
     "Number": 272,
@@ -3261,7 +5158,14 @@
     "SubType": "",
     "Evolution": "Evolve Duosion, lvl 41+",
     "Found": "Lake of Outrage",
-    "Weather": "Fog"
+    "Weather": "Fog",
+    "HP": 110,
+    "ATK": 65,
+    "DEF": 75,
+    "SpATK": 125,
+    "SpDEF": 85,
+    "Speed": 30,
+    "Total": 490
   },
   {
     "Number": 273,
@@ -3271,9 +5175,16 @@
     "NationalDexNumber": 588,
     "Type": "Bug",
     "SubType": "",
-    "Evolution": "None",
+    "Evolution": "None/Starting",
     "Found": "Route 7, Bridge Field, Giant's Cap, Hammerlocke Hills, Motostoke Riverbank",
-    "Weather": "Overcast, Raining, Thunderstorm"
+    "Weather": "Overcast, Raining, Thunderstorm",
+    "HP": 50,
+    "ATK": 75,
+    "DEF": 45,
+    "SpATK": 40,
+    "SpDEF": 45,
+    "Speed": 60,
+    "Total": 315
   },
   {
     "Number": 274,
@@ -3285,7 +5196,14 @@
     "SubType": "Steel",
     "Evolution": "Trade a Shelmet for a Karrablast ",
     "Found": "Bridge Field, Dappled Grove, Rolling Fields, South Lake Miloch Max Raid Battles",
-    "Weather": "Not Applicable"
+    "Weather": "Any",
+    "HP": 70,
+    "ATK": 135,
+    "DEF": 105,
+    "SpATK": 60,
+    "SpDEF": 105,
+    "Speed": 20,
+    "Total": 495
   },
   {
     "Number": 275,
@@ -3295,9 +5213,16 @@
     "NationalDexNumber": 616,
     "Type": "Bug",
     "SubType": "",
-    "Evolution": "None",
+    "Evolution": "None/Starting",
     "Found": "Route 7, Bridge Field, Hammerlocke Hills, Motostoke Riverbank",
-    "Weather": "Overcast, Raining, Thunderstorm"
+    "Weather": "Overcast, Raining, Thunderstorm",
+    "HP": 50,
+    "ATK": 40,
+    "DEF": 85,
+    "SpATK": 40,
+    "SpDEF": 65,
+    "Speed": 25,
+    "Total": 305
   },
   {
     "Number": 276,
@@ -3309,7 +5234,14 @@
     "SubType": "",
     "Evolution": "Trade a Karrablast for a Shelmet",
     "Found": "Bridge Field, Dappled Grove, Rolling Fields, South Lake Miloch Max Raid Battles",
-    "Weather": "Not Applicable"
+    "Weather": "Any",
+    "HP": 80,
+    "ATK": 70,
+    "DEF": 40,
+    "SpATK": 100,
+    "SpDEF": 60,
+    "Speed": 145,
+    "Total": 495
   },
   {
     "Number": 277,
@@ -3319,9 +5251,16 @@
     "NationalDexNumber": 605,
     "Type": "Psychic",
     "SubType": "",
-    "Evolution": "None",
+    "Evolution": "None/Starting",
     "Found": "Bridge Field, Motostoke Riverbank",
-    "Weather": "Normal, Overcast, Fog"
+    "Weather": "Normal, Overcast, Fog",
+    "HP": 55,
+    "ATK": 55,
+    "DEF": 55,
+    "SpATK": 85,
+    "SpDEF": 55,
+    "Speed": 30,
+    "Total": 335
   },
   {
     "Number": 278,
@@ -3333,7 +5272,14 @@
     "SubType": "",
     "Evolution": "Evolve Elgyem, lvl 42+",
     "Found": "Bridge Field, Lake of Outrage",
-    "Weather": "Not Applicable"
+    "Weather": "Any",
+    "HP": 75,
+    "ATK": 75,
+    "DEF": 75,
+    "SpATK": 125,
+    "SpDEF": 95,
+    "Speed": 40,
+    "Total": 485
   },
   {
     "Number": 279,
@@ -3343,9 +5289,16 @@
     "NationalDexNumber": 613,
     "Type": "Ice",
     "SubType": "",
-    "Evolution": "None",
+    "Evolution": "None/Starting",
     "Found": "Route 10, Bridge Field, Dusty Bowl, Giant's Mirror, Hammerlocke Hills, Stony Wilderness",
-    "Weather": "Snowing, Snowstorm"
+    "Weather": "Snowing, Snowstorm",
+    "HP": 55,
+    "ATK": 70,
+    "DEF": 40,
+    "SpATK": 60,
+    "SpDEF": 40,
+    "Speed": 40,
+    "Total": 305
   },
   {
     "Number": 280,
@@ -3357,7 +5310,14 @@
     "SubType": "",
     "Evolution": "Evolve Cubchoo, lvl 37+",
     "Found": "Route 10, Bridge Field, Giant's Cap",
-    "Weather": "Snowing"
+    "Weather": "Snowing",
+    "HP": 95,
+    "ATK": 130,
+    "DEF": 80,
+    "SpATK": 70,
+    "SpDEF": 80,
+    "Speed": 50,
+    "Total": 505
   },
   {
     "Number": 281,
@@ -3367,9 +5327,16 @@
     "NationalDexNumber": 627,
     "Type": "Normal",
     "SubType": "Flying",
-    "Evolution": "None",
+    "Evolution": "None/Starting",
     "Found": "Route 8, Bridge Field, Stony Wilderness",
-    "Weather": "Not Applicable"
+    "Weather": "Any",
+    "HP": 70,
+    "ATK": 83,
+    "DEF": 50,
+    "SpATK": 37,
+    "SpDEF": 50,
+    "Speed": 60,
+    "Total": 350
   },
   {
     "Number": 282,
@@ -3381,7 +5348,14 @@
     "SubType": "Flying",
     "Evolution": "Evolve Rufflet, lvl 54+",
     "Found": "Dusty Bowl, Lake of Outrage",
-    "Weather": "Not Applicable"
+    "Weather": "Any",
+    "HP": 100,
+    "ATK": 123,
+    "DEF": 75,
+    "SpATK": 57,
+    "SpDEF": 75,
+    "Speed": 80,
+    "Total": 510
   },
   {
     "Number": 283,
@@ -3391,9 +5365,16 @@
     "NationalDexNumber": 629,
     "Type": "Dark",
     "SubType": "Flying",
-    "Evolution": "None",
+    "Evolution": "None/Starting",
     "Found": "Route 8, Bridge Field, Stony Wilderness",
-    "Weather": "Not Applicable"
+    "Weather": "Any",
+    "HP": 70,
+    "ATK": 55,
+    "DEF": 75,
+    "SpATK": 45,
+    "SpDEF": 65,
+    "Speed": 60,
+    "Total": 370
   },
   {
     "Number": 284,
@@ -3405,7 +5386,14 @@
     "SubType": "Flying",
     "Evolution": "Evolve Vullaby, lvl 54+",
     "Found": "Dusty Bowl, Lake of Outrage",
-    "Weather": "Not Applicable"
+    "Weather": "Any",
+    "HP": 110,
+    "ATK": 65,
+    "DEF": 105,
+    "SpATK": 55,
+    "SpDEF": 95,
+    "Speed": 80,
+    "Total": 510
   },
   {
     "Number": 285,
@@ -3415,9 +5403,16 @@
     "NationalDexNumber": 451,
     "Type": "Poison",
     "SubType": "Bug",
-    "Evolution": "None",
+    "Evolution": "None/Starting",
     "Found": "Route 6, Giant's Mirror, Motostoke Riverbank",
-    "Weather": "Not Applicable"
+    "Weather": "Any",
+    "HP": 40,
+    "ATK": 50,
+    "DEF": 90,
+    "SpATK": 30,
+    "SpDEF": 55,
+    "Speed": 65,
+    "Total": 330
   },
   {
     "Number": 286,
@@ -3429,7 +5424,14 @@
     "SubType": "Dark",
     "Evolution": "Evolve Skorupi, lvl 40+",
     "Found": "Route 8, Bridge Field, Lake of Outrage, Motostoke Riverbank",
-    "Weather": "Not Applicable"
+    "Weather": "Any",
+    "HP": 70,
+    "ATK": 90,
+    "DEF": 110,
+    "SpATK": 60,
+    "SpDEF": 75,
+    "Speed": 95,
+    "Total": 500
   },
   {
     "Number": 287,
@@ -3439,9 +5441,16 @@
     "NationalDexNumber": 607,
     "Type": "Ghost",
     "SubType": "Fire",
-    "Evolution": "None",
+    "Evolution": "None/Starting",
     "Found": "Bridge Field, Motostoke, Motostoke Riverbank",
-    "Weather": "Intense Sun, Fog"
+    "Weather": "Intense Sun, Fog",
+    "HP": 50,
+    "ATK": 30,
+    "DEF": 55,
+    "SpATK": 65,
+    "SpDEF": 55,
+    "Speed": 20,
+    "Total": 275
   },
   {
     "Number": 288,
@@ -3453,7 +5462,14 @@
     "SubType": "Fire",
     "Evolution": "Evolve Litwick, lvl 41+",
     "Found": "Lake of Outrage",
-    "Weather": "Intense Sun"
+    "Weather": "Intense Sun",
+    "HP": 60,
+    "ATK": 40,
+    "DEF": 60,
+    "SpATK": 95,
+    "SpDEF": 60,
+    "Speed": 55,
+    "Total": 370
   },
   {
     "Number": 289,
@@ -3465,7 +5481,14 @@
     "SubType": "Fire",
     "Evolution": "Evolve Lampert, Dusk Stone",
     "Found": "Lake of Outrage",
-    "Weather": "Intense Sun"
+    "Weather": "Intense Sun",
+    "HP": 60,
+    "ATK": 55,
+    "DEF": 90,
+    "SpATK": 145,
+    "SpDEF": 90,
+    "Speed": 80,
+    "Total": 520
   },
   {
     "Number": 290,
@@ -3475,9 +5498,16 @@
     "NationalDexNumber": 686,
     "Type": "Dark",
     "SubType": "Psychic",
-    "Evolution": "None",
+    "Evolution": "None/Starting",
     "Found": "Route 7, Route 9, Bridge Field, Giant's Mirror, Hammerlocke Hills",
-    "Weather": "Not Applicable"
+    "Weather": "Any",
+    "HP": 53,
+    "ATK": 54,
+    "DEF": 53,
+    "SpATK": 37,
+    "SpDEF": 46,
+    "Speed": 45,
+    "Total": 288
   },
   {
     "Number": 291,
@@ -3489,7 +5519,14 @@
     "SubType": "Psychic",
     "Evolution": "Evolve Inkay, lvl 30+ while holding console upside-down (only works in hand-held mode)",
     "Found": "Giant's Mirror, Hammerlocke Hills, Motostoke Riverbank, Stony Wilderness, Watchtower Ruins, West Lake Axewell Max Raid Battles",
-    "Weather": "Not Applicable"
+    "Weather": "Any",
+    "HP": 86,
+    "ATK": 92,
+    "DEF": 88,
+    "SpATK": 68,
+    "SpDEF": 75,
+    "Speed": 73,
+    "Total": 482
   },
   {
     "Number": 292,
@@ -3499,9 +5536,16 @@
     "NationalDexNumber": 215,
     "Type": "Dark",
     "SubType": "Ice",
-    "Evolution": "None",
+    "Evolution": "None/Starting",
     "Found": "Route 8, Route 10, Bridge Field, Dusty Bowl, Giant's Cap, Hammerlocke Hills, Motostoke Riverbank, Stony Wilderness",
-    "Weather": "Snowing, Snowstorm"
+    "Weather": "Snowing, Snowstorm",
+    "HP": 55,
+    "ATK": 95,
+    "DEF": 55,
+    "SpATK": 35,
+    "SpDEF": 75,
+    "Speed": 115,
+    "Total": 430
   },
   {
     "Number": 293,
@@ -3513,7 +5557,14 @@
     "SubType": "Ice",
     "Evolution": "Evolve Sneasel, level up with Razor Claw equipped at night (20:00+)",
     "Found": "Bridge Field",
-    "Weather": "Snowstorm"
+    "Weather": "Snowstorm",
+    "HP": 70,
+    "ATK": 120,
+    "DEF": 65,
+    "SpATK": 45,
+    "SpDEF": 85,
+    "Speed": 125,
+    "Total": 510
   },
   {
     "Number": 294,
@@ -3523,9 +5574,16 @@
     "NationalDexNumber": 302,
     "Type": "Dark",
     "SubType": "Ghost",
-    "Evolution": "None",
+    "Evolution": "None/Starting",
     "Found": "Dusty Bowl",
-    "Weather": "Fog"
+    "Weather": "Fog",
+    "HP": 50,
+    "ATK": 75,
+    "DEF": 75,
+    "SpATK": 65,
+    "SpDEF": 65,
+    "Speed": 50,
+    "Total": 380
   },
   {
     "Number": 295,
@@ -3535,9 +5593,16 @@
     "NationalDexNumber": 303,
     "Type": "Steel",
     "SubType": "Fairy",
-    "Evolution": "None",
+    "Evolution": "None/Starting",
     "Found": "Bridge Field, Dusty Bowl",
-    "Weather": "Snowstorm"
+    "Weather": "Snowstorm",
+    "HP": 50,
+    "ATK": 85,
+    "DEF": 85,
+    "SpATK": 55,
+    "SpDEF": 55,
+    "Speed": 50,
+    "Total": 380
   },
   {
     "Number": 296,
@@ -3547,9 +5612,16 @@
     "NationalDexNumber": 556,
     "Type": "Grass",
     "SubType": "",
-    "Evolution": "None",
+    "Evolution": "None/Starting",
     "Found": "Route 6, Bridge Field, Hammerlocke Hills, Stony Wilderness",
-    "Weather": "Intense Sun"
+    "Weather": "Intense Sun",
+    "HP": 75,
+    "ATK": 86,
+    "DEF": 67,
+    "SpATK": 106,
+    "SpDEF": 67,
+    "Speed": 60,
+    "Total": 461
   },
   {
     "Number": 297,
@@ -3559,9 +5631,16 @@
     "NationalDexNumber": 561,
     "Type": "Psychic",
     "SubType": "Flying",
-    "Evolution": "None",
+    "Evolution": "None/Starting",
     "Found": "Dusty Bowl, Lake of Outrage, Motostoke Riverbank, Stony Wilderness",
-    "Weather": "Not Applicable"
+    "Weather": "Any",
+    "HP": 72,
+    "ATK": 58,
+    "DEF": 80,
+    "SpATK": 103,
+    "SpDEF": 80,
+    "Speed": 97,
+    "Total": 490
   },
   {
     "Number": 298,
@@ -3571,9 +5650,16 @@
     "NationalDexNumber": 447,
     "Type": "Fighting",
     "SubType": "",
-    "Evolution": "None",
+    "Evolution": "None/Starting",
     "Found": "Giant's Cap",
-    "Weather": "Snowstorm"
+    "Weather": "Snowstorm",
+    "HP": 40,
+    "ATK": 70,
+    "DEF": 40,
+    "SpATK": 35,
+    "SpDEF": 40,
+    "Speed": 60,
+    "Total": 285
   },
   {
     "Number": 299,
@@ -3585,7 +5671,14 @@
     "SubType": "Steel",
     "Evolution": "Evolve Riolu, level up with hapiness at 220+ during the day",
     "Found": "North Lake Miloch",
-    "Weather": "Normal"
+    "Weather": "Normal",
+    "HP": 70,
+    "ATK": 110,
+    "DEF": 70,
+    "SpATK": 115,
+    "SpDEF": 70,
+    "Speed": 90,
+    "Total": 525
   },
   {
     "Number": 300,
@@ -3595,9 +5688,16 @@
     "NationalDexNumber": 324,
     "Type": "Fire",
     "SubType": "",
-    "Evolution": "None",
+    "Evolution": "None/Starting",
     "Found": "Route 6, Giant's Cap, Giant's Mirror, Motostoke Riverbank",
-    "Weather": "Intense Sun"
+    "Weather": "Intense Sun",
+    "HP": 70,
+    "ATK": 85,
+    "DEF": 140,
+    "SpATK": 85,
+    "SpDEF": 70,
+    "Speed": 20,
+    "Total": 470
   },
   {
     "Number": 301,
@@ -3607,9 +5707,16 @@
     "NationalDexNumber": 778,
     "Type": "Ghost",
     "SubType": "Fairy",
-    "Evolution": "None",
+    "Evolution": "None/Starting",
     "Found": "Bridge Field, Giant's Mirror",
-    "Weather": "Fog"
+    "Weather": "Fog",
+    "HP": 55,
+    "ATK": 90,
+    "DEF": 80,
+    "SpATK": 50,
+    "SpDEF": 105,
+    "Speed": 96,
+    "Total": 476
   },
   {
     "Number": 302,
@@ -3619,9 +5726,16 @@
     "NationalDexNumber": 878,
     "Type": "Steel",
     "SubType": "",
-    "Evolution": "None",
+    "Evolution": "None/Starting",
     "Found": "Bridge Field",
-    "Weather": "Not Applicable"
+    "Weather": "Any",
+    "HP": 72,
+    "ATK": 80,
+    "DEF": 49,
+    "SpATK": 40,
+    "SpDEF": 49,
+    "Speed": 40,
+    "Total": 330
   },
   {
     "Number": 303,
@@ -3633,7 +5747,14 @@
     "SubType": "",
     "Evolution": "Evolve Cufant, lvl 34+",
     "Found": "Hammerlocke Hills, Lake of Outrage",
-    "Weather": "Not Applicable"
+    "Weather": "Any",
+    "HP": 122,
+    "ATK": 130,
+    "DEF": 69,
+    "SpATK": 80,
+    "SpDEF": 69,
+    "Speed": 30,
+    "Total": 500
   },
   {
     "Number": 304,
@@ -3643,9 +5764,16 @@
     "NationalDexNumber": 211,
     "Type": "Water",
     "SubType": "Poison",
-    "Evolution": "None",
+    "Evolution": "None/Starting",
     "Found": "Route 9, Bridge Field, Dusty Bowl, Lake of Outrage",
-    "Weather": "Not Applicable"
+    "Weather": "Any",
+    "HP": 65,
+    "ATK": 95,
+    "DEF": 85,
+    "SpATK": 55,
+    "SpDEF": 55,
+    "Speed": 85,
+    "Total": 440
   },
   {
     "Number": 305,
@@ -3655,9 +5783,16 @@
     "NationalDexNumber": 592,
     "Type": "Water",
     "SubType": "Ghost",
-    "Evolution": "None",
+    "Evolution": "None/Starting",
     "Found": "Bridge Field, East Lake Axewell, Giant's Mirror, North Lake Miloch, West Lake Axewell",
-    "Weather": "Not Applicable"
+    "Weather": "Any",
+    "HP": 55,
+    "ATK": 40,
+    "DEF": 50,
+    "SpATK": 65,
+    "SpDEF": 85,
+    "Speed": 40,
+    "Total": 335
   },
   {
     "Number": 306,
@@ -3669,7 +5804,14 @@
     "SubType": "Ghost",
     "Evolution": "Evolve Frillish, lvl 40+",
     "Found": "Route 9, Bridge Field, East Lake Axewell, Lake of Outrage, North Lake Miloch",
-    "Weather": "Not Applicable"
+    "Weather": "Any",
+    "HP": 100,
+    "ATK": 60,
+    "DEF": 70,
+    "SpATK": 85,
+    "SpDEF": 105,
+    "Speed": 60,
+    "Total": 480
   },
   {
     "Number": 307,
@@ -3679,9 +5821,16 @@
     "NationalDexNumber": 747,
     "Type": "Poison",
     "SubType": "Water",
-    "Evolution": "None",
+    "Evolution": "None/Starting",
     "Found": "Route 9, Giant's Mirror, Motostoke Riverbank",
-    "Weather": "Thunderstorm"
+    "Weather": "Thunderstorm",
+    "HP": 50,
+    "ATK": 53,
+    "DEF": 62,
+    "SpATK": 43,
+    "SpDEF": 52,
+    "Speed": 45,
+    "Total": 305
   },
   {
     "Number": 308,
@@ -3693,7 +5842,14 @@
     "SubType": "Water",
     "Evolution": "Evolve Mareanie, lvl 38+",
     "Found": "Route 9",
-    "Weather": "Not Applicable"
+    "Weather": "Any",
+    "HP": 50,
+    "ATK": 63,
+    "DEF": 152,
+    "SpATK": 53,
+    "SpDEF": 142,
+    "Speed": 35,
+    "Total": 495
   },
   {
     "Number": 309,
@@ -3703,9 +5859,16 @@
     "NationalDexNumber": 845,
     "Type": "Flying",
     "SubType": "Water",
-    "Evolution": "None",
+    "Evolution": "None/Starting",
     "Found": "Route 9, Axew's Eye, Bridge Field, Lake of Outrage, Stony Wilderness",
-    "Weather": "Not Applicable"
+    "Weather": "Any",
+    "HP": 70,
+    "ATK": 85,
+    "DEF": 55,
+    "SpATK": 85,
+    "SpDEF": 95,
+    "Speed": 85,
+    "Total": 475
   },
   {
     "Number": 310,
@@ -3715,9 +5878,16 @@
     "NationalDexNumber": 848,
     "Type": "Electric",
     "SubType": "Poison",
-    "Evolution": "None",
+    "Evolution": "None/Starting",
     "Found": "Route 7, Bridge Field, Giant's Cap, Hammerlocke Hills, Motostoke Riverbank, Stony Wilderness",
-    "Weather": "Normal, Raining, Thunderstorm"
+    "Weather": "Normal, Raining, Thunderstorm",
+    "HP": 40,
+    "ATK": 38,
+    "DEF": 35,
+    "SpATK": 54,
+    "SpDEF": 35,
+    "Speed": 40,
+    "Total": 242
   },
   {
     "Number": 311,
@@ -3729,7 +5899,14 @@
     "SubType": "Poison",
     "Evolution": "Evolve Toxel, lvl 30+ (Evolution forms affected by actual nature. Cannot be changed via Nature Mints)",
     "Found": "East Lake Axewell, Giant's Cap, Giant's Mirror, Hammerlocke Hills, Lake of Outrage, Motostoke Riverbank, North Lake Miloch Max Raid Battles",
-    "Weather": "Not Applicable"
+    "Weather": "Any",
+    "HP": 75,
+    "ATK": 98,
+    "DEF": 70,
+    "SpATK": 114,
+    "SpDEF": 70,
+    "Speed": 75,
+    "Total": 502
   },
   {
     "Number": 312,
@@ -3739,9 +5916,16 @@
     "NationalDexNumber": 843,
     "Type": "Ground",
     "SubType": "",
-    "Evolution": "None",
+    "Evolution": "None/Starting",
     "Found": "Route 6",
-    "Weather": "Not Applicable"
+    "Weather": "Any",
+    "HP": 52,
+    "ATK": 57,
+    "DEF": 75,
+    "SpATK": 35,
+    "SpDEF": 50,
+    "Speed": 46,
+    "Total": 315
   },
   {
     "Number": 313,
@@ -3753,7 +5937,14 @@
     "SubType": "",
     "Evolution": "Evolve Silicobra, lvl 36+",
     "Found": "Route 8, Lake of Outrage",
-    "Weather": "Not Applicable"
+    "Weather": "Any",
+    "HP": 72,
+    "ATK": 107,
+    "DEF": 125,
+    "SpATK": 65,
+    "SpDEF": 70,
+    "Speed": 71,
+    "Total": 510
   },
   {
     "Number": 314,
@@ -3763,9 +5954,16 @@
     "NationalDexNumber": 449,
     "Type": "Ground",
     "SubType": "",
-    "Evolution": "None",
+    "Evolution": "None/Starting",
     "Found": "Route 6, Dusty Bowl",
-    "Weather": "Intense Sun, Sandstorm"
+    "Weather": "Intense Sun, Sandstorm",
+    "HP": 68,
+    "ATK": 72,
+    "DEF": 78,
+    "SpATK": 38,
+    "SpDEF": 42,
+    "Speed": 32,
+    "Total": 330
   },
   {
     "Number": 315,
@@ -3777,7 +5975,14 @@
     "SubType": "",
     "Evolution": "Evolve Hippopotas, lvl 34+",
     "Found": "Route 8, Giant's Mirror, Lake of Outrage",
-    "Weather": "Sandstorm"
+    "Weather": "Sandstorm",
+    "HP": 108,
+    "ATK": 112,
+    "DEF": 118,
+    "SpATK": 68,
+    "SpDEF": 72,
+    "Speed": 47,
+    "Total": 525
   },
   {
     "Number": 316,
@@ -3787,9 +5992,16 @@
     "NationalDexNumber": 632,
     "Type": "Bug",
     "SubType": "Steel",
-    "Evolution": "None",
+    "Evolution": "None/Starting",
     "Found": "Route 6, Giant's Mirror, Lake of Outrage",
-    "Weather": "Intense Sun"
+    "Weather": "Intense Sun",
+    "HP": 58,
+    "ATK": 109,
+    "DEF": 112,
+    "SpATK": 48,
+    "SpDEF": 48,
+    "Speed": 109,
+    "Total": 484
   },
   {
     "Number": 317,
@@ -3799,9 +6011,16 @@
     "NationalDexNumber": 631,
     "Type": "Fire",
     "SubType": "",
-    "Evolution": "None",
+    "Evolution": "None/Starting",
     "Found": "Route 6, Giant's Mirror, Lake of Outrage",
-    "Weather": "Intense Sun"
+    "Weather": "Intense Sun",
+    "HP": 85,
+    "ATK": 97,
+    "DEF": 66,
+    "SpATK": 105,
+    "SpDEF": 66,
+    "Speed": 65,
+    "Total": 484
   },
   {
     "Number": 318,
@@ -3811,9 +6030,16 @@
     "NationalDexNumber": 694,
     "Type": "Electric",
     "SubType": "Normal",
-    "Evolution": "None",
+    "Evolution": "None/Starting",
     "Found": "Route 6, Giant's Mirror",
-    "Weather": "Thunderstorm"
+    "Weather": "Thunderstorm",
+    "HP": 44,
+    "ATK": 38,
+    "DEF": 33,
+    "SpATK": 61,
+    "SpDEF": 43,
+    "Speed": 70,
+    "Total": 289
   },
   {
     "Number": 319,
@@ -3825,7 +6051,14 @@
     "SubType": "Normal",
     "Evolution": "Evolve Helioptile, Sun Stone",
     "Found": "East Lake Axewell, Giant's Mirror, Lake of Outrage, Rolling Fields Max Raid Battles",
-    "Weather": "Not Applicable"
+    "Weather": "Any",
+    "HP": 62,
+    "ATK": 55,
+    "DEF": 52,
+    "SpATK": 109,
+    "SpDEF": 94,
+    "Speed": 109,
+    "Total": 481
   },
   {
     "Number": 320,
@@ -3835,9 +6068,16 @@
     "NationalDexNumber": 701,
     "Type": "Fighting",
     "SubType": "Flying",
-    "Evolution": "None",
+    "Evolution": "None/Starting",
     "Found": "Route 6, Hammerlocke Hills",
-    "Weather": "Not Applicable"
+    "Weather": "Any",
+    "HP": 78,
+    "ATK": 92,
+    "DEF": 75,
+    "SpATK": 74,
+    "SpDEF": 63,
+    "Speed": 118,
+    "Total": 500
   },
   {
     "Number": 321,
@@ -3847,9 +6087,16 @@
     "NationalDexNumber": 328,
     "Type": "Ground",
     "SubType": "",
-    "Evolution": "None",
+    "Evolution": "None/Starting",
     "Found": "Route 6",
-    "Weather": "Sandstorm"
+    "Weather": "Sandstorm",
+    "HP": 45,
+    "ATK": 100,
+    "DEF": 45,
+    "SpATK": 45,
+    "SpDEF": 45,
+    "Speed": 10,
+    "Total": 290
   },
   {
     "Number": 322,
@@ -3861,7 +6108,14 @@
     "SubType": "Dragon",
     "Evolution": "Evolve Trapinch, lvl 35+",
     "Found": "Dusty Bowl, Rolling Fields Max Raid Battles",
-    "Weather": "Not Applicable"
+    "Weather": "Any",
+    "HP": 50,
+    "ATK": 70,
+    "DEF": 50,
+    "SpATK": 50,
+    "SpDEF": 50,
+    "Speed": 70,
+    "Total": 340
   },
   {
     "Number": 323,
@@ -3873,7 +6127,14 @@
     "SubType": "Dragon",
     "Evolution": "Evolve Vibrava, lvl 45+",
     "Found": "Dusty Bowl, Lake of Outrage",
-    "Weather": "Normal, Sandstorm, Intense Sun"
+    "Weather": "Normal, Sandstorm, Intense Sun",
+    "HP": 80,
+    "ATK": 100,
+    "DEF": 80,
+    "SpATK": 80,
+    "SpDEF": 80,
+    "Speed": 100,
+    "Total": 520
   },
   {
     "Number": 324,
@@ -3883,9 +6144,16 @@
     "NationalDexNumber": 610,
     "Type": "Dragon",
     "SubType": "",
-    "Evolution": "None",
+    "Evolution": "None/Starting",
     "Found": "Route 6, Axew's Eye, Hammerlocke Hills",
-    "Weather": "Not Applicable"
+    "Weather": "Any",
+    "HP": 46,
+    "ATK": 87,
+    "DEF": 60,
+    "SpATK": 30,
+    "SpDEF": 40,
+    "Speed": 57,
+    "Total": 320
   },
   {
     "Number": 325,
@@ -3897,7 +6165,14 @@
     "SubType": "",
     "Evolution": "Evolve Axew, lvl 38+",
     "Found": "Axew's Eye, Rolling Fields Max Raid Battles",
-    "Weather": "Not Applicable"
+    "Weather": "Any",
+    "HP": 66,
+    "ATK": 117,
+    "DEF": 70,
+    "SpATK": 40,
+    "SpDEF": 50,
+    "Speed": 67,
+    "Total": 410
   },
   {
     "Number": 326,
@@ -3909,7 +6184,14 @@
     "SubType": "",
     "Evolution": "Evolve Fraxure, lvl 48+",
     "Found": "Axew's Eye, Lake of Outrage",
-    "Weather": "Not Applicable"
+    "Weather": "Any",
+    "HP": 76,
+    "ATK": 147,
+    "DEF": 90,
+    "SpATK": 60,
+    "SpDEF": 70,
+    "Speed": 97,
+    "Total": 540
   },
   {
     "Number": 327,
@@ -3919,9 +6201,16 @@
     "NationalDexNumber": 562,
     "Type": "Ground",
     "SubType": "Ghost",
-    "Evolution": "None",
+    "Evolution": "None/Starting",
     "Found": "Route 6 (Galarian)\r\nTrade in Ballonlea (Unovan)",
-    "Weather": "Not Applicable"
+    "Weather": "Any",
+    "HP": 38,
+    "ATK": 55,
+    "DEF": 85,
+    "SpATK": 30,
+    "SpDEF": 65,
+    "Speed": 30,
+    "Total": 303
   },
   {
     "Number": 328,
@@ -3933,7 +6222,14 @@
     "SubType": "Ghost",
     "Evolution": "Yamask (Galarian) takes 49+ damage in onve battle and then walk under the stone sculpture in Dusty Bowl",
     "Found": "Bridge Field, Dusty Bowl, Giant's Mirror, Rolling Fields, South Lake Miloch, Stony Wilderness, Watchtower Ruins Max Raid Battles",
-    "Weather": "Not Applicable"
+    "Weather": "Any",
+    "HP": 58,
+    "ATK": 95,
+    "DEF": 145,
+    "SpATK": 50,
+    "SpDEF": 105,
+    "Speed": 30,
+    "Total": 483
   },
   {
     "Number": 329,
@@ -3945,7 +6241,14 @@
     "SubType": "",
     "Evolution": "Evolve Yamask (Unovan), lvl 34+",
     "Found": "None",
-    "Weather": "Not Applicable"
+    "Weather": "Any",
+    "HP": 58,
+    "ATK": 50,
+    "DEF": 145,
+    "SpATK": 95,
+    "SpDEF": 105,
+    "Speed": 30,
+    "Total": 483
   },
   {
     "Number": 330,
@@ -3955,9 +6258,16 @@
     "NationalDexNumber": 679,
     "Type": "Steel",
     "SubType": "Ghost",
-    "Evolution": "None",
+    "Evolution": "None/Starting",
     "Found": "Hammerlocke Hills",
-    "Weather": "Fog, Snowstorm"
+    "Weather": "Fog, Snowstorm",
+    "HP": 45,
+    "ATK": 80,
+    "DEF": 100,
+    "SpATK": 35,
+    "SpDEF": 37,
+    "Speed": 28,
+    "Total": 325
   },
   {
     "Number": 331,
@@ -3969,7 +6279,14 @@
     "SubType": "Ghost",
     "Evolution": "Evolve Honedge, lvl 35+",
     "Found": "Giant's Cap, Lake of Outrage",
-    "Weather": "Fog"
+    "Weather": "Fog",
+    "HP": 59,
+    "ATK": 110,
+    "DEF": 150,
+    "SpATK": 45,
+    "SpDEF": 49,
+    "Speed": 35,
+    "Total": 448
   },
   {
     "Number": 332,
@@ -3981,7 +6298,14 @@
     "SubType": "Ghost",
     "Evolution": "Evolve Doublade, Dusk Stone",
     "Found": "Giant's Cap",
-    "Weather": "Not Applicable"
+    "Weather": "Any",
+    "HP": 60,
+    "ATK": 50,
+    "DEF": 140,
+    "SpATK": 50,
+    "SpDEF": 140,
+    "Speed": 60,
+    "Total": 500
   },
   {
     "Number": 333,
@@ -3991,9 +6315,16 @@
     "NationalDexNumber": 77,
     "Type": "Psychic",
     "SubType": "",
-    "Evolution": "None",
+    "Evolution": "None/Starting",
     "Found": "Glimwood Tangle",
-    "Weather": "Not Applicable"
+    "Weather": "Any",
+    "HP": 50,
+    "ATK": 85,
+    "DEF": 55,
+    "SpATK": 65,
+    "SpDEF": 65,
+    "Speed": 90,
+    "Total": 410
   },
   {
     "Number": 334,
@@ -4005,7 +6336,14 @@
     "SubType": "Fair",
     "Evolution": "Evolve Ponyta, lvl 40+",
     "Found": "Bridge Field, Hammerlocke Hills, Lake of Outrage, Rolling Fields Max Raid Battles",
-    "Weather": "Not Applicable"
+    "Weather": "Any",
+    "HP": 65,
+    "ATK": 100,
+    "DEF": 70,
+    "SpATK": 80,
+    "SpDEF": 80,
+    "Speed": 105,
+    "Total": 500
   },
   {
     "Number": 335,
@@ -4015,9 +6353,16 @@
     "NationalDexNumber": 854,
     "Type": "Ghost",
     "SubType": "",
-    "Evolution": "None",
+    "Evolution": "None/Starting",
     "Found": "Glimwood Tangle",
-    "Weather": "Not Applicable"
+    "Weather": "Any",
+    "HP": 40,
+    "ATK": 45,
+    "DEF": 45,
+    "SpATK": 74,
+    "SpDEF": 54,
+    "Speed": 50,
+    "Total": 308
   },
   {
     "Number": 336,
@@ -4029,7 +6374,14 @@
     "SubType": "",
     "Evolution": "Evolve Sinistea, give Cracked Pot (Phony form) or Chipped Pot (Antique Form)",
     "Found": "Giant's Mirror, South Lake Miloch, Stony Wilderness, Watchtower Ruins Max Raid Battles",
-    "Weather": "Not Applicable"
+    "Weather": "Any",
+    "HP": 60,
+    "ATK": 65,
+    "DEF": 65,
+    "SpATK": 134,
+    "SpDEF": 114,
+    "Speed": 70,
+    "Total": 508
   },
   {
     "Number": 337,
@@ -4039,9 +6391,16 @@
     "NationalDexNumber": 876,
     "Type": "Psychic",
     "SubType": "Normal",
-    "Evolution": "None",
+    "Evolution": "None/Starting",
     "Found": "Glimwood Tangle, Lake of Outrage",
-    "Weather": "Fog"
+    "Weather": "Fog",
+    "HP": 60,
+    "ATK": 65,
+    "DEF": 55,
+    "SpATK": 105,
+    "SpDEF": 95,
+    "Speed": 95,
+    "Total": 475
   },
   {
     "Number": 338,
@@ -4051,9 +6410,16 @@
     "NationalDexNumber": 708,
     "Type": "Ghost",
     "SubType": "Grass",
-    "Evolution": "None",
+    "Evolution": "None/Starting",
     "Found": "Glimwood Tangle",
-    "Weather": "Not Applicable"
+    "Weather": "Any",
+    "HP": 43,
+    "ATK": 70,
+    "DEF": 48,
+    "SpATK": 50,
+    "SpDEF": 60,
+    "Speed": 38,
+    "Total": 309
   },
   {
     "Number": 339,
@@ -4065,7 +6431,14 @@
     "SubType": "Grass",
     "Evolution": "Trade Phantump",
     "Found": "Dappled Grove, Giant's Mirror, Stony Wilderness, Watchtower Ruins Max Raid Battles",
-    "Weather": "Not Applicable"
+    "Weather": "Any",
+    "HP": 85,
+    "ATK": 110,
+    "DEF": 76,
+    "SpATK": 65,
+    "SpDEF": 82,
+    "Speed": 56,
+    "Total": 474
   },
   {
     "Number": 340,
@@ -4075,9 +6448,16 @@
     "NationalDexNumber": 755,
     "Type": "Grass",
     "SubType": "Fairy",
-    "Evolution": "None",
+    "Evolution": "None/Starting",
     "Found": "Giant's Mirror, Hammerlocke Hills",
-    "Weather": "Fog"
+    "Weather": "Fog",
+    "HP": 40,
+    "ATK": 35,
+    "DEF": 55,
+    "SpATK": 65,
+    "SpDEF": 75,
+    "Speed": 15,
+    "Total": 285
   },
   {
     "Number": 341,
@@ -4089,7 +6469,14 @@
     "SubType": "Fairy",
     "Evolution": "Evolve Morelull, lvl 24+",
     "Found": "Glimwood Tangle, Lake of Outrage",
-    "Weather": "Overcast, Raining, Thunderstorm"
+    "Weather": "Overcast, Raining, Thunderstorm",
+    "HP": 60,
+    "ATK": 45,
+    "DEF": 80,
+    "SpATK": 90,
+    "SpDEF": 100,
+    "Speed": 30,
+    "Total": 405
   },
   {
     "Number": 342,
@@ -4099,9 +6486,16 @@
     "NationalDexNumber": 765,
     "Type": "Normal",
     "SubType": "Psychic",
-    "Evolution": "None",
+    "Evolution": "None/Starting",
     "Found": "Glimwood Tangle",
-    "Weather": "Not Applicable"
+    "Weather": "Any",
+    "HP": 90,
+    "ATK": 60,
+    "DEF": 80,
+    "SpATK": 90,
+    "SpDEF": 110,
+    "Speed": 60,
+    "Total": 490
   },
   {
     "Number": 343,
@@ -4111,9 +6505,16 @@
     "NationalDexNumber": 766,
     "Type": "Fighting",
     "SubType": "",
-    "Evolution": "None",
+    "Evolution": "None/Starting",
     "Found": "Glimwood Tangle",
-    "Weather": "Not Applicable"
+    "Weather": "Any",
+    "HP": 100,
+    "ATK": 120,
+    "DEF": 90,
+    "SpATK": 40,
+    "SpDEF": 60,
+    "Speed": 80,
+    "Total": 490
   },
   {
     "Number": 344,
@@ -4123,9 +6524,16 @@
     "NationalDexNumber": 877,
     "Type": "Electric",
     "SubType": "Dark",
-    "Evolution": "None",
+    "Evolution": "None/Starting",
     "Found": "Route 7, Route 9, Lake of Outrage",
-    "Weather": "Thunderstorm"
+    "Weather": "Thunderstorm",
+    "HP": 58,
+    "ATK": 95,
+    "DEF": 58,
+    "SpATK": 70,
+    "SpDEF": 58,
+    "Speed": 97,
+    "Total": 436
   },
   {
     "Number": 345,
@@ -4135,9 +6543,16 @@
     "NationalDexNumber": 870,
     "Type": "Fighting",
     "SubType": "",
-    "Evolution": "None",
+    "Evolution": "None/Starting",
     "Found": "Route 8, Lake of Outrage",
-    "Weather": "Overcast"
+    "Weather": "Overcast",
+    "HP": 65,
+    "ATK": 100,
+    "DEF": 100,
+    "SpATK": 70,
+    "SpDEF": 60,
+    "Speed": 75,
+    "Total": 470
   },
   {
     "Number": 346,
@@ -4147,9 +6562,16 @@
     "NationalDexNumber": 780,
     "Type": "Normal",
     "SubType": "Dragon",
-    "Evolution": "None",
+    "Evolution": "None/Starting",
     "Found": "Lake of Outrage",
-    "Weather": "Thunderstorm"
+    "Weather": "Thunderstorm",
+    "HP": 78,
+    "ATK": 60,
+    "DEF": 85,
+    "SpATK": 135,
+    "SpDEF": 91,
+    "Speed": 36,
+    "Total": 485
   },
   {
     "Number": 347,
@@ -4159,9 +6581,16 @@
     "NationalDexNumber": 776,
     "Type": "Fire",
     "SubType": "Dragon",
-    "Evolution": "None",
+    "Evolution": "None/Starting",
     "Found": "Lake of Outrage",
-    "Weather": "Intense Sun"
+    "Weather": "Intense Sun",
+    "HP": 60,
+    "ATK": 78,
+    "DEF": 135,
+    "SpATK": 91,
+    "SpDEF": 85,
+    "Speed": 36,
+    "Total": 485
   },
   {
     "Number": 348,
@@ -4171,9 +6600,16 @@
     "NationalDexNumber": 777,
     "Type": "Electric",
     "SubType": "Steel",
-    "Evolution": "None",
+    "Evolution": "None/Starting",
     "Found": "Route 8, Lake of Outrage",
-    "Weather": "Snowstorm"
+    "Weather": "Snowstorm",
+    "HP": 65,
+    "ATK": 98,
+    "DEF": 63,
+    "SpATK": 40,
+    "SpDEF": 73,
+    "Speed": 96,
+    "Total": 435
   },
   {
     "Number": 349,
@@ -4183,9 +6619,16 @@
     "NationalDexNumber": 872,
     "Type": "Ice",
     "SubType": "Bug",
-    "Evolution": "None",
+    "Evolution": "None/Starting",
     "Found": "Route 8, Route 10, Lake of Outrage",
-    "Weather": "Snowing"
+    "Weather": "Snowing",
+    "HP": 30,
+    "ATK": 25,
+    "DEF": 35,
+    "SpATK": 45,
+    "SpDEF": 30,
+    "Speed": 20,
+    "Total": 185
   },
   {
     "Number": 350,
@@ -4197,7 +6640,14 @@
     "SubType": "Bug",
     "Evolution": "Evolve Snom, level up with happiness 220+ at night (20:00+)",
     "Found": "Giant's Cap, Hammerlocke Hills, Stony Wilderness Max Raid Battles",
-    "Weather": "Not Applicable"
+    "Weather": "Any",
+    "HP": 70,
+    "ATK": 65,
+    "DEF": 60,
+    "SpATK": 125,
+    "SpDEF": 90,
+    "Speed": 65,
+    "Total": 475
   },
   {
     "Number": 351,
@@ -4207,9 +6657,16 @@
     "NationalDexNumber": 852,
     "Type": "Fighting",
     "SubType": "",
-    "Evolution": "None",
+    "Evolution": "None/Starting",
     "Found": "Route 9",
-    "Weather": "Not Applicable"
+    "Weather": "Any",
+    "HP": 50,
+    "ATK": 68,
+    "DEF": 60,
+    "SpATK": 50,
+    "SpDEF": 50,
+    "Speed": 32,
+    "Total": 310
   },
   {
     "Number": 352,
@@ -4221,7 +6678,14 @@
     "SubType": "",
     "Evolution": "Evolve Clobbopus, level up with knowing the move Taunt",
     "Found": "Route 9, Lake of Outrage, West Lake Axewell",
-    "Weather": "Not Applicable"
+    "Weather": "Any",
+    "HP": 80,
+    "ATK": 118,
+    "DEF": 90,
+    "SpATK": 70,
+    "SpDEF": 80,
+    "Speed": 42,
+    "Total": 480
   },
   {
     "Number": 353,
@@ -4231,9 +6695,16 @@
     "NationalDexNumber": 871,
     "Type": "Electric",
     "SubType": "",
-    "Evolution": "None",
+    "Evolution": "None/Starting",
     "Found": "Route 9",
-    "Weather": "Not Applicable"
+    "Weather": "Any",
+    "HP": 48,
+    "ATK": 101,
+    "DEF": 95,
+    "SpATK": 91,
+    "SpDEF": 85,
+    "Speed": 15,
+    "Total": 435
   },
   {
     "Number": 354,
@@ -4243,9 +6714,16 @@
     "NationalDexNumber": 458,
     "Type": "Water",
     "SubType": "Flying",
-    "Evolution": "None",
+    "Evolution": "None/Starting",
     "Found": "Route 9, Lake of Outrage, Motostoke Riverbank",
-    "Weather": "Not Applicable"
+    "Weather": "Any",
+    "HP": 45,
+    "ATK": 20,
+    "DEF": 50,
+    "SpATK": 60,
+    "SpDEF": 120,
+    "Speed": 50,
+    "Total": 345
   },
   {
     "Number": 355,
@@ -4257,7 +6735,14 @@
     "SubType": "Flying",
     "Evolution": "Evolve Mantyke, level up with with Remoraid in party",
     "Found": "Route 9, Lake of Outrage",
-    "Weather": "Not Applicable"
+    "Weather": "Any",
+    "HP": 85,
+    "ATK": 40,
+    "DEF": 70,
+    "SpATK": 80,
+    "SpDEF": 140,
+    "Speed": 70,
+    "Total": 485
   },
   {
     "Number": 356,
@@ -4267,9 +6752,16 @@
     "NationalDexNumber": 320,
     "Type": "Water",
     "SubType": "",
-    "Evolution": "None",
+    "Evolution": "None/Starting",
     "Found": "Route 9, Motostoke Riverbank",
-    "Weather": "Not Applicable"
+    "Weather": "Any",
+    "HP": 130,
+    "ATK": 70,
+    "DEF": 35,
+    "SpATK": 70,
+    "SpDEF": 35,
+    "Speed": 60,
+    "Total": 400
   },
   {
     "Number": 357,
@@ -4281,7 +6773,14 @@
     "SubType": "",
     "Evolution": "Evolve Wailmer, lvl 40+",
     "Found": "Route 9",
-    "Weather": "Not Applicable"
+    "Weather": "Any",
+    "HP": 170,
+    "ATK": 90,
+    "DEF": 45,
+    "SpATK": 90,
+    "SpDEF": 45,
+    "Speed": 60,
+    "Total": 500
   },
   {
     "Number": 358,
@@ -4291,9 +6790,16 @@
     "NationalDexNumber": 712,
     "Type": "Ice",
     "SubType": "",
-    "Evolution": "None",
+    "Evolution": "None/Starting",
     "Found": "Route 9, Lake of Outrage",
-    "Weather": "Snowing"
+    "Weather": "Snowing",
+    "HP": 55,
+    "ATK": 69,
+    "DEF": 85,
+    "SpATK": 32,
+    "SpDEF": 35,
+    "Speed": 28,
+    "Total": 304
   },
   {
     "Number": 359,
@@ -4305,7 +6811,14 @@
     "SubType": "",
     "Evolution": "Evolve Bergmite, lvl 37+",
     "Found": "Lake of Outrage",
-    "Weather": "Snowing, Snowstorm"
+    "Weather": "Snowing, Snowstorm",
+    "HP": 95,
+    "ATK": 117,
+    "DEF": 184,
+    "SpATK": 44,
+    "SpDEF": 46,
+    "Speed": 28,
+    "Total": 514
   },
   {
     "Number": 360,
@@ -4315,9 +6828,16 @@
     "NationalDexNumber": 781,
     "Type": "Ghost",
     "SubType": "Grass",
-    "Evolution": "None",
+    "Evolution": "None/Starting",
     "Found": "Route 9",
-    "Weather": "Not Applicable"
+    "Weather": "Any",
+    "HP": 70,
+    "ATK": 131,
+    "DEF": 100,
+    "SpATK": 86,
+    "SpDEF": 90,
+    "Speed": 40,
+    "Total": 517
   },
   {
     "Number": 361,
@@ -4327,9 +6847,16 @@
     "NationalDexNumber": 131,
     "Type": "Water",
     "SubType": "Ice",
-    "Evolution": "None",
+    "Evolution": "None/Starting",
     "Found": "Route 2, Route 9, Lake of Outrage, North Lake Miloch",
-    "Weather": "Not Applicable"
+    "Weather": "Any",
+    "HP": 130,
+    "ATK": 85,
+    "DEF": 80,
+    "SpATK": 85,
+    "SpDEF": 95,
+    "Speed": 60,
+    "Total": 535
   },
   {
     "Number": 362,
@@ -4339,9 +6866,16 @@
     "NationalDexNumber": 337,
     "Type": "Rock",
     "SubType": "Psychic",
-    "Evolution": "None",
+    "Evolution": "None/Starting",
     "Found": "Route 8, Giant's Cap",
-    "Weather": "Not Applicable"
+    "Weather": "Any",
+    "HP": 90,
+    "ATK": 55,
+    "DEF": 65,
+    "SpATK": 95,
+    "SpDEF": 85,
+    "Speed": 70,
+    "Total": 460
   },
   {
     "Number": 363,
@@ -4351,9 +6885,16 @@
     "NationalDexNumber": 338,
     "Type": "Rock",
     "SubType": "Psychic",
-    "Evolution": "None",
+    "Evolution": "None/Starting",
     "Found": "Route 8, Giant's Cap",
-    "Weather": "Not Applicable"
+    "Weather": "Any",
+    "HP": 90,
+    "ATK": 95,
+    "DEF": 85,
+    "SpATK": 55,
+    "SpDEF": 65,
+    "Speed": 70,
+    "Total": 460
   },
   {
     "Number": 364,
@@ -4365,7 +6906,14 @@
     "SubType": "Fairy",
     "Evolution": "None (Breed while holding Odd Incense)",
     "Found": "Rolling Fields",
-    "Weather": "Snowstorm"
+    "Weather": "Snowstorm",
+    "HP": 20,
+    "ATK": 25,
+    "DEF": 45,
+    "SpATK": 70,
+    "SpDEF": 90,
+    "Speed": 60,
+    "Total": 310
   },
   {
     "Number": 365,
@@ -4377,7 +6925,14 @@
     "SubType": "Psychic",
     "Evolution": "Evolve Mime Jr., level up knowing the move Mimic",
     "Found": "Route 10, Lake of Outrage",
-    "Weather": "Snowing"
+    "Weather": "Snowing",
+    "HP": 50,
+    "ATK": 65,
+    "DEF": 65,
+    "SpATK": 90,
+    "SpDEF": 90,
+    "Speed": 100,
+    "Total": 460
   },
   {
     "Number": 366,
@@ -4389,7 +6944,14 @@
     "SubType": "Psychic",
     "Evolution": "Evolve Mr. Mime, lvl 42+",
     "Found": "Dusty Bowl, Giant's Cap, Hammerlocke Hills, Motostoke Riverbank, Stony Wilderness, Watchtower Ruins Max Raid Battles",
-    "Weather": "Not Applicable"
+    "Weather": "Any",
+    "HP": 80,
+    "ATK": 85,
+    "DEF": 75,
+    "SpATK": 110,
+    "SpDEF": 100,
+    "Speed": 70,
+    "Total": 520
   },
   {
     "Number": 367,
@@ -4399,9 +6961,16 @@
     "NationalDexNumber": 554,
     "Type": "Ice",
     "SubType": "",
-    "Evolution": "None",
+    "Evolution": "None/Starting",
     "Found": "Route 8, Route 10",
-    "Weather": "Not Applicable"
+    "Weather": "Any",
+    "HP": 70,
+    "ATK": 90,
+    "DEF": 45,
+    "SpATK": 15,
+    "SpDEF": 45,
+    "Speed": 50,
+    "Total": 315
   },
   {
     "Number": 368,
@@ -4413,7 +6982,14 @@
     "SubType": "",
     "Evolution": "Evolve Darumaka, Ice Stone (lvl 35+ if Unovan form)",
     "Found": "Dusty Bowl, Giant's Cap, Hammerlocke Hills, Lake of Outrage, Stony Wilderness Max Raid Battles",
-    "Weather": "Not Applicable"
+    "Weather": "Any",
+    "HP": 105,
+    "ATK": 140,
+    "DEF": 55,
+    "SpATK": 30,
+    "SpDEF": 55,
+    "Speed": 95,
+    "Total": 480
   },
   {
     "Number": 369,
@@ -4423,9 +6999,16 @@
     "NationalDexNumber": 874,
     "Type": "Rock",
     "SubType": "",
-    "Evolution": "None",
+    "Evolution": "None/Starting",
     "Found": "Route 10, Lake of Outrage",
-    "Weather": "Intense Sun, Sandstorm"
+    "Weather": "Intense Sun, Sandstorm",
+    "HP": 100,
+    "ATK": 125,
+    "DEF": 135,
+    "SpATK": 20,
+    "SpDEF": 20,
+    "Speed": 70,
+    "Total": 470
   },
   {
     "Number": 370,
@@ -4435,9 +7018,16 @@
     "NationalDexNumber": 875,
     "Type": "Ice",
     "SubType": "",
-    "Evolution": "None",
+    "Evolution": "None/Starting",
     "Found": "Route 10, Lake of Outrage",
-    "Weather": "Snowing, Snowstorm"
+    "Weather": "Snowing, Snowstorm",
+    "HP": 75,
+    "ATK": 80,
+    "DEF": 110,
+    "SpATK": 65,
+    "SpDEF": 90,
+    "Speed": 50,
+    "Total": 470
   },
   {
     "Number": 371,
@@ -4447,9 +7037,16 @@
     "NationalDexNumber": 884,
     "Type": "Steel",
     "SubType": "Dragon",
-    "Evolution": "None",
+    "Evolution": "None/Starting",
     "Found": "Route 10, Giant's Seat, Lake of Outrage",
-    "Weather": "Not Applicable"
+    "Weather": "Any",
+    "HP": 70,
+    "ATK": 95,
+    "DEF": 115,
+    "SpATK": 120,
+    "SpDEF": 50,
+    "Speed": 85,
+    "Total": 535
   },
   {
     "Number": 372,
@@ -4461,7 +7058,14 @@
     "SubType": "Ghost",
     "Evolution": "None (Changes form based on interacting with appliances from the Rotom Catalogue item)",
     "Found": "Lake of Outrage",
-    "Weather": "Raining, Thunderstorm"
+    "Weather": "Raining, Thunderstorm",
+    "HP": 50,
+    "ATK": 50,
+    "DEF": 77,
+    "SpATK": 95,
+    "SpDEF": 77,
+    "Speed": 91,
+    "Total": 440
   },
   {
     "Number": 373,
@@ -4471,9 +7075,16 @@
     "NationalDexNumber": 132,
     "Type": "Normal",
     "SubType": "",
-    "Evolution": "None",
+    "Evolution": "None/Starting",
     "Found": "Lake of Outrage",
-    "Weather": "Not Applicable"
+    "Weather": "Any",
+    "HP": 48,
+    "ATK": 48,
+    "DEF": 48,
+    "SpATK": 48,
+    "SpDEF": 48,
+    "Speed": 48,
+    "Total": 288
   },
   {
     "Number": 374,
@@ -4483,9 +7094,16 @@
     "NationalDexNumber": 880,
     "Type": "Electric",
     "SubType": "Dragon",
-    "Evolution": "None",
+    "Evolution": "None/Starting",
     "Found": "Revive Fossilized Bird & Fossilized Drake in Route 6",
-    "Weather": "Not Applicable"
+    "Weather": "Any",
+    "HP": 90,
+    "ATK": 100,
+    "DEF": 90,
+    "SpATK": 80,
+    "SpDEF": 70,
+    "Speed": 75,
+    "Total": 505
   },
   {
     "Number": 375,
@@ -4495,9 +7113,16 @@
     "NationalDexNumber": 881,
     "Type": "Electric",
     "SubType": "Ice",
-    "Evolution": "None",
+    "Evolution": "None/Starting",
     "Found": "Revive Fossilized Bird & Fossilized Dino in Route 6",
-    "Weather": "Not Applicable"
+    "Weather": "Any",
+    "HP": 90,
+    "ATK": 100,
+    "DEF": 90,
+    "SpATK": 90,
+    "SpDEF": 80,
+    "Speed": 55,
+    "Total": 505
   },
   {
     "Number": 376,
@@ -4507,9 +7132,16 @@
     "NationalDexNumber": 882,
     "Type": "Water",
     "SubType": "Dragon",
-    "Evolution": "None",
+    "Evolution": "None/Starting",
     "Found": "Revive Fossilized Fish & Fossilized Drake in Route 6",
-    "Weather": "Not Applicable"
+    "Weather": "Any",
+    "HP": 90,
+    "ATK": 90,
+    "DEF": 100,
+    "SpATK": 70,
+    "SpDEF": 80,
+    "Speed": 75,
+    "Total": 505
   },
   {
     "Number": 377,
@@ -4519,9 +7151,16 @@
     "NationalDexNumber": 883,
     "Type": "Water",
     "SubType": "Ice",
-    "Evolution": "None",
+    "Evolution": "None/Starting",
     "Found": "Revive Fossilized Fish & Fossilized Dino in Route 6",
-    "Weather": "Not Applicable"
+    "Weather": "Any",
+    "HP": 90,
+    "ATK": 90,
+    "DEF": 100,
+    "SpATK": 80,
+    "SpDEF": 90,
+    "Speed": 55,
+    "Total": 505
   },
   {
     "Number": 378,
@@ -4531,9 +7170,16 @@
     "NationalDexNumber": 4,
     "Type": "Fire",
     "SubType": "",
-    "Evolution": "None",
+    "Evolution": "None/Starting",
     "Found": "Gift from Leon in Postwick (Go into Leon's room)",
-    "Weather": "Not Applicable"
+    "Weather": "Any",
+    "HP": 39,
+    "ATK": 52,
+    "DEF": 43,
+    "SpATK": 60,
+    "SpDEF": 50,
+    "Speed": 65,
+    "Total": 309
   },
   {
     "Number": 379,
@@ -4545,7 +7191,14 @@
     "SubType": "",
     "Evolution": "Evolve Charmander, lvl 16+",
     "Found": "Hammerlocke Hills, Lake of Outrage Max Raid Battles",
-    "Weather": "Not Applicable"
+    "Weather": "Any",
+    "HP": 58,
+    "ATK": 64,
+    "DEF": 58,
+    "SpATK": 80,
+    "SpDEF": 65,
+    "Speed": 80,
+    "Total": 405
   },
   {
     "Number": 380,
@@ -4557,7 +7210,14 @@
     "SubType": "",
     "Evolution": "Evolve Charmeleon, lvl 36+",
     "Found": "Hammerlocke Hills Max Raid Battles",
-    "Weather": "Not Applicable"
+    "Weather": "Any",
+    "HP": 78,
+    "ATK": 84,
+    "DEF": 78,
+    "SpATK": 109,
+    "SpDEF": 85,
+    "Speed": 100,
+    "Total": 534
   },
   {
     "Number": 381,
@@ -4567,9 +7227,16 @@
     "NationalDexNumber": 772,
     "Type": "Normal",
     "SubType": "",
-    "Evolution": "None",
+    "Evolution": "None/Starting",
     "Found": "Gift in Battle Tower",
-    "Weather": "Not Applicable"
+    "Weather": "Any",
+    "HP": 95,
+    "ATK": 95,
+    "DEF": 95,
+    "SpATK": 95,
+    "SpDEF": 95,
+    "Speed": 59,
+    "Total": 534
   },
   {
     "Number": 382,
@@ -4581,7 +7248,14 @@
     "SubType": "",
     "Evolution": "Evolve Type:Null with happiness at 220+",
     "Found": "Only through evolution. Give it different memory disks (obtained from Battle Tower) to change it's type and form.",
-    "Weather": "Not Applicable"
+    "Weather": "Any",
+    "HP": 95,
+    "ATK": 95,
+    "DEF": 95,
+    "SpATK": 95,
+    "SpDEF": 95,
+    "Speed": 95,
+    "Total": 570
   },
   {
     "Number": 383,
@@ -4591,9 +7265,16 @@
     "NationalDexNumber": 246,
     "Type": "Rock",
     "SubType": "Ground",
-    "Evolution": "None",
+    "Evolution": "None/Starting",
     "Found": "Lake of Outrage",
-    "Weather": "Overcast, Intense Sun"
+    "Weather": "Overcast, Intense Sun",
+    "HP": 50,
+    "ATK": 64,
+    "DEF": 50,
+    "SpATK": 45,
+    "SpDEF": 50,
+    "Speed": 41,
+    "Total": 300
   },
   {
     "Number": 384,
@@ -4605,7 +7286,14 @@
     "SubType": "Ground",
     "Evolution": "Evolve Larvitar, lvl 30+",
     "Found": "Lake of Outrage",
-    "Weather": "Sandstorm"
+    "Weather": "Sandstorm",
+    "HP": 70,
+    "ATK": 84,
+    "DEF": 70,
+    "SpATK": 65,
+    "SpDEF": 70,
+    "Speed": 51,
+    "Total": 410
   },
   {
     "Number": 385,
@@ -4617,7 +7305,14 @@
     "SubType": "Dark",
     "Evolution": "Evolve Pupitar, lvl 55+",
     "Found": "Dusty Bowl",
-    "Weather": "Not Applicable"
+    "Weather": "Any",
+    "HP": 100,
+    "ATK": 134,
+    "DEF": 110,
+    "SpATK": 95,
+    "SpDEF": 100,
+    "Speed": 61,
+    "Total": 600
   },
   {
     "Number": 386,
@@ -4627,9 +7322,16 @@
     "NationalDexNumber": 633,
     "Type": "Dark",
     "SubType": "Dragon",
-    "Evolution": "None",
+    "Evolution": "None/Starting",
     "Found": "Lake of Outrage",
-    "Weather": "Raining"
+    "Weather": "Raining",
+    "HP": 52,
+    "ATK": 65,
+    "DEF": 50,
+    "SpATK": 45,
+    "SpDEF": 50,
+    "Speed": 38,
+    "Total": 300
   },
   {
     "Number": 387,
@@ -4641,7 +7343,14 @@
     "SubType": "Dragon",
     "Evolution": "Evolve Deino, lvl 50+",
     "Found": "Lake of Outrage",
-    "Weather": "Sandstorm, Thunderstorm"
+    "Weather": "Sandstorm, Thunderstorm",
+    "HP": 72,
+    "ATK": 85,
+    "DEF": 70,
+    "SpATK": 65,
+    "SpDEF": 70,
+    "Speed": 58,
+    "Total": 420
   },
   {
     "Number": 388,
@@ -4653,7 +7362,14 @@
     "SubType": "Dragon",
     "Evolution": "Evolve Zweilous, lvl 64+",
     "Found": "Bridge Field, Dusty Bowl, Giant's Mirror, Stony Wilderness, West Lake Axewell Max Raid Battles",
-    "Weather": "Not Applicable"
+    "Weather": "Any",
+    "HP": 92,
+    "ATK": 105,
+    "DEF": 90,
+    "SpATK": 125,
+    "SpDEF": 90,
+    "Speed": 98,
+    "Total": 600
   },
   {
     "Number": 389,
@@ -4663,9 +7379,16 @@
     "NationalDexNumber": 704,
     "Type": "Dragon",
     "SubType": "",
-    "Evolution": "None",
+    "Evolution": "None/Starting",
     "Found": "Lake of Outrage",
-    "Weather": "Raining"
+    "Weather": "Raining",
+    "HP": 45,
+    "ATK": 50,
+    "DEF": 35,
+    "SpATK": 55,
+    "SpDEF": 75,
+    "Speed": 40,
+    "Total": 300
   },
   {
     "Number": 390,
@@ -4677,7 +7400,14 @@
     "SubType": "",
     "Evolution": "Evolve Goomy, lvl 40+",
     "Found": "Lake of Outrage",
-    "Weather": "Thunderstorm"
+    "Weather": "Thunderstorm",
+    "HP": 68,
+    "ATK": 75,
+    "DEF": 53,
+    "SpATK": 83,
+    "SpDEF": 113,
+    "Speed": 60,
+    "Total": 452
   },
   {
     "Number": 391,
@@ -4689,7 +7419,14 @@
     "SubType": "",
     "Evolution": "Evolve Sliggo, lvl 50+ when it's raining",
     "Found": "Axew's Eye, Rolling Fields Max Raid Battles",
-    "Weather": "Not Applicable"
+    "Weather": "Any",
+    "HP": 90,
+    "ATK": 100,
+    "DEF": 70,
+    "SpATK": 110,
+    "SpDEF": 150,
+    "Speed": 80,
+    "Total": 600
   },
   {
     "Number": 392,
@@ -4699,9 +7436,16 @@
     "NationalDexNumber": 782,
     "Type": "Dragon",
     "SubType": "",
-    "Evolution": "None",
+    "Evolution": "None/Starting",
     "Found": "Lake of Outrage",
-    "Weather": "Overcast, Intense Sun"
+    "Weather": "Overcast, Intense Sun",
+    "HP": 45,
+    "ATK": 55,
+    "DEF": 65,
+    "SpATK": 45,
+    "SpDEF": 45,
+    "Speed": 45,
+    "Total": 300
   },
   {
     "Number": 393,
@@ -4713,7 +7457,14 @@
     "SubType": "Fighting",
     "Evolution": "Evolve Jangmo-o, lvl 35+",
     "Found": "Lake of Outrage",
-    "Weather": "Thunderstorm"
+    "Weather": "Thunderstorm",
+    "HP": 55,
+    "ATK": 75,
+    "DEF": 90,
+    "SpATK": 65,
+    "SpDEF": 70,
+    "Speed": 65,
+    "Total": 420
   },
   {
     "Number": 394,
@@ -4725,7 +7476,14 @@
     "SubType": "Fighting",
     "Evolution": "Evolve Hakamo-o, lvl 45+",
     "Found": "Dusty Bowl",
-    "Weather": "Not Applicable"
+    "Weather": "Any",
+    "HP": 75,
+    "ATK": 110,
+    "DEF": 125,
+    "SpATK": 100,
+    "SpDEF": 105,
+    "Speed": 85,
+    "Total": 600
   },
   {
     "Number": 395,
@@ -4735,9 +7493,16 @@
     "NationalDexNumber": 885,
     "Type": "Dragon",
     "SubType": "Ghost",
-    "Evolution": "None",
+    "Evolution": "None/Starting",
     "Found": "Lake of Outrage",
-    "Weather": "Overcast, Thunderstorm, Fog"
+    "Weather": "Overcast, Thunderstorm, Fog",
+    "HP": 28,
+    "ATK": 60,
+    "DEF": 30,
+    "SpATK": 40,
+    "SpDEF": 30,
+    "Speed": 82,
+    "Total": 270
   },
   {
     "Number": 396,
@@ -4749,7 +7514,14 @@
     "SubType": "Ghost",
     "Evolution": "Evolve Dreepy, lvl 50+",
     "Found": "Lake of Outrage",
-    "Weather": "Not Applicable"
+    "Weather": "Any",
+    "HP": 68,
+    "ATK": 80,
+    "DEF": 50,
+    "SpATK": 60,
+    "SpDEF": 50,
+    "Speed": 102,
+    "Total": 410
   },
   {
     "Number": 397,
@@ -4761,7 +7533,14 @@
     "SubType": "Ghost",
     "Evolution": "Evolve Drakloak, lvl 60+",
     "Found": "Axew's Eye, Rolling Fields Max Raid Battles",
-    "Weather": "Not Applicable"
+    "Weather": "Any",
+    "HP": 88,
+    "ATK": 120,
+    "DEF": 75,
+    "SpATK": 100,
+    "SpDEF": 75,
+    "Speed": 142,
+    "Total": 600
   },
   {
     "Number": 398,
@@ -4771,9 +7550,16 @@
     "NationalDexNumber": 888,
     "Type": "Fairy",
     "SubType": "",
-    "Evolution": "None",
+    "Evolution": "None/Starting",
     "Found": "Energy Plant - Complete the game. (Changes form based on whether or not it's equipped with the Rusty Sword)",
-    "Weather": "Not Applicable"
+    "Weather": "Any",
+    "HP": 92,
+    "ATK": 130,
+    "DEF": 115,
+    "SpATK": 80,
+    "SpDEF": 115,
+    "Speed": 138,
+    "Total": 670
   },
   {
     "Number": 399,
@@ -4783,9 +7569,16 @@
     "NationalDexNumber": 889,
     "Type": "Fighting",
     "SubType": "",
-    "Evolution": "None",
+    "Evolution": "None/Starting",
     "Found": "Energy Plant - Complete the game. (Changes form based on whether or not it's equipped with the Rusty Shield)",
-    "Weather": "Not Applicable"
+    "Weather": "Any",
+    "HP": 92,
+    "ATK": 130,
+    "DEF": 115,
+    "SpATK": 80,
+    "SpDEF": 115,
+    "Speed": 138,
+    "Total": 670
   },
   {
     "Number": 400,
@@ -4795,8 +7588,15 @@
     "NationalDexNumber": 890,
     "Type": "Poison",
     "SubType": "Dragon",
-    "Evolution": "None",
+    "Evolution": "None/Starting",
     "Found": "Energy Plant - Complete main story. (Eternamax form not available natively)",
-    "Weather": "Not Applicable"
+    "Weather": "Any",
+    "HP": 140,
+    "ATK": 85,
+    "DEF": 95,
+    "SpATK": 145,
+    "SpDEF": 95,
+    "Speed": 130,
+    "Total": 690
   }
 ]

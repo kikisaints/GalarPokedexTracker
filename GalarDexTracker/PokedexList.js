@@ -53,7 +53,8 @@ _keyExtractor = (item, index) => item.Pokemon;
           keyExtractor={this._keyExtractor}
           renderItem={({item, index}) => <PokedexListItem pokemonNumber={item.Number} pokemonName={item.Pokemon} pokemonType={item.Type} pokemonSubType={item.SubType}
             pokemonEvolution={item.Evolution} itemIndex={this.getIconNumber(item.NationalDexNumber, index)}
-            existsIn={this.getGameExistance(item)} pokemonLocations={item.Found} pokemonWeather={item.Weather}/> }
+            existsIn={this.getGameExistance(item)} pokemonLocations={item.Found} pokemonWeather={item.Weather}
+            Health={item.HP} Attack={item.ATK} Defense={item.DEF} SpecialAttack={item.SpATK} SpecialDefense={item.SpDEF} Speed={item.Speed} TotalStats={item.Total}/> }
           />
       </View>
     );

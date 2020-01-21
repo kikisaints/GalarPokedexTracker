@@ -94,7 +94,7 @@ export default class PokedexList extends Component {
     }
 
     return (
-      <View>
+      <View style={{flexDirection: 'row'}}>
         {TagInfo}
       </View>
     );

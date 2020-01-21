@@ -92,7 +92,7 @@ export default class PokedexList extends Component {
         multiplier = maintypechart[currentval] * subtypechart[currentval];
       }
 
-      if (multiplier > 1 && showweakness)
+      if ((multiplier > 1 && showweakness))
       {
         typeval = currentval;
 
@@ -106,7 +106,7 @@ export default class PokedexList extends Component {
 
         counter++;
       }
-      else if (multiplier < 1 && !showweakness)
+      else if (multiplier < 1 && !showweakness && multiplier > 0)
       {
         typeval = currentval;
 
