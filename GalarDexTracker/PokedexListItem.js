@@ -166,6 +166,10 @@ export default class PokedexListItem extends PureComponent {
 
               <Text style={{fontSize: 13, marginTop: 10, fontWeight: 'bold', marginBottom: 4}}>Weather</Text>
               <Text>{this.props.pokemonWeather}</Text>
+
+              <TouchableOpacity onPress={() => Linking.openURL('https://www.serebii.net/pokedex-swsh/' + this.props.pokemonName.toLowerCase() + "/")}>
+                <Text style={{fontSize: 13, marginTop: 10, marginBottom: 4, color: 'blue', fontWeight: 'bold'}}>More Info (Serebii)</Text>
+              </TouchableOpacity>
           </View>
         </View>
       );
