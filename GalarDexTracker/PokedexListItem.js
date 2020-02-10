@@ -416,7 +416,38 @@ export default class PokedexListItem extends PureComponent {
     {
       pokemonInfo = (
         <View style={styles.subitemInfobackground}>
-          <View style={{flexDirection: 'column'}}>
+          <View style={{flexDirection: 'column', alignSelf: 'stretch', alignContent: 'stretch'}}>
+
+            <View style={{flexDirection: 'row', marginBottom: 10, alignSelf: 'center', alignContent: 'center', marginTop: -15, justifyContent: 'space-around'}}>
+              <View style={{borderLeftWidth: 1, borderBottomWidth: 1, borderColor: '#dbdbdb', alignItems: 'center', justifyContent: 'center', borderBottomLeftRadius: 4}}>
+                <Text style={{paddingLeft: 10, paddingRight: 10, paddingTop: 5, paddingBottom: 5, fontWeight: 'bold', backgroundColor: '#e8e8e8'}}>HP</Text>
+                <Text style={{fontSize: 12, padding: 4}}>{this.props.Health}</Text>
+              </View>
+              <View style={{borderLeftWidth: 1, borderBottomWidth: 1, borderColor: '#dbdbdb', alignItems: 'center'}}>
+                <Text style={{paddingLeft: 10, paddingRight: 10, paddingTop: 5, paddingBottom: 5, fontWeight: 'bold', backgroundColor: '#e8e8e8'}}>ATK</Text>
+                <Text style={{fontSize: 12, padding: 4}}>{this.props.Attack}</Text>
+              </View>
+              <View style={{borderLeftWidth: 1, borderBottomWidth: 1, borderColor: '#dbdbdb', alignItems: 'center'}}>
+                <Text style={{paddingLeft: 10, paddingRight: 10, paddingTop: 5, paddingBottom: 5, fontWeight: 'bold', backgroundColor: '#e8e8e8'}}>DEF</Text>
+                <Text style={{fontSize: 12, padding: 4}}>{this.props.Defense}</Text>
+              </View>
+              <View style={{borderLeftWidth: 1, borderBottomWidth: 1, borderColor: '#dbdbdb', alignItems: 'center'}}>
+                <Text style={{paddingLeft: 10, paddingRight: 10, paddingTop: 5, paddingBottom: 5, fontWeight: 'bold', backgroundColor: '#e8e8e8'}}>Sp.ATK</Text>
+                <Text style={{fontSize: 12, padding: 4}}>{this.props.SpecialAttack}</Text>
+              </View>
+              <View style={{borderLeftWidth: 1, borderBottomWidth: 1, borderColor: '#dbdbdb', alignItems: 'center'}}>
+                <Text style={{paddingLeft: 10, paddingRight: 10, paddingTop: 5, paddingBottom: 5, fontWeight: 'bold', backgroundColor: '#e8e8e8'}}>Sp.DEF</Text>
+                <Text style={{fontSize: 12, padding: 4}}>{this.props.SpecialDefense}</Text>
+              </View>
+              <View style={{borderLeftWidth: 1, borderBottomWidth: 1, borderColor: '#dbdbdb', alignItems: 'center'}}>
+                <Text style={{paddingLeft: 10, paddingRight: 10, paddingTop: 5, paddingBottom: 5, fontWeight: 'bold', backgroundColor: '#e8e8e8'}}>Speed</Text>
+                <Text style={{fontSize: 12, padding: 4}}>{this.props.Speed}</Text>
+              </View>
+              <View style={{borderLeftWidth: 1, borderRightWidth: 1, borderBottomWidth: 1, borderColor: '#dbdbdb', alignItems: 'center', borderBottomRightRadius: 4}}>
+                <Text style={{paddingLeft: 10, paddingRight: 10, paddingTop: 5, paddingBottom: 5, fontWeight: 'bold', backgroundColor: '#e8e8e8'}}>Total</Text>
+                <Text style={{fontSize: 12, padding: 4}}>{this.props.TotalStats}</Text>
+              </View>
+            </View>
 
             <View style={{flexDirection: 'row'}}>
               <TypeTag style={{marginRight: 8}} Type={MainType.toLowerCase()}/>
@@ -445,37 +476,6 @@ export default class PokedexListItem extends PureComponent {
               </View>
 
               <Text style={{fontSize: 13, marginTop: 10, fontWeight: 'bold', marginBottom: 4}}>Base Stats</Text>
-              <View style={{flexDirection: 'row'}}>
-                <View style={{borderTopWidth: 1, borderBottomWidth: 1, borderColor: '#dbdbdb', alignItems: 'center'}}>
-                  <Text style={{fontSize: 12, padding: 4, fontWeight: 'bold'}}>HP</Text>
-                  <Text style={{fontSize: 12, padding: 4}}>{this.props.Health}</Text>
-                </View>
-                <View style={{borderTopWidth: 1, borderBottomWidth: 1, borderColor: '#dbdbdb', alignItems: 'center'}}>
-                  <Text style={{fontSize: 12, padding: 4, fontWeight: 'bold'}}>ATK</Text>
-                  <Text style={{fontSize: 12, padding: 4}}>{this.props.Attack}</Text>
-                </View>
-                <View style={{borderTopWidth: 1, borderBottomWidth: 1, borderColor: '#dbdbdb', alignItems: 'center'}}>
-                  <Text style={{fontSize: 12, padding: 4, fontWeight: 'bold'}}>DEF</Text>
-                  <Text style={{fontSize: 12, padding: 4}}>{this.props.Defense}</Text>
-                </View>
-                <View style={{borderTopWidth: 1, borderBottomWidth: 1, borderColor: '#dbdbdb', alignItems: 'center'}}>
-                  <Text style={{fontSize: 12, padding: 4, fontWeight: 'bold'}}>Sp.ATK</Text>
-                  <Text style={{fontSize: 12, padding: 4}}>{this.props.SpecialAttack}</Text>
-                </View>
-                <View style={{borderTopWidth: 1, borderBottomWidth: 1, borderColor: '#dbdbdb', alignItems: 'center'}}>
-                  <Text style={{fontSize: 12, padding: 4, fontWeight: 'bold'}}>Sp.DEF</Text>
-                  <Text style={{fontSize: 12, padding: 4}}>{this.props.SpecialDefense}</Text>
-                </View>
-                <View style={{borderTopWidth: 1, borderBottomWidth: 1, borderColor: '#dbdbdb', alignItems: 'center'}}>
-                  <Text style={{fontSize: 12, padding: 4, fontWeight: 'bold'}}>Speed</Text>
-                  <Text style={{fontSize: 12, padding: 4}}>{this.props.Speed}</Text>
-                </View>
-                <View style={{borderTopWidth: 1, borderBottomWidth: 1, borderColor: '#dbdbdb', alignItems: 'center'}}>
-                  <Text style={{fontSize: 12, padding: 4, fontWeight: 'bold'}}>Total</Text>
-                  <Text style={{fontSize: 12, padding: 4}}>{this.props.TotalStats}</Text>
-                </View>
-              </View>
-
 
 
               <Text style={{fontSize: 13, marginTop: 10, fontWeight: 'bold', marginBottom: 4}}>Evolution Chain</Text>
@@ -532,7 +532,7 @@ export default class PokedexListItem extends PureComponent {
         </View>
       </View>
 
-      <View>
+      <View style={{flex: 1, alignItems: 'stretch', alignContent: 'stretch'}}>
         {pokemonInfo}
       </View>
 
