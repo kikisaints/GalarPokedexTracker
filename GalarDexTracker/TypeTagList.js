@@ -47,6 +47,7 @@ export default class PokedexList extends Component {
     var maintype = this.props.PrimaryType;
     var subtype = this.props.SecondaryType;
     var showweakness = this.props.ShowWeakness;
+    var showNoEffect = this.props.ShowNoEffect;
 
     var typeValOne = "";
     var typeValTwo = "";
@@ -92,7 +93,7 @@ export default class PokedexList extends Component {
         multiplier = maintypechart[currentval] * subtypechart[currentval];
       }
 
-      if ((multiplier > 1 && showweakness))
+      if (multiplier > 1 && showweakness && !showNoEffect)
       {
         typeval = currentval;
 
@@ -106,7 +107,21 @@ export default class PokedexList extends Component {
 
         counter++;
       }
-      else if (multiplier < 1 && !showweakness && multiplier > 0)
+      else if (multiplier < 1 && !showweakness && multiplier > 0 && !showNoEffect)
+      {
+        typeval = currentval;
+
+        if (counter === 0) typeValOne = typeval;
+        if (counter === 1) typeValTwo = typeval;
+        if (counter === 2) typeValThree = typeval;
+        if (counter === 3) typeValFour = typeval;
+        if (counter === 4) typeValFive = typeval;
+        if (counter === 5) typeValSix = typeval;
+        if (counter === 6) typeValSeven = typeval;
+
+        counter++;
+      }
+      else if (multiplier === 0 && showNoEffect && !showweakness)
       {
         typeval = currentval;
 
@@ -127,6 +142,16 @@ export default class PokedexList extends Component {
 
     this.SetTypeTags(typeValOne, typeValTwo, typeValThree, typeValFour,
       typeValFive, typeValSix, typeValSeven);
+  }
+
+  resetTypes() {
+    typeValOne = "";
+    typeValTwo = "";
+    typeValThree = "";
+    typeValFour = "";
+    typeValFive = "";
+    typeValSix = "";
+    typeValSeven = "";
   }
 
   render() {

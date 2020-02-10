@@ -45,6 +45,17 @@ export default class PokedexListItem extends PureComponent {
     }
   }
 
+  showNoEffectAlert = () => {
+    Alert.alert(
+      'No Effect Against',
+      'The following types',
+      [
+        {text: 'OK'},
+      ],
+      {cancelable: false},
+    );
+  }
+
   showStrengthAlert = () => {
     Alert.alert(
       'Strong Against',
@@ -120,23 +131,42 @@ export default class PokedexListItem extends PureComponent {
     if (this.props.firstEvolution != "")
     {
       evuolution1Info = (
-        <View style={{flexDirection: 'column', borderWidth: 1, borderRadius: 4, borderColor: '#dbdbdb', padding: 5, margin: 5, alignItems: 'center', justifyContent: 'center'}}>
-        <Image style={{marginLeft: 5, maxWidth: 60, maxHeight: 60, minWidth: 32, minHeight: 32}} resizeMode={'contain'} source={IconPath1}/>
-        <Text style={{fontWeight: 'bold'}}>{this.props.firstEvolution}</Text>
-        <Text style={{fontStyle: 'italic', fontSize: 12}}>{this.props.firstEvoRequirement}</Text>
-        </View>
+          <View style={{flexDirection: 'column', borderWidth: 1, borderRadius: 4, borderColor: '#dbdbdb', padding: 5, margin: 5, alignItems: 'center', justifyContent: 'center'}}>
+            <Image style={{marginLeft: 5, maxWidth: 60, maxHeight: 60, minWidth: 32, minHeight: 32}} resizeMode={'contain'} source={IconPath1}/>
+            <Text style={{fontWeight: 'bold'}}>{this.props.firstEvolution}</Text>
+            <Text style={{fontStyle: 'italic', fontSize: 12}}>{this.props.firstEvoRequirement}</Text>
+          </View>
       );
     }
 
     var evuolution2Info = null;
 
-    if (this.props.secondEvolution != "" && this.props.pokemonName != "Eevee" && this.props.pokemonName != "Meowth")
+    if (this.props.secondEvolution != "" && (this.props.pokemonName === "Kirlia" || this.props.pokemonName === "Oddish"
+        || this.props.pokemonName === "Gloom"))
     {
       evuolution2Info = (
-        <View style={{flexDirection: 'column', borderWidth: 1, borderRadius: 4, borderColor: '#dbdbdb', padding: 5, margin: 5, alignItems: 'center'}}>
-        <Image style={{marginLeft: 5, maxWidth: 60, maxHeight: 60, minWidth: 32, minHeight: 32}} resizeMode={'contain'} source={IconPath2}/>
-        <Text style={{fontWeight: 'bold'}}>{this.props.secondEvolution}</Text>
-        <Text style={{fontStyle: 'italic', fontSize: 12}}>{this.props.secondEvoRequirement}</Text>
+        <View style={{flexDirection: 'row'}}>
+          <Text style={{marginTop: 65, marginLeft: -7, marginRight: -7}}> > </Text>
+          <View style={{flexDirection: 'column', borderWidth: 1, borderRadius: 4, borderColor: '#dbdbdb', padding: 5, margin: 5, alignItems: 'center', justifyContent: 'center'}}>
+            <Image style={{marginLeft: 5, maxWidth: 60, maxHeight: 60, minWidth: 32, minHeight: 32}} resizeMode={'contain'} source={IconPath2}/>
+            <Text style={{fontWeight: 'bold', textAlign: 'center'}}>{this.props.secondEvolution}</Text>
+            <Text style={{fontStyle: 'italic', fontSize: 12, textAlign: 'center'}}>{this.props.secondEvoRequirement}</Text>
+          </View>
+        </View>
+      );
+    }
+    else if (this.props.secondEvolution != "" && this.props.pokemonName != "Eevee" && this.props.pokemonName != "Meowth"
+        && this.props.pokemonName != "Applin" && this.props.pokemonName != "Tyrogue" && this.props.pokemonName != "Yamask"
+        && this.props.pokemonName != "Snorunt" && this.props.pokemonName != "Nincada" && this.props.pokemonName != "Kirlia")
+    {
+      evuolution2Info = (
+        <View style={{flexDirection: 'row'}}>
+          <Text style={{marginTop: 30, marginLeft: -7, marginRight: -7}}> > </Text>
+          <View style={{flexDirection: 'column', borderWidth: 1, borderRadius: 4, borderColor: '#dbdbdb', padding: 5, margin: 5, alignItems: 'center', justifyContent: 'center'}}>
+            <Image style={{marginLeft: 5, maxWidth: 60, maxHeight: 60, minWidth: 32, minHeight: 32}} resizeMode={'contain'} source={IconPath2}/>
+            <Text style={{fontWeight: 'bold', textAlign: 'center'}}>{this.props.secondEvolution}</Text>
+            <Text style={{fontStyle: 'italic', fontSize: 12, textAlign: 'center'}}>{this.props.secondEvoRequirement}</Text>
+          </View>
         </View>
       );
     }
@@ -147,69 +177,120 @@ export default class PokedexListItem extends PureComponent {
       var evoReqRes = this.props.secondEvoRequirement.split(", ");
 
       evuolution2Info = (
-        <View>
-          <View style={{flexDirection: 'row'}}>
-            <View style={{flexDirection: 'column', borderWidth: 1, borderRadius: 4, borderColor: '#dbdbdb', padding: 5, margin: 5, alignItems: 'center'}}>
-              <Image style={{marginLeft: 5, maxWidth: 60, maxHeight: 60, minWidth: 32, minHeight: 32}} resizeMode={'contain'}
-              source={{uri: 'https://www.serebii.net/pokedex-swsh/icon/' + this.getIconPathNumber(iconRes[0]) + '.png'}}/>
-              <Text style={{fontWeight: 'bold'}}>{res[0]}</Text>
-              <Text style={{fontStyle: 'italic', fontSize: 12}}>{evoReqRes[0]}</Text>
+          <View style={{flexDirection: 'column'}}>
+            <View style={{flexDirection: 'row'}}>
+              <Text style={{marginTop: 30, marginLeft: -7, marginRight: -7}}> > </Text>
+              <View style={{flexDirection: 'column', borderWidth: 1, borderRadius: 4, borderColor: '#dbdbdb', padding: 5, margin: 5, alignItems: 'center', justifyContent: 'center'}}>
+                <Image style={{marginLeft: 5, maxWidth: 60, maxHeight: 60, minWidth: 32, minHeight: 32}} resizeMode={'contain'}
+                source={{uri: 'https://www.serebii.net/pokedex-swsh/icon/' + this.getIconPathNumber(iconRes[0]) + '.png'}}/>
+                <Text style={{fontWeight: 'bold'}}>{res[0]}</Text>
+                <Text style={{fontStyle: 'italic', fontSize: 12, textAlign: 'center'}}>{evoReqRes[0]}</Text>
+              </View>
             </View>
-            <View style={{flexDirection: 'column', borderWidth: 1, borderRadius: 4, borderColor: '#dbdbdb', padding: 5, margin: 5, alignItems: 'center'}}>
-              <Image style={{marginLeft: 5, maxWidth: 60, maxHeight: 60, minWidth: 32, minHeight: 32}} resizeMode={'contain'}
-              source={{uri: 'https://www.serebii.net/pokedex-swsh/icon/' + this.getIconPathNumber(iconRes[1]) + '.png'}}/>
-              <Text style={{fontWeight: 'bold'}}>{res[1]}</Text>
-              <Text style={{fontStyle: 'italic', fontSize: 12}}>{evoReqRes[1]}</Text>
+            <View style={{flexDirection: 'row'}}>
+              <Text style={{marginTop: 30, marginLeft: -7, marginRight: -7}}> > </Text>
+              <View style={{flexDirection: 'column', borderWidth: 1, borderRadius: 4, borderColor: '#dbdbdb', padding: 5, margin: 5, alignItems: 'center', justifyContent: 'center'}}>
+                <Image style={{marginLeft: 5, maxWidth: 60, maxHeight: 60, minWidth: 32, minHeight: 32}} resizeMode={'contain'}
+                source={{uri: 'https://www.serebii.net/pokedex-swsh/icon/' + this.getIconPathNumber(iconRes[1]) + '.png'}}/>
+                <Text style={{fontWeight: 'bold'}}>{res[1]}</Text>
+                <Text style={{fontStyle: 'italic', fontSize: 12, textAlign: 'center'}}>{evoReqRes[1]}</Text>
+              </View>
             </View>
-            <View style={{flexDirection: 'column', borderWidth: 1, borderRadius: 4, borderColor: '#dbdbdb', padding: 5, margin: 5, alignItems: 'center'}}>
-              <Image style={{marginLeft: 5, maxWidth: 60, maxHeight: 60, minWidth: 32, minHeight: 32}} resizeMode={'contain'}
-              source={{uri: 'https://www.serebii.net/pokedex-swsh/icon/' + this.getIconPathNumber(iconRes[2]) + '.png'}}/>
-              <Text style={{fontWeight: 'bold'}}>{res[2]}</Text>
-              <Text style={{fontStyle: 'italic', fontSize: 12}}>{evoReqRes[2]}</Text>
+            <View style={{flexDirection: 'row'}}>
+              <Text style={{marginTop: 30, marginLeft: -7, marginRight: -7}}> > </Text>
+              <View style={{flexDirection: 'column', borderWidth: 1, borderRadius: 4, borderColor: '#dbdbdb', padding: 5, margin: 5, alignItems: 'center', justifyContent: 'center'}}>
+                <Image style={{marginLeft: 5, maxWidth: 60, maxHeight: 60, minWidth: 32, minHeight: 32}} resizeMode={'contain'}
+                source={{uri: 'https://www.serebii.net/pokedex-swsh/icon/' + this.getIconPathNumber(iconRes[2]) + '.png'}}/>
+                <Text style={{fontWeight: 'bold'}}>{res[2]}</Text>
+                <Text style={{fontStyle: 'italic', fontSize: 12, textAlign: 'center'}}>{evoReqRes[2]}</Text>
+              </View>
             </View>
-          </View>
-          <View style={{flexDirection: 'row'}}>
-            <View style={{flexDirection: 'column', borderWidth: 1, borderRadius: 4, borderColor: '#dbdbdb', padding: 5, margin: 5, alignItems: 'center'}}>
-              <Image style={{marginLeft: 5, maxWidth: 60, maxHeight: 60, minWidth: 32, minHeight: 32}} resizeMode={'contain'}
-              source={{uri: 'https://www.serebii.net/pokedex-swsh/icon/' + this.getIconPathNumber(iconRes[3]) + '.png'}}/>
-              <Text style={{fontWeight: 'bold'}}>{res[3]}</Text>
-              <Text style={{fontStyle: 'italic', fontSize: 12}}>{evoReqRes[3]}</Text>
+            <View style={{flexDirection: 'row'}}>
+              <Text style={{marginTop: 30, marginLeft: -7, marginRight: -7}}> > </Text>
+              <View style={{flexDirection: 'column', borderWidth: 1, borderRadius: 4, borderColor: '#dbdbdb', padding: 5, margin: 5, alignItems: 'center', justifyContent: 'center'}}>
+                <Image style={{marginLeft: 5, maxWidth: 60, maxHeight: 60, minWidth: 32, minHeight: 32}} resizeMode={'contain'}
+                source={{uri: 'https://www.serebii.net/pokedex-swsh/icon/' + this.getIconPathNumber(iconRes[3]) + '.png'}}/>
+                <Text style={{fontWeight: 'bold'}}>{res[3]}</Text>
+                <Text style={{fontStyle: 'italic', fontSize: 12, textAlign: 'center'}}>{evoReqRes[3]}</Text>
+              </View>
             </View>
-          </View>
-          <View style={{flexDirection: 'row'}}>
-            <View style={{flexDirection: 'column', borderWidth: 1, borderRadius: 4, borderColor: '#dbdbdb', padding: 5, margin: 5, alignItems: 'center'}}>
-              <Image style={{marginLeft: 5, maxWidth: 60, maxHeight: 60, minWidth: 32, minHeight: 32}} resizeMode={'contain'}
-              source={{uri: 'https://www.serebii.net/pokedex-swsh/icon/' + this.getIconPathNumber(iconRes[4]) + '.png'}}/>
-              <Text style={{fontWeight: 'bold'}}>{res[4]}</Text>
-              <Text style={{fontStyle: 'italic', fontSize: 12}}>{evoReqRes[4]}</Text>
+            <View style={{flexDirection: 'row'}}>
+              <Text style={{marginTop: 30, marginLeft: -7, marginRight: -7}}> > </Text>
+              <View style={{flexDirection: 'column', borderWidth: 1, borderRadius: 4, borderColor: '#dbdbdb', padding: 5, margin: 5, alignItems: 'center', justifyContent: 'center'}}>
+                <Image style={{marginLeft: 5, maxWidth: 60, maxHeight: 60, minWidth: 32, minHeight: 32}} resizeMode={'contain'}
+                source={{uri: 'https://www.serebii.net/pokedex-swsh/icon/' + this.getIconPathNumber(iconRes[4]) + '.png'}}/>
+                <Text style={{fontWeight: 'bold'}}>{res[4]}</Text>
+                <Text style={{fontStyle: 'italic', fontSize: 12, textAlign: 'center'}}>{evoReqRes[4]}</Text>
+              </View>
             </View>
-          </View>
-          <View style={{flexDirection: 'row'}}>
-            <View style={{flexDirection: 'column', borderWidth: 1, borderRadius: 4, borderColor: '#dbdbdb', padding: 5, margin: 5, alignItems: 'center'}}>
-              <Image style={{marginLeft: 5, maxWidth: 60, maxHeight: 60, minWidth: 32, minHeight: 32}} resizeMode={'contain'}
-              source={{uri: 'https://www.serebii.net/pokedex-swsh/icon/' + this.getIconPathNumber(iconRes[5]) + '.png'}}/>
-              <Text style={{fontWeight: 'bold'}}>{res[5]}</Text>
-              <Text style={{fontStyle: 'italic', fontSize: 12}}>{evoReqRes[5]}</Text>
+            <View style={{flexDirection: 'row'}}>
+              <Text style={{marginTop: 30, marginLeft: -7, marginRight: -7}}> > </Text>
+              <View style={{flexDirection: 'column', borderWidth: 1, borderRadius: 4, borderColor: '#dbdbdb', padding: 5, margin: 5, alignItems: 'center', justifyContent: 'center'}}>
+                <Image style={{marginLeft: 5, maxWidth: 60, maxHeight: 60, minWidth: 32, minHeight: 32}} resizeMode={'contain'}
+                source={{uri: 'https://www.serebii.net/pokedex-swsh/icon/' + this.getIconPathNumber(iconRes[5]) + '.png'}}/>
+                <Text style={{fontWeight: 'bold'}}>{res[5]}</Text>
+                <Text style={{fontStyle: 'italic', fontSize: 12, textAlign: 'center'}}>{evoReqRes[5]}</Text>
+              </View>
             </View>
-            <View style={{flexDirection: 'column', borderWidth: 1, borderRadius: 4, borderColor: '#dbdbdb', padding: 5, margin: 5, alignItems: 'center'}}>
-              <Image style={{marginLeft: 5, maxWidth: 60, maxHeight: 60, minWidth: 32, minHeight: 32}} resizeMode={'contain'}
-              source={{uri: 'https://www.serebii.net/pokedex-swsh/icon/' + this.getIconPathNumber(iconRes[6]) + '.png'}}/>
-              <Text style={{fontWeight: 'bold'}}>{res[6]}</Text>
-              <Text style={{fontStyle: 'italic', fontSize: 12}}>{evoReqRes[6]}</Text>
+            <View style={{flexDirection: 'row'}}>
+              <Text style={{marginTop: 30, marginLeft: -7, marginRight: -7}}> > </Text>
+              <View style={{flexDirection: 'column', borderWidth: 1, borderRadius: 4, borderColor: '#dbdbdb', padding: 5, margin: 5, alignItems: 'center', justifyContent: 'center'}}>
+                <Image style={{marginLeft: 5, maxWidth: 60, maxHeight: 60, minWidth: 32, minHeight: 32}} resizeMode={'contain'}
+                source={{uri: 'https://www.serebii.net/pokedex-swsh/icon/' + this.getIconPathNumber(iconRes[6]) + '.png'}}/>
+                <Text style={{fontWeight: 'bold'}}>{res[6]}</Text>
+                <Text style={{fontStyle: 'italic', fontSize: 12, textAlign: 'center'}}>{evoReqRes[6]}</Text>
+              </View>
             </View>
-          </View>
-          <View style={{flexDirection: 'row'}}>
-            <View style={{flexDirection: 'column', borderWidth: 1, borderRadius: 4, borderColor: '#dbdbdb', padding: 5, margin: 5, alignItems: 'center'}}>
-              <Image style={{marginLeft: 5, maxWidth: 60, maxHeight: 60, minWidth: 32, minHeight: 32}} resizeMode={'contain'}
-              source={{uri: 'https://www.serebii.net/pokedex-swsh/icon/' + this.getIconPathNumber(iconRes[7]) + '.png'}}/>
-              <Text style={{fontWeight: 'bold'}}>{res[7]}</Text>
-              <Text style={{fontStyle: 'italic', fontSize: 12}}>{evoReqRes[7]}</Text>
+            <View style={{flexDirection: 'row'}}>
+              <Text style={{marginTop: 30, marginLeft: -7, marginRight: -7}}> > </Text>
+              <View style={{flexDirection: 'column', borderWidth: 1, borderRadius: 4, borderColor: '#dbdbdb', padding: 5, margin: 5, alignItems: 'center', justifyContent: 'center'}}>
+                <Image style={{marginLeft: 5, maxWidth: 60, maxHeight: 60, minWidth: 32, minHeight: 32}} resizeMode={'contain'}
+                source={{uri: 'https://www.serebii.net/pokedex-swsh/icon/' + this.getIconPathNumber(iconRes[7]) + '.png'}}/>
+                <Text style={{fontWeight: 'bold'}}>{res[7]}</Text>
+                <Text style={{fontStyle: 'italic', fontSize: 12, textAlign: 'center'}}>{evoReqRes[7]}</Text>
+              </View>
             </View>
-          </View>
         </View>
       );
     }
-    else if (this.props.pokemonName === "Meowth" && this.props.secondEvolution != "")
+    else if ((this.props.pokemonName === "Meowth" || this.props.pokemonName === "Applin" ||
+              this.props.pokemonName === "Yamask" || this.props.pokemonName === "Snorunt") && this.props.secondEvolution != "")
+    {
+      var res = this.props.secondEvolution.split(", ");
+      var iconRes = this.props.itemIndex2.split(", ");
+      var evoReqRes = this.props.secondEvoRequirement.split(", ");
+
+      var secondIconPath = {uri: 'https://www.serebii.net/pokedex-swsh/icon/' + this.getIconPathNumber(iconRes[1]) + '.png'};
+
+      if (this.props.pokemonName === "Meowth")
+      {
+        secondIconPath = {uri: 'https://www.serebii.net/pokedex-swsh/icon/053.png'};
+      }
+
+      evuolution2Info = (
+          <View style={{flexDirection: 'column'}}>
+            <View style={{flexDirection: 'row'}}>
+              <Text style={{marginTop: 30, marginLeft: -7, marginRight: -7}}> > </Text>
+              <View style={{flexDirection: 'column', borderWidth: 1, borderRadius: 4, borderColor: '#dbdbdb', padding: 5, margin: 5, alignItems: 'center', justifyContent: 'center'}}>
+                <Image style={{marginLeft: 5, maxWidth: 60, maxHeight: 60, minWidth: 32, minHeight: 32}} resizeMode={'contain'}
+                source={{uri: 'https://www.serebii.net/pokedex-swsh/icon/' + this.getIconPathNumber(iconRes[0]) + '.png'}}/>
+                <Text style={{fontWeight: 'bold'}}>{res[0]}</Text>
+                <Text style={{fontStyle: 'italic', fontSize: 12, textAlign: 'center'}}>{evoReqRes[0]}</Text>
+              </View>
+            </View>
+            <View style={{flexDirection: 'row'}}>
+              <Text style={{marginTop: 30, marginLeft: -7, marginRight: -7}}> > </Text>
+              <View style={{flexDirection: 'column', borderWidth: 1, borderRadius: 4, borderColor: '#dbdbdb', padding: 5, margin: 5, alignItems: 'center', justifyContent: 'center'}}>
+                <Image style={{marginLeft: 5, maxWidth: 60, maxHeight: 60, minWidth: 32, minHeight: 32}} resizeMode={'contain'}
+                source={secondIconPath}/>
+                <Text style={{fontWeight: 'bold'}}>{res[1]}</Text>
+                <Text style={{fontStyle: 'italic', fontSize: 12, textAlign: 'center'}}>{evoReqRes[1]}</Text>
+              </View>
+            </View>
+          </View>
+      );
+    }
+    else if (this.props.pokemonName === "Tyrogue" && this.props.secondEvolution != "")
     {
       var res = this.props.secondEvolution.split(", ");
       var iconRes = this.props.itemIndex2.split(", ");
@@ -217,31 +298,116 @@ export default class PokedexListItem extends PureComponent {
 
       evuolution2Info = (
           <View style={{flexDirection: 'column'}}>
-            <View style={{flexDirection: 'column', borderWidth: 1, borderRadius: 4, borderColor: '#dbdbdb', padding: 5, margin: 5, alignItems: 'center'}}>
-              <Image style={{marginLeft: 5, maxWidth: 60, maxHeight: 60, minWidth: 32, minHeight: 32}} resizeMode={'contain'}
-              source={{uri: 'https://www.serebii.net/pokedex-swsh/icon/' + this.getIconPathNumber(iconRes[0]) + '.png'}}/>
-              <Text style={{fontWeight: 'bold'}}>{res[0]}</Text>
-              <Text style={{fontStyle: 'italic', fontSize: 12}}>{evoReqRes[0]}</Text>
+            <View style={{flexDirection: 'row'}}>
+              <Text style={{marginTop: 30, marginLeft: -7, marginRight: -7}}> > </Text>
+              <View style={{flexDirection: 'column', borderWidth: 1, borderRadius: 4, borderColor: '#dbdbdb', padding: 5, margin: 5, alignItems: 'center', justifyContent: 'center'}}>
+                <Image style={{marginLeft: 5, maxWidth: 60, maxHeight: 60, minWidth: 32, minHeight: 32}} resizeMode={'contain'}
+                source={{uri: 'https://www.serebii.net/pokedex-swsh/icon/' + this.getIconPathNumber(iconRes[0]) + '.png'}}/>
+                <Text style={{fontWeight: 'bold'}}>{res[0]}</Text>
+                <Text style={{fontStyle: 'italic', fontSize: 12, textAlign: 'center'}}>{evoReqRes[0]}</Text>
+              </View>
             </View>
-            <View style={{flexDirection: 'column', borderWidth: 1, borderRadius: 4, borderColor: '#dbdbdb', padding: 5, margin: 5, alignItems: 'center'}}>
-              <Image style={{marginLeft: 5, maxWidth: 60, maxHeight: 60, minWidth: 32, minHeight: 32}} resizeMode={'contain'}
-              source={{uri: 'https://www.serebii.net/pokedex-swsh/icon/053.png'}}/>
-              <Text style={{fontWeight: 'bold'}}>{res[1]}</Text>
-              <Text style={{fontStyle: 'italic', fontSize: 12}}>{evoReqRes[1]}</Text>
+            <View style={{flexDirection: 'row'}}>
+              <Text style={{marginTop: 30, marginLeft: -7, marginRight: -7}}> > </Text>
+              <View style={{flexDirection: 'column', borderWidth: 1, borderRadius: 4, borderColor: '#dbdbdb', padding: 5, margin: 5, alignItems: 'center', justifyContent: 'center'}}>
+                <Image style={{marginLeft: 5, maxWidth: 60, maxHeight: 60, minWidth: 32, minHeight: 32}} resizeMode={'contain'}
+                source={{uri: 'https://www.serebii.net/pokedex-swsh/icon/' + this.getIconPathNumber(iconRes[1]) + '.png'}}/>
+                <Text style={{fontWeight: 'bold'}}>{res[1]}</Text>
+                <Text style={{fontStyle: 'italic', fontSize: 12, textAlign: 'center'}}>{evoReqRes[1]}</Text>
+              </View>
+            </View>
+            <View style={{flexDirection: 'row'}}>
+              <Text style={{marginTop: 30, marginLeft: -7, marginRight: -7}}> > </Text>
+              <View style={{flexDirection: 'column', borderWidth: 1, borderRadius: 4, borderColor: '#dbdbdb', padding: 5, margin: 5, alignItems: 'center', justifyContent: 'center'}}>
+                <Image style={{marginLeft: 5, maxWidth: 60, maxHeight: 60, minWidth: 32, minHeight: 32}} resizeMode={'contain'}
+                source={{uri: 'https://www.serebii.net/pokedex-swsh/icon/' + this.getIconPathNumber(iconRes[2]) + '.png'}}/>
+                <Text style={{fontWeight: 'bold'}}>{res[2]}</Text>
+                <Text style={{fontStyle: 'italic', fontSize: 12, textAlign: 'center'}}>{evoReqRes[2]}</Text>
+              </View>
+            </View>
+          </View>
+      );
+    }
+    else if ((this.props.pokemonName === "Nincada") && this.props.secondEvolution != "")
+    {
+      var res = this.props.secondEvolution.split(", ");
+      var iconRes = this.props.itemIndex2.split(", ");
+      var evoReqRes = this.props.secondEvoRequirement.split(", ");
+
+      evuolution2Info = (
+          <View style={{flexDirection: 'column'}}>
+            <View style={{flexDirection: 'row'}}>
+              <Text style={{marginTop: 30, marginLeft: -7, marginRight: -7}}> > </Text>
+              <View style={{flexDirection: 'column', borderWidth: 1, borderRadius: 4, borderColor: '#dbdbdb', padding: 5, margin: 5, alignItems: 'center', justifyContent: 'center'}}>
+                <Image style={{marginLeft: 5, maxWidth: 60, maxHeight: 60, minWidth: 32, minHeight: 32}} resizeMode={'contain'}
+                source={{uri: 'https://www.serebii.net/pokedex-swsh/icon/' + this.getIconPathNumber(iconRes[0]) + '.png'}}/>
+                <Text style={{fontWeight: 'bold'}}>{res[0]}</Text>
+                <Text style={{fontStyle: 'italic', fontSize: 12, textAlign: 'center'}}>{evoReqRes[0]}</Text>
+              </View>
+            </View>
+            <View style={{flexDirection: 'row'}}>
+              <Text style={{marginTop: 30, marginLeft: -7, marginRight: -7}}> > </Text>
+              <View style={{flexDirection: 'column', borderWidth: 1, borderRadius: 4, borderColor: '#dbdbdb', padding: 5, margin: 5, alignItems: 'center', justifyContent: 'center'}}>
+                <Image style={{marginLeft: 5, maxWidth: 60, maxHeight: 60, minWidth: 32, minHeight: 32}} resizeMode={'contain'}
+                source={{uri: 'https://www.serebii.net/pokedex-swsh/icon/' + this.getIconPathNumber(iconRes[1]) + '.png'}}/>
+                <Text style={{fontWeight: 'bold'}}>{res[1]}</Text>
+                <Text style={{fontStyle: 'italic', fontSize: 12, textAlign: 'center'}}>{evoReqRes[1]}</Text>
+              </View>
             </View>
           </View>
       );
     }
 
     var evuolution3Info = null;
-    if (this.props.thirdEvolution != "")
+    if (this.props.thirdEvolution != "" && this.props.pokemonName != "Gloom" && this.props.pokemonName != "Oddish" && this.props.pokemonName != "Ralts" &&
+        this.props.pokemonName != "Kirlia")
     {
       evuolution3Info = (
-        <View style={{flexDirection: 'column', borderWidth: 1, borderRadius: 4, borderColor: '#dbdbdb', padding: 5, margin: 5, alignItems: 'center'}}>
-        <Image style={{marginLeft: 5, maxWidth: 60, maxHeight: 60, minWidth: 32, minHeight: 32}} resizeMode={'contain'} source={IconPath3}/>
-        <Text style={{fontWeight: 'bold'}}>{this.props.thirdEvolution}</Text>
-        <Text style={{fontStyle: 'italic', fontSize: 12}}>{this.props.thirdEvoRequirement}</Text>
+        <View style={{flexDirection: 'row'}}>
+          <Text style={{marginTop: 30, marginLeft: -7, marginRight: -7}}> > </Text>
+          <View style={{flexDirection: 'column', borderWidth: 1, borderRadius: 4, borderColor: '#dbdbdb', padding: 5, margin: 5, alignItems: 'center', justifyContent: 'center'}}>
+            <Image style={{marginLeft: 5, maxWidth: 60, maxHeight: 60, minWidth: 32, minHeight: 32}} resizeMode={'contain'} source={IconPath3}/>
+            <Text style={{fontWeight: 'bold'}}>{this.props.thirdEvolution}</Text>
+            <Text style={{fontStyle: 'italic', fontSize: 12, textAlign: 'center'}}>{this.props.thirdEvoRequirement}</Text>
+          </View>
         </View>
+      );
+    }
+    else if (this.props.thirdEvolution != "" && (this.props.pokemonName != "Gloom" || this.props.pokemonName != "Oddish" ||
+             this.props.pokemonName === "Ralts" || this.props.pokemonName === "Kirlia"))
+    {
+      var res = this.props.thirdEvolution.split(", ");
+      var iconRes = this.props.itemIndex3.split(", ");
+      var evoReqRes = this.props.thirdEvoRequirement.split(", ");
+
+      var iconSource = {uri: 'https://www.serebii.net/pokedex-swsh/icon/' + this.getIconPathNumber(iconRes[0]) + '.png'};
+
+      if (this.props.pokemonName === "Gloom" || this.props.pokemonName === "Oddish")
+      {
+        iconSource = {uri : 'https://www.serebii.net/pokedex-swsh/icon/045.png'};
+      }
+
+      evuolution3Info = (
+          <View style={{flexDirection: 'column'}}>
+            <View style={{flexDirection: 'row'}}>
+              <Text style={{marginTop: 30, marginLeft: -7, marginRight: -7}}> > </Text>
+              <View style={{flexDirection: 'column', borderWidth: 1, borderRadius: 4, borderColor: '#dbdbdb', padding: 5, margin: 5, alignItems: 'center', justifyContent: 'center'}}>
+                <Image style={{marginLeft: 5, maxWidth: 60, maxHeight: 60, minWidth: 32, minHeight: 32}} resizeMode={'contain'}
+                source={iconSource}/>
+                <Text style={{fontWeight: 'bold'}}>{res[0]}</Text>
+                <Text style={{fontStyle: 'italic', fontSize: 12, textAlign: 'center'}}>{evoReqRes[0]}</Text>
+              </View>
+            </View>
+            <View style={{flexDirection: 'row'}}>
+              <Text style={{marginTop: 30, marginLeft: -7, marginRight: -7}}> > </Text>
+              <View style={{flexDirection: 'column', borderWidth: 1, borderRadius: 4, borderColor: '#dbdbdb', padding: 5, margin: 5, alignItems: 'center', justifyContent: 'center'}}>
+                <Image style={{marginLeft: 5, maxWidth: 60, maxHeight: 60, minWidth: 32, minHeight: 32}} resizeMode={'contain'}
+                source={{uri: 'https://www.serebii.net/pokedex-swsh/icon/' + this.getIconPathNumber(iconRes[1]) + '.png'}}/>
+                <Text style={{fontWeight: 'bold'}}>{res[1]}</Text>
+                <Text style={{fontStyle: 'italic', fontSize: 12, textAlign: 'center'}}>{evoReqRes[1]}</Text>
+              </View>
+            </View>
+          </View>
       );
     }
 
@@ -260,14 +426,21 @@ export default class PokedexListItem extends PureComponent {
               <View style={{flexDirection: 'row', marginTop: 10}}>
                 <View style={styles.UpArrow}/>
                 <TouchableOpacity onPress={this.showStrengthAlert}>
-                  <TypeTagList ShowWeakness={false} PrimaryType={MainType.toLowerCase()} SecondaryType={SubType.toLowerCase()}/>
+                  <TypeTagList ShowWeakness={false} ShowNoEffect={false} PrimaryType={MainType.toLowerCase()} SecondaryType={SubType.toLowerCase()}/>
                 </TouchableOpacity>
               </View>
 
               <View style={{flexDirection: 'row',  marginTop: 5}}>
                 <View style={styles.DownArrow}/>
                 <TouchableOpacity onPress={this.showWeaknessAlert}>
-                  <TypeTagList ShowWeakness={true} PrimaryType={MainType.toLowerCase()} SecondaryType={SubType.toLowerCase()}/>
+                  <TypeTagList ShowWeakness={true} ShowNoEffect={false} PrimaryType={MainType.toLowerCase()} SecondaryType={SubType.toLowerCase()}/>
+                </TouchableOpacity>
+              </View>
+
+              <View style={{flexDirection: 'row',  marginTop: 5}}>
+                <View style={styles.NeutralArrow}/>
+                <TouchableOpacity onPress={this.showNoEffectAlert}>
+                  <TypeTagList ShowNoEffect={true} ShowWeakness={false} PrimaryType={MainType.toLowerCase()} SecondaryType={SubType.toLowerCase()}/>
                 </TouchableOpacity>
               </View>
 
@@ -303,8 +476,7 @@ export default class PokedexListItem extends PureComponent {
                 </View>
               </View>
 
-              <Text style={{fontSize: 13, marginTop: 10, fontWeight: 'bold', marginBottom: 4}}>Obtained</Text>
-              <Text>{this.props.pokemonEvolution}</Text>
+
 
               <Text style={{fontSize: 13, marginTop: 10, fontWeight: 'bold', marginBottom: 4}}>Evolution Chain</Text>
               <View style={{flexDirection: 'row'}}>
@@ -373,6 +545,16 @@ const styles = StyleSheet.create({
   hiddenInfo: {
     height: 0,
     width: 0,
+  },
+  NeutralArrow: {
+    width: 10,
+    height: 3,
+    marginRight: 8,
+    marginTop: 3,
+    backgroundColor: '#7d7d7d',
+    shadowColor: 'rgba(0, 0, 0, 0.75)',
+    shadowOffset: {width: -1, height: 1},
+    shadowRadius: 1,
   },
   UpArrow: {
     width: 0,
