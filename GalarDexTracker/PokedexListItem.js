@@ -142,7 +142,7 @@ export default class PokedexListItem extends PureComponent {
     var evuolution2Info = null;
 
     if (this.props.secondEvolution != "" && (this.props.pokemonName === "Kirlia" || this.props.pokemonName === "Oddish"
-        || this.props.pokemonName === "Gloom"))
+        || this.props.pokemonName === "Gloom" || this.props.pokemonName === "Ralts"))
     {
       evuolution2Info = (
         <View style={{flexDirection: 'row'}}>
@@ -474,9 +474,6 @@ export default class PokedexListItem extends PureComponent {
                   <TypeTagList ShowNoEffect={true} ShowWeakness={false} PrimaryType={MainType.toLowerCase()} SecondaryType={SubType.toLowerCase()}/>
                 </TouchableOpacity>
               </View>
-
-              <Text style={{fontSize: 13, marginTop: 10, fontWeight: 'bold', marginBottom: 4}}>Base Stats</Text>
-
 
               <Text style={{fontSize: 13, marginTop: 10, fontWeight: 'bold', marginBottom: 4}}>Evolution Chain</Text>
               <View style={{flexDirection: 'row'}}>
