@@ -118,7 +118,7 @@ const styles = StyleSheet.create({
     justifyContent: 'center',
     alignItems: 'center',
     alignContent: 'center',
-    borderRadius: 2,
+    borderRadius: 15,
     marginRight: 5,
   },
   FireIcon: {
@@ -127,7 +127,7 @@ const styles = StyleSheet.create({
     justifyContent: 'center',
     alignItems: 'center',
     alignContent: 'center',
-    borderRadius: 2,
+    borderRadius: 15,
     marginRight: 5,
   },
   WaterIcon: {
@@ -136,7 +136,7 @@ const styles = StyleSheet.create({
     justifyContent: 'center',
     alignItems: 'center',
     alignContent: 'center',
-    borderRadius: 2,
+    borderRadius: 15,
     marginRight: 5,
   },
   ElectricIcon: {
@@ -145,7 +145,7 @@ const styles = StyleSheet.create({
     justifyContent: 'center',
     alignItems: 'center',
     alignContent: 'center',
-    borderRadius: 2,
+    borderRadius: 15,
     marginRight: 5,
   },
   GrassIcon: {
@@ -154,7 +154,7 @@ const styles = StyleSheet.create({
     justifyContent: 'center',
     alignItems: 'center',
     alignContent: 'center',
-    borderRadius: 2,
+    borderRadius: 15,
     marginRight: 5,
   },
   IceIcon: {
@@ -163,7 +163,7 @@ const styles = StyleSheet.create({
     justifyContent: 'center',
     alignItems: 'center',
     alignContent: 'center',
-    borderRadius: 2,
+    borderRadius: 15,
     marginRight: 5,
   },
   FightIcon: {
@@ -172,7 +172,7 @@ const styles = StyleSheet.create({
     justifyContent: 'center',
     alignItems: 'center',
     alignContent: 'center',
-    borderRadius: 2,
+    borderRadius: 15,
     marginRight: 5,
   },
   PoisonIcon: {
@@ -181,7 +181,7 @@ const styles = StyleSheet.create({
     justifyContent: 'center',
     alignItems: 'center',
     alignContent: 'center',
-    borderRadius: 2,
+    borderRadius: 15,
     marginRight: 5,
   },
   GroundIcon: {
@@ -190,7 +190,7 @@ const styles = StyleSheet.create({
     justifyContent: 'center',
     alignItems: 'center',
     alignContent: 'center',
-    borderRadius: 2,
+    borderRadius: 15,
     marginRight: 5,
   },
   FlyingIcon: {
@@ -199,7 +199,7 @@ const styles = StyleSheet.create({
     justifyContent: 'center',
     alignItems: 'center',
     alignContent: 'center',
-    borderRadius: 2,
+    borderRadius: 15,
     marginRight: 5,
   },
   PsychicIcon: {
@@ -208,7 +208,7 @@ const styles = StyleSheet.create({
     justifyContent: 'center',
     alignItems: 'center',
     alignContent: 'center',
-    borderRadius: 2,
+    borderRadius: 15,
     marginRight: 5,
   },
   BugIcon: {
@@ -217,7 +217,7 @@ const styles = StyleSheet.create({
     justifyContent: 'center',
     alignItems: 'center',
     alignContent: 'center',
-    borderRadius: 2,
+    borderRadius: 15,
     marginRight: 5,
   },
   RockIcon: {
@@ -226,7 +226,7 @@ const styles = StyleSheet.create({
     justifyContent: 'center',
     alignItems: 'center',
     alignContent: 'center',
-    borderRadius: 2,
+    borderRadius: 15,
     marginRight: 5,
   },
   GhostIcon: {
@@ -235,7 +235,7 @@ const styles = StyleSheet.create({
     justifyContent: 'center',
     alignItems: 'center',
     alignContent: 'center',
-    borderRadius: 2,
+    borderRadius: 15,
     marginRight: 5,
   },
   DragonIcon: {
@@ -244,7 +244,7 @@ const styles = StyleSheet.create({
     justifyContent: 'center',
     alignItems: 'center',
     alignContent: 'center',
-    borderRadius: 2,
+    borderRadius: 15,
     marginRight: 5,
   },
   DarkIcon: {
@@ -253,7 +253,7 @@ const styles = StyleSheet.create({
     justifyContent: 'center',
     alignItems: 'center',
     alignContent: 'center',
-    borderRadius: 2,
+    borderRadius: 15,
     marginRight: 5,
   },
   SteelIcon: {
@@ -262,7 +262,7 @@ const styles = StyleSheet.create({
     justifyContent: 'center',
     alignItems: 'center',
     alignContent: 'center',
-    borderRadius: 2,
+    borderRadius: 15,
     marginRight: 5,
   },
   FairyIcon: {
@@ -271,7 +271,7 @@ const styles = StyleSheet.create({
     justifyContent: 'center',
     alignItems: 'center',
     alignContent: 'center',
-    borderRadius: 2,
+    borderRadius: 15,
     marginRight: 5,
   },
 });

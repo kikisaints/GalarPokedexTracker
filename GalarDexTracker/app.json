@@ -3,7 +3,6 @@
     "name": "Galarian Dex Tracker",
     "slug": "GalarianDexTracker",
     "privacy": "public",
-    "sdkVersion": "35.0.0",
     "platforms": [
       "ios",
       "android",
@@ -25,11 +24,11 @@
     ],
     "ios": {
       "supportsTablet": true,
-      "bundleIdentifier": "com.kikisaintonge.galardextracker",
+      "bundleIdentifier": "com.kikisaintonge.galardextracker"
     },
     "android": {
       "package": "com.kikisaintonge.galardextracker",
-      "permissions": [],
+      "permissions": []
     }
   }
 }

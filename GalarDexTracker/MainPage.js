@@ -26,6 +26,7 @@ export default class MainPage extends Component {
       showShinyValue: false,
       showUncaughtValue: false,
       refreshingList: false,
+      dlcSelected: false,
     }
   }
 
@@ -33,6 +34,14 @@ export default class MainPage extends Component {
     this.setState({ search : !this.state.search })
     this.setState({ filter : true })
     this.setState({ text : '' })
+  }
+
+  EnableDLCPokemon = () => {
+    this.setState({dlcSelected : true})
+  }
+
+  DisableDLCPokemon = () => {
+    this.setState({dlcSelected : false})
   }
 
   showSearchHelpAlert = () => {
@@ -149,8 +158,9 @@ export default class MainPage extends Component {
     {
         const newData = this.state.filterData.filter(function(item) {
         const itemData = `${'#' + item.Type ? item.Type.toUpperCase() : ''.toUpperCase()},
-        ${'#' + item.SubType ? '#' + item.SubType.toUpperCase() : ''.toUpperCase()}
-        ${'#' + item.Type + "#" + item.SubType? '#' + item.Type.toUpperCase() + "#" + item.SubType.toUpperCase(): ''.toUpperCase()}`;
+        ${'#' + item.SubType ? '#' + item.SubType.toUpperCase() : ''.toUpperCase()},
+        ${'#' + item.Type + "#" + item.SubType? '#' + item.Type.toUpperCase() + "#" + item.SubType.toUpperCase(): ''.toUpperCase()},
+        ${'#' + item.SubType + "#" + item.Type? '#' + item.SubType.toUpperCase() + "#" + item.Type.toUpperCase(): ''.toUpperCase()}`;
 
         const textData = text.toUpperCase();
         return itemData.indexOf(textData) > -1;
@@ -385,30 +395,37 @@ export default class MainPage extends Component {
   render() {
     return (
       <View>
-        <View style={{backgroundColor: '#a83232', flexDirection: 'column', alignContent: 'stretch', alignItems: 'stretch'}}>
-          <TouchableOpacity onPress={this.toggleSearchInfo}
-            style={{marginRight: 10, marginBottom: 5, alignSelf: 'flex-end'}}>
-            <Text style={{color: 'white', fontWeight: 'bold'}}>Search</Text>
-          </TouchableOpacity>
-          <Text style={{color: 'white', marginRight: 10, marginBottom: 10, opacity: 0.6, alignSelf: 'flex-end'}}>Showing {this.state.data.length} / 400</Text>
-          <Collapsible collapsed={this.state.search}>
+        <View style={{backgroundColor: '#e8e8e8', flexDirection: 'column', alignContent: 'stretch', alignItems: 'stretch'}}>
+          <View collapsed={this.state.search}>
             <View style={{marginBottom: 10, marginLeft: 10, flexDirection: 'column'}}>
               <TextInput
-                style={{ height: 35, backgroundColor: '#e8e8e8', marginRight: 10, borderRadius: 4, paddingLeft: 10}}
+                style={{ height: 35, backgroundColor: '#363636', color: '#ebebeb', marginTop: 10, marginRight: 10, borderRadius: 4, paddingLeft: 10}}
                 onChangeText={text => this.searchFilterFunction(text)}
                 value={this.state.text}
-                placeholder="Search Pokedex"/>
+                placeholder="Search Pokedex"
+                placeholderTextColor="#ebebeb"/>
+                <View style={{marginTop: 10, flexDirection: 'row', alignContent: 'stretch', alignItems: 'stretch', justifyContent: 'center'}}>
+                  <TouchableOpacity style={[styles.showingNumberTagUnselected, this.state.dlcSelected ? styles.showingNumberTag : styles.showingNumberTagUnselected]} onPress={this.EnableDLCPokemon}>
+                    <Text style={[styles.showingText, !this.state.dlcSelected ? styles.showingTextUnselected : styles.showingText]}>0 / 300</Text>
+                    <View style={{alignSelf: 'flex-end', width: 20, height: 23, backgroundColor: '#ffe400', marginTop: -24, borderTopRightRadius: 40, borderBottomRightRadius: 40}}/>
+                  </TouchableOpacity>
+                  <TouchableOpacity style={[styles.showingNumberTagUnselected, !this.state.dlcSelected ? styles.showingNumberTag : styles.showingNumberTagUnselected]} onPress={this.DisableDLCPokemon}>
+                    <Text style={[styles.showingText, this.state.dlcSelected ? styles.showingTextUnselected : styles.showingText]}>{this.state.data.length} / 400</Text>
+                    <View style={{alignSelf: 'flex-end', width: 20, height: 23, backgroundColor: '#fd0000', marginRight: 15, marginTop: -24,}}/>
+                    <View style={{alignSelf: 'flex-end', width: 20, height: 23, backgroundColor: '#008aff', marginTop: -23, borderTopRightRadius: 40, borderBottomRightRadius: 40}}/>
+                  </TouchableOpacity>
+                </View>
               <TouchableOpacity onPress={this.showSearchHelpAlert}>
-                <Text style={{color: 'white', marginTop: 5}}>How can I filter searches?</Text>
+                <Text style={{color: '#888888', marginTop: 5}}>How To Search With Text</Text>
               </TouchableOpacity>
               <TouchableOpacity onPress={this.showAboutAlert}>
-                <Text style={{color: 'white', marginTop: 10}}>About</Text>
+                <Text style={{color: '#888888', marginTop: 10}}>About</Text>
               </TouchableOpacity>
             </View>
-          </Collapsible>
+          </View>
         </View>
 
-        <View>
+        <View style={{marginBottom: 250}}>
           <PokedexList listData={this.state.data} bottomPadding={this.getBottomPadding()} isLoading={this.state.refreshingList}/>
         </View>
 
@@ -418,10 +435,45 @@ export default class MainPage extends Component {
 }
 
 const styles = StyleSheet.create({
+  showingText: {
+    color: '#ebebeb',
+    padding: 5,
+    textAlign: 'center',
+  },
+  showingTextUnselected: {
+    color: '#888888',
+    padding: 5,
+    textAlign: 'center',
+  },
+  showingNumberTag: {
+    flex: 1,
+    backgroundColor: '#363636',
+    borderBottomWidth: 1,
+    borderRightWidth: 1,
+    borderColor: '#dbdbdb',
+    borderRadius: 30,
+    marginRight: 5,
+    alignContent: 'center',
+    justifyContent: 'center',
+    alignItems: 'center',
+  },
+  showingNumberTagUnselected: {
+    flex: 1,
+    backgroundColor: '#ffffff',
+    borderBottomWidth: 1,
+    borderRightWidth: 1,
+    borderColor: '#dbdbdb',
+    borderRadius: 30,
+    marginRight: 5,
+    alignContent: 'center',
+    justifyContent: 'center',
+    alignItems: 'center',
+    color: '#888888'
+  },
   filtercontainer: {
     flex: 1,
-    borderTopWidth: 1,
-    borderColor: '#6e2020',
+    borderBottomWidth: 1,
+    borderColor: '#ffffff',
     marginLeft: -10,
     marginTop: 10,
     flexDirection: 'row',

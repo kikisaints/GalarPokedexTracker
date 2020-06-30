@@ -1,10 +1,10 @@
 import React from 'react';
-import { StyleSheet, Text, View, StatusBar, Picker, TouchableOpacity } from 'react-native';
+import { StyleSheet, Text, View, StatusBar, Picker, TouchableOpacity, Image } from 'react-native';
 import Collapsible from 'react-native-collapsible';
 
 import MainPage  from './MainPage.js';
 
-StatusBar.setBarStyle('light-content', true);
+StatusBar.setBarStyle('dark-content', true);
 
 export default function App() {
   return (
@@ -12,7 +12,7 @@ export default function App() {
     <View style={styles.container}>
       <View style={styles.header}>
         <View style={{marginTop: 50, alignSelf: 'center', flexDirection: 'column'}}>
-          <Text style={{color: 'white', fontWeight: 'bold', fontSize: 24}}>Galar Pokedex Tracker</Text>
+          <Image style={{width: 35, height: 35}} resizeMode={'contain'} source={require('./assets/galar_dex_app_logo.png')}/>
         </View>
       </View>
 
@@ -25,13 +25,13 @@ export default function App() {
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    backgroundColor: '#f2f2f2',
+    backgroundColor: '#e8e8e8',
     alignItems: 'stretch',
     justifyContent: 'flex-start',
     flexDirection: 'column',
     alignContent: 'stretch',
   },
   header: {
-    backgroundColor: '#a83232',
+    backgroundColor: '#e8e8e8',
   },
 });
