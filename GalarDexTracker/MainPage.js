@@ -6,6 +6,7 @@ import { StyleSheet,
   TouchableOpacity,
   TextInput,
   Alert,
+  Image,
   AsyncStorage } from 'react-native';
 import Collapsible from 'react-native-collapsible';
 
@@ -398,12 +399,17 @@ export default class MainPage extends Component {
         <View style={{backgroundColor: '#e8e8e8', flexDirection: 'column', alignContent: 'stretch', alignItems: 'stretch'}}>
           <View collapsed={this.state.search}>
             <View style={{marginBottom: 10, marginLeft: 10, flexDirection: 'column'}}>
+            <View style={{flexDirection: 'row',}}>
+              <TouchableOpacity style={styles.filterButton} onPress={this.showSearchHelpAlert}>
+                <Image style={{width: 15, height: 15}} resizeMode={'contain'} source={require('./assets/filter_icon.png')}/>
+              </TouchableOpacity>
               <TextInput
-                style={{ height: 35, backgroundColor: '#363636', color: '#ebebeb', marginTop: 10, marginRight: 10, borderRadius: 4, paddingLeft: 10}}
+                style={{flex: 1, height: 35, backgroundColor: '#363636', color: '#ebebeb', marginTop: 10, marginRight: 10, borderRadius: 4, paddingLeft: 10}}
                 onChangeText={text => this.searchFilterFunction(text)}
                 value={this.state.text}
                 placeholder="Search Pokedex"
                 placeholderTextColor="#ebebeb"/>
+              </View>
                 <View style={{marginTop: 10, flexDirection: 'row', alignContent: 'stretch', alignItems: 'stretch', justifyContent: 'center'}}>
                   <TouchableOpacity style={[styles.showingNumberTagUnselected, this.state.dlcSelected ? styles.showingNumberTag : styles.showingNumberTagUnselected]} onPress={this.EnableDLCPokemon}>
                     <Text style={[styles.showingText, !this.state.dlcSelected ? styles.showingTextUnselected : styles.showingText]}>0 / 300</Text>
@@ -415,9 +421,6 @@ export default class MainPage extends Component {
                     <View style={{alignSelf: 'flex-end', width: 20, height: 23, backgroundColor: '#008aff', marginTop: -23, borderTopRightRadius: 40, borderBottomRightRadius: 40}}/>
                   </TouchableOpacity>
                 </View>
-              <TouchableOpacity onPress={this.showSearchHelpAlert}>
-                <Text style={{color: '#888888', marginTop: 5}}>How To Search With Text</Text>
-              </TouchableOpacity>
               <TouchableOpacity onPress={this.showAboutAlert}>
                 <Text style={{color: '#888888', marginTop: 10}}>About</Text>
               </TouchableOpacity>
@@ -439,6 +442,20 @@ const styles = StyleSheet.create({
     color: '#ebebeb',
     padding: 5,
     textAlign: 'center',
+  },
+  filterButton: {
+    borderBottomWidth: 1,
+    borderRightWidth: 1,
+    borderColor: '#dbdbdb',
+    marginTop: 10,
+     width: 36,
+     height: 36,
+     marginRight: 5,
+     backgroundColor: '#ffffff',
+     borderRadius: 4,
+     alignContent: 'center',
+     alignItems: 'center',
+     justifyContent: 'center'
   },
   showingTextUnselected: {
     color: '#888888',

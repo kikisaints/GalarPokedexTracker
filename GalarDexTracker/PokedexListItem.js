@@ -48,7 +48,7 @@ export default class PokedexListItem extends PureComponent {
   showNoEffectAlert = () => {
     Alert.alert(
       'No Effect Against',
-      'The following types',
+      'The following types have no effect against this Pokémon',
       [
         {text: 'OK'},
       ],
@@ -59,7 +59,7 @@ export default class PokedexListItem extends PureComponent {
   showStrengthAlert = () => {
     Alert.alert(
       'Strong Against',
-      'The following types',
+      'These types are not very effective against this Pokémon',
       [
         {text: 'OK'},
       ],
@@ -70,7 +70,7 @@ export default class PokedexListItem extends PureComponent {
   showWeaknessAlert = () => {
     Alert.alert(
       'Weak To',
-      'The following types',
+      'This Pokémon is weak against the following types',
       [
         {text: 'OK'},
       ],
@@ -416,91 +416,89 @@ export default class PokedexListItem extends PureComponent {
     {
       pokemonInfo = (
         <View style={styles.subitemInfobackground}>
-          <View style={{flexDirection: 'column', alignSelf: 'stretch', alignContent: 'stretch'}}>
+          <View style={{flexDirection: 'column', alignContent: 'center', justifyContent: 'stretch'}}>
 
-          <View style={{flexDirection: 'row', marginBottom: 10, marginTop: -15}}>
-            <View style={styles.UpArrow}/>
-            <TouchableOpacity onPress={this.showStrengthAlert}>
-              <TypeTagList ShowWeakness={false} ShowNoEffect={false} PrimaryType={MainType.toLowerCase()} SecondaryType={SubType.toLowerCase()}/>
-            </TouchableOpacity>
-          </View>
+            <View style={{flexDirection: 'row', marginTop: -25, flexWrap: 'wrap', alignContent: 'center', justifyContent: 'center'}}>
+              <View style={{flexDirection: 'row', marginBottom: -10, alignContent: 'center', justifyContent: 'center'}}>
+                <TouchableOpacity onPress={this.showStrengthAlert}>
+                  <TypeTagList ShowWeakness={false} ShowNoEffect={false} PrimaryType={MainType.toLowerCase()} SecondaryType={SubType.toLowerCase()}/>
+                </TouchableOpacity>
+              </View>
 
-          <View style={{flexDirection: 'row',  marginBottom: 5}}>
-            <View style={styles.DownArrow}/>
-            <TouchableOpacity onPress={this.showWeaknessAlert}>
-              <TypeTagList ShowWeakness={true} ShowNoEffect={false} PrimaryType={MainType.toLowerCase()} SecondaryType={SubType.toLowerCase()}/>
-            </TouchableOpacity>
-          </View>
+              <View style={{flexDirection: 'row',  marginBottom: -10, alignContent: 'center', justifyContent: 'center'}}>
+                <TouchableOpacity onPress={this.showWeaknessAlert}>
+                  <TypeTagList ShowWeakness={true} ShowNoEffect={false} PrimaryType={MainType.toLowerCase()} SecondaryType={SubType.toLowerCase()}/>
+                </TouchableOpacity>
+              </View>
 
-          <View style={{flexDirection: 'row',  marginBottom: 20}}>
-            <View style={styles.NeutralArrow}/>
-            <TouchableOpacity onPress={this.showNoEffectAlert}>
-              <TypeTagList ShowNoEffect={true} ShowWeakness={false} PrimaryType={MainType.toLowerCase()} SecondaryType={SubType.toLowerCase()}/>
-            </TouchableOpacity>
-          </View>
-
-            <View style={{flex: 1, flexDirection: 'row', marginBottom: 10, alignSelf: 'stretch', alignContent: 'stretch', marginTop: -15, justifyContent: 'stretch'}}>
-              <View style={{alignItems: 'center', justifyContent: 'center', margin: 2}}>
-                <View style={{backgroundColor: '#e8e8e8', borderRadius: 10}}>
-                  <Text style={{padding: 3, fontWeight: 'bold'}}>HP</Text>
-                </View>
-                <Text style={{fontSize: 12, padding: 3, borderWidth: 1, borderColor: '#dbdbdb', borderRadius: 10}}>{this.props.Health}</Text>
-              </View>
-              <View style={{alignItems: 'center', justifyContent: 'center', margin: 5}}>
-                <View style={{backgroundColor: '#e8e8e8', borderRadius: 10}}>
-                  <Text style={{padding: 3, fontWeight: 'bold'}}>ATK</Text>
-                </View>
-                <Text style={{fontSize: 12, padding: 3, borderWidth: 1, borderColor: '#dbdbdb', borderRadius: 10}}>{this.props.Attack}</Text>
-              </View>
-              <View style={{alignItems: 'center', justifyContent: 'center', margin: 2}}>
-                <View style={{backgroundColor: '#e8e8e8', borderRadius: 10}}>
-                  <Text style={{padding: 3, fontWeight: 'bold'}}>DEF</Text>
-                </View>
-                <Text style={{fontSize: 12, padding: 3, borderWidth: 1, borderColor: '#dbdbdb', borderRadius: 10}}>{this.props.Defense}</Text>
-              </View>
-              <View style={{alignItems: 'center', justifyContent: 'center', margin: 2}}>
-                <View style={{backgroundColor: '#e8e8e8', borderRadius: 10}}>
-                  <Text style={{padding: 3, fontWeight: 'bold'}}>Sp.ATK</Text>
-                </View>
-                <Text style={{fontSize: 12, padding: 3, borderWidth: 1, borderColor: '#dbdbdb', borderRadius: 10}}>{this.props.SpecialAttack}</Text>
-              </View>
-              <View style={{alignItems: 'center', justifyContent: 'center', margin: 2}}>
-                <View style={{backgroundColor: '#e8e8e8', borderRadius: 10}}>
-                  <Text style={{padding: 3, fontWeight: 'bold'}}>Sp.DEF</Text>
-                </View>
-                <Text style={{fontSize: 12, padding: 3, borderWidth: 1, borderColor: '#dbdbdb', borderRadius: 10}}>{this.props.SpecialDefense}</Text>
-              </View>
-              <View style={{alignItems: 'center', justifyContent: 'center', margin: 2}}>
-                <View style={{backgroundColor: '#e8e8e8', borderRadius: 10}}>
-                  <Text style={{padding: 3, fontWeight: 'bold'}}>Speed</Text>
-                </View>
-                <Text style={{fontSize: 12, padding: 3, borderWidth: 1, borderColor: '#dbdbdb', borderRadius: 10}}>{this.props.Speed}</Text>
-              </View>
-              <View style={{alignItems: 'center', justifyContent: 'center', margin: 2}}>
-                <View style={{backgroundColor: '#e8e8e8', borderRadius: 10}}>
-                  <Text style={{padding: 3, fontWeight: 'bold'}}>Total</Text>
-                </View>
-                <Text style={{fontSize: 12, padding: 3, borderWidth: 1, borderColor: '#dbdbdb', borderRadius: 10}}>{this.props.TotalStats}</Text>
+              <View style={{flexDirection: 'row', alignContent: 'center', justifyContent: 'center'}}>
+                <TouchableOpacity onPress={this.showNoEffectAlert}>
+                  <TypeTagList ShowNoEffect={true} ShowWeakness={false} PrimaryType={MainType.toLowerCase()} SecondaryType={SubType.toLowerCase()}/>
+                </TouchableOpacity>
               </View>
             </View>
 
-            <View style={{backgroundColor: '#efefef', height: 1, alignItems: 'stretch'}}/>
+              <View style={{flex: 1, flexDirection: 'row', marginTop: 20, alignSelf: 'stretch', alignContent: 'center', justifyContent: 'center'}}>
+                <View style={{alignItems: 'center', justifyContent: 'center', borderLeftWidth: 1, borderColor: '#efefef', borderTopLeftRadius: 10}}>
+                  <View style={{backgroundColor: '#e8e8e8', borderTopLeftRadius: 10}}>
+                    <Text style={{padding: 3, paddingLeft: 5, fontWeight: 'bold'}}>HP</Text>
+                  </View>
+                  <Text style={{fontSize: 12, padding: 3}}>{this.props.Health}</Text>
+                </View>
+                <View style={{alignItems: 'center', justifyContent: 'center'}}>
+                  <View style={{backgroundColor: '#e8e8e8'}}>
+                    <Text style={{padding: 3, fontWeight: 'bold'}}>ATK</Text>
+                  </View>
+                  <Text style={{fontSize: 12, padding: 3}}>{this.props.Attack}</Text>
+                </View>
+                <View style={{alignItems: 'center', justifyContent: 'center'}}>
+                  <View style={{backgroundColor: '#e8e8e8'}}>
+                    <Text style={{padding: 3, fontWeight: 'bold'}}>DEF</Text>
+                  </View>
+                  <Text style={{fontSize: 12, padding: 3}}>{this.props.Defense}</Text>
+                </View>
+                <View style={{alignItems: 'center', justifyContent: 'center'}}>
+                  <View style={{backgroundColor: '#e8e8e8', marginLeft: -1}}>
+                    <Text style={{padding: 3, fontWeight: 'bold'}}>Sp.ATK</Text>
+                  </View>
+                  <Text style={{fontSize: 12, padding: 3}}>{this.props.SpecialAttack}</Text>
+                </View>
+                <View style={{alignItems: 'center', justifyContent: 'center'}}>
+                  <View style={{backgroundColor: '#e8e8e8'}}>
+                    <Text style={{padding: 3, fontWeight: 'bold'}}>Sp.DEF</Text>
+                  </View>
+                  <Text style={{fontSize: 12, padding: 3}}>{this.props.SpecialDefense}</Text>
+                </View>
+                <View style={{alignItems: 'center', justifyContent: 'center'}}>
+                  <View style={{backgroundColor: '#e8e8e8'}}>
+                    <Text style={{padding: 3, fontWeight: 'bold'}}>Speed</Text>
+                  </View>
+                  <Text style={{fontSize: 12, padding: 3}}>{this.props.Speed}</Text>
+                </View>
+                <View style={{alignItems: 'center', justifyContent: 'center', borderRightWidth: 1, borderColor: '#efefef', borderTopRightRadius: 10}}>
+                  <View style={{backgroundColor: '#e8e8e8', borderTopRightRadius: 10}}>
+                    <Text style={{padding: 3, paddingRight: 5,fontWeight: 'bold'}}>Total</Text>
+                  </View>
+                  <Text style={{fontSize: 12, padding: 3}}>{this.props.TotalStats}</Text>
+                </View>
+              </View>
 
-              <View style={{flexDirection: 'row'}}>
+              <View style={{flexDirection: 'row', borderWidth: 1, borderColor: '#efefef',borderRadius: 20, alignContent: 'center', justifyContent: 'center'}}>
                   {evuolution1Info}
                   {evuolution2Info}
                   {evuolution3Info}
               </View>
 
-              <Image style={{width: 15, height: 20, marginTop: 10, marginBottom: 5}} resizeMode={'contain'} source={require('./assets/location_icon.png')}/>
-              <Text>{this.props.pokemonLocations}</Text>
+              <Image style={{width: 15, height: 20, marginTop: 10, marginBottom: 5, marginLeft: 10}} resizeMode={'contain'} source={require('./assets/location_icon.png')}/>
+              <Text style={{marginLeft: 10}}>{this.props.pokemonLocations}</Text>
 
-              <Image style={{width: 15, height: 20, marginTop: 10, marginBottom: 5}} resizeMode={'contain'} source={require('./assets/weather_icon.png')}/>
-              <Text>{this.props.pokemonWeather}</Text>
+              <Image style={{width: 15, height: 20, marginTop: 10, marginBottom: 5, marginLeft: 10}} resizeMode={'contain'} source={require('./assets/weather_icon.png')}/>
+              <Text style={{marginLeft: 10}}>{this.props.pokemonWeather}</Text>
 
               <TouchableOpacity onPress={() => Linking.openURL('https://www.serebii.net/pokedex-swsh/' + this.props.pokemonName.toLowerCase() + "/")}>
-                <Text style={{fontSize: 13, marginTop: 10, marginBottom: 4, color: 'blue', fontWeight: 'bold'}}>More Info (Serebii)</Text>
+                <Text style={{fontSize: 13, marginTop: 10, marginBottom: 4, color: 'blue', fontWeight: 'bold', marginLeft: 10}}>More Info (Serebii)</Text>
               </TouchableOpacity>
+
           </View>
         </View>
       );
@@ -653,7 +651,7 @@ const styles = StyleSheet.create({
     marginRight: 5,
     flexDirection: 'row',
     alignItems: 'center',
-    justifyContent: 'flex-start'
+    justifyContent: 'center'
   },
   togglescontainer: {
     flex: 1,

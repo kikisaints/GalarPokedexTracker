@@ -11,6 +11,13 @@ export default class PokedexList extends Component {
   render() {
     var TypeString = this.props.Type;
     var StyleToUse = styles.NormalIcon;
+    var ShowingWeakness = this.props.IsWeaknessTag;
+    var ModifierStyle = styles.ModFontGood;
+
+    if (ShowingWeakness)
+    {
+      ModifierStyle = styles.ModFontBad;
+    }
 
     if (TypeString === "fire")
     {
@@ -35,6 +42,7 @@ export default class PokedexList extends Component {
     }
     else if (TypeString === "fighting")
     {
+      TypeString = "FGHTING";
       StyleToUse = styles.FightIcon;
     }
     else if (TypeString === "poison")
@@ -87,14 +95,17 @@ export default class PokedexList extends Component {
     if (TypeString !== "")
     {
       TagInfo = (
-        <View style={StyleToUse}>
-          <Text style={styles.IconFont}>{TypeString.toUpperCase()}</Text>
+        <View>
+          <View style={StyleToUse}>
+            <Text style={styles.IconFont}>{TypeString.toUpperCase()}</Text>
+          </View>
+          <Text style={ModifierStyle}>{this.props.TypeFXMod}</Text>
         </View>
       );
     }
 
     return (
-      <View style={{flexDirection: 'row'}}>
+      <View style={{flexDirection: 'column', marginTop: 16}}>
         {TagInfo}
       </View>
     );
@@ -109,6 +120,26 @@ const styles = StyleSheet.create({
     padding: 2,
     textAlign: 'center',
     textShadowColor: 'rgba(0, 0, 0, 0.75)',
+    textShadowOffset: {width: -0.5, height: 0.5},
+    textShadowRadius: 1,
+  },
+  ModFontGood: {
+    fontSize: 12,
+    color: 'green',
+    marginTop: 3,
+    marginLeft: -3,
+    textAlign: 'center',
+    textShadowColor: 'rgba(0, 0, 0, 0.55)',
+    textShadowOffset: {width: -0.5, height: 0.5},
+    textShadowRadius: 1,
+  },
+  ModFontBad: {
+    fontSize: 12,
+    color: 'red',
+    marginTop: 3,
+    marginLeft: -3,
+    textAlign: 'center',
+    textShadowColor: 'rgba(0, 0, 0, 0.55)',
     textShadowOffset: {width: -0.5, height: 0.5},
     textShadowRadius: 1,
   },

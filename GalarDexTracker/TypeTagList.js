@@ -16,6 +16,13 @@ export default class PokedexList extends Component {
       TypePropFive: "",
       TypePropSix: "",
       TypePropSeven: "",
+      mod1: "",
+      mod2: "",
+      mod3: "",
+      mod4: "",
+      mod5: "",
+      mod6: "",
+      mod7: "",
     }
   }
 
@@ -42,6 +49,17 @@ export default class PokedexList extends Component {
     })
   }
 
+  SetFXMods(one, two, three, four, five, six, seven)
+  {
+    if (one != "") this.setState({ mod1: "x" + one })
+    if (two != "") this.setState({ mod2: "x" + one })
+    if (three != "") this.setState({ mod3: "x" + one })
+    if (four != "") this.setState({ mod4: "x" + one })
+    if (five != "") this.setState({ mod5: "x" + one })
+    if (six != "") this.setState({ mod6: "x" + one })
+    if (seven != "") this.setState({ mod7: "x" + one })
+  }
+
   SetUpStrengthsWeaknesses()
   {
     var maintype = this.props.PrimaryType;
@@ -56,6 +74,14 @@ export default class PokedexList extends Component {
     var typeValFive = "";
     var typeValSix = "";
     var typeValSeven = "";
+
+    var modeval1 = "";
+    var modeval2 = "";
+    var modeval3 = "";
+    var modeval4 = "";
+    var modeval5 = "";
+    var modeval6 = "";
+    var modeval7 = "";
 
     var maintypechart = swchart[maintype.toString()];
     var subtypechart = swchart[subtype.toString()];
@@ -93,45 +119,24 @@ export default class PokedexList extends Component {
         multiplier = maintypechart[currentval] * subtypechart[currentval];
       }
 
-      if (multiplier > 1 && showweakness && !showNoEffect)
+      if ((multiplier > 1 && showweakness && !showNoEffect) ||
+          (multiplier < 1 && !showweakness && multiplier > 0 && !showNoEffect) ||
+          (multiplier === 0 && showNoEffect && !showweakness))
       {
         typeval = currentval;
 
-        if (counter === 0) typeValOne = typeval;
-        if (counter === 1) typeValTwo = typeval;
-        if (counter === 2) typeValThree = typeval;
-        if (counter === 3) typeValFour = typeval;
-        if (counter === 4) typeValFive = typeval;
-        if (counter === 5) typeValSix = typeval;
-        if (counter === 6) typeValSeven = typeval;
+        if (multiplier === 0)
+        {
+          multiplier = "0";
+        }
 
-        counter++;
-      }
-      else if (multiplier < 1 && !showweakness && multiplier > 0 && !showNoEffect)
-      {
-        typeval = currentval;
-
-        if (counter === 0) typeValOne = typeval;
-        if (counter === 1) typeValTwo = typeval;
-        if (counter === 2) typeValThree = typeval;
-        if (counter === 3) typeValFour = typeval;
-        if (counter === 4) typeValFive = typeval;
-        if (counter === 5) typeValSix = typeval;
-        if (counter === 6) typeValSeven = typeval;
-
-        counter++;
-      }
-      else if (multiplier === 0 && showNoEffect && !showweakness)
-      {
-        typeval = currentval;
-
-        if (counter === 0) typeValOne = typeval;
-        if (counter === 1) typeValTwo = typeval;
-        if (counter === 2) typeValThree = typeval;
-        if (counter === 3) typeValFour = typeval;
-        if (counter === 4) typeValFive = typeval;
-        if (counter === 5) typeValSix = typeval;
-        if (counter === 6) typeValSeven = typeval;
+        if (counter === 0){ typeValOne = typeval; modeval1 = multiplier; }
+        if (counter === 1){ typeValTwo = typeval; modeval2 = multiplier; }
+        if (counter === 2){ typeValThree = typeval; modeval3 = multiplier; }
+        if (counter === 3){ typeValFour = typeval; modeval4 = multiplier; }
+        if (counter === 4){ typeValFive = typeval; modeval5 = multiplier; }
+        if (counter === 5){ typeValSix = typeval; modeval6 = multiplier; }
+        if (counter === 6){ typeValSeven = typeval; modeval7 = multiplier; }
 
         counter++;
       }
@@ -142,6 +147,8 @@ export default class PokedexList extends Component {
 
     this.SetTypeTags(typeValOne, typeValTwo, typeValThree, typeValFour,
       typeValFive, typeValSix, typeValSeven);
+    this.SetFXMods(modeval1, modeval2, modeval3, modeval4,
+      modeval5, modeval6, modeval7);
   }
 
   resetTypes() {
@@ -157,12 +164,13 @@ export default class PokedexList extends Component {
   render() {
     return (
       <View style={{flex: 1, flexDirection: 'row'}}>
-        <TypeTag Type={this.state.TypePropOne}/>
-        <TypeTag Type={this.state.TypePropTwo}/>
-        <TypeTag Type={this.state.TypePropThree}/>
-        <TypeTag Type={this.state.TypePropFour}/>
-        <TypeTag Type={this.state.TypePropFive}/>
-        <TypeTag Type={this.state.TypePropSix}/>
+        <TypeTag IsWeaknessTag={this.props.ShowWeakness} Type={this.state.TypePropOne} TypeFXMod={this.state.mod1}/>
+        <TypeTag IsWeaknessTag={this.props.ShowWeakness} Type={this.state.TypePropTwo} TypeFXMod={this.state.mod2}/>
+        <TypeTag IsWeaknessTag={this.props.ShowWeakness} Type={this.state.TypePropThree} TypeFXMod={this.state.mod3}/>
+        <TypeTag IsWeaknessTag={this.props.ShowWeakness} Type={this.state.TypePropFour} TypeFXMod={this.state.mod4}/>
+        <TypeTag IsWeaknessTag={this.props.ShowWeakness} Type={this.state.TypePropFive} TypeFXMod={this.state.mod5}/>
+        <TypeTag IsWeaknessTag={this.props.ShowWeakness} Type={this.state.TypePropSix} TypeFXMod={this.state.mod6}/>
+        <TypeTag IsWeaknessTag={this.props.ShowWeakness} Type={this.state.TypePropSeven} TypeFXMod={this.state.mod7}/>
         <Text> {swchart[this.props.PrimaryType.toString()].length} </Text>
       </View>
     );
