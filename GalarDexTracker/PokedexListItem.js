@@ -157,7 +157,7 @@ export default class PokedexListItem extends PureComponent {
     }
     else if (this.props.secondEvolution != "" && this.props.pokemonName != "Eevee" && this.props.pokemonName != "Meowth"
         && this.props.pokemonName != "Applin" && this.props.pokemonName != "Tyrogue" && this.props.pokemonName != "Yamask"
-        && this.props.pokemonName != "Snorunt" && this.props.pokemonName != "Nincada" && this.props.pokemonName != "Kirlia")
+        && this.props.pokemonName != "Snorunt" && this.props.pokemonName != "Nincada" && this.props.pokemonName != "Kirlia" && this.props.pokemonName != "Slowpoke")
     {
       evuolution2Info = (
         <View style={{flexDirection: 'row'}}>
@@ -254,7 +254,7 @@ export default class PokedexListItem extends PureComponent {
       );
     }
     else if ((this.props.pokemonName === "Meowth" || this.props.pokemonName === "Applin" ||
-              this.props.pokemonName === "Yamask" || this.props.pokemonName === "Snorunt") && this.props.secondEvolution != "")
+              this.props.pokemonName === "Yamask" || this.props.pokemonName === "Snorunt" || this.props.pokemonName === "Slowpoke") && this.props.secondEvolution != "")
     {
       var res = this.props.secondEvolution.split(", ");
       var iconRes = this.props.itemIndex2.split(", ");
@@ -265,6 +265,10 @@ export default class PokedexListItem extends PureComponent {
       if (this.props.pokemonName === "Meowth")
       {
         secondIconPath = {uri: 'https://www.serebii.net/pokedex-swsh/icon/053.png'};
+      }
+      if(this.props.pokemonName === "Slowpoke")
+      {
+        iconRes[0] = '080';
       }
 
       evuolution2Info = (

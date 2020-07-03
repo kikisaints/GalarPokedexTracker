@@ -11,9 +11,12 @@ import { StyleSheet,
 import Collapsible from 'react-native-collapsible';
 
 const Pokedex = require('./assets/galarianpokedex.json');
+const ArmorPokedex = require('./assets/isleofarmorpokedex.json');
 import PokedexList  from './PokedexList';
 
 export default class MainPage extends Component {
+  _isMounted = false;
+
   constructor() {
     super();
     this.state = {
@@ -28,7 +31,14 @@ export default class MainPage extends Component {
       showUncaughtValue: false,
       refreshingList: false,
       dlcSelected: false,
+      isleArmorDisplay: "Isle of Armor",
+      baseGameDisplay: "Base Game",
     }
+  }
+
+  componentDidMount = async ()=>{
+    this._isMounted = true;
+    this.DisableDLCPokemon();
   }
 
   toggleSearchInfo = () => {
@@ -39,10 +49,16 @@ export default class MainPage extends Component {
 
   EnableDLCPokemon = () => {
     this.setState({dlcSelected : true})
+    this.setState({baseGameDisplay : "Base Game"})
+    this.setState({data : ArmorPokedex}, () => this.setState({isleArmorDisplay : this.state.data.length + "/ 211"}))
+    this.setState({filterData : ArmorPokedex})    
   }
 
   DisableDLCPokemon = () => {
     this.setState({dlcSelected : false})
+    this.setState({isleArmorDisplay : "Isle of Armor"})
+    this.setState({data : Pokedex}, () => this.setState({baseGameDisplay : this.state.data.length + "/ 400"}))
+    this.setState({filterData : Pokedex})
   }
 
   showSearchHelpAlert = () => {
@@ -412,13 +428,13 @@ export default class MainPage extends Component {
               </View>
                 <View style={{marginTop: 10, flexDirection: 'row', alignContent: 'stretch', alignItems: 'stretch', justifyContent: 'center'}}>
                   <TouchableOpacity style={[styles.showingNumberTagUnselected, this.state.dlcSelected ? styles.showingNumberTag : styles.showingNumberTagUnselected]} onPress={this.EnableDLCPokemon}>
-                    <Text style={[styles.showingText, !this.state.dlcSelected ? styles.showingTextUnselected : styles.showingText]}>0 / 300</Text>
-                    <View style={{alignSelf: 'flex-end', width: 20, height: 23, backgroundColor: '#ffe400', marginTop: -24, borderTopRightRadius: 40, borderBottomRightRadius: 40}}/>
+                    <Text style={[styles.showingText, !this.state.dlcSelected ? styles.showingTextUnselected : styles.showingText]}>{this.state.isleArmorDisplay}</Text>
+                    <View style={{alignSelf: 'flex-end', width: 20, height: 25, backgroundColor: '#ffe400', marginTop: -25, borderTopRightRadius: 40, borderBottomRightRadius: 40}}/>
                   </TouchableOpacity>
                   <TouchableOpacity style={[styles.showingNumberTagUnselected, !this.state.dlcSelected ? styles.showingNumberTag : styles.showingNumberTagUnselected]} onPress={this.DisableDLCPokemon}>
-                    <Text style={[styles.showingText, this.state.dlcSelected ? styles.showingTextUnselected : styles.showingText]}>{this.state.data.length} / 400</Text>
-                    <View style={{alignSelf: 'flex-end', width: 20, height: 23, backgroundColor: '#fd0000', marginRight: 15, marginTop: -24,}}/>
-                    <View style={{alignSelf: 'flex-end', width: 20, height: 23, backgroundColor: '#008aff', marginTop: -23, borderTopRightRadius: 40, borderBottomRightRadius: 40}}/>
+                    <Text style={[styles.showingText, this.state.dlcSelected ? styles.showingTextUnselected : styles.showingText]}>{this.state.baseGameDisplay}</Text>
+                    <View style={{alignSelf: 'flex-end', width: 20, height: 24, backgroundColor: '#fd0000', marginRight: 15, marginTop: -24,}}/>
+                    <View style={{alignSelf: 'flex-end', width: 20, height: 24, backgroundColor: '#008aff', marginTop: -24, borderTopRightRadius: 40, borderBottomRightRadius: 40}}/>
                   </TouchableOpacity>
                 </View>
               <TouchableOpacity onPress={this.showAboutAlert}>
@@ -443,6 +459,14 @@ const styles = StyleSheet.create({
     padding: 5,
     textAlign: 'center',
   },
+  hiddenListText: {
+    height: 0,
+    width: 0,
+  },
+  shownListText: {
+    textAlign: 'center',
+    color: '#888888',
+  },
   filterButton: {
     borderBottomWidth: 1,
     borderRightWidth: 1,
@@ -459,8 +483,8 @@ const styles = StyleSheet.create({
   },
   showingTextUnselected: {
     color: '#888888',
-    padding: 5,
     textAlign: 'center',
+    padding: 5,
   },
   showingNumberTag: {
     flex: 1,
