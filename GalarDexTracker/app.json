@@ -3,19 +3,18 @@
     "name": "Galarian Dex Tracker",
     "slug": "GalarianDexTracker",
     "privacy": "public",
-    "sdkVersion": "35.0.0",
     "platforms": [
       "ios",
       "android",
       "web"
     ],
-    "version": "1.2.3",
+    "version": "2.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "splash": {
       "image": "./assets/splash.png",
       "resizeMode": "contain",
-      "backgroundColor": "#a83232"
+      "backgroundColor": "#ffffff"
     },
     "updates": {
       "fallbackToCacheTimeout": 0
@@ -25,11 +24,11 @@
     ],
     "ios": {
       "supportsTablet": true,
-      "bundleIdentifier": "com.kikisaintonge.galardextracker",
+      "bundleIdentifier": "com.kikisaintonge.galardextracker"
     },
     "android": {
       "package": "com.kikisaintonge.galardextracker",
-      "permissions": [],
+      "permissions": []
     }
   }
 }

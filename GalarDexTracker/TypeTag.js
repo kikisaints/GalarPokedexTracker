@@ -11,6 +11,13 @@ export default class PokedexList extends Component {
   render() {
     var TypeString = this.props.Type;
     var StyleToUse = styles.NormalIcon;
+    var ShowingWeakness = this.props.IsWeaknessTag;
+    var ModifierStyle = styles.ModFontGood;
+
+    if (ShowingWeakness)
+    {
+      ModifierStyle = styles.ModFontBad;
+    }
 
     if (TypeString === "fire")
     {
@@ -35,6 +42,7 @@ export default class PokedexList extends Component {
     }
     else if (TypeString === "fighting")
     {
+      TypeString = "FGHTING";
       StyleToUse = styles.FightIcon;
     }
     else if (TypeString === "poison")
@@ -87,14 +95,17 @@ export default class PokedexList extends Component {
     if (TypeString !== "")
     {
       TagInfo = (
-        <View style={StyleToUse}>
-          <Text style={styles.IconFont}>{TypeString.toUpperCase()}</Text>
+        <View>
+          <View style={StyleToUse}>
+            <Text style={styles.IconFont}>{TypeString.toUpperCase()}</Text>
+          </View>
+          <Text style={ModifierStyle}>{this.props.TypeFXMod}</Text>
         </View>
       );
     }
 
     return (
-      <View style={{flexDirection: 'row'}}>
+      <View style={{flexDirection: 'column', marginTop: 16}}>
         {TagInfo}
       </View>
     );
@@ -112,13 +123,33 @@ const styles = StyleSheet.create({
     textShadowOffset: {width: -0.5, height: 0.5},
     textShadowRadius: 1,
   },
+  ModFontGood: {
+    fontSize: 12,
+    color: 'green',
+    marginTop: 3,
+    marginLeft: -3,
+    textAlign: 'center',
+    textShadowColor: 'rgba(0, 0, 0, 0.55)',
+    textShadowOffset: {width: -0.5, height: 0.5},
+    textShadowRadius: 1,
+  },
+  ModFontBad: {
+    fontSize: 12,
+    color: 'red',
+    marginTop: 3,
+    marginLeft: -3,
+    textAlign: 'center',
+    textShadowColor: 'rgba(0, 0, 0, 0.55)',
+    textShadowOffset: {width: -0.5, height: 0.5},
+    textShadowRadius: 1,
+  },
   NormalIcon: {
     backgroundColor: '#a8a97c',
     height: 16,
     justifyContent: 'center',
     alignItems: 'center',
     alignContent: 'center',
-    borderRadius: 2,
+    borderRadius: 15,
     marginRight: 5,
   },
   FireIcon: {
@@ -127,7 +158,7 @@ const styles = StyleSheet.create({
     justifyContent: 'center',
     alignItems: 'center',
     alignContent: 'center',
-    borderRadius: 2,
+    borderRadius: 15,
     marginRight: 5,
   },
   WaterIcon: {
@@ -136,7 +167,7 @@ const styles = StyleSheet.create({
     justifyContent: 'center',
     alignItems: 'center',
     alignContent: 'center',
-    borderRadius: 2,
+    borderRadius: 15,
     marginRight: 5,
   },
   ElectricIcon: {
@@ -145,7 +176,7 @@ const styles = StyleSheet.create({
     justifyContent: 'center',
     alignItems: 'center',
     alignContent: 'center',
-    borderRadius: 2,
+    borderRadius: 15,
     marginRight: 5,
   },
   GrassIcon: {
@@ -154,7 +185,7 @@ const styles = StyleSheet.create({
     justifyContent: 'center',
     alignItems: 'center',
     alignContent: 'center',
-    borderRadius: 2,
+    borderRadius: 15,
     marginRight: 5,
   },
   IceIcon: {
@@ -163,7 +194,7 @@ const styles = StyleSheet.create({
     justifyContent: 'center',
     alignItems: 'center',
     alignContent: 'center',
-    borderRadius: 2,
+    borderRadius: 15,
     marginRight: 5,
   },
   FightIcon: {
@@ -172,7 +203,7 @@ const styles = StyleSheet.create({
     justifyContent: 'center',
     alignItems: 'center',
     alignContent: 'center',
-    borderRadius: 2,
+    borderRadius: 15,
     marginRight: 5,
   },
   PoisonIcon: {
@@ -181,7 +212,7 @@ const styles = StyleSheet.create({
     justifyContent: 'center',
     alignItems: 'center',
     alignContent: 'center',
-    borderRadius: 2,
+    borderRadius: 15,
     marginRight: 5,
   },
   GroundIcon: {
@@ -190,7 +221,7 @@ const styles = StyleSheet.create({
     justifyContent: 'center',
     alignItems: 'center',
     alignContent: 'center',
-    borderRadius: 2,
+    borderRadius: 15,
     marginRight: 5,
   },
   FlyingIcon: {
@@ -199,7 +230,7 @@ const styles = StyleSheet.create({
     justifyContent: 'center',
     alignItems: 'center',
     alignContent: 'center',
-    borderRadius: 2,
+    borderRadius: 15,
     marginRight: 5,
   },
   PsychicIcon: {
@@ -208,7 +239,7 @@ const styles = StyleSheet.create({
     justifyContent: 'center',
     alignItems: 'center',
     alignContent: 'center',
-    borderRadius: 2,
+    borderRadius: 15,
     marginRight: 5,
   },
   BugIcon: {
@@ -217,7 +248,7 @@ const styles = StyleSheet.create({
     justifyContent: 'center',
     alignItems: 'center',
     alignContent: 'center',
-    borderRadius: 2,
+    borderRadius: 15,
     marginRight: 5,
   },
   RockIcon: {
@@ -226,7 +257,7 @@ const styles = StyleSheet.create({
     justifyContent: 'center',
     alignItems: 'center',
     alignContent: 'center',
-    borderRadius: 2,
+    borderRadius: 15,
     marginRight: 5,
   },
   GhostIcon: {
@@ -235,7 +266,7 @@ const styles = StyleSheet.create({
     justifyContent: 'center',
     alignItems: 'center',
     alignContent: 'center',
-    borderRadius: 2,
+    borderRadius: 15,
     marginRight: 5,
   },
   DragonIcon: {
@@ -244,7 +275,7 @@ const styles = StyleSheet.create({
     justifyContent: 'center',
     alignItems: 'center',
     alignContent: 'center',
-    borderRadius: 2,
+    borderRadius: 15,
     marginRight: 5,
   },
   DarkIcon: {
@@ -253,7 +284,7 @@ const styles = StyleSheet.create({
     justifyContent: 'center',
     alignItems: 'center',
     alignContent: 'center',
-    borderRadius: 2,
+    borderRadius: 15,
     marginRight: 5,
   },
   SteelIcon: {
@@ -262,7 +293,7 @@ const styles = StyleSheet.create({
     justifyContent: 'center',
     alignItems: 'center',
     alignContent: 'center',
-    borderRadius: 2,
+    borderRadius: 15,
     marginRight: 5,
   },
   FairyIcon: {
@@ -271,7 +302,7 @@ const styles = StyleSheet.create({
     justifyContent: 'center',
     alignItems: 'center',
     alignContent: 'center',
-    borderRadius: 2,
+    borderRadius: 15,
     marginRight: 5,
   },
 });

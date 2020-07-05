@@ -48,7 +48,7 @@ export default class PokedexListItem extends PureComponent {
   showNoEffectAlert = () => {
     Alert.alert(
       'No Effect Against',
-      'The following types',
+      'The following types have no effect against this Pokémon',
       [
         {text: 'OK'},
       ],
@@ -59,7 +59,7 @@ export default class PokedexListItem extends PureComponent {
   showStrengthAlert = () => {
     Alert.alert(
       'Strong Against',
-      'The following types',
+      'These types are not very effective against this Pokémon',
       [
         {text: 'OK'},
       ],
@@ -70,7 +70,7 @@ export default class PokedexListItem extends PureComponent {
   showWeaknessAlert = () => {
     Alert.alert(
       'Weak To',
-      'The following types',
+      'This Pokémon is weak against the following types',
       [
         {text: 'OK'},
       ],
@@ -131,7 +131,7 @@ export default class PokedexListItem extends PureComponent {
     if (this.props.firstEvolution != "")
     {
       evuolution1Info = (
-          <View style={{flexDirection: 'column', borderWidth: 1, borderRadius: 4, borderColor: '#dbdbdb', padding: 5, margin: 5, alignItems: 'center', justifyContent: 'center'}}>
+          <View style={{flexDirection: 'column', padding: 5, margin: 5, alignItems: 'center', justifyContent: 'center'}}>
             <Image style={{marginLeft: 5, maxWidth: 60, maxHeight: 60, minWidth: 32, minHeight: 32}} resizeMode={'contain'} source={IconPath1}/>
             <Text style={{fontWeight: 'bold'}}>{this.props.firstEvolution}</Text>
             <Text style={{fontStyle: 'italic', fontSize: 12}}>{this.props.firstEvoRequirement}</Text>
@@ -142,12 +142,12 @@ export default class PokedexListItem extends PureComponent {
     var evuolution2Info = null;
 
     if (this.props.secondEvolution != "" && (this.props.pokemonName === "Kirlia" || this.props.pokemonName === "Oddish"
-        || this.props.pokemonName === "Gloom" || this.props.pokemonName === "Ralts"))
+        || this.props.pokemonName === "Gloom" || this.props.pokemonName === "Ralts" || this.props.pokemonName === "Poliwag" || this.props.pokemonName === "Poliwhirl"))
     {
       evuolution2Info = (
         <View style={{flexDirection: 'row'}}>
-          <Text style={{marginTop: 65, marginLeft: -7, marginRight: -7}}> > </Text>
-          <View style={{flexDirection: 'column', borderWidth: 1, borderRadius: 4, borderColor: '#dbdbdb', padding: 5, margin: 5, alignItems: 'center', justifyContent: 'center'}}>
+          <Image style={{width: 20, height: 20, marginTop: 25}} resizeMode={'contain'} source={require('./assets/evolution_icon.png')}/>
+          <View style={{flexDirection: 'column', padding: 5, margin: 5, alignItems: 'center', justifyContent: 'center'}}>
             <Image style={{marginLeft: 5, maxWidth: 60, maxHeight: 60, minWidth: 32, minHeight: 32}} resizeMode={'contain'} source={IconPath2}/>
             <Text style={{fontWeight: 'bold', textAlign: 'center'}}>{this.props.secondEvolution}</Text>
             <Text style={{fontStyle: 'italic', fontSize: 12, textAlign: 'center'}}>{this.props.secondEvoRequirement}</Text>
@@ -157,12 +157,12 @@ export default class PokedexListItem extends PureComponent {
     }
     else if (this.props.secondEvolution != "" && this.props.pokemonName != "Eevee" && this.props.pokemonName != "Meowth"
         && this.props.pokemonName != "Applin" && this.props.pokemonName != "Tyrogue" && this.props.pokemonName != "Yamask"
-        && this.props.pokemonName != "Snorunt" && this.props.pokemonName != "Nincada" && this.props.pokemonName != "Kirlia")
+        && this.props.pokemonName != "Snorunt" && this.props.pokemonName != "Nincada" && this.props.pokemonName != "Kirlia" && this.props.pokemonName != "Slowpoke")
     {
       evuolution2Info = (
         <View style={{flexDirection: 'row'}}>
-          <Text style={{marginTop: 30, marginLeft: -7, marginRight: -7}}> > </Text>
-          <View style={{flexDirection: 'column', borderWidth: 1, borderRadius: 4, borderColor: '#dbdbdb', padding: 5, margin: 5, alignItems: 'center', justifyContent: 'center'}}>
+          <Image style={{width: 20, height: 20, marginTop: 25}} resizeMode={'contain'} source={require('./assets/evolution_icon.png')}/>
+          <View style={{flexDirection: 'column', padding: 5, margin: 5, alignItems: 'center', justifyContent: 'center'}}>
             <Image style={{marginLeft: 5, maxWidth: 60, maxHeight: 60, minWidth: 32, minHeight: 32}} resizeMode={'contain'} source={IconPath2}/>
             <Text style={{fontWeight: 'bold', textAlign: 'center'}}>{this.props.secondEvolution}</Text>
             <Text style={{fontStyle: 'italic', fontSize: 12, textAlign: 'center'}}>{this.props.secondEvoRequirement}</Text>
@@ -179,8 +179,8 @@ export default class PokedexListItem extends PureComponent {
       evuolution2Info = (
           <View style={{flexDirection: 'column'}}>
             <View style={{flexDirection: 'row'}}>
-              <Text style={{marginTop: 30, marginLeft: -7, marginRight: -7}}> > </Text>
-              <View style={{flexDirection: 'column', borderWidth: 1, borderRadius: 4, borderColor: '#dbdbdb', padding: 5, margin: 5, alignItems: 'center', justifyContent: 'center'}}>
+              <Image style={{width: 20, height: 20, marginTop: 25}} resizeMode={'contain'} source={require('./assets/evolution_icon.png')}/>
+              <View style={{flexDirection: 'column', padding: 5, margin: 5, alignItems: 'center', justifyContent: 'center'}}>
                 <Image style={{marginLeft: 5, maxWidth: 60, maxHeight: 60, minWidth: 32, minHeight: 32}} resizeMode={'contain'}
                 source={{uri: 'https://www.serebii.net/pokedex-swsh/icon/' + this.getIconPathNumber(iconRes[0]) + '.png'}}/>
                 <Text style={{fontWeight: 'bold'}}>{res[0]}</Text>
@@ -188,8 +188,8 @@ export default class PokedexListItem extends PureComponent {
               </View>
             </View>
             <View style={{flexDirection: 'row'}}>
-              <Text style={{marginTop: 30, marginLeft: -7, marginRight: -7}}> > </Text>
-              <View style={{flexDirection: 'column', borderWidth: 1, borderRadius: 4, borderColor: '#dbdbdb', padding: 5, margin: 5, alignItems: 'center', justifyContent: 'center'}}>
+              <Image style={{width: 20, height: 20, marginTop: 25}} resizeMode={'contain'} source={require('./assets/evolution_icon.png')}/>
+              <View style={{flexDirection: 'column', padding: 5, margin: 5, alignItems: 'center', justifyContent: 'center'}}>
                 <Image style={{marginLeft: 5, maxWidth: 60, maxHeight: 60, minWidth: 32, minHeight: 32}} resizeMode={'contain'}
                 source={{uri: 'https://www.serebii.net/pokedex-swsh/icon/' + this.getIconPathNumber(iconRes[1]) + '.png'}}/>
                 <Text style={{fontWeight: 'bold'}}>{res[1]}</Text>
@@ -197,8 +197,8 @@ export default class PokedexListItem extends PureComponent {
               </View>
             </View>
             <View style={{flexDirection: 'row'}}>
-              <Text style={{marginTop: 30, marginLeft: -7, marginRight: -7}}> > </Text>
-              <View style={{flexDirection: 'column', borderWidth: 1, borderRadius: 4, borderColor: '#dbdbdb', padding: 5, margin: 5, alignItems: 'center', justifyContent: 'center'}}>
+              <Image style={{width: 20, height: 20, marginTop: 25}} resizeMode={'contain'} source={require('./assets/evolution_icon.png')}/>
+              <View style={{flexDirection: 'column', padding: 5, margin: 5, alignItems: 'center', justifyContent: 'center'}}>
                 <Image style={{marginLeft: 5, maxWidth: 60, maxHeight: 60, minWidth: 32, minHeight: 32}} resizeMode={'contain'}
                 source={{uri: 'https://www.serebii.net/pokedex-swsh/icon/' + this.getIconPathNumber(iconRes[2]) + '.png'}}/>
                 <Text style={{fontWeight: 'bold'}}>{res[2]}</Text>
@@ -206,8 +206,8 @@ export default class PokedexListItem extends PureComponent {
               </View>
             </View>
             <View style={{flexDirection: 'row'}}>
-              <Text style={{marginTop: 30, marginLeft: -7, marginRight: -7}}> > </Text>
-              <View style={{flexDirection: 'column', borderWidth: 1, borderRadius: 4, borderColor: '#dbdbdb', padding: 5, margin: 5, alignItems: 'center', justifyContent: 'center'}}>
+              <Image style={{width: 20, height: 20, marginTop: 25}} resizeMode={'contain'} source={require('./assets/evolution_icon.png')}/>
+              <View style={{flexDirection: 'column', padding: 5, margin: 5, alignItems: 'center', justifyContent: 'center'}}>
                 <Image style={{marginLeft: 5, maxWidth: 60, maxHeight: 60, minWidth: 32, minHeight: 32}} resizeMode={'contain'}
                 source={{uri: 'https://www.serebii.net/pokedex-swsh/icon/' + this.getIconPathNumber(iconRes[3]) + '.png'}}/>
                 <Text style={{fontWeight: 'bold'}}>{res[3]}</Text>
@@ -215,8 +215,8 @@ export default class PokedexListItem extends PureComponent {
               </View>
             </View>
             <View style={{flexDirection: 'row'}}>
-              <Text style={{marginTop: 30, marginLeft: -7, marginRight: -7}}> > </Text>
-              <View style={{flexDirection: 'column', borderWidth: 1, borderRadius: 4, borderColor: '#dbdbdb', padding: 5, margin: 5, alignItems: 'center', justifyContent: 'center'}}>
+              <Image style={{width: 20, height: 20, marginTop: 25}} resizeMode={'contain'} source={require('./assets/evolution_icon.png')}/>
+              <View style={{flexDirection: 'column', padding: 5, margin: 5, alignItems: 'center', justifyContent: 'center'}}>
                 <Image style={{marginLeft: 5, maxWidth: 60, maxHeight: 60, minWidth: 32, minHeight: 32}} resizeMode={'contain'}
                 source={{uri: 'https://www.serebii.net/pokedex-swsh/icon/' + this.getIconPathNumber(iconRes[4]) + '.png'}}/>
                 <Text style={{fontWeight: 'bold'}}>{res[4]}</Text>
@@ -224,8 +224,8 @@ export default class PokedexListItem extends PureComponent {
               </View>
             </View>
             <View style={{flexDirection: 'row'}}>
-              <Text style={{marginTop: 30, marginLeft: -7, marginRight: -7}}> > </Text>
-              <View style={{flexDirection: 'column', borderWidth: 1, borderRadius: 4, borderColor: '#dbdbdb', padding: 5, margin: 5, alignItems: 'center', justifyContent: 'center'}}>
+              <Image style={{width: 20, height: 20, marginTop: 25}} resizeMode={'contain'} source={require('./assets/evolution_icon.png')}/>
+              <View style={{flexDirection: 'column', padding: 5, margin: 5, alignItems: 'center', justifyContent: 'center'}}>
                 <Image style={{marginLeft: 5, maxWidth: 60, maxHeight: 60, minWidth: 32, minHeight: 32}} resizeMode={'contain'}
                 source={{uri: 'https://www.serebii.net/pokedex-swsh/icon/' + this.getIconPathNumber(iconRes[5]) + '.png'}}/>
                 <Text style={{fontWeight: 'bold'}}>{res[5]}</Text>
@@ -233,8 +233,8 @@ export default class PokedexListItem extends PureComponent {
               </View>
             </View>
             <View style={{flexDirection: 'row'}}>
-              <Text style={{marginTop: 30, marginLeft: -7, marginRight: -7}}> > </Text>
-              <View style={{flexDirection: 'column', borderWidth: 1, borderRadius: 4, borderColor: '#dbdbdb', padding: 5, margin: 5, alignItems: 'center', justifyContent: 'center'}}>
+              <Image style={{width: 20, height: 20, marginTop: 25}} resizeMode={'contain'} source={require('./assets/evolution_icon.png')}/>
+              <View style={{flexDirection: 'column', padding: 5, margin: 5, alignItems: 'center', justifyContent: 'center'}}>
                 <Image style={{marginLeft: 5, maxWidth: 60, maxHeight: 60, minWidth: 32, minHeight: 32}} resizeMode={'contain'}
                 source={{uri: 'https://www.serebii.net/pokedex-swsh/icon/' + this.getIconPathNumber(iconRes[6]) + '.png'}}/>
                 <Text style={{fontWeight: 'bold'}}>{res[6]}</Text>
@@ -242,8 +242,8 @@ export default class PokedexListItem extends PureComponent {
               </View>
             </View>
             <View style={{flexDirection: 'row'}}>
-              <Text style={{marginTop: 30, marginLeft: -7, marginRight: -7}}> > </Text>
-              <View style={{flexDirection: 'column', borderWidth: 1, borderRadius: 4, borderColor: '#dbdbdb', padding: 5, margin: 5, alignItems: 'center', justifyContent: 'center'}}>
+              <Image style={{width: 20, height: 20, marginTop: 25}} resizeMode={'contain'} source={require('./assets/evolution_icon.png')}/>
+              <View style={{flexDirection: 'column', padding: 5, margin: 5, alignItems: 'center', justifyContent: 'center'}}>
                 <Image style={{marginLeft: 5, maxWidth: 60, maxHeight: 60, minWidth: 32, minHeight: 32}} resizeMode={'contain'}
                 source={{uri: 'https://www.serebii.net/pokedex-swsh/icon/' + this.getIconPathNumber(iconRes[7]) + '.png'}}/>
                 <Text style={{fontWeight: 'bold'}}>{res[7]}</Text>
@@ -254,7 +254,7 @@ export default class PokedexListItem extends PureComponent {
       );
     }
     else if ((this.props.pokemonName === "Meowth" || this.props.pokemonName === "Applin" ||
-              this.props.pokemonName === "Yamask" || this.props.pokemonName === "Snorunt") && this.props.secondEvolution != "")
+              this.props.pokemonName === "Yamask" || this.props.pokemonName === "Snorunt" || this.props.pokemonName === "Slowpoke") && this.props.secondEvolution != "")
     {
       var res = this.props.secondEvolution.split(", ");
       var iconRes = this.props.itemIndex2.split(", ");
@@ -266,12 +266,16 @@ export default class PokedexListItem extends PureComponent {
       {
         secondIconPath = {uri: 'https://www.serebii.net/pokedex-swsh/icon/053.png'};
       }
+      if(this.props.pokemonName === "Slowpoke")
+      {
+        iconRes[0] = '080';
+      }
 
       evuolution2Info = (
           <View style={{flexDirection: 'column'}}>
             <View style={{flexDirection: 'row'}}>
-              <Text style={{marginTop: 30, marginLeft: -7, marginRight: -7}}> > </Text>
-              <View style={{flexDirection: 'column', borderWidth: 1, borderRadius: 4, borderColor: '#dbdbdb', padding: 5, margin: 5, alignItems: 'center', justifyContent: 'center'}}>
+              <Image style={{width: 20, height: 20, marginTop: 25}} resizeMode={'contain'} source={require('./assets/evolution_icon.png')}/>
+              <View style={{flexDirection: 'column', padding: 5, margin: 5, alignItems: 'center', justifyContent: 'center'}}>
                 <Image style={{marginLeft: 5, maxWidth: 60, maxHeight: 60, minWidth: 32, minHeight: 32}} resizeMode={'contain'}
                 source={{uri: 'https://www.serebii.net/pokedex-swsh/icon/' + this.getIconPathNumber(iconRes[0]) + '.png'}}/>
                 <Text style={{fontWeight: 'bold'}}>{res[0]}</Text>
@@ -279,8 +283,8 @@ export default class PokedexListItem extends PureComponent {
               </View>
             </View>
             <View style={{flexDirection: 'row'}}>
-              <Text style={{marginTop: 30, marginLeft: -7, marginRight: -7}}> > </Text>
-              <View style={{flexDirection: 'column', borderWidth: 1, borderRadius: 4, borderColor: '#dbdbdb', padding: 5, margin: 5, alignItems: 'center', justifyContent: 'center'}}>
+              <Image style={{width: 20, height: 20, marginTop: 25}} resizeMode={'contain'} source={require('./assets/evolution_icon.png')}/>
+              <View style={{flexDirection: 'column', padding: 5, margin: 5, alignItems: 'center', justifyContent: 'center'}}>
                 <Image style={{marginLeft: 5, maxWidth: 60, maxHeight: 60, minWidth: 32, minHeight: 32}} resizeMode={'contain'}
                 source={secondIconPath}/>
                 <Text style={{fontWeight: 'bold'}}>{res[1]}</Text>
@@ -299,8 +303,8 @@ export default class PokedexListItem extends PureComponent {
       evuolution2Info = (
           <View style={{flexDirection: 'column'}}>
             <View style={{flexDirection: 'row'}}>
-              <Text style={{marginTop: 30, marginLeft: -7, marginRight: -7}}> > </Text>
-              <View style={{flexDirection: 'column', borderWidth: 1, borderRadius: 4, borderColor: '#dbdbdb', padding: 5, margin: 5, alignItems: 'center', justifyContent: 'center'}}>
+              <Image style={{width: 20, height: 20, marginTop: 25}} resizeMode={'contain'} source={require('./assets/evolution_icon.png')}/>
+              <View style={{flexDirection: 'column', padding: 5, margin: 5, alignItems: 'center', justifyContent: 'center'}}>
                 <Image style={{marginLeft: 5, maxWidth: 60, maxHeight: 60, minWidth: 32, minHeight: 32}} resizeMode={'contain'}
                 source={{uri: 'https://www.serebii.net/pokedex-swsh/icon/' + this.getIconPathNumber(iconRes[0]) + '.png'}}/>
                 <Text style={{fontWeight: 'bold'}}>{res[0]}</Text>
@@ -308,8 +312,8 @@ export default class PokedexListItem extends PureComponent {
               </View>
             </View>
             <View style={{flexDirection: 'row'}}>
-              <Text style={{marginTop: 30, marginLeft: -7, marginRight: -7}}> > </Text>
-              <View style={{flexDirection: 'column', borderWidth: 1, borderRadius: 4, borderColor: '#dbdbdb', padding: 5, margin: 5, alignItems: 'center', justifyContent: 'center'}}>
+              <Image style={{width: 20, height: 20, marginTop: 25}} resizeMode={'contain'} source={require('./assets/evolution_icon.png')}/>
+              <View style={{flexDirection: 'column', padding: 5, margin: 5, alignItems: 'center', justifyContent: 'center'}}>
                 <Image style={{marginLeft: 5, maxWidth: 60, maxHeight: 60, minWidth: 32, minHeight: 32}} resizeMode={'contain'}
                 source={{uri: 'https://www.serebii.net/pokedex-swsh/icon/' + this.getIconPathNumber(iconRes[1]) + '.png'}}/>
                 <Text style={{fontWeight: 'bold'}}>{res[1]}</Text>
@@ -317,8 +321,8 @@ export default class PokedexListItem extends PureComponent {
               </View>
             </View>
             <View style={{flexDirection: 'row'}}>
-              <Text style={{marginTop: 30, marginLeft: -7, marginRight: -7}}> > </Text>
-              <View style={{flexDirection: 'column', borderWidth: 1, borderRadius: 4, borderColor: '#dbdbdb', padding: 5, margin: 5, alignItems: 'center', justifyContent: 'center'}}>
+              <Image style={{width: 20, height: 20, marginTop: 25}} resizeMode={'contain'} source={require('./assets/evolution_icon.png')}/>
+              <View style={{flexDirection: 'column', padding: 5, margin: 5, alignItems: 'center', justifyContent: 'center'}}>
                 <Image style={{marginLeft: 5, maxWidth: 60, maxHeight: 60, minWidth: 32, minHeight: 32}} resizeMode={'contain'}
                 source={{uri: 'https://www.serebii.net/pokedex-swsh/icon/' + this.getIconPathNumber(iconRes[2]) + '.png'}}/>
                 <Text style={{fontWeight: 'bold'}}>{res[2]}</Text>
@@ -337,8 +341,8 @@ export default class PokedexListItem extends PureComponent {
       evuolution2Info = (
           <View style={{flexDirection: 'column'}}>
             <View style={{flexDirection: 'row'}}>
-              <Text style={{marginTop: 30, marginLeft: -7, marginRight: -7}}> > </Text>
-              <View style={{flexDirection: 'column', borderWidth: 1, borderRadius: 4, borderColor: '#dbdbdb', padding: 5, margin: 5, alignItems: 'center', justifyContent: 'center'}}>
+              <Image style={{width: 20, height: 20, marginTop: 25}} resizeMode={'contain'} source={require('./assets/evolution_icon.png')}/>
+              <View style={{flexDirection: 'column', padding: 5, margin: 5, alignItems: 'center', justifyContent: 'center'}}>
                 <Image style={{marginLeft: 5, maxWidth: 60, maxHeight: 60, minWidth: 32, minHeight: 32}} resizeMode={'contain'}
                 source={{uri: 'https://www.serebii.net/pokedex-swsh/icon/' + this.getIconPathNumber(iconRes[0]) + '.png'}}/>
                 <Text style={{fontWeight: 'bold'}}>{res[0]}</Text>
@@ -346,8 +350,8 @@ export default class PokedexListItem extends PureComponent {
               </View>
             </View>
             <View style={{flexDirection: 'row'}}>
-              <Text style={{marginTop: 30, marginLeft: -7, marginRight: -7}}> > </Text>
-              <View style={{flexDirection: 'column', borderWidth: 1, borderRadius: 4, borderColor: '#dbdbdb', padding: 5, margin: 5, alignItems: 'center', justifyContent: 'center'}}>
+              <Image style={{width: 20, height: 20, marginTop: 25}} resizeMode={'contain'} source={require('./assets/evolution_icon.png')}/>
+              <View style={{flexDirection: 'column', padding: 5, margin: 5, alignItems: 'center', justifyContent: 'center'}}>
                 <Image style={{marginLeft: 5, maxWidth: 60, maxHeight: 60, minWidth: 32, minHeight: 32}} resizeMode={'contain'}
                 source={{uri: 'https://www.serebii.net/pokedex-swsh/icon/' + this.getIconPathNumber(iconRes[1]) + '.png'}}/>
                 <Text style={{fontWeight: 'bold'}}>{res[1]}</Text>
@@ -360,12 +364,12 @@ export default class PokedexListItem extends PureComponent {
 
     var evuolution3Info = null;
     if (this.props.thirdEvolution != "" && this.props.pokemonName != "Gloom" && this.props.pokemonName != "Oddish" && this.props.pokemonName != "Ralts" &&
-        this.props.pokemonName != "Kirlia")
+        this.props.pokemonName != "Kirlia" && this.props.pokemonName != "Poliwhirl" && this.props.pokemonName != "Poliwag")
     {
       evuolution3Info = (
         <View style={{flexDirection: 'row'}}>
-          <Text style={{marginTop: 30, marginLeft: -7, marginRight: -7}}> > </Text>
-          <View style={{flexDirection: 'column', borderWidth: 1, borderRadius: 4, borderColor: '#dbdbdb', padding: 5, margin: 5, alignItems: 'center', justifyContent: 'center'}}>
+          <Image style={{width: 20, height: 20, marginTop: 25}} resizeMode={'contain'} source={require('./assets/evolution_icon.png')}/>
+          <View style={{flexDirection: 'column', padding: 5, margin: 5, alignItems: 'center', justifyContent: 'center'}}>
             <Image style={{marginLeft: 5, maxWidth: 60, maxHeight: 60, minWidth: 32, minHeight: 32}} resizeMode={'contain'} source={IconPath3}/>
             <Text style={{fontWeight: 'bold'}}>{this.props.thirdEvolution}</Text>
             <Text style={{fontStyle: 'italic', fontSize: 12, textAlign: 'center'}}>{this.props.thirdEvoRequirement}</Text>
@@ -374,7 +378,7 @@ export default class PokedexListItem extends PureComponent {
       );
     }
     else if (this.props.thirdEvolution != "" && (this.props.pokemonName != "Gloom" || this.props.pokemonName != "Oddish" ||
-             this.props.pokemonName === "Ralts" || this.props.pokemonName === "Kirlia"))
+             this.props.pokemonName === "Ralts" || this.props.pokemonName === "Kirlia" || this.props.pokemonName != "Poliwhirl" || this.props.pokemonName != "Poliwag"))
     {
       var res = this.props.thirdEvolution.split(", ");
       var iconRes = this.props.itemIndex3.split(", ");
@@ -386,12 +390,16 @@ export default class PokedexListItem extends PureComponent {
       {
         iconSource = {uri : 'https://www.serebii.net/pokedex-swsh/icon/045.png'};
       }
+      if (this.props.pokemonName === "Poliwhirl" || this.props.pokemonName === "Poliwag")
+      {
+        iconSource = {uri : 'https://www.serebii.net/pokedex-swsh/icon/062.png'};
+      }
 
       evuolution3Info = (
           <View style={{flexDirection: 'column'}}>
             <View style={{flexDirection: 'row'}}>
-              <Text style={{marginTop: 30, marginLeft: -7, marginRight: -7}}> > </Text>
-              <View style={{flexDirection: 'column', borderWidth: 1, borderRadius: 4, borderColor: '#dbdbdb', padding: 5, margin: 5, alignItems: 'center', justifyContent: 'center'}}>
+              <Image style={{width: 20, height: 20, marginTop: 25}} resizeMode={'contain'} source={require('./assets/evolution_icon.png')}/>
+              <View style={{flexDirection: 'column', padding: 5, margin: 5, alignItems: 'center', justifyContent: 'center'}}>
                 <Image style={{marginLeft: 5, maxWidth: 60, maxHeight: 60, minWidth: 32, minHeight: 32}} resizeMode={'contain'}
                 source={iconSource}/>
                 <Text style={{fontWeight: 'bold'}}>{res[0]}</Text>
@@ -399,8 +407,8 @@ export default class PokedexListItem extends PureComponent {
               </View>
             </View>
             <View style={{flexDirection: 'row'}}>
-              <Text style={{marginTop: 30, marginLeft: -7, marginRight: -7}}> > </Text>
-              <View style={{flexDirection: 'column', borderWidth: 1, borderRadius: 4, borderColor: '#dbdbdb', padding: 5, margin: 5, alignItems: 'center', justifyContent: 'center'}}>
+              <Image style={{width: 20, height: 20, marginTop: 25}} resizeMode={'contain'} source={require('./assets/evolution_icon.png')}/>
+              <View style={{flexDirection: 'column', padding: 5, margin: 5, alignItems: 'center', justifyContent: 'center'}}>
                 <Image style={{marginLeft: 5, maxWidth: 60, maxHeight: 60, minWidth: 32, minHeight: 32}} resizeMode={'contain'}
                 source={{uri: 'https://www.serebii.net/pokedex-swsh/icon/' + this.getIconPathNumber(iconRes[1]) + '.png'}}/>
                 <Text style={{fontWeight: 'bold'}}>{res[1]}</Text>
@@ -416,81 +424,89 @@ export default class PokedexListItem extends PureComponent {
     {
       pokemonInfo = (
         <View style={styles.subitemInfobackground}>
-          <View style={{flexDirection: 'column', alignSelf: 'stretch', alignContent: 'stretch'}}>
+          <View style={{flexDirection: 'column', alignContent: 'center', justifyContent: 'stretch'}}>
 
-            <View style={{flexDirection: 'row', marginBottom: 10, alignSelf: 'center', alignContent: 'center', marginTop: -15, justifyContent: 'space-around'}}>
-              <View style={{borderLeftWidth: 1, borderBottomWidth: 1, borderColor: '#dbdbdb', alignItems: 'center', justifyContent: 'center', borderBottomLeftRadius: 4}}>
-                <Text style={{paddingLeft: 10, paddingRight: 10, paddingTop: 5, paddingBottom: 5, fontWeight: 'bold', backgroundColor: '#e8e8e8'}}>HP</Text>
-                <Text style={{fontSize: 12, padding: 4}}>{this.props.Health}</Text>
-              </View>
-              <View style={{borderLeftWidth: 1, borderBottomWidth: 1, borderColor: '#dbdbdb', alignItems: 'center'}}>
-                <Text style={{paddingLeft: 10, paddingRight: 10, paddingTop: 5, paddingBottom: 5, fontWeight: 'bold', backgroundColor: '#e8e8e8'}}>ATK</Text>
-                <Text style={{fontSize: 12, padding: 4}}>{this.props.Attack}</Text>
-              </View>
-              <View style={{borderLeftWidth: 1, borderBottomWidth: 1, borderColor: '#dbdbdb', alignItems: 'center'}}>
-                <Text style={{paddingLeft: 10, paddingRight: 10, paddingTop: 5, paddingBottom: 5, fontWeight: 'bold', backgroundColor: '#e8e8e8'}}>DEF</Text>
-                <Text style={{fontSize: 12, padding: 4}}>{this.props.Defense}</Text>
-              </View>
-              <View style={{borderLeftWidth: 1, borderBottomWidth: 1, borderColor: '#dbdbdb', alignItems: 'center'}}>
-                <Text style={{paddingLeft: 10, paddingRight: 10, paddingTop: 5, paddingBottom: 5, fontWeight: 'bold', backgroundColor: '#e8e8e8'}}>Sp.ATK</Text>
-                <Text style={{fontSize: 12, padding: 4}}>{this.props.SpecialAttack}</Text>
-              </View>
-              <View style={{borderLeftWidth: 1, borderBottomWidth: 1, borderColor: '#dbdbdb', alignItems: 'center'}}>
-                <Text style={{paddingLeft: 10, paddingRight: 10, paddingTop: 5, paddingBottom: 5, fontWeight: 'bold', backgroundColor: '#e8e8e8'}}>Sp.DEF</Text>
-                <Text style={{fontSize: 12, padding: 4}}>{this.props.SpecialDefense}</Text>
-              </View>
-              <View style={{borderLeftWidth: 1, borderBottomWidth: 1, borderColor: '#dbdbdb', alignItems: 'center'}}>
-                <Text style={{paddingLeft: 10, paddingRight: 10, paddingTop: 5, paddingBottom: 5, fontWeight: 'bold', backgroundColor: '#e8e8e8'}}>Speed</Text>
-                <Text style={{fontSize: 12, padding: 4}}>{this.props.Speed}</Text>
-              </View>
-              <View style={{borderLeftWidth: 1, borderRightWidth: 1, borderBottomWidth: 1, borderColor: '#dbdbdb', alignItems: 'center', borderBottomRightRadius: 4}}>
-                <Text style={{paddingLeft: 10, paddingRight: 10, paddingTop: 5, paddingBottom: 5, fontWeight: 'bold', backgroundColor: '#e8e8e8'}}>Total</Text>
-                <Text style={{fontSize: 12, padding: 4}}>{this.props.TotalStats}</Text>
-              </View>
-            </View>
-
-            <View style={{flexDirection: 'row'}}>
-              <TypeTag style={{marginRight: 8}} Type={MainType.toLowerCase()}/>
-              <TypeTag Type={SubType.toLowerCase()}/>
-            </View>
-
-              <View style={{flexDirection: 'row', marginTop: 10}}>
-                <View style={styles.UpArrow}/>
+            <View style={{flexDirection: 'row', marginTop: -25, flexWrap: 'wrap', alignContent: 'center', justifyContent: 'center'}}>
+              <View style={{flexDirection: 'row', marginBottom: -10, alignContent: 'center', justifyContent: 'center'}}>
                 <TouchableOpacity onPress={this.showStrengthAlert}>
                   <TypeTagList ShowWeakness={false} ShowNoEffect={false} PrimaryType={MainType.toLowerCase()} SecondaryType={SubType.toLowerCase()}/>
                 </TouchableOpacity>
               </View>
 
-              <View style={{flexDirection: 'row',  marginTop: 5}}>
-                <View style={styles.DownArrow}/>
+              <View style={{flexDirection: 'row',  marginBottom: -10, alignContent: 'center', justifyContent: 'center'}}>
                 <TouchableOpacity onPress={this.showWeaknessAlert}>
                   <TypeTagList ShowWeakness={true} ShowNoEffect={false} PrimaryType={MainType.toLowerCase()} SecondaryType={SubType.toLowerCase()}/>
                 </TouchableOpacity>
               </View>
 
-              <View style={{flexDirection: 'row',  marginTop: 5}}>
-                <View style={styles.NeutralArrow}/>
+              <View style={{flexDirection: 'row', alignContent: 'center', justifyContent: 'center'}}>
                 <TouchableOpacity onPress={this.showNoEffectAlert}>
                   <TypeTagList ShowNoEffect={true} ShowWeakness={false} PrimaryType={MainType.toLowerCase()} SecondaryType={SubType.toLowerCase()}/>
                 </TouchableOpacity>
               </View>
+            </View>
 
-              <Text style={{fontSize: 13, marginTop: 10, fontWeight: 'bold', marginBottom: 4}}>Evolution Chain</Text>
-              <View style={{flexDirection: 'row'}}>
+              <View style={{flex: 1, flexDirection: 'row', marginTop: 20, alignSelf: 'stretch', alignContent: 'center', justifyContent: 'center'}}>
+                <View style={{alignItems: 'center', justifyContent: 'center', borderLeftWidth: 1, borderColor: '#efefef', borderTopLeftRadius: 10}}>
+                  <View style={{backgroundColor: '#e8e8e8', borderTopLeftRadius: 10}}>
+                    <Text style={{padding: 3, paddingLeft: 5, fontWeight: 'bold'}}>HP</Text>
+                  </View>
+                  <Text style={{fontSize: 12, padding: 3}}>{this.props.Health}</Text>
+                </View>
+                <View style={{alignItems: 'center', justifyContent: 'center'}}>
+                  <View style={{backgroundColor: '#e8e8e8'}}>
+                    <Text style={{padding: 3, fontWeight: 'bold'}}>ATK</Text>
+                  </View>
+                  <Text style={{fontSize: 12, padding: 3}}>{this.props.Attack}</Text>
+                </View>
+                <View style={{alignItems: 'center', justifyContent: 'center'}}>
+                  <View style={{backgroundColor: '#e8e8e8'}}>
+                    <Text style={{padding: 3, fontWeight: 'bold'}}>DEF</Text>
+                  </View>
+                  <Text style={{fontSize: 12, padding: 3}}>{this.props.Defense}</Text>
+                </View>
+                <View style={{alignItems: 'center', justifyContent: 'center'}}>
+                  <View style={{backgroundColor: '#e8e8e8', marginLeft: -1}}>
+                    <Text style={{padding: 3, fontWeight: 'bold'}}>Sp.ATK</Text>
+                  </View>
+                  <Text style={{fontSize: 12, padding: 3}}>{this.props.SpecialAttack}</Text>
+                </View>
+                <View style={{alignItems: 'center', justifyContent: 'center'}}>
+                  <View style={{backgroundColor: '#e8e8e8'}}>
+                    <Text style={{padding: 3, fontWeight: 'bold'}}>Sp.DEF</Text>
+                  </View>
+                  <Text style={{fontSize: 12, padding: 3}}>{this.props.SpecialDefense}</Text>
+                </View>
+                <View style={{alignItems: 'center', justifyContent: 'center'}}>
+                  <View style={{backgroundColor: '#e8e8e8'}}>
+                    <Text style={{padding: 3, fontWeight: 'bold'}}>Speed</Text>
+                  </View>
+                  <Text style={{fontSize: 12, padding: 3}}>{this.props.Speed}</Text>
+                </View>
+                <View style={{alignItems: 'center', justifyContent: 'center', borderRightWidth: 1, borderColor: '#efefef', borderTopRightRadius: 10}}>
+                  <View style={{backgroundColor: '#e8e8e8', borderTopRightRadius: 10}}>
+                    <Text style={{padding: 3, paddingRight: 5,fontWeight: 'bold'}}>Total</Text>
+                  </View>
+                  <Text style={{fontSize: 12, padding: 3}}>{this.props.TotalStats}</Text>
+                </View>
+              </View>
+
+              <View style={{flexDirection: 'row', borderWidth: 1, borderColor: '#efefef',borderRadius: 20, alignContent: 'center', justifyContent: 'center'}}>
                   {evuolution1Info}
                   {evuolution2Info}
                   {evuolution3Info}
               </View>
 
-              <Text style={{fontSize: 13, marginTop: 10, fontWeight: 'bold', marginBottom: 4}}>Locations</Text>
-              <Text>{this.props.pokemonLocations}</Text>
+              <Image style={{width: 15, height: 20, marginTop: 10, marginBottom: 5, marginLeft: 10}} resizeMode={'contain'} source={require('./assets/location_icon.png')}/>
+              <Text style={{marginLeft: 10}}>{this.props.pokemonLocations}</Text>
 
-              <Text style={{fontSize: 13, marginTop: 10, fontWeight: 'bold', marginBottom: 4}}>Weather</Text>
-              <Text>{this.props.pokemonWeather}</Text>
+              <Image style={{width: 15, height: 20, marginTop: 10, marginBottom: 5, marginLeft: 10}} resizeMode={'contain'} source={require('./assets/weather_icon.png')}/>
+              <Text style={{marginLeft: 10}}>{this.props.pokemonWeather}</Text>
 
               <TouchableOpacity onPress={() => Linking.openURL('https://www.serebii.net/pokedex-swsh/' + this.props.pokemonName.toLowerCase() + "/")}>
-                <Text style={{fontSize: 13, marginTop: 10, marginBottom: 4, color: 'blue', fontWeight: 'bold'}}>More Info (Serebii)</Text>
+                <Text style={{fontSize: 13, marginTop: 10, marginBottom: 4, color: 'blue', fontWeight: 'bold', marginLeft: 10}}>More Info (Serebii)</Text>
               </TouchableOpacity>
+
           </View>
         </View>
       );
@@ -498,7 +514,7 @@ export default class PokedexListItem extends PureComponent {
 
     return (
       <View>
-      <View style={styles.listitembackground}>
+      <View style={[styles.listitembackground, this.state.showInfo ? styles.listitembackgroundPokeInfoShowing : styles.listitembackground]}>
         <Text style={styles.dexnumber}># {this.props.pokemonNumber}</Text>
         <TouchableOpacity style={{flexDirection: 'row'}}
           onPress={this.onPokemonPress}>
@@ -509,6 +525,10 @@ export default class PokedexListItem extends PureComponent {
 
         <View style={styles.togglescontainer}>
           <View style={{flexDirection: 'row'}}>
+            <View style={{flexDirection: 'row', alignSelf: 'center'}}>
+              <TypeTag style={{marginRight: 8}} Type={MainType.toLowerCase()}/>
+              <TypeTag Type={SubType.toLowerCase()}/>
+            </View>
           <TouchableOpacity onPress={this.onCaughtPress}>
               <View style={styles.toggles}>
                   <Image style={[styles.pokeballicon, this.state.caught ? styles.caughtpokemon : styles.uncaughtpokemon]} resizeMode={'contain'}
@@ -523,7 +543,7 @@ export default class PokedexListItem extends PureComponent {
             </TouchableOpacity>
           </View>
         </View>
-        <View style={{alignSelf: 'flex-start', marginTop: -5, marginRight: -5}}>
+        <View style={{alignSelf: 'flex-start', marginTop: -5, marginRight: 5}}>
           <View style={{borderRadius: 5, width: 10, height: 10, backgroundColor: this.props.existsIn,}}>
           </View>
         </View>
@@ -587,12 +607,32 @@ const styles = StyleSheet.create({
     shadowOffset: {width: -1, height: 1},
     shadowRadius: 1,
   },
+  listitembackgroundPokeInfoShowing: {
+    flex: 1,
+    backgroundColor: '#ffffff',
+    borderBottomWidth: 1,
+    borderRightWidth: 1,
+    borderColor: '#dbdbdb',
+    borderTopRightRadius: 30,
+    borderTopLeftRadius: 30,
+    borderBottomRightRadius: 0,
+    borderBottomLeftRadius: 0,
+    padding: 10,
+    marginTop: 1,
+    marginBottom: 1,
+    marginLeft: 5,
+    marginRight: 5,
+    flexDirection: 'row',
+    alignItems: 'center',
+    justifyContent: 'flex-start'
+  },
   listitembackground: {
     flex: 1,
-    backgroundColor: '#e8e8e8',
-    borderWidth: 1,
+    backgroundColor: '#ffffff',
+    borderBottomWidth: 1,
+    borderRightWidth: 1,
     borderColor: '#dbdbdb',
-    borderRadius: 4,
+    borderRadius: 30,
     padding: 10,
     marginTop: 1,
     marginBottom: 1,
@@ -604,11 +644,12 @@ const styles = StyleSheet.create({
   },
   subitemInfobackground: {
     flex: 1,
-    backgroundColor: '#f2f2f2',
-    borderWidth: 1,
+    backgroundColor: '#ffffff',
+    borderBottomWidth: 1,
+    borderRightWidth: 1,
     borderColor: '#dbdbdb',
-    borderBottomLeftRadius: 4,
-    borderBottomRightRadius: 4,
+    borderBottomLeftRadius: 30,
+    borderBottomRightRadius: 30,
     borderTopLeftRadius: 0,
     borderTopRightRadius: 0,
     padding: 15,
@@ -618,7 +659,7 @@ const styles = StyleSheet.create({
     marginRight: 5,
     flexDirection: 'row',
     alignItems: 'center',
-    justifyContent: 'flex-start'
+    justifyContent: 'center'
   },
   togglescontainer: {
     flex: 1,
