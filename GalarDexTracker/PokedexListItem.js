@@ -142,7 +142,7 @@ export default class PokedexListItem extends PureComponent {
     var evuolution2Info = null;
 
     if (this.props.secondEvolution != "" && (this.props.pokemonName === "Kirlia" || this.props.pokemonName === "Oddish"
-        || this.props.pokemonName === "Gloom" || this.props.pokemonName === "Ralts"))
+        || this.props.pokemonName === "Gloom" || this.props.pokemonName === "Ralts" || this.props.pokemonName === "Poliwag" || this.props.pokemonName === "Poliwhirl"))
     {
       evuolution2Info = (
         <View style={{flexDirection: 'row'}}>
@@ -364,7 +364,7 @@ export default class PokedexListItem extends PureComponent {
 
     var evuolution3Info = null;
     if (this.props.thirdEvolution != "" && this.props.pokemonName != "Gloom" && this.props.pokemonName != "Oddish" && this.props.pokemonName != "Ralts" &&
-        this.props.pokemonName != "Kirlia")
+        this.props.pokemonName != "Kirlia" && this.props.pokemonName != "Poliwhirl" && this.props.pokemonName != "Poliwag")
     {
       evuolution3Info = (
         <View style={{flexDirection: 'row'}}>
@@ -378,7 +378,7 @@ export default class PokedexListItem extends PureComponent {
       );
     }
     else if (this.props.thirdEvolution != "" && (this.props.pokemonName != "Gloom" || this.props.pokemonName != "Oddish" ||
-             this.props.pokemonName === "Ralts" || this.props.pokemonName === "Kirlia"))
+             this.props.pokemonName === "Ralts" || this.props.pokemonName === "Kirlia" || this.props.pokemonName != "Poliwhirl" || this.props.pokemonName != "Poliwag"))
     {
       var res = this.props.thirdEvolution.split(", ");
       var iconRes = this.props.itemIndex3.split(", ");
@@ -389,6 +389,10 @@ export default class PokedexListItem extends PureComponent {
       if (this.props.pokemonName === "Gloom" || this.props.pokemonName === "Oddish")
       {
         iconSource = {uri : 'https://www.serebii.net/pokedex-swsh/icon/045.png'};
+      }
+      if (this.props.pokemonName === "Poliwhirl" || this.props.pokemonName === "Poliwag")
+      {
+        iconSource = {uri : 'https://www.serebii.net/pokedex-swsh/icon/062.png'};
       }
 
       evuolution3Info = (

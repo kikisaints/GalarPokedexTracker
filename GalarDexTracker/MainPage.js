@@ -51,7 +51,7 @@ export default class MainPage extends Component {
     this.setState({dlcSelected : true})
     this.setState({baseGameDisplay : "Base Game"})
     this.setState({data : ArmorPokedex}, () => this.setState({isleArmorDisplay : this.state.data.length + "/ 211"}))
-    this.setState({filterData : ArmorPokedex})    
+    this.setState({filterData : ArmorPokedex})
   }
 
   DisableDLCPokemon = () => {
@@ -107,10 +107,13 @@ export default class MainPage extends Component {
       }
 
       const newData = shinyPokemon;
-
-      this.setState({
-        data: newData
-      });
+      if (this.state.dlcSelected)
+      {
+        this.setState({ data: newData }, () => this.setState({isleArmorDisplay : this.state.data.length + "/ 211"}));
+      }
+      else {
+        this.setState({ data: newData }, () => this.setState({baseGameDisplay : this.state.data.length + "/ 400"}));
+      }
     }
     else if (text === "!")
     {
@@ -129,10 +132,13 @@ export default class MainPage extends Component {
       }
 
       const newData = caughtPokemon;
-
-      this.setState({
-        data: newData
-      });
+      if (this.state.dlcSelected)
+      {
+        this.setState({ data: newData }, () => this.setState({isleArmorDisplay : this.state.data.length + "/ 211"}));
+      }
+      else {
+        this.setState({ data: newData }, () => this.setState({baseGameDisplay : this.state.data.length + "/ 400"}));
+      }
     }
     else if (text === "?")
     {
@@ -152,10 +158,13 @@ export default class MainPage extends Component {
       }
 
       const newData = uncaughtPokemon;
-
-      this.setState({
-        data: newData
-      });
+      if (this.state.dlcSelected)
+      {
+        this.setState({ data: newData }, () => this.setState({isleArmorDisplay : this.state.data.length + "/ 211"}));
+      }
+      else {
+        this.setState({ data: newData }, () => this.setState({baseGameDisplay : this.state.data.length + "/ 400"}));
+      }
     }
     else if (text[0] !== '#' && text[0] !== '@')
     {
@@ -167,9 +176,13 @@ export default class MainPage extends Component {
         return itemData.indexOf(textData) > -1;
       });
 
-      this.setState({
-        data: newData
-      });
+      if (this.state.dlcSelected)
+      {
+        this.setState({ data: newData }, () => this.setState({isleArmorDisplay : this.state.data.length + "/ 211"}));
+      }
+      else {
+        this.setState({ data: newData }, () => this.setState({baseGameDisplay : this.state.data.length + "/ 400"}));
+      }
     }
     else if (text[0] === '#')
     {
@@ -183,9 +196,13 @@ export default class MainPage extends Component {
         return itemData.indexOf(textData) > -1;
       });
 
-      this.setState({
-        data: newData
-      });
+      if (this.state.dlcSelected)
+      {
+        this.setState({ data: newData }, () => this.setState({isleArmorDisplay : this.state.data.length + "/ 211"}));
+      }
+      else {
+        this.setState({ data: newData }, () => this.setState({baseGameDisplay : this.state.data.length + "/ 400"}));
+      }
     }
     else if (text[0] === '@')
     {
@@ -197,9 +214,13 @@ export default class MainPage extends Component {
         return itemData.indexOf(textData) > -1;
       });
 
-      this.setState({
-        data: newData
-      });
+      if (this.state.dlcSelected)
+      {
+        this.setState({ data: newData }, () => this.setState({isleArmorDisplay : this.state.data.length + "/ 211"}));
+      }
+      else {
+        this.setState({ data: newData }, () => this.setState({baseGameDisplay : this.state.data.length + "/ 400"}));
+      }
     }
 
     if (text.toUpperCase() === "@SWORD!" || text.toUpperCase() === "@SHIELD!")
@@ -227,10 +248,13 @@ export default class MainPage extends Component {
       }
 
       const finalData = caughtPokemon;
-
-      this.setState({
-        data: finalData
-      });
+      if (this.state.dlcSelected)
+      {
+        this.setState({ data: finalData }, () => this.setState({isleArmorDisplay : this.state.data.length + "/ 211"}));
+      }
+      else {
+        this.setState({ data: finalData }, () => this.setState({baseGameDisplay : this.state.data.length + "/ 400"}));
+      }
     }
 
     if (text.toUpperCase() === "@SWORD?" || text.toUpperCase() === "@SHIELD?")
@@ -259,10 +283,13 @@ export default class MainPage extends Component {
       }
 
       const finalData = caughtPokemon;
-
-      this.setState({
-        data: finalData
-      });
+      if (this.state.dlcSelected)
+      {
+        this.setState({ data: finalData }, () => this.setState({isleArmorDisplay : this.state.data.length + "/ 211"}));
+      }
+      else {
+        this.setState({ data: finalData }, () => this.setState({baseGameDisplay : this.state.data.length + "/ 400"}));
+      }
     }
 
     if (text.toUpperCase() === "@SWORD*" || text.toUpperCase() === "@SHIELD*")
@@ -290,10 +317,13 @@ export default class MainPage extends Component {
       }
 
       const finalData = caughtPokemon;
-
-      this.setState({
-        data: finalData
-      });
+      if (this.state.dlcSelected)
+      {
+        this.setState({ data: finalData }, () => this.setState({isleArmorDisplay : this.state.data.length + "/ 211"}));
+      }
+      else {
+        this.setState({ data: finalData }, () => this.setState({baseGameDisplay : this.state.data.length + "/ 400"}));
+      }
     }
 
     if (text[0] === '#' && text[text.length - 1] === '!')
@@ -323,9 +353,13 @@ export default class MainPage extends Component {
       }
 
       const finalData = caughtPokemon;
-      this.setState({
-        data: finalData
-      });
+      if (this.state.dlcSelected)
+      {
+        this.setState({ data: finalData }, () => this.setState({isleArmorDisplay : this.state.data.length + "/ 211"}));
+      }
+      else {
+        this.setState({ data: finalData }, () => this.setState({baseGameDisplay : this.state.data.length + "/ 400"}));
+      }
     }
 
     if (text[0] === '#' && text[text.length - 1] === '?')
@@ -357,9 +391,13 @@ export default class MainPage extends Component {
       }
 
       const finalData = caughtPokemon;
-      this.setState({
-        data: finalData
-      });
+      if (this.state.dlcSelected)
+      {
+        this.setState({ data: finalData }, () => this.setState({isleArmorDisplay : this.state.data.length + "/ 211"}));
+      }
+      else {
+        this.setState({ data: finalData }, () => this.setState({baseGameDisplay : this.state.data.length + "/ 400"}));
+      }
     }
 
     if (text[0] === '#' && text[text.length - 1] === '*')
@@ -390,10 +428,13 @@ export default class MainPage extends Component {
       }
 
       const finalData = caughtPokemon;
-
-      this.setState({
-        data: finalData
-      });
+      if (this.state.dlcSelected)
+      {
+        this.setState({ data: finalData }, () => this.setState({isleArmorDisplay : this.state.data.length + "/ 211"}));
+      }
+      else {
+        this.setState({ data: finalData }, () => this.setState({baseGameDisplay : this.state.data.length + "/ 400"}));
+      }
     }
 
     this.setState({
@@ -416,6 +457,9 @@ export default class MainPage extends Component {
           <View collapsed={this.state.search}>
             <View style={{marginBottom: 10, marginLeft: 10, flexDirection: 'column'}}>
             <View style={{flexDirection: 'row',}}>
+              <TouchableOpacity style={styles.filterButton} onPress={this.showAboutAlert}>
+                <Image style={{width: 15, height: 15}} resizeMode={'contain'} source={require('./assets/Info_icon.png')}/>
+              </TouchableOpacity>
               <TouchableOpacity style={styles.filterButton} onPress={this.showSearchHelpAlert}>
                 <Image style={{width: 15, height: 15}} resizeMode={'contain'} source={require('./assets/filter_icon.png')}/>
               </TouchableOpacity>
@@ -437,9 +481,6 @@ export default class MainPage extends Component {
                     <View style={{alignSelf: 'flex-end', width: 20, height: 24, backgroundColor: '#008aff', marginTop: -24, borderTopRightRadius: 40, borderBottomRightRadius: 40}}/>
                   </TouchableOpacity>
                 </View>
-              <TouchableOpacity onPress={this.showAboutAlert}>
-                <Text style={{color: '#888888', marginTop: 10}}>About</Text>
-              </TouchableOpacity>
             </View>
           </View>
         </View>
