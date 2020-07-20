@@ -89,7 +89,7 @@ export default class PokedexList extends Component {
     //Not a dual type
     var counter = 0;
 
-    for (i = 0; i < 18; i++)
+    for (let i = 0; i < 18; i++)
     {
       var typeval = "";
       var currentval = "";

@@ -52,6 +52,9 @@ export default class MainPage extends Component {
     this.setState({baseGameDisplay : "Base Game"})
     this.setState({data : ArmorPokedex}, () => this.setState({isleArmorDisplay : this.state.data.length + "/ 211"}))
     this.setState({filterData : ArmorPokedex})
+    if (this.state.text) {
+      this.searchFilterFunction(this.state.text);
+    }
   }
 
   DisableDLCPokemon = () => {
@@ -59,6 +62,9 @@ export default class MainPage extends Component {
     this.setState({isleArmorDisplay : "Isle of Armor"})
     this.setState({data : Pokedex}, () => this.setState({baseGameDisplay : this.state.data.length + "/ 400"}))
     this.setState({filterData : Pokedex})
+    if (this.state.text) {
+      this.searchFilterFunction(this.state.text);
+    }
   }
 
   showSearchHelpAlert = () => {
